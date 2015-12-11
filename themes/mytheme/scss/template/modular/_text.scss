@@ -1,0 +1,35 @@
+// variables
+$text-bg:        #efc94d;
+$text-padding:   6rem;
+$image-margin:   2rem;
+
+
+// styling
+.callout {
+    background: $text-bg;
+    padding: $text-padding $content-padding;
+    @include breakpoint(desktop-only) {
+        text-align: center;
+    }
+
+    .align-left {
+        float: left;
+        margin-right: $image-margin;
+        @include breakpoint(desktop-only) {
+            float: none;
+            margin-right: 0;
+        }
+    }
+
+    .align-right {
+        float: right;
+        margin-left: $image-margin;
+        @include breakpoint(desktop-only) {
+            float: none;
+            margin-left: 0;
+        }
+    }
+    img {
+        border-radius: $border-radius;
+    }
+}

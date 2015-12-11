@@ -1,0 +1,111 @@
+fr:
+  TRANSLATION_TEST: Antimatter!
+  SITE_AUTHOR_NAME: François Vidit
+  FAVICON_LANGUAGE_URL: 'favicon-fr.png'
+  st: er
+  nd: ' '
+  rd: ' '
+  th: ' '
+  Jan: Jan
+  Feb: Fév
+  Mar: Mar
+  Apr: Avr
+  May: Mai
+  Jun: Jun
+  Jul: Jui
+  Aug: Aoû
+  Sep: Sep
+  Oct: Oct
+  Nov: Nov
+  Dec: Déc
+  BLOG_ITEM_CONTINUE: Continuer la lecture...
+  BLOG_ITEM_NEXT:  Suivant
+  BLOG_ITEM_PREVIOUS: Précédent
+  FOOTER_TEXT_1: a été
+  FOOTER_TEXT_2: avec
+  FOOTER_TEXT_3: avec l'aide de l'infrastructure logicielle de gestion de contenu
+  FOOTER_TEXT_4: '.'
+  FOOTER_TEXT_5: 'Tous Droits Réservés'
+  FOOTER_TEXT_6: codé
+  FEELING_LUCKY: J'ai de la chance!
+  RANDOM_ARTICLE: Article au hasard
+  SYNDICATE: S'abonner
+  SOME_TEXT_WIDGET: Articles récents
+  POPULAR_TAGS: Toutes les étiquettes...
+  RELATED_POSTS: Articles liés
+  SOME_TEXT_BODY: "Lorem ipsum dolor sit amet, 「fr」 consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+  SIMPLE_SEARCH: Recherche Simple
+  SIMPLE_SEARCH_BOXTEXT: rechercher...
+  ARCHIVES_TEXT: Archives
+  HOME_ROOT: Accueil
+  CONTACT_SUMMARY: Voici un récapitulatif de ce que vous avez envoyé:
+ja:
+  TRANSLATION_TEST: Antimatter!
+  SITE_AUTHOR_NAME: Francois Vidit
+  FAVICON_LANGUAGE_URL: 'favicon-ja.png'
+  st: 日
+  nd: 日
+  rd: 日
+  th: 日
+  Jan: 1月
+  Feb: 2月
+  Mar: 3月
+  Apr: 4月
+  May: 5月
+  Jun: 6月
+  Jul: 7月
+  Aug: 8月
+  Sep: 9月
+  Oct: 10月
+  Nov: 11月
+  Dec: 12月
+  BLOG_ITEM_CONTINUE: 読みを続く…
+  BLOG_ITEM_NEXT:  次
+  BLOG_ITEM_PREVIOUS: 前
+  FOOTER_TEXT_1: の
+  FOOTER_TEXT_2: は、
+  FOOTER_TEXT_3: を込めて、
+  FOOTER_TEXT_4: ' フレームワークで作り上げられた。'
+  FOOTER_TEXT_5: 'All Rights Reserved'
+  FOOTER_TEXT_6: コード
+  FEELING_LUCKY: 私は運があります！
+  RANDOM_ARTICLE: ランダム記事
+  SYNDICATE: 登録する
+  SOME_TEXT_WIDGET: 最近の記事
+  POPULAR_TAGS: すべてのラベル
+  RELATED_POSTS: 関係のある記事
+  SOME_TEXT_BODY: "Lorem ipsum dolor sit amet, 「ja」 consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+  SIMPLE_SEARCH: シンプル検索
+  SIMPLE_SEARCH_BOXTEXT: 検索する...
+  ARCHIVES_TEXT: 前の記事
+  HOME_ROOT: ホーム
+  CONTACT_SUMMARY: 送信された内容は以下にの通りです：
+en:
+  TRANSLATION_TEST: Antimatter!
+  SITE_AUTHOR_NAME: Francois Vidit
+  FAVICON_LANGUAGE_URL: 'favicon-en.png'
+  st: 'st '
+  nd: 'nd  '
+  rd: 'rd '
+  th: 'th '
+  BLOG_ITEM_CONTINUE: Continue Reading...
+  BLOG_ITEM_NEXT:  Next
+  BLOG_ITEM_PREVIOUS: Previous
+  FOOTER_TEXT_1: has been
+  FOOTER_TEXT_2: with
+  FOOTER_TEXT_3: thank to the
+  FOOTER_TEXT_4: framework.
+  FOOTER_TEXT_5: 'All Rights Reserved'
+  FOOTER_TEXT_6: coded
+  FEELING_LUCKY: I'm feeling lucky!
+  RANDOM_ARTICLE: Random article
+  SYNDICATE: Syndicate
+  SOME_TEXT_WIDGET: Recent Articles
+  POPULAR_TAGS: All Tags
+  RELATED_POSTS: Related Articles
+  SOME_TEXT_BODY: "Lorem ipsum dolor sit amet, 「en」 consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+  SIMPLE_SEARCH: Simple Search
+  SIMPLE_SEARCH_BOXTEXT: Search...
+  ARCHIVES_TEXT: Archives
+  HOME_ROOT: Home
+  CONTACT_SUMMARY: Here is the summary of what you wrote to us:

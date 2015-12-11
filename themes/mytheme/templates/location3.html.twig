@@ -1,0 +1,71 @@
+<div id="site-contact-map" class="{{ page.header.class }}">
+  {{ content }}
+  {% for location in page.header.locations %}
+    <div id="{{ page.header.location.site-map }}"></div>
+  {% endfor %}
+      <script>
+
+      var marker;
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat: 48.856614, lng: 2.3522219000000177}
+        });
+
+        google.maps.event.addDomListener(window, "resize", function() {
+          var center = map.getCenter();
+          google.maps.event.trigger(map, "resize");
+          map.setCenter(center);
+        });
+
+        setMarkers(map);
+        }
+
+      var beaches = [
+        ['{{ 'SITE_AUTHOR_NAME'|t }}', 48.8421114, 2.295819700000038, 1],
+      ];
+
+      function setMarkers(map) {
+        // Adds markers to the map.
+
+        // Marker sizes are expressed as a Size of X,Y where the origin of the image
+        // (0,0) is located in the top left of the image.
+
+        // Origins, anchor positions and coordinates of the marker increase in the X
+        // direction to the right and in the Y direction down.
+        var image = {
+          url: '{{ theme_url }}/images/{{ 'FAVICON_LANGUAGE_URL'|t }}',
+          // This marker is 32 pixels wide by 32 pixels high.
+          size: new google.maps.Size(32, 32),
+          // The origin for this image is (0, 0).
+          origin: new google.maps.Point(0, 0),
+          // The anchor for this image is the base of the flagpole at (0, 32).
+          anchor: new google.maps.Point(0, 32)
+        };
+        // Shapes define the clickable region of the icon. The type defines an HTML
+        // <area> element 'poly' which traces out a polygon as a series of X,Y points.
+        // The final coordinate closes the poly by connecting to the first coordinate.
+        var shape = {
+          coords: [1, 1, 1, 32, 31, 32, 31, 1],
+          type: 'poly'
+        };
+        for (var i = 0; i < beaches.length; i++) {
+          var beach = beaches[i];
+          var marker = new google.maps.Marker({
+            position: {lat: beach[1], lng: beach[2]},
+            map: map,
+            icon: image,
+            shape: shape,
+            title: beach[0],
+            zIndex: beach[3]
+          });
+        }
+      }
+
+      </script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1maQ34HJen5wKcnRHh4-Asd9a71cH2Qo&language={{ langswitcher.current }}&callback=initMap"
+          async defer>
+      </script>
+
+</div>
