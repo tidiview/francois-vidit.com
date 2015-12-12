@@ -1,6 +1,6 @@
 {% set theme_config = attribute(config.themes, config.system.pages.theme) %}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ langswitcher.current }}">
 <head>
     {% block head %}
     <meta charset="utf-8" />
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <link rel="alternate" type="application/atom+xml" href="{{ base_url_absolute}}/feed:atom" title="Atom Feed" />
     <link rel="alternate" type="application/rss+xml" href="{{ base_url_absolute}}/feed:rss" title="RSS Feed" />
-    <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png') }}">
+    <link rel="icon" type="image/png" href="{{ theme_url }}/images/{{ 'FAVICON_LANGUAGE_URL'|t }}" />
 
     {% block stylesheets %}
         {% do assets.addCss('theme://css-compiled/nucleus.css',102) %}

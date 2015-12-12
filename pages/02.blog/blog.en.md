@@ -20,4 +20,6 @@ feed:
 
 pagination: true
 blog_image: false
+anchors:
+    active: false
 ---

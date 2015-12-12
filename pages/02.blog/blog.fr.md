@@ -19,4 +19,6 @@ feed:
     length: 500
 pagination: true
 blog_image: false
+anchors:
+    active: false
 ---

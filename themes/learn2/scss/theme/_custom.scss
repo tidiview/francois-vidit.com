@@ -230,3 +230,40 @@
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
+
+
+//underneath: personal modifications
+
+$font-family-default:           "SourceHanSansJP", "hiragino-kaku-gothic-pro-w3", "heiseiminstd-w3", "Meiryo", "Lucida Grande", serif;
+$font-family-header:            "SourceHanSansJP", "hiragino-kaku-gothic-pro-w3", "heiseiminstd-w3", "Meiryo", "Lucida Grande", serif;
+$font-family-mono:              "Inconsolata", monospace;
+$font-family-serif:             "Georgia", "Times", "Times New Roman", serif;
+
+// Body Base
+body {
+  font-family: Meiryo;
+    letter-spacing: -0.03rem;
+  font-weight: 400;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: Meiryo;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  line-height: 150%;
+  letter-spacing: -0px !important;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: -3px;
+}
+
+h2 {
+  letter-spacing: -2px;
+}
+
+h3 {
+  letter-spacing: -1px;
+}

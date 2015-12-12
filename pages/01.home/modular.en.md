@@ -13,4 +13,6 @@ content:
             - _highlights
             - _callout
             - _features
+anchors:
+    active: false
 ---
