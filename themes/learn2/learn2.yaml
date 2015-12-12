@@ -6,7 +6,7 @@ home_url:                                           # http://getgrav.org
 github:
     position: top                                   # top | bottom | off
     tree: https://github.com/tidiview/francois-vidit.fr/blob/develop/
-    commits: https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/
+    commits: https://github.com/getgrav/tidiview/francois-vidit.fr/commits/develop/
 
 streams:
   schemes:
