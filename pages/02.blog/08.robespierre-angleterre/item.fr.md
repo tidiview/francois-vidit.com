@@ -3,7 +3,7 @@ title: Robespierre et l'Angleterre
 menu: Robespierre
 date: 24-11-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
    tag: [Révolution Française]
 summary:
   enabled: true

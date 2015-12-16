@@ -6,8 +6,8 @@ buttons:
       primary: true
 ---
 
-#☆ Bienvenue
+#[![Moi](front-page.png?resize=110,133.6 "qui suis-je?")](/about) <style> h1 {font-family: Sansita; letter-spacing: -1px}</style>☆ Bienvenue
 ##sur ma page personnelle!
 
 ####il y a plein de **choses** ♪
-####peut-être cela vous donnera **envie** de créer votre propre site ...
+####... peut-être cela vous donnera **envie** de créer votre propre site

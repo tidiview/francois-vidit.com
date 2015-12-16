@@ -5,7 +5,7 @@ body_classes: header-image fullwidth
 content:
     items:
        '@taxonomy':
-         category: [fr]
+         category: [blog, fr]
     order:
         by: date
         dir: desc

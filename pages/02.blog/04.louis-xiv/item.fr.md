@@ -4,7 +4,7 @@ title2: Louis XIV... potiche mégalomane?
 menu: Louis XIV
 date: 01-09-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
    tag: [Versailles]
 summary:
   enabled: true

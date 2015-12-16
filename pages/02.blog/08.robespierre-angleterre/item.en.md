@@ -5,7 +5,7 @@ date: 24-11-2015
 visible: false
 published: false
 taxonomy:
-   category: [en]
+   category: [blog, en]
    tag: [Fench Revolution]
 ---
 

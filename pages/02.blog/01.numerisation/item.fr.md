@@ -3,7 +3,7 @@ title: numérisation de la société: ce que cela change
 menu: numérisation
 date: 03-04-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 header_image: false
 ---
 

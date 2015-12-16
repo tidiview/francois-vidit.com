@@ -20,7 +20,7 @@
 <div class="sidebar-content">
 	<h4> {{  'SOME_TEXT_WIDGET'|t  }} </h4>
     <div class="sidebar-content recent-posts">
-    {% for p in taxonomy.findTaxonomy({'category':[page.language]}).order('date', 'desc').slice(0, 5) %}
+    {% for p in taxonomy.findTaxonomy({'category':['blog', page.language]}).order('date', 'desc').slice(0, 5) %}
         {% set bannerimage = p.media['banner.jpg'] %}
         <div class="recent-post">
             {% if bannerimage %}

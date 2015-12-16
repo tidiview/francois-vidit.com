@@ -3,7 +3,7 @@ title: radioactivité alimentaire
 menu: radioactivité
 date: 06-09-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 header_image: false
 ---
 

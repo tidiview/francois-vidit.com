@@ -5,5 +5,5 @@ date: 06-09-2015
 visible: false
 published: false
 taxonomy:
-   category: [en]
+   category: [blog, en]
 ---

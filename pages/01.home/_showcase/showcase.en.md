@@ -6,12 +6,12 @@ buttons:
       primary: true
 ---
 
-#☆ Welcome
+#[![Me](front-page.png?resize=110,133.6 "who am I?")](/about) <style> h1 {letter-spacing: -1px; font-family: Steinem}</style>☆ Welcome
 ##to my personal page!
 
 ####there are plenty of **things** ♪
 
-####and it may give you the **idea** to create your own too ...
+####... and it may give you the **idea** to create your own too
 
 
 

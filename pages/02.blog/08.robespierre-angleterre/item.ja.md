@@ -3,7 +3,7 @@ title: ロベスピエール と 英国
 menu: ロベスピエール
 date: 24-11-2015
 taxonomy:
-   category: [ja]
+   category: [blog, ja]
    tag: [フランス革命]
 continue_link: false
 header_image: false

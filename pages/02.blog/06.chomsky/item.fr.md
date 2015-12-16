@@ -5,7 +5,7 @@ menu: Noam Chomsky
 slug: chomsky
 date: 25-11-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 header_image: false
 summary:
   enabled: true

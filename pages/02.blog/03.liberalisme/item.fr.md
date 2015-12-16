@@ -3,7 +3,7 @@ title: Libéralisme : une philosophie utilitariste
 menu: libéralisme
 date: 09-07-2015, 9:14
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 header_image: false
 ---
 

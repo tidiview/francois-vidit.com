@@ -2,7 +2,7 @@
 title: 墨子
 date: 26-11-2015
 taxonomy:
-   category: [ja]
+   category: [blog, ja]
 header_image: false
 ---
 

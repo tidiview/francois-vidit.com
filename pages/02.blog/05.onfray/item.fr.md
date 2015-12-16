@@ -3,7 +3,7 @@ title: Attentats de Charlie Hebdo: la réaction de M. Onfray
 menu: M. Onfray
 date: 13-01-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 ---
 
 ## 2 jours seulement après les événements de Charlie Hebdo, une lucidité étincelante

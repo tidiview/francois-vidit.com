@@ -4,7 +4,7 @@ title2: Noam Chomsky racism in America
 menu: chomsky
 date: 25-11-2015
 taxonomy:
-   category: [en]
+   category: [blog, en]
 header_image: false
 summary:
   enabled: true

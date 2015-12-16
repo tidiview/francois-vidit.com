@@ -4,5 +4,5 @@ date: 26-11-2015
 visible: false
 published: false
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 ---
