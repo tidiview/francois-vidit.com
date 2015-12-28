@@ -3,26 +3,31 @@ title: Robespierre et l'Angleterre
 menu: Robespierre
 date: 24-11-2015
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
    tag: [Révolution Française]
 summary:
-  enabled: true
-  format: short
-  size: 0
+   enabled: true
+   format: short
+   size: 0
 header_image: false
+breadcrumbs:
+   enabled: false
 ---
+>>>>>> Beaucoup de choses sont dites sur Robespierre: à tort, à raison.  
+Ici, il ne s'agit pas de trancher sur le personnage historique mais simplement de prendre connaissance de la singularité de cette citation sur le sens que donne cette figure historique à l'humanité.
 
->En qualité de Français, de représentant du peuple, je déclare que je déclare que je déteste le peuple anglais (...) Je ne m'intéresse aux Anglais qu'en qualité d'homme; alors, j'avoue que j'éprouve quelque peine à en voir un si grand nombre soumis à des scélérats (...) Cette peine chez moi est si grande que j'avoue que c'est dans la haine de son gouvernement que j'ai puisé celle que je porte à ce peuple".
+<i class="fa fa-quote-left fa-lg fa-pull-left fa-border" style="color: #737373"></i>En qualité de Français, de représentant du peuple, je déclare que je déteste le peuple anglais (...) Je ne m'intéresse aux Anglais qu'en qualité d'homme; alors, j'avoue que j'éprouve quelque peine à en voir un si grand nombre soumis à des scélérats (...) Cette peine chez moi est si grande que j'avoue que c'est dans la haine de son gouvernement que j'ai puisé celle que je porte à ce peuple. <i class="fa fa-quote-right fa-lg" style="color: #737373"></i>
 
 ===
 
 ![École française du XVIIIe siècle, Portrait de Maximilien Robespierre, musée Carnavalet.](banner.jpg)
 École française du XVIIIe siècle, Portrait de Maximilien Robespierre, musée Carnavalet.
 
-source:
-[Alphonse AULARD, La société des Jacobins recueil de documents pour l'étude de la société des Jacobins t. 5 p. 633 cité par Sophie WAHNICH](http://gallica.bnf.fr/ark:/12148/bpt6k116856j/f640.image)
+>>> source: <br>
+>>> [Alphonse AULARD, La société des Jacobins recueil de documents pour l'étude de la société des Jacobins t. 5 p. 633 cité par Sophie WAHNICH](http://gallica.bnf.fr/ark:/12148/bpt6k116856j/f640.image)
 
->>**Texte intégral** le texte extrait figure en **gras**
+![bonnet phrygien](./bonnet-phrygien.svg "bonnet phrygien"){.left}
+>**Texte intégral:** le texte extrait figure en **gras**
 
 **ROBESPIERRE:** — On veut séparer le peuple anglais de son gouvernement ; je ne demande pas mieux, à condition qu'on distinguera　aussi le peuple anglais faisant la guerre à la liberté, conjointement　avec son gouvernement, du peuple anglais punissant ce même gouvernement de ses attentats centré la liberté. Qu'est-ce que cette anglomanie, déguisée sous le masqué de la philanthropie, si ce n'est　la conservation de l'ancien brissotisme, qui négligea le bonheur et　la tranquillité de son pays pour aller s'occuper de la liberté de la
 Belgique ? _(Applaudi.)_
@@ -30,7 +35,7 @@ Belgique ? _(Applaudi.)_
 Assurez votre liberté avant de vous occuper de celle des autres.
 _(Applaudi.)_
 
-Pourquoi veut-on que je distingué un peuple qui se rend complice des crimes de son gouvernement, de ce gouvernement si perfide ? Je n'aime pas les Anglais, moi _(applaudissements)_, parce que　ce mot me rappelle l'idée d'un peuple insolent osant faire la guerre　au peuple généreux qui a reconquis sa liberté. Je n'aime pas les　Anglais, parce qu'ils ont osé entrer dans Toulon pour y proclamer un　roi ; ce que n'a pas voulu souffrir le peuple qui a reconquis ses droits.
+Pourquoi veut-on que je distingue un peuple qui se rend complice des crimes de son gouvernement, de ce gouvernement si perfide ? Je n'aime pas les Anglais, moi _(applaudissements)_, parce que　ce mot me rappelle l'idée d'un peuple insolent osant faire la guerre　au peuple généreux qui a reconquis sa liberté. Je n'aime pas les　Anglais, parce qu'ils ont osé entrer dans Toulon pour y proclamer un　roi ; ce que n'a pas voulu souffrir le peuple qui a reconquis ses droits.
 Je n'aime pas les Anglais, parce que leur gouvernement, perfidement　machiavélique envers le peuple même, qui le souffre, parce que ce　même gouvernement a osé dire et proclamer qu'il ne fallait garder　aucune foi, aucune règle d'honneur avec les Français dans cette guerre, parce que c'était un peuple de rebelles qui avait foulé aux
 pieds les lois les plus saintes ; parce　qu'une partie du peuple, les　matelots, les soldats, à soutenu par les armes cette odieuse proclamation. **En qualité de Français, de représentant du peuple, je déclare que je hais le peuple anglais.** _(Applaudi.)_ Je déclare que j'augmenterai autant qu'il sera en moi la haine de mes compatriotes
 contre lui. Que m'importe ce qu'il en pense ! Je n'espère qu'en nos soldats et en la haine profonde qu'ont les Français pour ce peuple.

@@ -4,12 +4,14 @@ title2: Noam Chomsky racism in America
 menu: chomsky
 date: 25-11-2015
 taxonomy:
-   category: [en]
+   category: [blog, en]
 header_image: false
 summary:
-  enabled: true
-  format: short
-  size: 0
+   enabled: true
+   format: short
+   size: 0
+breadcrumbs:
+   enabled: false
 ---
 
 By [George Yancy](http://opinionator.blogs.nytimes.com/author/george-yancy/) and [Noam Chomsky](http://opinionator.blogs.nytimes.com/author/noam-chomsky/)

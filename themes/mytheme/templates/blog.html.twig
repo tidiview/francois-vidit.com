@@ -5,22 +5,20 @@
 		{% include 'partials/above.html.twig' %}
 	{% endblock %}
     {% block content %}
-		{% set blog_image = page.media.images|first.contrast(0).brightness(0).colorize(0,0,0) %}
+		{% set blog_image = page.media.images|first.grayscale.contrast(15).brightness(0).colorize(0,0,0) %}
 
 		{% if blog_image %}
 		<div class="flush-top blog-header blog-header-image" style="background-image: url({{ blog_image.url }});">
 		{% else %}
-		<div class="blog-background">
 		<div class="blog-header">
 		{% endif %}
 			{{ page.content }}
 		</div>
-		{% if not blog_image %}</div>{% endif %}
 
 			{% if config.plugins.breadcrumbs.enabled %}
 				{% include 'partials/breadcrumbs.html.twig' %}
 			{% endif %}
-		<div class="blog-background">
+
 		<div class="content-wrapper blog-content-list grid pure-g">
 			<div id="listing" class="block pure-u-2-3">
 				{% for child in collection %}
@@ -34,7 +32,6 @@
 			<div id="sidebar" class="block size-1-3 pure-u-1-3">
 				{% include 'partials/sidebar.html.twig' with {'blog':page} %}
 			</div>
-		</div>
 		</div>
 	{% endblock %}
 

@@ -20,7 +20,7 @@
 <div class="sidebar-content">
 	<h4> {{  'SOME_TEXT_WIDGET'|t  }} </h4>
     <div class="sidebar-content recent-posts">
-    {% for p in taxonomy.findTaxonomy({'category':[page.language]}).order('date', 'desc').slice(0, 5) %}
+    {% for p in taxonomy.findTaxonomy({'category':['blog', page.language]}).order('date', 'desc').slice(0, 5) %}
         {% set bannerimage = p.media['banner.jpg'] %}
         <div class="recent-post">
             {% if bannerimage %}
@@ -31,7 +31,7 @@
             <div class="recent-post-text">
                 <h4><a href="{{p.url}}">{% if p.header.title2 %}{{ p.header.title2 }}{% else %}{{ p.title }}{% endif %}</a></h4>
                 <p>{% if page.language == 'fr' %}
-                        {{ p.date|date("j")}}<sup>{{ page.date|date("S")|t }}</sup>{{ p.date|date("M")|t|lower}}. {{ p.date|date("Y")}}
+                        {{ p.date|date("j")}}<sup>{{ p.date|date("S")|t }}</sup>{{ p.date|date("M")|t|lower}}. {{ p.date|date("Y")}}
                     {% elseif page.language == 'ja' %}
                         {{ p.date|date("Y")}}年{{ p.date|date("M")|t}}{{ page.date|date("j")|t }}日
                     {% else %}

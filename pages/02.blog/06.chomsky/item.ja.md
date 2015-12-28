@@ -4,7 +4,9 @@ date: 25-11-2015
 visible: false
 published: false
 taxonomy:
-   category: [ja]
+   category: [blog, ja]
+breadcrumbs:
+   enabled: false
 ---
 
 米国「建国時」に根ざす 'racism'　と米国文化人の「偏見」

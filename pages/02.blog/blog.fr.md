@@ -5,7 +5,7 @@ body_classes: header-image fullwidth
 content:
     items:
        '@taxonomy':
-         category: [fr]
+         category: [blog, fr]
     order:
         by: date
         dir: desc
@@ -18,5 +18,7 @@ feed:
     limit: 10
     length: 500
 pagination: true
-blog_image: false
+blog_image: blog_image.png
+anchors:
+    active: false
 ---

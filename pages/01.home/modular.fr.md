@@ -1,5 +1,5 @@
 ---
-title: Site d'une page
+title: Accueil
 menu: Accueil
 onpage_menu: true
 body_classes: "modular header-image fullwidth"
@@ -14,4 +14,6 @@ content:
             - _highlights
             - _callout
             - _features
+anchors:
+    active: false
 ---

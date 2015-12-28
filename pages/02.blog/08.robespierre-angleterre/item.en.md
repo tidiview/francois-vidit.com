@@ -5,8 +5,10 @@ date: 24-11-2015
 visible: false
 published: false
 taxonomy:
-   category: [en]
-   tag: [Fench Revolution]
+   category: [blog, en]
+   tag: [French Revolution]
+breadcrumbs:
+   enabled: false
 ---
 
 Alphonse AULARD, La société des Jacobins recueil de documents pour l'étude de la société des Jacobins t. 5 p. 633 cité par Sophie WAHNICH

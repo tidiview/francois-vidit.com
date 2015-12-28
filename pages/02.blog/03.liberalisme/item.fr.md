@@ -1,19 +1,28 @@
 ---
-title: Libéralisme : une philosophie utilitariste
+title: Libéralisme : retour sur une philosophie utilitariste
+title2: le libéralisme, une philosophie utilitariste
 menu: libéralisme
 date: 09-07-2015, 9:14
 taxonomy:
-   category: [fr]
+   category: [blog, fr]
 header_image: false
+summary:
+   enabled: true
+   format: short
+   size: 0
+breadcrumbs:
+   enabled: false
 ---
 
-##Libéralisme : retour sur une philosophie utilitariste
+>>>>>> **notre société est dite « _libérale_ »: sans remettre en cause la liberté politique, cet article questionne bien des points considérés souvent comme des « _évidences_ » **
 
-###Le libéralisme tend à réduire le bien humain à l'utile. C'est pourquoi on ne saura fonder une morale sur cette doctrine.
+#####Le libéralisme tend à réduire le bien humain à l'utile. C'est pourquoi on ne saura fonder une morale sur cette doctrine.
 
-#### Par Jean-Marie Keroas, professeur de philosophie
+###### Par Jean-Marie Keroas, professeur de philosophie
 
-Le libéralisme classique aboutit au calcul hédoniste égoïste, il présuppose de façon constante une redéfinition du bien et du mal étrangère aux options réalistes essentialistes (Platon, Aristote) vis-à-vis desquels il prône la liberté d'indifférence issue de Guillaume d'Occam. Voilà ce que nous voulons ici brièvement rappeler, en réponse à monsieur Damien Theillier, de l'Institut libéral Coppet, suite à son [article](http://www.latribune.fr/opinions/tribunes/1984-d-orwell-n-etait-pas-cense-etre-un-manuel-de-philosophie-487902.html) paru sur latribune.fr
+Le libéralisme classique aboutit au calcul hédoniste égoïste, il présuppose de façon constante une redéfinition du bien et du mal étrangère aux options réalistes essentialistes (Platon, Aristote) vis-à-vis desquels il prône la liberté d'indifférence issue de Guillaume d'Occam. Voilà ce que nous voulons ici brièvement rappeler, en réponse à monsieur Damien Theillier, de l'Institut libéral Coppet, suite à son [article](http://www.latribune.fr/opinions/tribunes/1984-d-orwell-n-etait-pas-cense-etre-un-manuel-de-philosophie-487902.html) paru sur latribune.fr  (article [source][1])
+
+===
 
 ### Une forme de relativisme
 
@@ -96,4 +105,5 @@ Avec l'aide de son conseiller, le banquier suisse Isaac Panchaud, il prépare à
  L'idéologie des prédateurs n'est pas que le socialisme, comme l'avait parfaitement vu Jean-Paul II, mais également ce libéralisme-libertaire, issu des auteurs libéraux, systématiquement empiristes, et donc non-inductifs.
 Comme l'avait vu le philosophe Aristote, si l'économie a son correspondant dans le langage humain, c'est la sophistique. _« La sophistique, d'ailleurs, n'est qu'une sorte de chrématistique »_ (Réfutations Sophistiques, XI, 171b 28). Car dans la mauvaise économie, l'argent-symbole prend la place des choses-marchandises, tout comme dans la sophistique, les mots remplacent les choses. Le nominalisme économique a pour maître Protagoras.
 
-source:[latribune.fr](http://www.latribune.fr/opinions/tribunes/liberalisme-retour-sur-une-philosophie-utilitariste-490477.html)"Libéralisme : retour sur une philosophie utilitariste"
+source:  
+[1]: http://www.latribune.fr/opinions/tribunes/liberalisme-retour-sur-une-philosophie-utilitariste-490477.html  "Libéralisme : retour sur une philosophie utilitariste"

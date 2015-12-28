@@ -5,6 +5,6 @@ date: 06-09-2015
 visible: false
 published: false
 taxonomy:
-   category: [ja]
+   category: [blog, ja]
 header_image: false
 ---
