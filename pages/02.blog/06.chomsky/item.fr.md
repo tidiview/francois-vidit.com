@@ -1,5 +1,5 @@
 ---
-title: Les racines du racisme aux États-Unis d'Amérique par Noam Chomsky
+title: Les racines du racisme aux États-Unis par Noam Chomsky
 title2: Les racines du racisme aux États-Unis
 menu: Noam Chomsky
 slug: chomsky
@@ -8,15 +8,21 @@ taxonomy:
    category: [blog, fr]
 header_image: false
 summary:
-  enabled: true
-  format: short
-  size: 0
+   enabled: true
+   format: short
+   size: 0
+breadcrumbs:
+   enabled: false
 ---
->>>>>>__Les réquisitoires _à charge_ contre les régimes dits révolutionnaires sont légions: pour les régimes réputés dominants en revanche, c'est exceptionnel. Dans cet article où il répond au question de George Yancy, Noam Chomsky montre que la domination sociale est universelle... et qu'aux États-Unis, il est de bon ton de l'évoquer en chuchotant.__
-
-**George Yancy :** Lorsque je vois le titre de votre livre « L'Occident terroriste », me vient à l'esprit le fait que beaucoup de noirs aux États-Unis ont été pendant fort longtemps terrorisés par le racisme blanc. Cela va de la violence arbitraire jusqu'au lynchage de plus 3000 noirs (dont un certain nombre de femmes) dans la période qui va de 1882 à 1968. Du coup en 2003, lorsque des actes inhumains ont été commis dans la prison d'Abou Ghraib, je n'avais pas été surpris. Je me souviens que lorsque les photos sont apparues le président George W. Bush avait dit : « Cela ne représente pas les États-Unis que je connais ». Mais est-ce que ce ne sont pas les États-Unis que les noirs ont toujours connus ?
+>>>>>>Les réquisitoires _à charge_ contre les régimes dits révolutionnaires sont légions: pour les régimes réputés dominants en revanche, c'est exceptionnel.<br>
+Noam Chomsky montre que la domination sociale est universelle... _sauf_ qu'aux États-Unis, même lui, qui est censé être **LA** référence de « ceux qui contestent », l'évoque en... _**chu-cho-tant**_.<br>
+Il faut vraiment lire cet article, prendre le temps de saisir de quoi parle Chomsky et de mettre en regard les _incroyables artifices de langage_ qu'il met en œuvre pour _ne pas_ dire ce qu'il prétend dénoncer.<br>
+Aurait-ce été ce ton pour un autre pays? <br>
+La question est posée ... _bonjour le climat!_
 
 ===
+
+**George Yancy :** Lorsque je vois le titre de votre livre « L'Occident terroriste », me vient à l'esprit le fait que beaucoup de noirs aux États-Unis ont été pendant fort longtemps terrorisés par le racisme blanc. Cela va de la violence arbitraire jusqu'au lynchage de plus 3000 noirs (dont un certain nombre de femmes) dans la période qui va de 1882 à 1968. Du coup en 2003, lorsque des actes inhumains ont été commis dans la prison d'Abou Ghraib, je n'avais pas été surpris. Je me souviens que lorsque les photos sont apparues le président George W. Bush avait dit : « Cela ne représente pas les États-Unis que je connais ». Mais est-ce que ce ne sont pas les États-Unis que les noirs ont toujours connus ?
 
 ![Noam Chomsky (credit Philip Jones Griffiths/Magnum Photos)](chomsky.jpg?cropResize=500,300)
 

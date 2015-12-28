@@ -1,15 +1,22 @@
 ---
-title: radioactivité alimentaire
+title: radioactivité alimentaire, quelle contamination est acceptable ?
+title2: quelle contamination est acceptable ?
 menu: radioactivité
 date: 06-09-2015
 taxonomy:
    category: [blog, fr]
 header_image: false
+summary:
+   enabled: true
+   format: short
+   size: 0
+breadcrumbs:
+   enabled: false
 ---
 
-## Accident nucléaire : quelle contamination alimentaire est acceptable ?
+La  [<abbr title="Commission de Recherche et d'Information Indépendantes sur la Radioactivité">CRIIRAD</abbr>][1] dénonce les limites de contamination radioactive applicables aux aliments et à l'eau potable en cas d'accident nucléaire en Europe, fixées par un projet de règlement européen.
 
-La [Commission de Recherche et d'Information Indépendantes sur la Radioactivité (CRIIRAD)](http://www.criirad.org/ "Commission de Recherche et d'Information Indépendantes sur la Radioactivité") dénonce les limites de contamination radioactive applicables aux aliments et à l'eau potable en cas d'accident nucléaire en Europe, fixées par un projet de règlement européen.
+===
 
 L'Europe s'interroge sur les niveaux maximaux admissibles (NMA) de contamination radioactive à autoriser en cas d'accident nucléaire. Le Parlement européen a adopté ce projet de réglement le 9 juillet dernier.
 
@@ -19,7 +26,7 @@ Les experts en charge de fixer ces niveaux sont associés au Traité Euratom, un
 
 Pour la Commission européenne, le projet garantit le respect de la limite maximale de dose efficace de 1 mSv/an. « Cette affimation est totalement fausse », estime pour sa part la CRIIRAD. « Les vérifications conduites par la CRIIRAD font apparaître des doses de l'ordre de 10 fois supérieures (et jusqu'à 100 fois pour des scénarios pénalisants) et montrent que les enfants paieront le tribut le plus élevé », affirme l'association indépendante. Face à ces constats, un amendement a proposé de réduire par 10 les limites applicables à l'ensemble des aliments solides et mineurs. Il a été rejeté lors du vote au Parlement par 68 % des votants.
 
-### Une contamination largement sous-estimée
+#### Une contamination largement sous-estimée
 
 La CRIIRAD a analysé le rapport scientifique, daté de 1998, qui valide le choix des NMA. « L'analyse critique a permis à la CRIIRAD d'identifier toute une série d'erreurs, d'incohérences et d'irrégularités » qui vont « toutes dans le même sens : minimiser les risques et aboutir à la fixation de limites de contamination excessivement élevées ».
 
@@ -31,5 +38,4 @@ Par **Matthieu Combe, journaliste scientifique**
 
 source: [www.techniques-ingenieur.fr](http://www.techniques-ingenieur.fr/actualite/articles/accident-nucleaire-quelle-contamination-alimentaire-est-acceptable-28695/ "www.techniques-ingenieur.fr/accident-nucleaire-quelle-contamination-alimentaire-est-acceptable")
 
-Liens:
-[CRIIRAD](http://www.criirad.org/ "Commission de Recherche et d'Information Indépendantes sur la Radioactivité")
+[1]: http://www.criirad.org/

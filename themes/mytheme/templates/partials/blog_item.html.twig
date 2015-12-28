@@ -7,8 +7,7 @@
 
     <div class="list-blog-header">
         <div class="list-blog-date">
-            <p id="icon-calendar"><i class="fa fa-calendar-o fa-2x"></i></p>
-            <p>{{ page.date|date("j")|t }}{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}<sup>{{ page.date|date("S")|t }}</sup>{% else %}{{ page.date|date("S")|t }}{% endif %}</p>
+            <p><span>{{ page.date|date("j")|t }}</span>{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}<sup>{{ page.date|date("S")|t }}</sup>{% else %}日{% endif %}<i class="fa fa-calendar-o fa-2x"></i></p>
             <p>{{ page.date|date("M")|t }}{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}.{% endif %}</p>
             <p>{{ page.date|date("Y")|t }}</p>
         </div>

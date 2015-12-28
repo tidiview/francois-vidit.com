@@ -1,7 +1,7 @@
 ---
 menu: ホーム
 buttons:
-    - text: ご <span title="覧"><i class="fa fa-eye fa-lg"></i></span> ください
+    - text: 御 <ruby><rb><span title="覧"><i class="fa fa-eye fa-lg"></i></span></rb><rt>らん</rt></ruby> 下さい  
       url: /ja/blog
       primary: true
 ---

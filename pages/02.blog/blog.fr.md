@@ -18,7 +18,7 @@ feed:
     limit: 10
     length: 500
 pagination: true
-blog_image: false
+blog_image: blog_image.png
 anchors:
     active: false
 ---

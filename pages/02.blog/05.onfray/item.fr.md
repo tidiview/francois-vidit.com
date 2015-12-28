@@ -4,6 +4,8 @@ menu: M. Onfray
 date: 13-01-2015
 taxonomy:
    category: [blog, fr]
+breadcrumbs:
+   enabled: false
 ---
 
 ## 2 jours seulement après les événements de Charlie Hebdo, une lucidité étincelante

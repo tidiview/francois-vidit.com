@@ -4,4 +4,4 @@ taxonomy:
     category: [docs, fr]
 ---
 
-### Mont-Saint-Michel
+# Mont-Saint-Michel

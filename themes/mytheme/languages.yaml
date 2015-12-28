@@ -12,7 +12,7 @@ fr:
   Apr: Avr
   May: Mai
   Jun: Jun
-  Jul: Jui
+  Jul: Juil
   Aug: Aoû
   Sep: Sep
   Oct: Oct
@@ -43,10 +43,10 @@ ja:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: Francois Vidit
   FAVICON_LANGUAGE_URL: 'favicon-ja.png'
-  st: 日
-  nd: 日
-  rd: 日
-  th: 日
+  st: ''
+  nd: ''
+  rd: ''
+  th: ''
   Jan: 1月
   Feb: 2月
   Mar: 3月

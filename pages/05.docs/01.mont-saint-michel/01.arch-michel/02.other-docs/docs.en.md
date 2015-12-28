@@ -1,6 +1,6 @@
 ---
-title: Saint Michael Archangel and Daniel
-menu: Saint Michael
+title: Saint Michael Archangel in the other sources
+menu: Other sources
 date: 23-11-2015
 taxonomy:
    category: [docs, en]
@@ -12,7 +12,7 @@ continue_link: false
 header_image: false
 ---
 
-Daniel Dn 12,1-3.
+##### Daniel Dn 12,1-3.
 
 1 “At that time there shall arise Michael, the great prince, guardian of your people;
 It shall be a time unsurpassed in distress since the nation began until that time.

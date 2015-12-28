@@ -382,7 +382,7 @@ blockquote > blockquote > blockquote {
       top: 2px;
       color: #fff;
       font-family: FontAwesome;
-      content: '´ü¬';
+      content: '';
       left: 10px; }
     blockquote > blockquote > blockquote p:first-child:after {
       position: absolute;
@@ -936,27 +936,5 @@ td {
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d; }
-
-body {
-  font-family: Meiryo;
-  letter-spacing: -0.03rem;
-  font-weight: 400; }
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: Meiryo;
-  font-weight: 400;
-  text-rendering: optimizeLegibility;
-  line-height: 150%;
-  letter-spacing: -0px !important; }
-
-h1 {
-  text-align: center;
-  letter-spacing: -3px; }
-
-h2 {
-  letter-spacing: -2px; }
-
-h3 {
-  letter-spacing: -1px; }
 
 /*# sourceMappingURL=theme.css.map */

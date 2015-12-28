@@ -1,5 +1,5 @@
 ---
-menu: location3
+menu: location
 class: block pure-u-2-3
 form:
     name: contact

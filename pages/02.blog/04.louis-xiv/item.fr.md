@@ -7,15 +7,17 @@ taxonomy:
    category: [blog, fr]
    tag: [Versailles]
 summary:
-  enabled: true
-  format: short
-  size: 0
+   enabled: true
+   format: short
+   size: 0
 header_image: false
+breadcrumbs:
+   enabled: false
 ---
 
 ####Par Serge Raffy, journaliste
 
->>>>>>Contrairement au titre, cette confrontation de spécialistes parvient à éviter les poncifes habituels
+>>>>>>contrairement au titre, cette confrontation de spécialistes parvient à éviter les poncifes habituels
 
 ##### Dans le roman national, il est le roi des rois. L'incarnation de ce Grand Siècle où la France dominait le monde. 300 ans après sa mort, pourtant, les historiens discutent encore qui fut vraiment Louis XIV. Un génie de la guerre, amoureux des arts, fondateur de l'Etat-nation? Ou un monarque manipulé par ses conseillers, et dont les frasques annoncent déjà la Révolution?
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Michael in the revelation
-menu: Saint Michael
+menu: Revelation
 date: 22-11-2015
 taxonomy:
    category: [docs, en]
@@ -12,7 +12,7 @@ continue_link: false
 header_image: false
 ---
 
-Daniel Dn 12,1-3.
+##### Daniel Dn 12,1-3.
 
 1 “At that time there shall arise Michael, the great prince, guardian of your people;
 It shall be a time unsurpassed in distress since the nation began until that time.
