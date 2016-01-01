@@ -11,4 +11,4 @@ buttons:
 ##sur ma page personnelle!
 
 ####il y a plein de **choses** ♪
-####... peut-être cela vous donnera **envie** de créer votre propre site
+####... peut-être cela vous donnera **envie** de créer votre propre site !

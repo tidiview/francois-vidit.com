@@ -3,26 +3,30 @@
     <div class="feature-items">
     {% for feature in page.header.features %}
            <div class="feature">
-            {% if feature.icon %}
-            <i class="fa fa-fw fa-{{ feature.icon }}"></i>
-            <div class="feature-content icon-offset">
-            {% else %}
-            <div class="feature-content">
-            {% endif %}
-            {% if feature.header %}
-            <h4>{{ feature.header }}</h4>
-            {% endif %}
-            {% if feature.text %}
-            <p>{{ feature.text }}</p>
-            {% endif %}
-            {% if feature.text_1 %}
-            <p>{{ feature.text_1 }}</p>
-            {% endif %}
-            {% if feature.text_2 %}
-            <p>{{ feature.text_2 }}</p>
-            {% endif %}
+                {% if feature.icon %}
+                    <i class="fa fa-fw fa-{{ feature.icon }}"></i>
+                    <div class="feature-content icon-offset">
+                {% else %}
+                    <div class="feature-content">
+                {% endif %}
+                {% if feature.header %}
+                    {% if feature.link %}
+                        <h4><a href="{{ base_url_simple }}{{ feature.link }}">{{ feature.header }}</a></h4>
+                    {% else %}
+                        <h4>{{ feature.header }}</h4>
+                    {% endif %}
+                {% endif %}
+                {% if feature.text %}
+                    <p>{{ feature.text }}</p>
+                {% endif %}
+                {% if feature.text_1 %}
+                    <p>{{ feature.text_1 }}</p>
+                {% endif %}
+                {% if feature.text_2 %}
+                    <p>{{ feature.text_2 }}</p>
+                {% endif %}
             </div>
-        </div>
+            </div>
     {% endfor %}
     </div>
 </div>

@@ -3,9 +3,17 @@ title: titre de _highlights
 menu: guide de tourisme
 class: big
 features:
-	- header: en français, japonais, anglais
-	  text: "Comme vous voulez, 御期待の通り, according to you"
-	  icon: commenting-o
+    - header: <span style="color: rgb(199,1,2)"><ruby><rb>日本</rb><rt>japon</rt><rb><span style="visibility:hidden;">i</span></rb><rt>-<rt><rb>語</rb><rt>ais</rt></ruby></span>
+      text: <span style="color: rgba(115,1,1,255)"></span><br><span style="color: rgba(115,1,1,255)">japanese</span>
+      icon: language
+      link: /ja
+    - header: <span style="color: rgb(0, 14, 95)"><ruby><rb>Eng</rb><rt>angl</rt><rb>l</rb><rt>-</rt><rb>ish</rb><rt>ais</rt></span>
+      text: <span style="color: rgb(0, 17, 115)"><ruby><rb>英</rb><rt>angl</rt><rb><span style="visibility:hidden;">i</span></rb><rt>-<rt><rb>語</rb><rt>ais</rt></ruby></span>
+      icon: language
+      link: /en
+    - header: un blog
+      text: "C'est la partie journal du site:  j'y mets ce qui me passe par la tête, que ce soit ou pas en rapport avec l'actualité, coups de cœur"
+      icon: rss
     - header: plan, carte
       text: "principalement à Paris, à Versailles, au Mont-Saint-Michel, aux Châteaux de la Loire, en Champagne, à Bruges"
       icon: street-view
@@ -35,9 +43,7 @@ features:
     - header: on parle de moi?
       text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
       icon: comments-o
+    - header: en français, japonais, anglais
+      text: "Comme vous voulez, 御期待の通り, according to you"
+      icon: commenting-o
 ---
-
-## Je suis guide de tourisme
-### un petit texte d'introduction
-
-Envie d’une visite guidée de Paris assurée par un professionnel reconnu et apprécié ? François Vidit, titulaire de la carte de guide-conférencier délivrée par les Ministères du Tourisme et de la Culture (N°GC 09.75.015 P) fort de ses 18 années d’expériences professionnelles à Paris dans le tourisme, vous offre l’avantage de découvrir la capitale de manière originale et ludique. Que vous cherchiez une visite guidée du Paris insolite et secret, une promenade pédestre dans un quartier insoupçonné ou romantique, François Vidit saura satisfaire votre soif de connaissances en vous donnant les clefs de la ville pour vous en dévoiler la face la plus cachée. Parmi un large choix de circuits, François Vidit peut aussi vous proposer la visite guidée d’un monument de Paris, la visite guidée d’un cimetière à Paris, la découverte d’un musée parisien ou d’un hôtel particulier. Les visites guidées conduites par François Vidit s’adressent à un large public du néophyte au plus érudit. François Vidit, guide-conférencier  pétillant et passionné, est impatient de vous accueillir pour vous faire découvrir sa capitale Paris dans la joie et la bonne humeur

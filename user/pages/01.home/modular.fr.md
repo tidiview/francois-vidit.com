@@ -1,6 +1,5 @@
 ---
 title: Accueil
-menu: Accueil
 onpage_menu: true
 body_classes: "modular header-image fullwidth"
 
@@ -10,7 +9,7 @@ content:
         by: default
         dir: asc
         custom:
-            - _showcase
+            - _home
             - _highlights
             - _callout
             - _features
