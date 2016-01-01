@@ -16,7 +16,9 @@ lighttpd.conf
 nginx.conf
 test.php
 web.config
-
+test.php
+README.md
+index-xampp.php
 
 
 agency-site/*
@@ -47,6 +49,7 @@ system/*
 vendor/*
 webalizer/*
 xampp/*
+proper-settings-ovh/*
 
 user/accounts/*
 user/config/*
@@ -66,3 +69,4 @@ Icon?
 Thumbs.db
 *.swp
 *.sublime-project
+README.md
