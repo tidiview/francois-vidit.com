@@ -1,5 +1,26 @@
 // Your custom SCSS should be written here...
 
+@import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+@font-face {
+ 	font-family: 'steinem-italic'; /* Safari, Android, iOS */
+ 	src: url('/user/themes/mytheme/fonts/steinem-italic.ttf')  format('truetype');
+}
+
+@font-face {
+ 	font-family: 'Sansita'; /* Safari, Android, iOS */
+	src: url('/user/themes/mytheme/fonts/Sansita-Black.otf')  format('truetype');
+ 	src: url('/user/themes/mytheme/fonts/Sansita-Bold.otf')  format('truetype');
+	src: url('/user/themes/mytheme/fonts/Sansita-ExtraBold.otf')  format('truetype');
+	src: url('/user/themes/mytheme/fonts/Sansita-Italic.otf')  format('truetype');
+	src: url('/user/themes/mytheme/fonts/Sansita-Regular.otf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'Segoe UI Symbol'; /* Font used for front page in en Safari, Android, iOS */
+	src: url('/user/themes/mytheme/fonts/seguisym.ttf')  format('truetype');
+}
+
 #header {
 	background-color: rgba(255,255,255,1);
 	position: relative;
@@ -65,12 +86,12 @@ p {
 }
 
 h2 {
-	font-family: Meiryo;
+	font-family: 'メイリオ', 'Meiryo';
 }
 
 h4 {
 	font-size: 1.25rem;
-	font-family: Meiryo !important;
+	font-family: 'メイリオ', 'Meiryo' !important;
 }
 
 #listing .tags a {
@@ -199,13 +220,11 @@ span#blog-item-continue a:hover {
 	height: 6.5rem;
 
 	@include breakpoint(tablet-range) {
-		padding-top: 0.5rem;
 		padding-right: 5rem;
 		padding-left: 4rem;
 	}
 
 	@include breakpoint(mobile-only) {
-		padding-top: 0.5rem;
 		padding-right: 0.5rem;
 		padding-left: 0.5rem;
 	}
@@ -217,6 +236,7 @@ span#blog-item-continue a:hover {
 
 	li {
 		list-style-type: none;
+		height: 5.5rem;
 	}
 		#abovelogo h3 {
 			margin-top: 0;
@@ -226,12 +246,10 @@ span#blog-item-continue a:hover {
 
 		#abovelogo li {
 			float: left;
-			height: 4rem;
 		}
 
 		#aboveimages li {
 			float: right;
-			height: 81px;
 			@include breakpoint(tablet-range) {
 				display: none;
 			}
@@ -253,7 +271,7 @@ span#blog-item-continue a:hover {
 
 // Copyright work around
 #footer span.copyright {
-	font-family: "SourceHanSansJP", "hiragino-kaku-gothic-pro-w3", "heiseiminstd-w3", "Meiryo", "Lucida Grande", serif;
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 	color: #fff;
 }
 
@@ -273,10 +291,10 @@ span#blog-item-continue a:hover {
 }
 
 // Font Family
-$font-family-default:  			"SourceHanSansJP", "hiragino-kaku-gothic-pro-w3", "heiseiminstd-w3", "Meiryo", "Lucida Grande", serif;
-$font-family-header:  			"SourceHanSansJP", "hiragino-kaku-gothic-pro-w3", "heiseiminstd-w3", "Meiryo", "Lucida Grande", serif;
-$font-family-mono: 				"Inconsolata", monospace;
-$font-family-serif:				"Georgia", "Times", "Times New Roman", serif;
+$font-family-default:  			'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
+$font-family-header:  			'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
+$font-family-mono: 				'Inconsolata', monospace;
+$font-family-serif:				'Georgia', 'Times', 'Times New Roman', serif;
 
 #map {
     height: 500px;
@@ -337,7 +355,7 @@ div#site-contact-map {
 }
 
 .sidebar-content h4 {
-    font-family: "hiragino-kaku-gothic-pro-w3", serif;
+    font-family: Meiryo;
     margin-bottom: 0px !important;
     margin-top: 0px !important;
 }
@@ -352,7 +370,7 @@ div#site-contact-map {
 }
 
 .sidebar-content .recent-post .recent-post-text p {
-    font-family: "Meiryo", serif;
+    font-family: Meiryo;
     font-size: 1rem;
     color: #cccccc;
     margin-top: 0px !important;
@@ -549,3 +567,40 @@ span#blog-item-continue.tags a {
 		color: #b3b3b3 !important;
 	}
 }
+
+// logos
+
+//mark footer
+svg#mark-footer { vertical-align: -2.25px;}
+g#mark-footer { fill: #3b94d9;}
+g#mark-footer:hover { fill: #ffffff;}
+
+svg#logo-grav { vertical-align: -1.5px;}
+g#logo-grav-group:hover path { fill: #ffffff;}
+
+//logo header
+svg#logo-header { vertical-align: -2.5px;}
+//french
+g#logo-header-fr path#pathcircle { fill: #ffffff;}
+g#logo-header-fr path#tspan-f { fill: #000e5f;}
+g#logo-header-fr path#tspan-v { fill: #c70102;}
+g#logo-header-fr:hover path#pathcircle { fill: #c70102;}
+g#logo-header-fr:hover path#tspan-f { fill: #ffffff;}
+g#logo-header-fr:hover path#tspan-v { fill: #000e5f;}
+//japanese
+g#logo-header-ja path#pathcircle { fill: #c70102;}
+g#logo-header-ja path#tspan-f { fill: #ffffff;}
+g#logo-header-ja path#tspan-v { fill: #ffffff;}
+g#logo-header-ja:hover path#pathcircle { fill: #ffffff;}
+g#logo-header-ja:hover path#tspan-f { fill: #c70102;}
+g#logo-header-ja:hover path#tspan-v { fill: #c70102;}
+//english
+g#logo-header-en path#pathcircle { fill: #000e5f;}
+g#logo-header-en path#tspan-f { fill: #ffffff;}
+g#logo-header-en path#tspan-v { fill: #c70102;}
+g#logo-header-en:hover path#pathcircle { fill: #c70102;}
+g#logo-header-en:hover path#tspan-f { fill: #000e5f;}
+g#logo-header-en:hover path#tspan-v { fill: #ffffff;}
+
+//logo above-logo
+svg#above-logo path#path4190:hover, path#path4192:hover, path#path4194:hover, path#path4196:hover, path#path4198:hover, path#path4200:hover, path#path4202:hover, path#path4204:hover, path#path4248:hover, path#path4217:hover, path#path4219:hover, path#path4221:hover, path#path4223:hover, path#path4225:hover, path#path4245:hover, path#path4240:hover, path#path4242:hover  { fill: #444444 !important; box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15) !important;}

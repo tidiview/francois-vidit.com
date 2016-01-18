@@ -1,13 +1,13 @@
 <div class="modular-row features {{ page.header.class}}">
     {{ content }}
     <div class="feature-items">
-    {% for feature in page.header.features %}
+        {% for feature in page.header.features %}
            <div class="feature">
                 {% if feature.icon %}
                     <i class="fa fa-fw fa-{{ feature.icon }}"></i>
                     <div class="feature-content icon-offset">
                 {% else %}
-                    <div class="feature-content">
+                        <div class="feature-content">
                 {% endif %}
                 {% if feature.header %}
                     {% if feature.link %}
@@ -19,14 +19,8 @@
                 {% if feature.text %}
                     <p>{{ feature.text }}</p>
                 {% endif %}
-                {% if feature.text_1 %}
-                    <p>{{ feature.text_1 }}</p>
-                {% endif %}
-                {% if feature.text_2 %}
-                    <p>{{ feature.text_2 }}</p>
-                {% endif %}
-            </div>
-            </div>
-    {% endfor %}
+                        </div>
+                    </div>
+        {% endfor %}
     </div>
 </div>

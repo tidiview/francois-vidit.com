@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<style> 
+	rtc:lang(en) {
+	  ruby-position: under;
+	  position: under;
+	}
+	div#id02 {
+		margin-right: 0px;
+		margin-left: 0px;
+		display: block;
+		text-align: center;
+		vertical-align: center;
+	}
+	div#id02 span {
+		visibility: hidden;
+	}
+    </style>
+</head>
+<body>
+    <div id="id01"></div><hr>
+    
+    <div id="id02">
+        <ruby id="id03">
+        </ruby><br>
+    </div><hr>
+
+    <p><span class="withRuby">堀北<span class="rubyKakko">(</span><span class="rubyText">ほりきた</span><span class="rubyKakko">)</span></span>真希は平成20年代前半を代表する日本のアイドル女優である。</p>
+
+<script>
+function myFunction(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i<arr.length; i++) {
+        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+    }
+    document.getElementById("id01").innerHTML = out;
+}
+function myFunction2(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i<arr.length; i++) {
+        out += '<rb lang="fr">' + arr[i].text + '</rb><rt lang="fr">' + arr[i].pronunciation + '</rt>';
+    }
+    document.getElementById("id03").innerHTML = out;
+}
+</script>
+
+<script src="hello-world.jsonld"></script>
+<script src="ruby-francois.json"></script>
+</body>
+</html>

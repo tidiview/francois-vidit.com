@@ -57,7 +57,7 @@ breadcrumbs:
 
 |   | <span hidden>hidden</span> | <span hidden>hidden</span> |
 | - | -------------------------- | -------------------------- |
-| 1 | Qui connaît les hommes est avisé |
+| 1 | Qui connaît les hommes est clairvoyant |
 |   |   |
 | 2 | Qui se connaît est éclairé |
 |   |   |
@@ -65,11 +65,11 @@ breadcrumbs:
 |   |   |
 | 4 | Qui triomphe de lui-même est fort |
 |   |   |
-| 5 | Qui connaît ses limites est riche, qui sait s'y appliquer atteint la clairvoyance |
+| 5 | Qui connaît les limites de son entendement est riche, qui sait se tenir a de la volonté |
 |   |   |
-| 6 | Qui ne sait pas trompé de lieu est éternel |
+| 6 | Qui ne s'est pas trompé de lieu est éternel |
 |   |   |
-| 7 | Lorsqu'il meurt sa mémoire demeure |
+| 7 | Même lorsqu'il meurt sa mémoire demeure |
 |   |   |
 
 <i class="fa fa-quote-right fa-lg fa-pull-right fa-border" style="color: #737373"></i>

@@ -8,7 +8,7 @@ form:
         - name: name
           label: Nom
           placeholder: Faîtes figurer votre nom ici ...
-          autofocus: on
+          autofocus: off
           autocomplete: on
           type: text
           validate:

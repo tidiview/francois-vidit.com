@@ -39,9 +39,12 @@ fr:
   ARCHIVES_TEXT: Archives
   HOME_ROOT: Accueil
   CONTACT_SUMMARY: Voici un récapitulatif de ce que vous avez envoyé:
+  WEB_ALTERNATE_NAME: Page personnelle de François Vidit
+  META_DESCRIPTION: Page personnelle
+  META_KEYWORDS: 'Guide de Tourisme, Paris, France'
 ja:
   TRANSLATION_TEST: Antimatter!
-  SITE_AUTHOR_NAME: Francois Vidit
+  SITE_AUTHOR_NAME: François Vidit
   FAVICON_LANGUAGE_URL: 'favicon-ja.png'
   st: ''
   nd: ''
@@ -80,9 +83,12 @@ ja:
   ARCHIVES_TEXT: 前の記事
   HOME_ROOT: ホーム
   CONTACT_SUMMARY: 送信された内容は以下にの通りです：
+  WEB_ALTERNATE_NAME: François Vidit のホームページー
+  META_DESCRIPTION: ホーム―ページー
+  META_KEYWORDS: '観光ガイド, パリ, フランス'
 en:
   TRANSLATION_TEST: Antimatter!
-  SITE_AUTHOR_NAME: Francois Vidit
+  SITE_AUTHOR_NAME: François Vidit
   FAVICON_LANGUAGE_URL: 'favicon-en.png'
   st: 'st '
   nd: 'nd  '
@@ -109,3 +115,6 @@ en:
   ARCHIVES_TEXT: Archives
   HOME_ROOT: Home
   CONTACT_SUMMARY: Here is the summary of what you wrote to us:
+  WEB_ALTERNATE_NAME: Personal page of François Vidit
+  META_DESCRIPTION: Personal page
+  META_KEYWORDS: 'Tour guide, Paris, France'

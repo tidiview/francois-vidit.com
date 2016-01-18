@@ -2,7 +2,7 @@
 title: Accueil
 menu: Accueil
 buttons:
-    - text: jetez un <ruby><rb><span title="œil"><i class="fa fa-eye fa-lg"></i></span></rb><rt>œil</rt></ruby>
+    - text: jetez un <ruby><span title="œil"><i class="fa fa-eye fa-lg"></i></span><rp>(</rp><rt>œil</rt><rp>)</rp></ruby>
       url: /fr/blog
       primary: true
 ---

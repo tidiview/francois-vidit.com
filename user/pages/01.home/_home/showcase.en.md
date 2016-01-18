@@ -1,7 +1,7 @@
 ---
 menu: home
 buttons:
-    - text: have a <ruby><rb><span title="look"><i class="fa fa-eye fa-lg"></i></span></rb><rt>look</rt></ruby>
+    - text: have a <ruby><span title="look"><i class="fa fa-eye fa-lg"></i></span><rp>(</rp><rt>look</rt><rp>)</rp></ruby>
       url: /en/blog
       primary: true
 ---

@@ -1,6 +1,6 @@
 dropdown:
   enabled: true
-
+google_analytics_code: UA-71817325-1                              # Enter your `UA-XXXXXXXX-X` code here
 streams:
  schemes:
    theme:

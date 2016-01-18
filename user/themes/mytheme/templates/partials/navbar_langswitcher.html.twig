@@ -1,5 +1,5 @@
 {% set langobj = grav['language'] %}
-        <li id="langswitcher" class="active navigation"><a>{% if langswitcher.current == 'en' %}English{% elseif 'ja' %}日本語{% else %}Français{% endif %} <i class="fa fa-caret-down fa-lg"></i></a>
+        <li id="langswitcher" class="active navigation"><a>{% if langswitcher.current == 'en' %}English{% elseif langswitcher.current == 'ja' %}日本語{% else %}Français{% endif %} <i class="fa fa-caret-down fa-lg"></i></a>
             <ul>
             {% for key, language in langswitcher.languages %}
                 {% if key == langswitcher.current %}
