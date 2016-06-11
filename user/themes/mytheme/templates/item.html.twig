@@ -5,14 +5,14 @@
 			{% include 'partials/breadcrumbs.html.twig' %}
 		{% endif %}
 		
-		<div class="blog-content-item grid pure-g-r">
-			<div id="item" class="block pure-u-2-3">
-			    {% include 'partials/blog_item.html.twig' with {'blog':page.parent, 'truncate':false} %}
-			</div>
-			<div id="sidebar" class="block size-1-3 pure-u-1-3">
-				{% include 'partials/sidebar.html.twig' with {'blog':page.parent}%}
-			</div>
-		</div>
+		<div id="item" class="blog-content-item grid pure-g-r" lang="{{ langswitcher.current }}">
+			{% include 'partials/blog_item.html.twig' with {'blog':page.parent, 'truncate':false} %}
+			
+			{% if page.header.base64_background %}
+			{% include 'partials/backgrounds/background-' ~ page.header.base64_background ~ '-svg.html.twig' %}
+			{% include 'partials/backgrounds/background_base64-script.html.twig' %}
+			{% endif %}
+
 	{% endblock %}
 
 {% endembed %}

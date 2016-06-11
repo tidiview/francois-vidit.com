@@ -7,6 +7,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
     {% include 'partials/metadata.html.twig' %}
+    <meta name="description" content="{{ 'META_DESCRIPTION'|t }}" />
+    <meta name="keywords" content="{{ 'META_KEYWORDS'|t }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/png" href="{{ theme_url }}/images/{{ 'FAVICON_LANGUAGE_URL'|t }}" />
@@ -38,6 +40,17 @@
     {% endblock %}
     {{ assets.js() }}
 
+    <script type="application/ld+json" src="http://id.francois-vidit.fr/id.jsonld"></script>
+
+    {% include 'partials/search-query-jsonld.html.twig' %}
+    {% include 'partials/website-jsonld.html.twig' %}
+    
+    {% block analytics %}
+        {% if theme_config.google_analytics_code %}
+        {% include 'partials/analytics.html.twig' %}
+        {% endif %}
+    {% endblock %}
+
 {% endblock head%}
 </head>
 <body id="top" class="{{ page.header.body_classes }}">
@@ -47,7 +60,7 @@
         <header id="header">
             <div id="colorgradient"></div>
             <div id="logo">
-                <h3><a href="{{ base_url == '' ? '/' : base_url }}"><img id="logo-img" src="{{ theme_url }}/images/{{ 'FAVICON_LANGUAGE_URL'|t }}" alt="{{ 'HOME_ROOT'|t }}" title="{{ site.title|e('html') }}" max-height="32px" max-width="32px" /></a></h3>
+                <h3><a href="{{ base_url == '' ? '/' : base_url }}" title="{{ 'HOME_ROOT'|t }}">{% include 'partials/logo-header.html.twig' %}</a></h3>
             </div>
             <div id="navbar">
                 {% block header_extra %}{% endblock %}
@@ -73,8 +86,8 @@
             <div class="totop">
                 <span><a href="#" id="toTop"><i class="fa fa-arrow-up"></i></a></span>
             </div>
-            <p><a href="{{ base_url_absolute }}">francois.vidit.fr</a> {{ 'FOOTER_TEXT_1'|t }} <span title="{{ 'FOOTER_TEXT_6'|t }}"><i class="fa fa-code"></i></span> {{ 'FOOTER_TEXT_2'|t }} <i class="fa fa-heart"></i> {{ 'FOOTER_TEXT_3'|t }} <a href="http://getgrav.org">grav</a>{{ 'FOOTER_TEXT_4'|t }}</p>
-            <p><a href="{{ base_url_absolute }}/c-u">{{ 'FOOTER_TEXT_5'|t }} </a>2015 - {{ page.date|date("Y") }} <span class="copyright" title="copyright">&#169</span> <a href="{{ base_url_absolute }}/about">{{ 'SITE_AUTHOR_NAME'|t }}</a> </p>
+            <p>
+            <p><a href="{{ base_url_absolute }}/c-u" lang="{{ langswitcher.current }}">{{ 'FOOTER_TEXT_5'|t }} </a>2015 - {{ date|date("Y") }} <span class="copyright" title="copyright">&#169</span> <a href="{{ base_url_absolute }}">{% include 'partials/mark-footer.html.twig' %}</a> </p>
         </footer>
         {% endblock %}
     </div>

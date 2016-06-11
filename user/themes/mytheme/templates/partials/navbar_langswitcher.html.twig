@@ -1,5 +1,5 @@
 {% set langobj = grav['language'] %}
-        <li id="langswitcher" class="active navigation"><a>{% if langswitcher.current == 'en' %}English{% elseif 'ja' %}日本語{% else %}Français{% endif %} <i class="fa fa-caret-down fa-lg"></i></a>
+        <li id="langswitcher" class="active navigation"><a>{% if langswitcher.current == 'en' %}English{% elseif langswitcher.current == 'ja' %}日本語{% else %}Français{% endif %} <i class="fa fa-caret-down fa-lg"></i></a>
             <ul>
             {% for key, language in langswitcher.languages %}
                 {% if key == langswitcher.current %}
@@ -8,7 +8,7 @@
                 {% else %}
                     {% set lang_url = base_url_simple ~ langobj.getLanguageURLPrefix(key)~langswitcher.page_route ?: '/' %}
                     {% set active_class = '' %}
-                    <li><a href="{{ lang_url }}" class="{{ active_class }} external">{{ language.nativeName }}</a></li>
+                    <li><a href="/blog{{ lang_url }}" class="{{ active_class }} external">{{ language.nativeName }}</a></li>
                 {% endif %}
             {% endfor %}
             </ul>

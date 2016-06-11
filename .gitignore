@@ -28,6 +28,7 @@ bin/*
 cache/*
 ceevee-site/*
 dashboard/*
+docs/*
 grayscale-site/*
 google-map/*
 hpstr-site/*
@@ -44,23 +45,26 @@ resume-site/*
 rtfm-site/*
 saturn-site/*
 shop-site/*
+skeletons/*
 soraarticle-blog/*
 system/*
 vendor/*
 webalizer/*
 xampp/*
 proper-settings-ovh/*
+essai/*
 
 user/accounts/*
 user/config/*
 user/data/*
-user/pages/images/*
-user/pages/slider/*
+user/pages/*
 user/plugins/*
-user/themes/antimatter/images/*
-user/themes/antimatter/fonts/*
-user/themes/bootstrap/*
-user/themes/mytheme/images/*
+user/themes/*
+user/sites/blog/*
+user/sites/about/*
+user/sites/docs/config/*
+user/sites/docs/plugins/*
+user/sites/docs/themes/*
 
 # OS Generated
 .DS_Store*
@@ -70,3 +74,4 @@ Thumbs.db
 *.swp
 *.sublime-project
 README.md
+user/pages/01.home/modular.ja.md

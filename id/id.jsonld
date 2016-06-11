@@ -1,0 +1,183 @@
+[
+  {
+  "@context": {
+      "@vocab": "http://schema.org/"
+    },
+    "@id": "http://id.francois-vidit.fr/",
+    "@type": "Person",
+    "givenName": "François",
+    "familyName": "Vidit",
+    "alternateName": [
+      {
+        "@language": "fr",
+        "@value": "François Vidit"
+      },
+      {
+        "@language": "ja",
+        "@value": "フランソワ・ヴィディ"
+      },
+      {
+        "@language": "en",
+        "@value": "Francois Vidit"
+      }
+    ],
+    "description": [
+      {
+        "@language": "fr",
+        "@value": "François Vidit est un guide de tourisme en langue japonaise Français membre de l'A.G.I.J qui exerce à Paris dont le site est http://francois-vidit.fr/"
+      },
+      {
+        "@language": "ja",
+        "@value": "François Vidit は http://francois-vidit.fr/ja サイトとなっている　Paris に活躍する　A.G.I.J. 会員フランス人日本語観光ガイドです"
+      },
+      {
+        "@language": "en",
+        "@value": "François Vidit is a French Tour guide in japanese language member of A.G.I.J. that works in Paris whose site is http://francois-vidit.fr/en"
+      }
+    ],
+    "jobTitle": [
+      {
+        "@language": "fr",
+        "@value": "Guide de tourisme"
+      },
+      {
+        "@language": "ja",
+        "@value": "観光ガイド"
+      },
+      {
+        "@language": "en",
+        "@value": "Tourism guide"
+      }
+    ],
+    "workLocation": [
+      {
+        "@type": "Place",
+        "hasMap": "http://francois-vidit.fr/",
+        "Geo": [
+          {
+            "@type": "GeoCoordinates",
+            "Latitude": "48.8421114",
+            "Longitude": "2.295819700000038"
+          }
+        ],
+        "ContainedInPlace": [
+          {
+            "@type": "Country",
+            "name": "France",
+            "sameAs": [
+              "https://fr.wikipedia.org/wiki/France/",
+              "https://ja.wikipedia.org/wiki/フランス/",
+              "https://en.wikipedia.org/wiki/France/"
+            ],
+            "alternateName": [
+              {
+                "@language": "ja",
+                "@value": "フランス"
+              }
+            ]
+          },
+          {
+            "@type": "City",
+            "name": "Paris",
+            "sameAs": [
+              "https://fr.wikipedia.org/wiki/Paris/",
+              "https://ja.wikipedia.org/wiki/パリ/",
+              "https://en.wikipedia.org/wiki/Paris/"
+            ],
+            "alternateName": [
+              {
+                "@language": "ja",
+                "@value": "パリ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "url": "http://francois-vidit.fr/",
+    "telephone": null,
+    "contactPoint": [
+      {
+        "@type" : "ContactPoint",
+        "contactType": "reservations",
+        "alternateName": [
+          {
+            "@language": "fr",
+            "@value": "Page de réservation"
+          },          {
+            "@language": "ja",
+            "@value": "予約ページー"
+          },
+          {
+            "@language": "en",
+            "@value": "Reservation page"
+          }
+        ],
+        "url": "http://francois-vidit.fr/",
+        "availableLanguage": [
+          {
+            "@type": "Language",
+            "alternateName": [
+              {
+                "@language": "fr",
+                "@value": "français, japonais, anglais"
+              },
+              {
+                "@language": "ja",
+                "@value": "フランス語, 日本語, 英語"
+              },
+              {
+                "@language": "en",
+                "@value": "french, japanese, english"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sameAs": [
+      "https://twitter.com/bf7afa37fa974cd/",
+      "https://plus.google.com/u/0/102915870834043244842/",
+      "https://github.com/tidiview/francois-vidit.fr"
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "A.G.I.J.",
+        "url": "http://www.agij-paris.com/",
+        "logo": "http://www.agij-paris.com/image/title01.gif",
+        "sameAs": "http://www.agij-paris.com/",
+        "description": [
+          {
+            "@language": "fr",
+            "@value": "'A.G.I.J' signifie 'Association des Guide-Interprètes en langue Japonaise'"
+          },
+          {
+            "@language": "ja",
+            "@value": "「A.G.I.J」は「フランス日本語通訳ガイド協会」を意味しています"
+          },
+          {
+            "@language": "en",
+            "@value": "'A.G.I.J'　stands for 'French Japanese Speaking Guides Association'"
+          }
+        ]
+      }
+    ],
+    "nationality": [
+      {
+        "@type": "Country",
+        "name": "France",
+        "alternateName": [
+          {
+            "@language": "ja",
+            "@value": "フランス"
+          },
+          {
+            "@language": "en",
+            "@value": "France"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -39,15 +39,23 @@
         </li>
     {% endfor %}
     {% if config.plugins.login.enabled and grav.user.username %}
-        <li><i class="fa fa-lock"></i> {% include 'partials/login-status.html.twig' %}</li>
+        <li><i class="fa fa-lock"></i>{% include 'partials/login-status.html.twig' %}</li>
     {% endif %}
-    {% if config.plugins.simplesearch.enabled %}
-        <li id="search_nav"><a><i class="fa fa-search"></i></a>
+    {% if config.plugins.feed.enabled and not page.header.feed.enabled is same as (false) %}
+            <li id="syndication"><a class="navigation"><i class="fa fa-rss" title="Syndication"></i></a>
+                <ul>
+                    <li><a href="/blog/{{ langswitcher.current }}/home.atom" class="navigation"></i>Atom 1.0</a></li>
+                    <li><a href="/blog/{{ langswitcher.current }}/home.rss" class="navigation"></i>Rss</a></li>
+                </ul>
+            </li>  
+    {% endif %}
+    {% if config.plugins.simplesearch.enabled and not page.header.simplesearch.enabled is same as (false) %}
+        <li id="search_nav"><a class="navigation"><i class="fa fa-search"></i></a>
             <ul> {% include 'partials/simplesearch_searchbox.html.twig' %}</ul>
         </li>
     {% endif %}
-    {% if config.plugins.langswitcher.enabled %}
-        {% include 'partials/navbar_langswitcher.html.twig' %}
+    {% if config.plugins.langswitcher.enabled and not page.header.langswitcher.enabled is same as (false) %}
+            {% include 'partials/navbar_langswitcher.html.twig' %}     
     {% endif %}
 </ul>
 
