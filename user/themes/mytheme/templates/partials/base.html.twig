@@ -86,8 +86,8 @@
             <div class="totop">
                 <span><a href="#" id="toTop"><i class="fa fa-arrow-up"></i></a></span>
             </div>
-            <p><a href="{{ base_url_absolute }}">{% include 'partials/mark-footer.html.twig' %}</a> {{ 'FOOTER_TEXT_1'|t }} <span title="{{ 'FOOTER_TEXT_6'|t }}"><i class="fa fa-code"></i></span> {{ 'FOOTER_TEXT_2'|t }} <i class="fa fa-heart"></i> {{ 'FOOTER_TEXT_3'|t }} <a href="http://getgrav.org" title="http://getgrav.org">{% include 'partials/logo-grav.html.twig' %}</a>{{ 'FOOTER_TEXT_4'|t }}</p>
-            <p><a href="{{ base_url_absolute }}/c-u">{{ 'FOOTER_TEXT_5'|t }} </a>2015 - {{ date|date("Y") }} <span class="copyright" title="copyright">&#169</span> <a href="{{ base_url_absolute }}/about">{{ 'SITE_AUTHOR_NAME'|t }}</a> </p>
+            <p>
+            <p><a href="{{ base_url_absolute }}/c-u" lang="{{ langswitcher.current }}">{{ 'FOOTER_TEXT_5'|t }} </a>2015 - {{ date|date("Y") }} <span class="copyright" title="copyright">&#169</span> <a href="{{ base_url_absolute }}">{% include 'partials/mark-footer.html.twig' %}</a> </p>
         </footer>
         {% endblock %}
     </div>

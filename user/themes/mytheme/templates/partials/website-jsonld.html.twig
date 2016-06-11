@@ -1,14 +1,72 @@
+{% if page.header.taxonomy %}
+
+<script type="application/ld+json">
+{
+ "@context": "http://schema.org", 
+ "@type": "Article",
+ "inLanguage" : "{{ langswitcher.current }}",
+ "headline": "{{ page.header.title }}",
+ {% if page.header.title2 %}
+ "alternativeHeadline": "{{ page.header.title2 }}",
+ {% endif %}
+ {% if page.header.metadata.genre %}
+ "genre": "search engine optimization",
+ {% endif %}
+ "keywords": "{{ page.header.metadata.keywords }}", 
+ "url": "http://www.example.com",
+ "datePublished": "{{ page.header.date }}",
+ {% if page.header.created %}
+ "dateCreated": "2015-09-20",
+ {% endif %}
+ {% if page.header.modified %}
+ "dateModified": "{{ page.header.modified }}",
+ {% endif %}
+ "description": "{{ page.header.metadata.description }}",
+ "mainEntityOfPage" : {
+  "@type": "WebPage",
+  "@id": "{{ page.url(true) }}"
+ },
+ {% if page.header.image %}
+ "image": {
+   "@type": "ImageObject",
+   "@id": "{{ page.url(true) }}/{{ page.header.image }}",
+   "name": "{{ page.header.image }}",
+   "url": "{{ page.url(true) }}/{{ page.header.image }}",
+   "height": "{{ page.header.image.height }}",
+   "width": "{{ page.header.image.width }}"
+   },
+ {% endif %}
+ "author": {
+  "@type": "Person",
+  "@id": "http://id.francois-vidit.fr",
+  "name": "François Vidit",
+  "url": "http://id.francois-vidit.fr"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "@id": "http://francois-vidit.fr",
+  "name": "francois-vidit.fr",
+  "logo": {
+   "@type": "ImageObject",
+   "@id": "http://id.francois-vidit.fr/francois-vidit-fr.svg",
+   "name": "francois-vidit-fr-logo",
+   "url": "http://id.francois-vidit.fr"
+   }
+  }
+}
+</script>
+
+{% else %}
+
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
   "@type" : "WebSite",
-  "name" : "francois-vidit.fr/{{ langswitcher.current }}",
-  "alternateName" : [
-  	{
-  		"@language": "{{ langswitcher.current }}",
-  		"value": "{{ 'WEB_ALTERNATE_NAME'|t }}"
-  	}
-  ],
+  "name" : "{{ 'WEB_ALTERNATE_NAME'|t }}",
+  "inLanguage" : "{{ langswitcher.current }}"
   "url" : "http://francois-vidit.fr/{{ langswitcher.current }}"
 }
 </script>
+
+{% endif %}
+

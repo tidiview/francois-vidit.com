@@ -8,7 +8,7 @@
                 {% else %}
                     {% set lang_url = base_url_simple ~ langobj.getLanguageURLPrefix(key)~langswitcher.page_route ?: '/' %}
                     {% set active_class = '' %}
-                    <li><a href="{{ lang_url }}" class="{{ active_class }} external">{{ language.nativeName }}</a></li>
+                    <li><a href="/blog{{ lang_url }}" class="{{ active_class }} external">{{ language.nativeName }}</a></li>
                 {% endif %}
             {% endfor %}
             </ul>

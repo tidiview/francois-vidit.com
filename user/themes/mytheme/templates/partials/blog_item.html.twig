@@ -1,11 +1,18 @@
-<div class="list-item">
-
+<div class="content-wrapper-list-item" >
+<div class="list-item lang-font" lang="{{ langswitcher.current }}">
     {% set header_image = page.header.header_image|defined(true) %}
     {% set header_image_width = page.header.header_image_width|defined(900) %}
     {% set header_image_height = page.header.header_image_height|defined(300) %}
     {% set header_image_file = page.header.header_image_file %}
 
     <div class="list-blog-header">
+
+        <div class="list-blog-svg_icon">
+            {% if not page.header.svg_icon is same as(empty) %}
+            {% include 'partials/svg_icons/svg_icon-' ~ page.header.svg_icon ~ '.html.twig' %}
+            {% endif %}
+        </div>
+
         <div class="list-blog-date">
             <p><span>{{ page.date|date("j")|t }}</span>{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}<sup>{{ page.date|date("S")|t }}</sup>{% else %}日{% endif %}<i class="fa fa-calendar-o fa-2x"></i></p>
             <p>{{ page.date|date("M")|t }}{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}.{% endif %}</p>
@@ -16,16 +23,16 @@
                 {% if page.header.continue_link is not sameas(false) %}
                 <a href="{{ page.url }}"><i class="fa fa-angle-double-right"></i></a>
                 {% endif %}
-                <a href="{{ page.header.link }}">{{ page.title }}</a>
+                <a href="{{ page.header.link }}" lang="{{ langswitcher.current }}">{{ page.title }}</a>
             </h2>
         {% else %}
-            <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+            <h2><a href="{{ page.url }}" lang="{{ langswitcher.current }}">{{ page.title }}</a></h2>
         {% endif %}
 
         {% if page.taxonomy.tag %}
         <span class="tags">
             {% for tag in page.taxonomy.tag %}
-            <a href="{{ blog.url }}/tag{{ config.system.param_sep }}{{ tag }}">{{ tag }}</a>
+            <a href="{{ blog.url }}/tag{{ config.system.param_sep }}{{ tag }}" class="lang-font" lang="{{ langswitcher.current }}">{{ tag }}</a>
             {% endfor %}
         </span>
         {% endif %}
@@ -39,7 +46,12 @@
         {% endif %}
     </div>
 
-    <div class="list-blog-padding">
+    <div id="body-blog-item" class="list-blog-padding lang-font" lang="{{ langswitcher.current }}">
+
+    {% if not blog_image and page.header.base64_itembackground %}
+    {% include 'partials/itembackgrounds/itembackground-' ~ page.header.base64_itembackground ~ '-svg.html.twig' %}
+    {% include 'partials/itembackgrounds/itembackground_base64-script.html.twig' %}
+    {% endif %}
 
     {% if page.header.continue_link is sameas(false) %}
         {{ page.content }}
@@ -48,14 +60,14 @@
         {% endif %}
     {% elseif truncate and page.summary != page.content %}
         {{ page.summary }}
-        <span id="blog-item-continue" class="tags"><a href="{{ page.url }}">{{ 'BLOG_ITEM_CONTINUE'|t }}</a></span>
+        <li><span id="ondule-svg">{% include 'partials/ondule.html.twig' %}</span><span id="blog-item-continue" class="tags"><a href="{{ page.url }}" class="lang-font" lang="{{ langswitcher.current }}">{{ 'BLOG_ITEM_CONTINUE'|t }}</a></span></li>
     {% elseif truncate %}
         {% if page.summary != page.content %}
             {{ page.content|truncate(550) }}
         {% else %}
             {{ page.content }}
         {% endif %}
-        <div><span id="blog-item-continue" class="tags"><a href="{{ page.url }}">{{ 'BLOG_ITEM_CONTINUE'|t }}</a></span></div>
+        <div>{% include 'partials/ondule.html.twig' %}<span id="blog-item-continue lang-font" class="tags"><a href="{{ page.url }}" lang="{{ langswitcher.current }}">{{ 'BLOG_ITEM_CONTINUE'|t }}</a></span></div>
     {% else %}
         {{ page.content }}
         {% set show_prev_next = true %}
@@ -65,14 +77,14 @@
 
         <p class="prev-next">
             {% if not page.isFirst %}
-                <a class="button" href="{{ page.nextSibling.url }}"><i class="fa fa-chevron-left"></i>{{ 'BLOG_ITEM_NEXT'|t }}</a>
+                <a class="button" href="{{ page.nextSibling.url }}" class="lang-font" lang="{{ langswitcher.current }}"><i class="fa fa-chevron-left"></i>{{ 'BLOG_ITEM_NEXT'|t }}</a>
             {% endif %}
 
             {% if not page.isLast %}
-                <a class="button" href="{{ page.prevSibling.url }}">{{ 'BLOG_ITEM_PREVIOUS'|t }}<i class="fa fa-chevron-right"></i></a>
+                <a class="button" href="{{ page.prevSibling.url }}" class="lang-font" lang="{{ langswitcher.current }}">{{ 'BLOG_ITEM_PREVIOUS'|t }}<i class="fa fa-chevron-right"></i></a>
             {% endif %}
         </p>
     {% endif %}
-
     </div>
+</div>
 </div>

@@ -11,7 +11,7 @@ fr:
   Mar: Mar
   Apr: Avr
   May: Mai
-  Jun: Jun
+  Jun: Juin
   Jul: Juil
   Aug: Aoû
   Sep: Sep
@@ -42,6 +42,20 @@ fr:
   WEB_ALTERNATE_NAME: Page personnelle de François Vidit
   META_DESCRIPTION: Page personnelle
   META_KEYWORDS: 'Guide de Tourisme, Paris, France'
+  CURTAIN_BUTTON_RIGHT_LINK: '/ja/'
+  CURTAIN_BUTTON_RIGHT_UP: 'japonais'
+  CURTAIN_BUTTON_RIGHT_BASE: '日本語'
+  CURTAIN_BUTTON_RIGHT_POPUP: 'japanese'
+  CURTAIN_BUTTON_CENTER_UP: 'フランス語'
+  CURTAIN_BUTTON_CENTER_BASE: 'français'
+  CURTAIN_BUTTON_CENTER_POPUP: 'french'
+  CURTAIN_BUTTON_LEFT_LINK: '/en/'
+  CURTAIN_BUTTON_LEFT_UP: 'anglais'
+  CURTAIN_BUTTON_LEFT_BASE: 'english'
+  CURTAIN_BUTTON_LEFT_POPUP: '英語'
+  CURTAIN_TEXT_1: c'est
+  CURTAIN_TEXT_2: un
+  CURTAIN_TEXT_3: des
 ja:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -86,6 +100,20 @@ ja:
   WEB_ALTERNATE_NAME: François Vidit のホームページー
   META_DESCRIPTION: ホーム―ページー
   META_KEYWORDS: '観光ガイド, パリ, フランス'
+  CURTAIN_BUTTON_RIGHT_LINK: '/fr/'
+  CURTAIN_BUTTON_RIGHT_UP: 'フランス語'
+  CURTAIN_BUTTON_RIGHT_BASE: 'français'
+  CURTAIN_BUTTON_RIGHT_POPUP: 'french'
+  CURTAIN_BUTTON_CENTER_UP: 'japonais'
+  CURTAIN_BUTTON_CENTER_BASE: '日本語'
+  CURTAIN_BUTTON_CENTER_POPUP: 'japanese'
+  CURTAIN_BUTTON_LEFT_LINK: '/en/'
+  CURTAIN_BUTTON_LEFT_UP: 'anglais'
+  CURTAIN_BUTTON_LEFT_BASE: 'english'
+  CURTAIN_BUTTON_LEFT_POPUP: '英語'
+  CURTAIN_TEXT_1: とは、
+  CURTAIN_TEXT_2: ' '
+  CURTAIN_TEXT_3: ' '
 en:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -118,3 +146,17 @@ en:
   WEB_ALTERNATE_NAME: Personal page of François Vidit
   META_DESCRIPTION: Personal page
   META_KEYWORDS: 'Tour guide, Paris, France'
+  CURTAIN_BUTTON_RIGHT_LINK: '/fr/'
+  CURTAIN_BUTTON_RIGHT_UP: 'french'
+  CURTAIN_BUTTON_RIGHT_BASE: 'français'
+  CURTAIN_BUTTON_RIGHT_UP: 'フランス語'
+  CURTAIN_BUTTON_CENTER_UP: 'anglais'
+  CURTAIN_BUTTON_CENTER_BASE: 'english'
+  CURTAIN_BUTTON_CENTER_POPUP: '英語'
+  CURTAIN_BUTTON_LEFT_LINK: '/ja/'
+  CURTAIN_BUTTON_LEFT_UP: 'japanese'
+  CURTAIN_BUTTON_LEFT_BASE: '日本語'
+  CURTAIN_BUTTON_LEFT_POPUP: 'japonais'
+  CURTAIN_TEXT_1: it's
+  CURTAIN_TEXT_2: a
+  CURTAIN_TEXT_3: ' '

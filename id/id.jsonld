@@ -32,7 +32,7 @@
       },
       {
         "@language": "en",
-        "@value": "François Vidit is a French Tour guide in japanese language member of A.G.I.J. that works in Paris　whose site is http://francois-vidit.fr/en"
+        "@value": "François Vidit is a French Tour guide in japanese language member of A.G.I.J. that works in Paris whose site is http://francois-vidit.fr/en"
       }
     ],
     "jobTitle": [
@@ -136,7 +136,6 @@
       }
     ],
     "sameAs": [
-      "http://francois-vidit.fr/",
       "https://twitter.com/bf7afa37fa974cd/",
       "https://plus.google.com/u/0/102915870834043244842/",
       "https://github.com/tidiview/francois-vidit.fr"
