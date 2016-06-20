@@ -1,72 +1,111 @@
-{% if page.header.taxonomy %}
-
 <script type="application/ld+json">
-{
- "@context": "http://schema.org", 
- "@type": "Article",
- "inLanguage" : "{{ langswitcher.current }}",
- "headline": "{{ page.header.title }}",
- {% if page.header.title2 %}
- "alternativeHeadline": "{{ page.header.title2 }}",
- {% endif %}
- {% if page.header.metadata.genre %}
- "genre": "search engine optimization",
- {% endif %}
- "keywords": "{{ page.header.metadata.keywords }}", 
- "url": "http://www.example.com",
- "datePublished": "{{ page.header.date }}",
- {% if page.header.created %}
- "dateCreated": "2015-09-20",
- {% endif %}
- {% if page.header.modified %}
- "dateModified": "{{ page.header.modified }}",
- {% endif %}
- "description": "{{ page.header.metadata.description }}",
- "mainEntityOfPage" : {
-  "@type": "WebPage",
-  "@id": "{{ page.url(true) }}"
- },
- {% if page.header.image %}
- "image": {
-   "@type": "ImageObject",
-   "@id": "{{ page.url(true) }}/{{ page.header.image }}",
-   "name": "{{ page.header.image }}",
-   "url": "{{ page.url(true) }}/{{ page.header.image }}",
-   "height": "{{ page.header.image.height }}",
-   "width": "{{ page.header.image.width }}"
-   },
- {% endif %}
- "author": {
-  "@type": "Person",
-  "@id": "http://id.francois-vidit.fr",
-  "name": "François Vidit",
-  "url": "http://id.francois-vidit.fr"
- },
- "publisher": {
-  "@type": "Organization",
-  "@id": "http://francois-vidit.fr",
-  "name": "francois-vidit.fr",
-  "logo": {
-   "@type": "ImageObject",
-   "@id": "http://id.francois-vidit.fr/francois-vidit-fr.svg",
-   "name": "francois-vidit-fr-logo",
-   "url": "http://id.francois-vidit.fr"
-   }
-  }
-}
-</script>
 
-{% else %}
+{% if page.template == "item" or page.template == "curtain" %}
 
-<script type="application/ld+json">
 {
-  "@context" : "http://schema.org",
-  "@type" : "WebSite",
-  "name" : "{{ 'WEB_ALTERNATE_NAME'|t }}",
-  "inLanguage" : "{{ langswitcher.current }}"
-  "url" : "http://francois-vidit.fr/{{ langswitcher.current }}"
-}
-</script>
+"@context": "http://schema.org",
+"@type": "ItemPage",
+"inLanguage" : "{{ langswitcher.current }}",
+{% if page.header.metadata.genre %}"genre": "search engine optimization",{% endif %}
+"url": "{{ page.url(true) }}",
+"mainEntity" : {
+"@type": "Article",
+"mainEntityOfPage": "{{ page.url(true) }}",
+"@id": "{{ page.url(true) }}",
+"headline": "{{ page.header.title }}",
+{% if page.header.title2 %}"alternativeHeadline": "{{ page.header.title2 }}",{% endif %}
+"keywords": "{{ page.header.metadata.keywords }}",
+"datePublished": "{{ page.header.date }}",
+{% if page.header.created %}"dateCreated": "{{ page.header.created }}",{% endif %}
+{% if page.header.modified %}"dateModified": "{{ page.header.modified }}",{% endif %}
+"mainEntityOfPage" : "{{ page.url(true) }}",
+"description": "{{ page.header.metadata.description }}",
+{% if page.metadata.image %}
+"image": {
+  "@type": "ImageObject",
+  "@id": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}",
+  "representativeOfPage" : "true",
+  "name": "{{ page.metadata.image.content }}",
+  "url": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}"{% if page.metadata.image_height %},
+  "height": {
+     "@type": "QuantitativeValue",
+     "value": "{{ page.metadata.image_height.content|trim('px') }}",
+     "unitText" : "px",
+     "name" : "{{ page.metadata.image_height.content }}"{% endif %}{% if page.metadata.image_width %}},
+  "width": {
+     "@type": "QuantitativeValue",
+     "value": "{{ page.metadata.image_width.content|trim('px') }}",
+     "unitText" : "px",
+     "name" : "{{ page.metadata.image_width.content }}"}
+   },{% endif %}
 
 {% endif %}
 
+{% elseif page.template == "blog" %}
+
+{
+   "@context": "http://schema.org",
+   "@type": "CollectionPage",
+   "inLanguage" : "{{ langswitcher.current }}",
+   "name": "{{ page.title }} ",
+   "url": "{{ page.url(true) }}",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "{{ page.url(true) }}/search/query:{search_term_string}",
+     "query-input": "required name=search_term_string"
+   },
+
+{% elseif page.template == "modular" %}
+
+{
+"@context" : "http://schema.org",
+"@type" : "WebSite",
+"name" : "{{ 'WEB_ALTERNATE_NAME'|t }}",
+"inLanguage" : "{{ langswitcher.current }}",
+"url" : "{{ page.url(true) }}",
+
+{% else %}
+
+{
+"@context" : "http://schema.org",
+"@type" : "WebPage",
+"name" : "{{ page.title }}",
+"inLanguage" : "{{ langswitcher.current }}",
+"url" : "{{ page.url(true) }}",
+
+{% endif %}
+
+"author": {
+ "@type": "Person",
+ "@id": "http://id.francois-vidit.fr/{{ langswitcher.current }}/id_{{ langswitcher.current }}.jsonld",
+ "name": "François Vidit",
+ "givenName": "François",
+ "familyName": "Vidit",
+ {% if langswitcher.current == 'ja' %}"alternateName": "フランソワ・ヴィディ",{% elseif langswitcher.current == 'en' %}"Francois Vidit",{% else %}{% endif %} 
+ "url": "http://id.francois-vidit.fr/{{ langswitcher.current }}/id_{{ langswitcher.current }}.jsonld"
+  },
+"publisher": {
+ "@type": "Organization",
+ "@id": "http://francois-vidit.fr",
+ "name": "francois-vidit.fr",
+ "logo": {
+  "@type": "ImageObject",
+  "@id": "http://id.francois-vidit.fr/francois-vidit-fr.png",
+  "name": "francois-vidit-fr.png",
+  "url": "http://id.francois-vidit.fr/francois-vidit-fr.png",
+  "height": {
+    "@type": "QuantitativeValue",
+    "value": "60",
+    "unitText" : "px",
+    "name" : "60px"},
+  "width": {
+    "@type": "QuantitativeValue",
+    "value": "600",
+    "unitText" : "px",
+    "name" : "600px"}
+    }
+  }
+ }
+}
+
+</script>

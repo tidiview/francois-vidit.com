@@ -40,8 +40,6 @@ fr:
   HOME_ROOT: Accueil
   CONTACT_SUMMARY: Voici un récapitulatif de ce que vous avez envoyé:
   WEB_ALTERNATE_NAME: Page personnelle de François Vidit
-  META_DESCRIPTION: Page personnelle
-  META_KEYWORDS: 'Guide de Tourisme, Paris, France'
   CURTAIN_BUTTON_RIGHT_LINK: '/ja/'
   CURTAIN_BUTTON_RIGHT_UP: 'japonais'
   CURTAIN_BUTTON_RIGHT_BASE: '日本語'
@@ -56,6 +54,7 @@ fr:
   CURTAIN_TEXT_1: c'est
   CURTAIN_TEXT_2: un
   CURTAIN_TEXT_3: des
+  ADDED_LINK_1: Docs
 ja:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -114,6 +113,7 @@ ja:
   CURTAIN_TEXT_1: とは、
   CURTAIN_TEXT_2: ' '
   CURTAIN_TEXT_3: ' '
+  ADDED_LINK_1: ドックス
 en:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -160,3 +160,4 @@ en:
   CURTAIN_TEXT_1: it's
   CURTAIN_TEXT_2: a
   CURTAIN_TEXT_3: ' '
+  ADDED_LINK_1: Docs

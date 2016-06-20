@@ -1,12 +1,44 @@
 <script type="application/ld+json">
 {
    "@context": "http://schema.org",
-   "@type": "WebSite",
+   "@type": "CollectionPage",
+   "inLanguage" : "{{ langswitcher.current }}",
+   "name": "{{ page.title }} ",
    "url": "http://www.francois-vidit.fr/blog/{{ langswitcher.current }}",
    "potentialAction": {
      "@type": "SearchAction",
      "target": "http://francois-vidit.fr/blog/{{ langswitcher.current }}/search/query:{search_term_string}",
      "query-input": "required name=search_term_string"
-   }
+   },
+   "author": {
+   "@type": "Person",
+   "@id": "http://id.francois-vidit.fr/{{ langswitcher.current }}/id_{{ langswitcher.current }}.jsonld",
+   "name": "François Vidit",
+   "givenName": "François",
+   "familyName": "Vidit",
+   {% if langswitcher.current == 'ja' %}"alternateName": "フランソワ・ヴィディ",{% elseif langswitcher.current == 'en' %}"Francois Vidit",{% else %}{% endif %} 
+   "url": "http://id.francois-vidit.fr/{{ langswitcher.current }}/id_{{ langswitcher.current }}.jsonld"
+  },
+   "publisher": {
+   "@type": "Organization",
+   "@id": "http://francois-vidit.fr",
+   "name": "francois-vidit.fr",
+   "logo": {
+      "@type": "ImageObject",
+      "@id": "http://id.francois-vidit.fr/francois-vidit-fr.png",
+      "name": "francois-vidit-fr.png",
+      "url": "http://id.francois-vidit.fr/francois-vidit-fr.png",
+      "height": {
+         "@type": "QuantitativeValue",
+         "value": "60",
+         "unitText" : "px",
+         "name" : "60px"},
+      "width": {
+         "@type": "QuantitativeValue",
+         "value": "600",
+         "unitText" : "px",
+         "name" : "600px"}
+      }
+    }
 }
 </script>
