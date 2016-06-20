@@ -1,0 +1,80 @@
+[
+  {
+  "@context": {
+      "@vocab": "http://schema.org/"
+    },
+    "@id": "http://id.francois-vidit.fr/en",
+    "@type": "Person",
+    "givenName": "François",
+    "familyName": "Vidit",
+    "alternateName": [
+      {
+        "@language": "en",
+        "@value": "Francois Vidit"
+      }
+    ],
+    "description": "François Vidit is a French Tour guide in japanese language member of A.G.I.J. that works in Paris whose site is http://francois-vidit.fr/en"
+    "jobTitle": "Tourism guide"
+    "workLocation": [
+      {
+        "@type": "Place",
+        "hasMap": "http://francois-vidit.fr/en",
+        "Geo": [
+          {
+            "@type": "GeoCoordinates",
+            "Latitude": "48.8421114",
+            "Longitude": "2.295819700000038"
+          }
+        ],
+        "ContainedInPlace": [
+          {
+            "@type": "Country",
+            "name": "France",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/France/"
+            ]
+          },
+          {
+            "@type": "City",
+            "name": "Paris",
+            "sameAs": [
+              "https://en.wikipedia.org/wiki/Paris/"
+            ]
+          }
+        ]
+      }
+    ],
+    "url": "http://francois-vidit.fr/en",
+    "telephone": null,
+    "contactPoint": [
+      {
+        "@type" : "ContactPoint",
+        "contactType": "reservations",
+        "alternateName": "Reservation page"
+        "url": "http://francois-vidit.fr/en",
+        "availableLanguage": "en"
+      }
+    ],
+    "sameAs": [
+      "https://twitter.com/bf7afa37fa974cd/",
+      "https://plus.google.com/u/0/102915870834043244842/",
+      "https://github.com/tidiview/francois-vidit.fr"
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "A.G.I.J.",
+        "url": "http://www.agij-paris.com/",
+        "logo": "http://www.agij-paris.com/image/title01.gif",
+        "sameAs": "http://www.agij-paris.com/",
+        "description": "'A.G.I.J'　stands for 'French Japanese Speaking Guides Association'"
+      }
+    ],
+    "nationality": [
+      {
+        "@type": "Country",
+        "name": "France"
+      }
+    ]
+  }
+]

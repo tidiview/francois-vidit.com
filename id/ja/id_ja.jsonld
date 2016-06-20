@@ -1,0 +1,80 @@
+[
+  {
+  "@context": {
+      "@vocab": "http://schema.org/"
+    },
+    "@id": "http://id.francois-vidit.fr/ja",
+    "@type": "Person",
+    "givenName": "François",
+    "familyName": "Vidit",
+    "name" : "François Vidit",
+    "alternateName": "フランソワ・ヴィディ",
+    "description": "François Vidit は http://francois-vidit.fr/ja サイトとなっている、Paris　で活躍する　A.G.I.J. 会員日本語フランス政府公認観光ガイドです",
+    "jobTitle": "観光ガイド",
+    "workLocation": [
+      {
+        "@type": "Place",
+        "hasMap": "http://francois-vidit.fr/ja",
+        "Geo": [
+          {
+            "@type": "GeoCoordinates",
+            "Latitude": "48.8421114",
+            "Longitude": "2.295819700000038"
+          }
+        ],
+        "ContainedInPlace": [
+          {
+            "@type": "Country",
+            "name": "France",
+            "sameAs": [
+              "https://ja.wikipedia.org/wiki/フランス/"
+            ],
+            "alternateName": "フランス"
+          },
+          {
+            "@type": "City",
+            "name": "Paris",
+            "sameAs": [
+              "https://ja.wikipedia.org/wiki/パリ/"
+            ],
+            "alternateName": "パリ"
+          }
+        ]
+      }
+    ],
+    "url": "http://francois-vidit.fr/ja",
+    "telephone": null,
+    "contactPoint": [
+      {
+        "@type" : "ContactPoint",
+        "contactType": "reservations",
+        "name" : "御問い合わせ",
+        "alternateName": "予約",
+        "url": "http://francois-vidit.fr/ja",
+        "availableLanguage": "ja"
+      }
+    ],
+    "sameAs": [
+      "https://twitter.com/bf7afa37fa974cd/",
+      "https://plus.google.com/u/0/102915870834043244842/",
+      "https://github.com/tidiview/francois-vidit.fr"
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "A.G.I.J.",
+        "url": "http://www.agij-paris.com/",
+        "logo": "http://www.agij-paris.com/image/title01.gif",
+        "sameAs": "http://www.agij-paris.com/",
+        "description": "「A.G.I.J」は「フランス日本語通訳ガイド協会」を意味しています"
+      }
+    ],
+    "nationality": [
+      {
+        "@type": "Country",
+        "name": "France",
+        "alternateName": "フランス"
+      }
+    ]
+  }
+]

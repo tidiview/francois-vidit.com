@@ -1,3 +1,9 @@
+<meta name="lang" property="lang" content="{{ langswitcher.current }}"/>
 {% for meta in page.metadata %}
-	<meta{% if meta.name %} name="{{ meta.name }}" {% endif %}{% if meta.http_equiv %} http-equiv="{{ meta.http_equiv }}" {% endif %}{% if meta.charset %} charset="{{ meta.charset }}" {% endif %}{% if meta.property %} property="{{ meta.property }}" {% endif %}{% if meta.content %} content="{{ meta.content }}" {% endif %}/>
+	{% if meta.name == 'image_url' %}{% else %}
+<meta{% if meta.name %} name="{{ meta.name }}"{% endif %}{% if meta.http_equiv %} http-equiv="{{ meta.http_equiv }}" {% endif %}{% if meta.charset %} charset="{{ meta.charset }}" {% endif %}{% if meta.property %} property="{{ meta.property }}"{% endif %}{% if meta.content %} content="{% if meta.name == 'image' %}{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}/{% else %}{{ page.url(true) }}/{% endif %}{% endif %}{{ meta.content }}"{% endif %}{% if meta.name == 'description' or meta.name == 'image_legend' %} lang="{{ langswitcher.current }}"{% endif %}/>{% endif %} 
 {% endfor %}
+{% if page.metadata.image %}<meta name="twitter:title" property="twitter:title" content="{{ page.title }}" lang="{{ langswitcher.current }}"/>
+<meta name="twitter:site" property="twitter:site" content="@bf7afa37fa974cd"/>
+<meta name="twitter:image" property="twitter:image" content="{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}"/>
+<meta name="twitter:description" property="twitter:description" content="{{ page.metadata.description.content }}" lang="{{ langswitcher.current }}" />{% endif %}

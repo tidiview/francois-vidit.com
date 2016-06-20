@@ -30,9 +30,12 @@
             </li>
         {% endfor %}
     {% endif %}
+            <li id="environnement-link">
+                <a href="/docs/{{ langswitcher.current }}/reference" class="navigation">{{ 'ADDED_LINK_1'|t }}</a>
+            </li>
     {% for mitem in site.menu %}
-        <li>
-            <a href="{{ mitem.url }}">
+        <li id="social-linking">
+            <a href="{{ mitem.url }}" class="navigation">
                 {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
                 {{ mitem.children.visible }}
             </a>

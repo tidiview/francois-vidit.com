@@ -4,11 +4,9 @@
 {% set theme_config = attribute(config.themes, config.system.pages.theme) %}
 
 {% block head %}
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
     <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
     {% include 'partials/metadata.html.twig' %}
-    <meta name="description" content="{{ 'META_DESCRIPTION'|t }}" />
-    <meta name="keywords" content="{{ 'META_KEYWORDS'|t }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/png" href="{{ theme_url }}/images/{{ 'FAVICON_LANGUAGE_URL'|t }}" />
@@ -40,9 +38,6 @@
     {% endblock %}
     {{ assets.js() }}
 
-    <script type="application/ld+json" src="http://id.francois-vidit.fr/id.jsonld"></script>
-
-    {% include 'partials/search-query-jsonld.html.twig' %}
     {% include 'partials/website-jsonld.html.twig' %}
     
     {% block analytics %}
@@ -77,6 +72,7 @@
         {% block body %}
         <section id="body" class="{{ class }}">
             {% block content %}{% endblock %}
+                {{ dump(page) }}
         </section>
         {% endblock %}
 

@@ -68,12 +68,13 @@
 
 //fix color search box on input
 body#top.header-image.fullwidth div#sb-site header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
-	border-color: #ffffff;
+	border-color: #FA743E;
 	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(0, 0, 0, 1);
 }
 
-body#top.header-image.fullwidth div#sb-site header#header.scrolled div#navbar ul.navigation li#search_nav ul input[type="text"] {
-	border-color: #3B94D9;
+header#header.scrolled div#navbar ul.navigation li#search_nav ul input[type="text"],
+header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
+	border-color: #FA743E;
 	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(59, 148, 217, 0.7);
 }
 
@@ -267,13 +268,26 @@ body#top.modular.header-image.fullwidth #sb-site #header div#colorgradient {
 //langswitcher syndication color orange
 #header #navbar li#langswitcher a,
 #header #navbar ul.navigation li#search_nav a.navigation,
+#header #navbar ul.navigation li#social-linking a.navigation,
+#header #navbar ul.navigation li#environnement-link a.navigation,
 #header #navbar ul.navigation li#syndication a.navigation {
 	color: #FA743E;
 }
 
 #header.scrolled #navbar li#langswitcher a,
+#header.scrolled #navbar ul.navigation li#search_nav a.navigation,
+#header.scrolled #navbar ul.navigation li#social-linking a.navigation,
+#header.scrolled #navbar ul.navigation li#environnement-link a.navigation,
 #header.scrolled #navbar ul.navigation li#syndication a.navigation {
 	color: #FA743E !important;
+}
+// orange line under navbar-menu-word:hover
+header#header ul.navigation li#search_nav a.navigation:before, header#header ul.navigation li#search_nav a.navigation:after,
+header#header ul.navigation li#social-linking a.navigation:before, header#header ul.navigation li#social-linking a.navigation:after,
+header#header ul.navigation li#environnement-link a.navigation:before, header#header ul.navigation li#environnement-link a.navigation:after,
+header#header ul.navigation li#syndication a.navigation:before, header#header ul.navigation li#syndication a.navigation:after,
+header#header ul.navigation li#langswitcher.active.navigation a:before, header#header ul.navigation li#langswitcher.active.navigation a:after {
+	background-color: #FA743E !important;
 }
 
 a {
@@ -1339,12 +1353,21 @@ div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow p a r
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow p a ruby rt,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow p a ruby rt,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a ruby rt, {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a ruby rt,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow dl dd a {
 	color: #df8a13;
 }
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow p a ruby rb,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a ruby rb {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a ruby rb,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow dl dd a {
 	border-bottom: 1px solid #df8a13;
 }
 //red
@@ -1353,12 +1376,24 @@ div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red p a ruby
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red p a ruby rt,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red p a ruby rt,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a ruby rt, {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a ruby rt,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red dl dd a {
 	color: #b52b27;
 }
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red p a ruby rb,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a ruby rb {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a ruby rb,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red dl dd a {
 	border-bottom: 1px solid #b52b27;
 }
 //blue
@@ -1367,12 +1402,21 @@ div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue p a rub
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue p a ruby rt,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue p a ruby rt,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a ruby rt, {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a ruby rt,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue dl dd a {
 	color: #28a1c5;
 }
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue p a ruby rb,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a ruby rb {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a ruby rb,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue dl dd a {
 	border-bottom: 1px solid #28a1c5;
 }
 //green
@@ -1381,28 +1425,86 @@ div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green p a ru
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green p a ruby rt,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green p a ruby rt,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ruby rt, {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ruby rt,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green dl dd a {
 	color: #3d8b3d;
 }
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green p a ruby rb,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green p a ruby rb,
-div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ruby rb {
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ruby rb,
+div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green dl dd a,
+div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green dl dd a {
 	border-bottom: 1px solid #3d8b3d;
 }
 
-//bubble, img
-.img-bubble {
+
+//thumb, img
+.img-thumb-left {
 	float: left;
 	padding-right: 10px;
-	max-width: 370px;
+	max-width: 150px;
+}
+
+.img-thumb-right {
+	float: right;
+	padding-left: 10px;
+	max-width: 150px;
 }
 
 //bubble, img
-.img-bubble {
+.img-bubble-left {
 	float: left;
 	padding-right: 10px;
-	max-width: 370px;
+	max-width: 300px;
 }
+@media only all and (max-width: 355px) {
+	.img-bubble-left {
+	padding-right: 0px;
+	max-width: 242px;
+	}
+}
+.img-bubble-right {
+	float: right;
+	padding-left: 10px;
+	max-width: 300px;
+}
+@media only all and (max-width: 355px) {
+	.img-bubble-right {
+	padding-left: 0px;
+	max-width: 242px;
+	}
+}
+//illust, img
+.img-illust-left {
+	float: left;
+	padding-right: 10px;
+	min-height: 175px;
+	max-width: 600px;
+}
+@media only all and (max-width: 355px) {
+	.img-illust-left {
+	padding-right: 0px;
+	max-width: 242px;
+	}
+}
+.img-illust-right {
+	float: right;
+	padding-left: 10px;
+	min-width: 290px;
+}
+@media only all and (max-width: 355px) {
+	.img-illust-right {
+	padding-left: 0px;
+	max-width: 242px;
+	}
+}
+
 //caracter-icon, img
 .caracter-icon {
 	width: 25px;
@@ -1636,6 +1738,3 @@ div.list-item.lang-font > div#body-blog-item.list-blog-padding.lang-font {
 	background-position: top
 	}
 }
-
-//formatting od definition tags dt and dd
-
