@@ -17,7 +17,7 @@ shortcode-core:
 
 ##### [color=#df8a13]Ap. 12-7[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- |
@@ -40,8 +40,11 @@ shortcode-core:
 | 17 | Then the dragon was enraged with the woman and went away to make war on the rest of her children, who obey God's commandments and have in themselves the witness of Jesus. |
 | 18 | And I took my stand on the seashore. |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color] 
+![»][»] 
 
 <br>
 
 [color=#df8a13]Liturgical Translation of the New Testament[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon

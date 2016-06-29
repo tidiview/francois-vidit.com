@@ -15,7 +15,7 @@ shortcode-core:
 
 ##### [color=#df8a13]12章, 1-18節[/color]  
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- | 
@@ -38,6 +38,9 @@ shortcode-core:
 | 17 | 竜は女に対して激しく怒り、その子孫の残りの者たち、すなわち、神の掟を守り、イエスの証しを守りとおしている者たちと戦おうとして出て行った。 |
 | 18 | そして、竜は海辺の砂の上に立った。  |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]
 
 [color=#df8a13]訳名： 「新共同訳」[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon

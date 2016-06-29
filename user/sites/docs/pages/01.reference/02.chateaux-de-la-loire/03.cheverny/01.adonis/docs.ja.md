@@ -22,13 +22,13 @@ shortcode-core:
 ---
 ![ジャン・モニエ、アドニスの死](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg/1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg "ジャン・モニエ、アドニスの死") {.class-diane-img}
 
-! [{r}Cheverny{/r:シュヴェルニー} 城](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城") の二階にある暖炉で展示されている、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いたアドニスの死を表れる絵画の元に、 [{r}オヴィディウス{/r:Ovidius}](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス") が書いた「 [{r}変身物語{/r:Metamorphoseon}](https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語") 」の第十巻末のアドニス章画があります。  
+! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある暖炉で展示されている、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いたアドニスの死を表れる絵画の元に、 [{r}オヴィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第十巻末のアドニス章画があります。  
 ! ご参照ください！
 
 [color=#df8a13]**アドニスの死**[/color]  
 
-[color=lightgrey][fa fa-quote-left][/color]
-<sup style="color:lightgrey">708</sup> 彼女は、このように忠告すると、白鳥たちに引かせた車で、   
+![«][«]
+<sup>708</sup> 彼女は、このように忠告すると、白鳥たちに引かせた車で、   
 空を渡ってゆく。が、若者の勇気が、この忠告に逆らうのだ。   
 たまたま、犬たちが、猪のまぎれない足跡をつけて、  
 ねぐらから追い出した。そして、キニュラスの血を引く若者は  
@@ -40,7 +40,7 @@ shortcode-core:
 ウェヌス女神は、軽やかな車に垂って {r}中空{/r:なかそら} を分けていたが、   
 羽ばたく白鳥の翼にもかからわず、まだキュブロスには着いていなかった。  
 遠くから、瀕死のアドニスの呻きを聞きつけて、  
-<sup style="color:lightgrey">720</sup> 白鳥たちをそちらヘ向けた。そして、息絶えようとしながら、    
+<sup>720</sup> 白鳥たちをそちらヘ向けた。そして、息絶えようとしながら、    
 みずからの血のなかで身もだえしている彼を見ると、  
 車から跳び下りた。着物の腕元を引き裂き、髪をきかむしって、    
 思いもかけずに胸を打ちたたく。  
@@ -58,7 +58,13 @@ shortcode-core:
 {r}強靭{/r:きょうじん} な皮の下に種子を隠し持っている、あの {r}石榴{/r:ざくろ} が着ける花にそっくりだが、  
 しかし、その花を覚でる期間は短かいのだ。  
 花の付き具合が悪く、軽すぎて落ちやすいために、  
-<sup style="color:lightgrey">739</sup> アネモネというその名のもとになっている {r}風{/r:アネモネ} が、これを散らすからだ。
-[color=lightgrey][fa fa-quote-right][/color]  
+<sup>739</sup> アネモネというその名のもとになっている {r}風{/r:アネモネ} が、これを散らすからだ。
+![»][»]  
 
 [color=#df8a13]オウィディウス、変身物語、第十巻末、708～より[/color]  
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon
+[1]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城"
+[2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
+[3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
