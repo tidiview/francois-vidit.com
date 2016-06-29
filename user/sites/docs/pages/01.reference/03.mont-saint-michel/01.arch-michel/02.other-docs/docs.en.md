@@ -16,7 +16,7 @@ shortcode-core:
 
 ##### [color=#df8a13]Daniel Dn 12,1-3.[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]  
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- | 
@@ -28,8 +28,11 @@ shortcode-core:
 | 3 | But those with insight shall shine brightly like the splendor of the firmament, |
 |  | And those who lead the many to justice shall be like the stars* forever. |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color] 
+![»][»]  
 
 <br>
 
 [color=#df8a13]Source: Liturgical Translation of the New Testament[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon

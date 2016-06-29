@@ -12,7 +12,7 @@ shortcode-core:
 
 ##### [color=#df8a13]Ap. 12-7[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- | 
@@ -35,8 +35,11 @@ shortcode-core:
 | 17 | Alors le Dragon se mit en colère contre la Femme, il partit faire la guerre au reste de sa descendance, ceux qui observent les commandements de Dieu et gardent le témoignage de Jésus. |
 | 18 | Et il se posta sur le sable au bord de la mer. |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color] 
+![»][»]
 
 <br>
 
 [color=#df8a13]Traduction liturgique du Nouveau Testament[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon

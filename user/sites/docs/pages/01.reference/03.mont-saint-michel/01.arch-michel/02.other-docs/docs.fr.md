@@ -12,7 +12,7 @@ shortcode-core:
 
 ##### [color=#df8a13]Daniel Dn 12, 1-3[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- |
@@ -20,13 +20,13 @@ shortcode-core:
 | 02 | Beaucoup de gens qui dormaient dans la poussière de la terre s’éveilleront, les uns pour la vie éternelle, les autres pour la honte et la déchéance éternelles. |
 | 03 | Ceux qui ont l’intelligence resplendiront comme la splendeur du firmament, et ceux qui sont des maîtres de justice pour la multitude brilleront comme les étoiles pour toujours et à jamais. |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]  
 
 <br>
 
 ##### [color=#df8a13]Daniel Dn 10[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- |
@@ -52,30 +52,33 @@ shortcode-core:
 | 20 | Il dit : « Sais-tu pourquoi je suis venu vers toi ? Maintenant, je vais retourner combattre l’ange de la Perse. À l’issue de ce combat, l’ange de la Grèce viendra. |
 | 21 | Personne ne me prête main-forte contre ceux-ci, sauf Michel, votre ange. Mais je t’annonce ce qui est inscrit dans le livre de vérité. |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]  
 
 <br>
 
 ##### [color=#df8a13]Épître de Jude verset 9[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- |
 | 09 | Or **l’archange Michel**, discutant avec le démon dans la querelle au sujet du corps de Moïse, n’osa pas porter contre lui un jugement qui l’outrage ; il lui dit seulement : Que le Seigneur te blâme ! |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]  
 
 ##### [color=#df8a13]1Th. Chapître 4 verset 16[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]  
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- |
 | 16 | Au signal donné par la voix de **l’archange**, et par la trompette divine, le Seigneur lui-même descendra du ciel, et ceux qui sont morts dans le Christ ressusciteront d’abord |
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]   
 
 <br>
 
 [color=#df8a13]Traduction liturgique de l'Ancien Testament[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon

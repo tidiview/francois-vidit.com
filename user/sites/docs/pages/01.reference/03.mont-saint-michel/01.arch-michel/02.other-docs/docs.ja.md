@@ -15,7 +15,7 @@ shortcode-core:
 
 ##### [color=#df8a13]12章、1-3節[/color]
 
-[color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-left,fa-border /][/color]
+![«][«]  
 
 |   | <span hidden>hidden</span> | 
 | - | -------------------------- | 
@@ -27,6 +27,9 @@ shortcode-core:
 |  | ある者は永遠の生命に入り。ある者は永久に続く恥と憎悪の的となる。 | 
 | 03 | 目覚めた人々は大空の光のように輝き／多くの者の救いとなった人々は／とこしえに星と輝く。 | 
 
-[color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
+![»][»]   
 
 [color=#df8a13]訳名： 「新共同訳」[/color]
+
+[«]: /fr/images/quotesleft.svg?classes=caracter-icon
+[»]: /fr/images/quotesright.svg?classes=caracter-icon
