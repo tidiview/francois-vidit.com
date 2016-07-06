@@ -10,7 +10,7 @@ metadata:
     description: 'シュヴェルニー城の二階にある王の寝室の天井に、ジャン・モニエ画家が描いたペルセウスとアンドロメダ諸絵の元に、オヴィディウス作家が書いた変身物語の第四巻末のペルセウスとアンドロメダ章を語る文書'
     keywords: 'シュヴェルニー城, シュヴェルニー, ペルセウスとアンドロメダ, ペルセウス, アンドロメダ, オヴィディウス, 変身物語, ジャン・モニエ'
 langswitcher:
-   enabled: false
+   enabled: true
 shortcode-core:
    active: true
 ---

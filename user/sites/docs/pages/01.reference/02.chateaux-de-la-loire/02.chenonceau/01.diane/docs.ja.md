@@ -15,7 +15,7 @@ metadata:
     image_legend: フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像
     'twitter:card' : summary
 langswitcher:
-   enabled: false
+   enabled: true
 shortcode-core:
    active: true
 ---

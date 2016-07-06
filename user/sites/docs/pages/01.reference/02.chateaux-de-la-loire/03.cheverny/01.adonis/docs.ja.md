@@ -16,7 +16,7 @@ metadata:
     image_legend: ジャン・モニエ、アドニスの死
     'twitter:card' : summary
 langswitcher:
-   enabled: false
+   enabled: true
 shortcode-core:
    active: true
 ---
