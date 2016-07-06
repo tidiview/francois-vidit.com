@@ -1,9 +1,8 @@
 ---
 title: Le château
-menu: chateau
+menu: château
 taxonomy:
     category: [docs, fr]
-visible: false
 date: 15-01-2016
 modified: 18-06-2016
 ---
