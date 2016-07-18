@@ -55,6 +55,7 @@ fr:
   CURTAIN_TEXT_2: un
   CURTAIN_TEXT_3: des
   ADDED_LINK_1: Docs
+  MINUTE: 'min.'
 ja:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -114,6 +115,7 @@ ja:
   CURTAIN_TEXT_2: ' '
   CURTAIN_TEXT_3: ' '
   ADDED_LINK_1: ドックス
+  MINUTE: '分'
 en:
   TRANSLATION_TEST: Antimatter!
   SITE_AUTHOR_NAME: François Vidit
@@ -161,3 +163,16 @@ en:
   CURTAIN_TEXT_2: a
   CURTAIN_TEXT_3: ' '
   ADDED_LINK_1: Docs
+  Jan: Jan
+  Feb: Feb
+  Mar: Mar
+  Apr: Apr
+  May: May
+  Jun: Jun
+  Jul: Jul
+  Aug: Aug
+  Sep: Sep
+  Oct: Oct
+  Nov: Nov
+  Dec: Dec
+  MINUTE: 'min.'

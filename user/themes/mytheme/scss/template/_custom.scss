@@ -601,7 +601,7 @@ section#body div#item.blog-content-item.grid.pure-g-r div.content-wrapper-list-i
 	margin-top: 0rem;
 }
 
-.list-item li {
+div#navbar .list-item li {
 	position: relative;
 	right: 0px;
 	left: 0px;
@@ -1737,4 +1737,8 @@ div.list-item.lang-font > div#body-blog-item.list-blog-padding.lang-font {
 	background-repeat: repeat-y;
 	background-position: top
 	}
+}
+
+div#body-blog-item.list-blog-padding.lang-font ul li {
+	margin-left: 3rem;
 }
