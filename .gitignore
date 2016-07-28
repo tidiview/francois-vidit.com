@@ -36,6 +36,7 @@ images/*
 img/*
 landio-site/*
 logs/*
+markdown-ruby-text/*
 mediator/*
 onepage-site/*
 piwik/*
@@ -75,3 +76,16 @@ Thumbs.db
 *.sublime-project
 README.md
 user/pages/01.home/modular.ja.md
+robots.txt_old
+google977818a9b31503ef.html
+robots.txt
+setup-3-20160508-1930.php
+setup-4-20160508-2019.php
+setup-5-20160508-2024-surdirectoris-learngetgrav.php
+setup-6-20160508-2027-subdomains.php
+setup-7-20160508-2034-sommerregen-11nov2015.php
+setup-8-20160508-2042-subdomains-michal-2nd.php
+setup.php
+setup2-20160508-1858-subdomains.php
+test.php
+id
