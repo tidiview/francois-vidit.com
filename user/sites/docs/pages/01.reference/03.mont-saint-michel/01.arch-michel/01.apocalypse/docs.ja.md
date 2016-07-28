@@ -2,13 +2,18 @@
 title: ヨハネの黙示録
 menu: 黙示録
 date: 22-11-2015
-modified: 18-06-2016
+modified: 24-07-2016, 00:21
+itempage: article
 taxonomy:
    category: [docs, ja]
-header_image: false
 metadata:
-    description: 'シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オヴィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書'
-    keywords: 'シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オヴィディウス, 変身物語, アクタイオン'
+   description: '大天使ミカエルが出現する唯一の新約聖書、黙示録１２章の文書'
+   keywords: '大天使ミカエル, 新約聖書, 黙示録, 黙示録１２章, モン・サン・ミシェル'
+   image: apocalypse_700x694.jpg
+   image_height: 700px
+   image_width: 694px
+   image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
+   'twitter:card' : summary
 shortcode-core:
    active: true
 ---

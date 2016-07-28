@@ -68,6 +68,6 @@ content:
             - _landing-curtain
             - _blog
             - _docs
-            - _guide
+            - _about
             - _contact
 ---

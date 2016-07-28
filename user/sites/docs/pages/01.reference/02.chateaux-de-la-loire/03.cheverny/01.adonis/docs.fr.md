@@ -9,10 +9,9 @@ header_image: false
 metadata:
     description: "Texte extrait du livre 10 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean Monier pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de Cheverny"
     keywords: "Château de Cheverny, Cheverny, Adonis, la mort d'Adonis, Ovide, Les Métamorphoses, Jean Monier"
-    image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
-    image_height: 1236px
-    image_width: 1280px
+    image: adonis_700x676.jpg
+    image_height: 700px
+    image_width: 676px
     image_legend: "Jean Monier, La Mort d'Adonis"
     'twitter:card' : summary
 langswitcher:
@@ -21,7 +20,7 @@ shortcode-core:
    active: true
 
 ---
-![Jean Monier, La Mort d'Adonis](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg/1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg "Jean Monier, La Mort d'Adonis") {.class-diane-img}
+![Jean Monier, La Mort d'Adonis][4] {.class-diane-img}
 
 ! Il existe un petit texte à l'origine du tableau peint par Jean Monier pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de [Cheverny][1].  
 ! [Ovide][2] a écrit cet extrait du livre 10 des [Métamorphoses][3].
@@ -71,4 +70,5 @@ Toutefois car, tenant mal, trop fragile en sa légèreté,
 [1]: https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny "https://fr.wikipedia.org/wiki/Château_de_Cheverny"
 [2]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
 [3]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
+[4]: ./adonis_700x676.jpg "ジャン・モニエ、アドニスの死"
 [^1]: Adonis est changé en anémone, la fleur qui s'ouvre au vent.

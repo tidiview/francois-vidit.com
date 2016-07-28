@@ -1,5 +1,5 @@
 <div class="content-wrapper-list-item" >
-<div class="list-item lang-font" lang="{{ langswitcher.current }}">
+<div id="{{ page.header.itempage|lower }}" class="list-item lang-font" lang="{{ langswitcher.current }}">
     {% set header_image = page.header.header_image|defined(true) %}
     {% set header_image_width = page.header.header_image_width|defined(900) %}
     {% set header_image_height = page.header.header_image_height|defined(300) %}
@@ -16,17 +16,17 @@
         <div class="list-blog-date">
             <p><span>{{ page.date|date("j")|t }}</span>{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}<sup>{{ page.date|date("S")|t }}</sup>{% else %}日{% endif %}<i class="fa fa-calendar-o fa-2x"></i></p>
             <p>{{ page.date|date("M")|t }}{% if langswitcher.current == 'fr' or langswitcher.current == 'en' %}.{% endif %}</p>
-            <p>{{ page.date|date("Y")|t }}</p>
+            <p><span>{{ page.date|date("Y")|t }}</span></p>
         </div>
         {% if page.header.link %}
-            <h2>
+            <h2 id="list-blog-title">
                 {% if page.header.continue_link is not sameas(false) %}
-                <a href="{{ page.url }}"><i class="fa fa-angle-double-right"></i></a>
+                <a href="{{ page.url }}" lang="{{ langswitcher.current }}"><i class="fa fa-angle-double-right"></i></a>
                 {% endif %}
-                <a href="{{ page.header.link }}" lang="{{ langswitcher.current }}">{{ page.title }}</a>
+                <a href="{{ page.header.link }}">{{ page.title }}</a>
             </h2>
         {% else %}
-            <h2><a href="{{ page.url }}" lang="{{ langswitcher.current }}">{{ page.title }}</a></h2>
+            <h2 id="list-blog-title" lang="{{ langswitcher.current }}"><a href="{{ page.url }}">{{ page.title }}</a></h2>
         {% endif %}
 
         {% if page.taxonomy.tag %}
@@ -72,19 +72,25 @@
         {{ page.content }}
         {% set show_prev_next = true %}
     {% endif %}
-    <div id="blog-item-footer">{{ stars(page.route) }} {% if (page.content|readingtime({'format': '{minutes_short_count}'}) ) > '1' %}{% include 'partials/stopwatch.html.twig' %}{{ page.content|readingtime({'format': '{minutes_short_count}'}) }} {{ 'MINUTE'|t }}{% if (page.content|readingtime({'format': '{seconds_short_count}'}) ) > '30' %} 30'{% endif %}{% endif %}</div></div>
+    <div id="blog-item-footer">
+    {% if (page.content|readingtime({'format': '{minutes_short_count}'}) ) > '1' %}{% include 'partials/stopwatch.html.twig' %}
+        <span>{{ page.content|readingtime({'format': '{minutes_short_count}'}) }}</span> {{ 'MINUTE'|t }}{% if (page.content|readingtime({'format': '{seconds_short_count}'}) ) > '30' %} <span>30</span> ''
+    {% endif %}
+    {% endif %}
+    </div></div>
     {% if show_prev_next %}
 
         <p class="prev-next">
             {% if not page.isFirst %}
-                <a class="button" href="{{ page.nextSibling.url }}" class="lang-font" lang="{{ langswitcher.current }}"><i class="fa fa-chevron-left"></i>{{ 'BLOG_ITEM_NEXT'|t }}</a>
+                <a class="button" href="{{ page.nextSibling.url }}" lang="{{ langswitcher.current }}"><i class="fa fa-chevron-left"></i>{{ 'BLOG_ITEM_NEXT'|t }}</a>
             {% endif %}
 
             {% if not page.isLast %}
-                <a class="button" href="{{ page.prevSibling.url }}" class="lang-font" lang="{{ langswitcher.current }}">{{ 'BLOG_ITEM_PREVIOUS'|t }}<i class="fa fa-chevron-right"></i></a>
+                <a class="button" href="{{ page.prevSibling.url }}" lang="{{ langswitcher.current }}">{{ 'BLOG_ITEM_PREVIOUS'|t }}<i class="fa fa-chevron-right"></i></a>
             {% endif %}
         </p>
     {% endif %}
     
 </div>
+{% include 'partials/comments.html.twig' with {'page': page} %}
 </div>
