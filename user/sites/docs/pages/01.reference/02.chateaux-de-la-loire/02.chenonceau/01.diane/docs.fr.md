@@ -2,12 +2,9 @@
 title: Ovide 
 menu: Diane
 date: 15-01-2016
-modified: 23-07-2016, 23:42
-itempage: article
+modified: 02-07-2016
 taxonomy:
    category: [docs, fr]
-langswitcher:
-   enabled: true
 metadata:
     description: "Texte extrait du chapître 'Actéon' livre 3 des Métamorphoses écrit par Ovide et utilisé par le peintre Le Primatice pour réaliser le portrait de Diane de Poitiers exposé au Château de Chenonceau"
     keywords: 'Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon'
@@ -17,11 +14,13 @@ metadata:
     image_width: 1366px
     image_legend: "École du Primatice, Portrait de Diane"
     'twitter:card' : summary
+langswitcher:
+   enabled: true
 shortcode-core:
    active: true
 ---
 
-![École du Primatice, Portrait de Diane][9] {.class-diane-img}
+![École du Primatice, Portrait de Diane](https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像") {.class-diane-img}
 
 !!!! Ce portrait est une œuvre que [Le Primatice][2], peintre originaire de Bologne en Italie, invité par le roi [François Ier][1] puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au [Château de Chenonceau][3].  
 !!!! En italien, la même personne est désignée par l'appellation 'Il Primaticcio'.  
@@ -171,4 +170,3 @@ Fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois.
 [6]: https://fr.wikipedia.org/wiki/Diane_(mythologie) "https://fr.wikipedia.org/wiki/Diane_(mythologie)"
 [7]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
 [8]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
-[9]: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"

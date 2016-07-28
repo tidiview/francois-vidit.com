@@ -9,9 +9,10 @@ header_image: false
 metadata:
     description: "Text extract from chapter 'Adonis' of book X of Ovid's Metamorphoses and used by painter jean Monier to realise the canvas representing The Death of Adonis exposed in the second storey of the Château de Cheverny"
     keywords: "Château de Cheverny, Castle Of Cheverny, Cheverny, Adonis, The Death of Adonis, Ovid, The Metamorphoses, Jean Monier"
-    image: adonis_700x676.jpg
-    image_height: 700px
-    image_width: 676px
+    image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
+    image_height: 1236px
+    image_width: 1280px
     image_legend: "Jean Monier, The Death of Adonis"
     'twitter:card' : summary
 langswitcher:
@@ -19,7 +20,7 @@ langswitcher:
 shortcode-core:
    active: true
 ---
-![Jean Monier, The Death of Adonis][4] {.class-diane-img}
+![Jean Monier, The Death of Adonis](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg/1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg "Jean Monier, The Death of Adonis") {.class-diane-img}
 
 ! There is a little text at the origin of this representation of the death of Adonis painted by [Jean Monier][4] and exposed on the second storey of the Château de [Cheverny][1].  
 ! [Ovid][2] has written this extract of book 10 of the [Metamorphoses][3].  
@@ -51,4 +52,4 @@ So saying, she sprinkled the blood with odorous nectar: and, at the touch, it sw
 [2]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
 [3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
 [4]: https://en.wikipedia.org/wiki/Jean_Monier "https://en.wikipedia.org/wiki/Jean_Monier"
-[4]: ./adonis_700x676.jpg "ジャン・モニエ、アドニスの死"
+[^1]: Adonis est changé en anémone, la fleur qui s'ouvre au vent.

@@ -3,23 +3,22 @@ title: オウィディウス
 menu: パエトン
 date: 24-06-2016
 modified: 24-06-2016
-itempage: Article
 taxonomy:
    category: [docs, ja]
-langswitcher:
-   enabled: true
 metadata:
     description: 'ヴェルサイユ宮殿に太陽神アポロ肖像のもとに使用された、オヴィディウス作家が書いた変身物語の第二巻のパエトン章の文書'
     keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, オヴィディウス, 変身物語, パエトン'
-    image: apollon_700x556.jpg
-    image_width: 700px
-    image_height: 556px
+    image: apollon.JPG
+    image_height: 638px
+    image_width: 803px
     image_legend: フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像
     'twitter:card' : summary
+langswitcher:
+   enabled: true
 shortcode-core:
    active: true
 ---
-![ヴェルサイユ庭園にある太陽神アポロ泉水][5] {.class-diane-img}
+![ヴェルサイユ庭園にある太陽神アポロ泉水](http://localhost/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon.JPG "ヴェルサイユ庭園にある太陽神アポロ泉水") {.class-diane-img}
 
 ! {r}ルイ{/r:Louis} {r}14世{/r:XIV} は太洋王とも呼ばれている。  
 ! 「{r}王子{/r:Mémoires} {r}教{/r:pour} {r}育{/r:l} {r}の{/r:'} {r}ため{/r:instruction} {r}の{/r:du} {r}回顧録{/r:Dauphin}」 で、本人が、どういう訳で若いころに、自分で自ら太洋を選択したかを述べている。  
@@ -339,4 +338,3 @@ shortcode-core:
 [2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
 [3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
 [4]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/パエトン"
-[5]: ./apollon_700x556.jpg "ヴェルサイユ庭園にある太陽神アポロ泉水"

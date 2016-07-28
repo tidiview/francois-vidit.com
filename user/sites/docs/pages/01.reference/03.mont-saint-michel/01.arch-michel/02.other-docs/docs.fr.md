@@ -1,17 +1,9 @@
 ---
 title: Autres sources
 date: 23-11-2015
-date: 22-11-2015
-modified: 24-07-2016, 00:25
+modified: 18-06-2016
 taxonomy:
     category: [docs, fr]
-metadata:
-   description: 'Textes de l'Ancien Testament où apparaît l'Archange Saint-Michel'
-   keywords: 'Archange Saint-Michel, Ancien Testament, Mont-Saint-Michel'
-   image: other-docs_700x426.png
-   image_height: 700px
-   image_width: 426px
-   'twitter:card' : summary
 shortcode-core:
    active: true
 ---

@@ -2,12 +2,9 @@
 title: オウィディウス
 menu: ディアヌ
 date: 15-01-2016
-modified: 23-07-2016, 23:41
-itempage: article
+modified: 18-06-2016
 taxonomy:
    category: [docs, ja]
-langswitcher:
-   enabled: true
 metadata:
     description: 'シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オヴィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書'
     keywords: 'シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オヴィディウス, 変身物語, アクタイオン'
@@ -17,10 +14,12 @@ metadata:
     image_width: 1366px
     image_legend: フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像
     'twitter:card' : summary
+langswitcher:
+   enabled: true
 shortcode-core:
    active: true
 ---
-![フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像][9] {.class-diane-img}
+![フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像](https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像") {.class-diane-img}
 
 !!!! この画像は、当時、 [{r}François{/r:フランソワ}１世][1] に招待され、後に文化大臣に相当する人物ともなった、イタリア・ボローニャ出身の画家 [{r}Primaticcio{/r:プリマティッチオ}][2] が1556年に [{r}Chenonceau{/r:シュノンソー} 城][3] で描いた作品です。  
 !!!!  当時 本人は {r}Le{/r:ル} {r}Primatice{/r:プリマティス} とフランス語風の名で知られていました。  
@@ -74,4 +73,3 @@ shortcode-core:
 [6]: https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A "https://ja.wikipedia.org/wiki/ディアーナ"
 [7]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
 [8]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[9]: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"

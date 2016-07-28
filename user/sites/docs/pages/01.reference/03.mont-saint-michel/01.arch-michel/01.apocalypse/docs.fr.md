@@ -1,19 +1,11 @@
 ---
-title: Saint-Michel dans l'Apocalypse
+title: Saint Michel dans l'Apocalypse
 menu: Apocalypse
 date: 22-11-2015
-modified: 24-07-2016, 00:21
-itempage: article
+modified: 18-06-2016
 taxonomy:
    category: [docs, fr]
-metadata:
-   description: 'Texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Saint-Michel'
-   keywords: 'Archange Saint-Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont-Saint-Michel'
-   image: apocalypse_700x694.jpg
-   image_height: 700px
-   image_width: 694px
-   image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
-   'twitter:card' : summary
+header_image: false
 shortcode-core:
    active: true
 ---

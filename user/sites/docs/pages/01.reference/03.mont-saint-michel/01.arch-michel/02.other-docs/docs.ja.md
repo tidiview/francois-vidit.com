@@ -2,17 +2,10 @@
 title: 他の資料での大天使ミシェル
 menu: 他の資料
 date: 23-11-2015
-modified: 24-07-2016, 00:22
-itempage: Article
+modified: 17-06-2016
 taxonomy:
    category: [docs, ja]
-metadata:
-   description: '大天使ミカエルが出現、旧約聖書の様々な文書'
-   keywords: '大天使ミカエル, 旧約聖書, モン・サン・ミシェル'
-   image: other-docs_700x426.png
-   image_height: 700px
-   image_width: 426px
-   'twitter:card' : summary
+header_image: false
 shortcode-core:
    active: true
 ---

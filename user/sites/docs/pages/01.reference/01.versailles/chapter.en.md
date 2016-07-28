@@ -3,9 +3,7 @@ title: The Palace of Versailles
 taxonomy:
     category: [docs, en]
 date: 15-01-2016
-modified: 23-07-2016, 22:30
-metadata:
-   image: versailles_700x525.jpg
+modified: 18-06-2016
 ---
 ### Le Château de Versailles
 

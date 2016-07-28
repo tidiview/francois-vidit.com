@@ -6,6 +6,3 @@ taxonomy:
 ---
 
 # Référence
-
-Dans cette section, se trouve des documents qui permettent d'approfondire les visites.  
-N'hésitez pas à consulter!
