@@ -21,6 +21,10 @@
 	src: url('/user/themes/mytheme/fonts/seguisym.ttf')  format('truetype');
 }
 
+body#top html, body, button, input, select, textarea, .pure-g, .pure-g [class*="pure-u"] {
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
+}
+
 #header {
 	background-color: rgba(255,255,255,1);
 	position: relative;
@@ -86,11 +90,6 @@ header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
 #body {
 	padding-top: 0.15rem;
 	background: #f2f2f2;
-}
-
-#body-about {
-	padding-top: 0.15rem;
-	background-color: #c70102;
 }
 
 .header-image #body .flush-top {
@@ -161,8 +160,7 @@ header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
 //.content-wrapper .blog-header .fullwidth: blog list body section DIV padding setting
 body#top.header-image.fullwidth div#sb-site section#body div.flush-top.blog-header.blog-header-image,
 body#top.header-image.fullwidth div#sb-site section#body div.content-wrapper.blog-content-list.grid,
-body#top.header-image.fullwidth div#item.blog-content-item.grid.pure-g-r,
-body#top div#sb-site section#body-about {
+body#top.header-image.fullwidth div#item.blog-content-item.grid.pure-g-r {
 	padding-left: 15rem;
 	padding-right: 15rem;
 	@include breakpoint(tablet-range) {
@@ -240,6 +238,7 @@ body#top.modular.header-image.fullwidth #sb-site #header div#colorgradient {
 #header #navbar ul.navigation li a {
 	text-transform: uppercase;
 	color: #3B94D9;
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 }
 
 #header.scrolled #navbar a {
@@ -271,6 +270,23 @@ body#top.modular.header-image.fullwidth #sb-site #header div#colorgradient {
 	color: #3B94D9;
 }
 
+header#header div#navbar ul.navigation li ul li:hover > a {
+	background: #fff;
+	color: #3B94D9;
+}
+
+header#header div#navbar ul.navigation li#langswitcher.active ul li:hover > a {
+	background: #fff;
+	color: #FA743E;
+}
+
+div#sb-site header#header.scrolled div#navbar ul.navigation li#environnement-link a.navigation,
+div#sb-site header#header.scrolled div#navbar ul.navigation li#social-linking a.navigation,
+div#sb-site header#header.scrolled div#navbar ul.navigation li#search_nav a.navigation,
+div#sb-site header#header.scrolled div#navbar ul.navigation li#langswitcher.active a.navigation {
+	margin-top: 0px !important;
+}
+
 //langswitcher syndication color orange
 #header #navbar li#langswitcher a,
 #header #navbar ul.navigation li#search_nav a.navigation,
@@ -288,12 +304,35 @@ body#top.modular.header-image.fullwidth #sb-site #header div#colorgradient {
 	color: #FA743E !important;
 }
 // orange line under navbar-menu-word:hover
-header#header ul.navigation li#search_nav a.navigation:before, header#header ul.navigation li#search_nav a.navigation:after,
-header#header ul.navigation li#social-linking a.navigation:before, header#header ul.navigation li#social-linking a.navigation:after,
-header#header ul.navigation li#environnement-link a.navigation:before, header#header ul.navigation li#environnement-link a.navigation:after,
-header#header ul.navigation li#syndication a.navigation:before, header#header ul.navigation li#syndication a.navigation:after,
-header#header ul.navigation li#langswitcher.active.navigation a:before, header#header ul.navigation li#langswitcher.active.navigation a:after {
+body#top.header-image.fullwidth header#header ul.navigation li#search_nav a.navigation:before, body#top.header-image.fullwidth header#header ul.navigation li#search_nav a.navigation:after,
+body#top.header-image.fullwidth header#header ul.navigation li#social-linking a.navigation:before, body#top.header-image.fullwidth header#header ul.navigation li#social-linking a.navigation:after,
+body#top.header-image.fullwidth header#header ul.navigation li#environnement-link a.navigation:before, body#top.header-image.fullwidth header#header ul.navigation li#environnement-link a.navigation:after,
+body#top.header-image.fullwidth header#header ul.navigation li#syndication a.navigation:before, body#top.header-image.fullwidth header#header ul.navigation li#syndication a.navigation:after,
+body#top.header-image.fullwidth header#header ul.navigation li#langswitcher.active a.navigation:before, body#top.header-image.fullwidth header#header ul.navigation li#langswitcher.active a.navigation:after,
+body#top.header-image.fullwidth header#header.scrolled ul.navigation li#search_nav a.navigation:before, body#top.header-image.fullwidth header#header.scrolled ul.navigation li#search_nav a.navigation:after,
+body#top.header-image.fullwidth header#header.scrolled ul.navigation li#social-linking a.navigation:before, body#top.header-image.fullwidth header#header.scrolled ul.navigation li#social-linking a.navigation:after,
+body#top.header-image.fullwidth header#header.scrolled ul.navigation li#environnement-link a.navigation:before, body#top.header-image.fullwidth header#header.scrolled ul.navigation li#environnement-link a.navigation:after,
+body#top.header-image.fullwidth header#header.scrolled ul.navigation li#syndication a.navigation:before, body#top.header-image.fullwidth header#header.scrolled ul.navigation li#syndication a.navigation:after,
+body#top.header-image.fullwidth header#header.scrolled ul.navigation li#langswitcher.active a.navigation:before, body#top.header-image.fullwidth header#header.scrolled ul.navigation li#langswitcher.active a.navigation:after,
+body header#header ul.navigation li#search_nav a.navigation:before, body header#header ul.navigation li#search_nav a.navigation:after,
+body header#header ul.navigation li#social-linking a.navigation:before, body header#header ul.navigation li#social-linking a.navigation:after,
+body header#header ul.navigation li#environnement-link a.navigation:before, body header#header ul.navigation li#environnement-link a.navigation:after,
+body header#header ul.navigation li#syndication a.navigation:before, body header#header ul.navigation li#syndication a.navigation:after,
+body header#header ul.navigation li#langswitcher.active a.navigation:before, body header#header ul.navigation li#langswitcher.active a.navigation:after,
+body header#header.scrolled ul.navigation li#search_nav a.navigation:before, body header#header.scrolled ul.navigation li#search_nav a.navigation:after,
+body header#header.scrolled ul.navigation li#social-linking a.navigation:before, body header#header.scrolled ul.navigation li#social-linking a.navigation:after,
+body header#header.scrolled ul.navigation li#environnement-link a.navigation:before, body header#header.scrolled ul.navigation li#environnement-link a.navigation:after,
+body header#header.scrolled ul.navigation li#syndication a.navigation:before, body header#header.scrolled ul.navigation li#syndication a.navigation:after,
+body header#header.scrolled ul.navigation li#langswitcher.active a.navigation:before, body header#header.scrolled ul.navigation li#langswitcher.active a.navigation:after {
 	background-color: #FA743E !important;
+}
+
+body#top.header-image.fullwidth header#header div#navbar ul.navigation li a:before, body#top.header-image.fullwidth header#header #navbar ul.navigation li a:after {
+	background-color: #ffffff !important;
+}
+
+body#top.header-image.fullwidth header#header.scrolled div#navbar ul.navigation li a:before, body#top.header-image.fullwidth header#header.scrolled #navbar ul.navigation li a:after {
+	background-color: #3B94D9 !important;
 }
 
 a {
@@ -331,6 +370,19 @@ h4 {
 	font-weight: 100 !important;
 	font-family: Sansita;
 	color: #b3b3b3;
+}
+
+.list-blog-date span:nth-last-child(1){
+	color: #cccccc;
+	text-align: right !important;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-top: 2px !important;
+	margin-bottom: 0px;
+	font-size: 1rem !important;
+	font-weight: 100 !important;
+	text-transform: lowercase;
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 }
 
 .list-blog-date i {
@@ -529,14 +581,16 @@ div#site-contact-map {
 	box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15);
 }
 
-//other buttons blue color change
-.list-item a.button {
+//other buttons blue color change (add comments button)
+.list-item a.button,
+div#blog-article-comments-form form div.buttons button.button {
 	color: #3B94D9;
 	border: 1px solid  #3B94D9;
 }
 
 //other buttons blue color change
-.list-item a.button:hover {
+.list-item a.button:hover,
+div#blog-article-comments-form form div.buttons button.button:hover {
 	color: #FFFFFF;
 	border: 1px solid #FFFFFF;
 	background-color: #3B94D9;
@@ -616,6 +670,7 @@ div#navbar .list-item li {
 
 .list-item span#ondule-svg {
 	vertical-align: -8px;
+	text-align: center;
 }
 
 //offset post rousi
@@ -687,6 +742,7 @@ div#navbar .list-item li {
 			border: 0px;
 			padding: 0.25rem;
 			font-size: 1.25rem;
+			font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 		}
 		td {padding-left: 0.7rem;}
 	}
@@ -945,6 +1001,7 @@ a.curtain-button-side {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 20px;
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 	letter-spacing: 0.01em;
 	padding: 23px 8px 3px 8px;
 	border: 1px solid rgba(255, 255, 255, 0.75);
@@ -1007,6 +1064,7 @@ a.curtain-button-center {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 30px;
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
 	letter-spacing: 0.01em;
 	padding: 30px 12px 5px 12px;
 	border: 1px solid rgba(255, 255, 255, 0.85);
@@ -1079,7 +1137,8 @@ body#top.modular.header-image.fullwidth textarea.curtain-contact-form, body#top.
 
 
 
-body#top.modular.header-image.fullwidth form span.required {
+body#top.modular.header-image.fullwidth form span.required,
+body#top div#blog-article-comments-form span.required {
 	font-size: 1.5rem;
 	line-height: 2rem;
 }
@@ -1107,6 +1166,7 @@ svg.base64_background, svg.base64_itembackground {
 
 // fonts according language: class .lang-font
 //fr
+div#blog-article-comments-form:lang(fr) form, div#blog-article-comments-table table:lang(fr) tr td span,
 div.list-item.lang-font:lang(fr) > div.list-blog-header h1,
 div.list-item.lang-font:lang(fr) > div.list-blog-header h2,
 div.list-item.lang-font:lang(fr) > div.list-blog-header h3,
@@ -1116,13 +1176,37 @@ div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-fon
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font h4,
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font h5,
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font h6,
+div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font dl,
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font p,
 div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font p:lang(fr),
-div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p:lang(fr) {
-	font-family: "Open sans", "Arial", "Verdana", "Lucida Grande", "Times New Roman", serif;
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p:lang(fr),
+div#blog-article-comments-form:lang(en) form, div#blog-article-comments-table table:lang(en) tr td span,
+div.list-item.lang-font:lang(en) > div.list-blog-header h1,
+div.list-item.lang-font:lang(en) > div.list-blog-header h2,
+div.list-item.lang-font:lang(en) > div.list-blog-header h3,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h1,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h2,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h3,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h4,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h5,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h6,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font dl,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p,
+div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font p:lang(en),
+div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font p:lang(en) {
+	font-family: "Arial", "Verdana", "Lucida Grande", "Times New Roman", "Open Sans", serif;
+}
+
+div#blog-article-comments-form h3:lang(fr), div#blog-article-comments-table h3:lang(fr),
+div#blog-article-comments-table table:lang(fr) tr td,
+div#blog-article-comments-form h3:lang(en), div#blog-article-comments-table h3:lang(en),
+div#blog-article-comments-table table:lang(en) tr td {
+	font-family: "Open Sans", "Arial", "Verdana", "Lucida Grande", "Times New Roman", serif;
 }
 
 //ja
+div#blog-article-comments-form:lang(ja) form, div#blog-article-comments-form h3:lang(ja),
+div#blog-article-comments-table h3:lang(ja), div#blog-article-comments-table table:lang(ja) tr td,
 div.list-item.lang-font:lang(ja) > div.list-blog-header h1,
 div.list-item.lang-font:lang(ja) > div.list-blog-header h2,
 div.list-item.lang-font:lang(ja) > div.list-blog-header h3,
@@ -1134,8 +1218,28 @@ div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-fon
 div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font h6,
 div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font p,
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font p:lang(ja),
-div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p:lang(ja) {
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p:lang(ja),
+div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font dl {
 	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
+}
+
+div#blog-article-comments-form h3:lang(ja),
+div#blog-article-comments-table h3:lang(ja), div#blog-article-comments-table table:lang(ja) tr td {
+	font-style: oblique;
+}
+div#blog-article-comments-table table:lang(ja) tr td span, div#blog-article-comments-table table:lang(fr) tr td span, div#blog-article-comments-table table:lang(en) tr td span {
+	font-style: initial;
+	color: #444;
+}
+div#blog-article-comments-table table:lang(ja) tr td, div#blog-article-comments-table table:lang(fr) tr td, div#blog-article-comments-table table:lang(en) tr td {
+	color: #a6a6a6;
+}
+div#blog-article-comments-table table:lang(ja) tr td em, div#blog-article-comments-table table:lang(fr) tr td em, div#blog-article-comments-table table:lang(en) tr td em {
+	color: #8c8c8c;
+	font-style: oblique;
+}
+div#blog-article-comments-table table:lang(fr) tr td em, div#blog-article-comments-table table:lang(en) tr td em {
+	color: #8c8c8c;
 }
 
 div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font dl,
@@ -1197,13 +1301,17 @@ div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-fon
 div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h4,
 div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h5,
 div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font h6,
+div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font dl,
 div.list-item.lang-font:lang(en) > div#body-blog-item.list-blog-padding.lang-font p,
 div.list-item.lang-font:lang(ja) > div#body-blog-item.list-blog-padding.lang-font p:lang(en),
 div.list-item.lang-font:lang(fr) > div#body-blog-item.list-blog-padding.lang-font p:lang(en) {
-	font-family: "Open sans", "Arial", "Verdana", "Lucida Grande", "Times New Roman", serif;
+	font-family: "Arial", "Verdana", "Lucida Grande", "Times New Roman", "Open sans", serif;
 }
 
 //padding list-item according to screen width
+div#blog-article-comments-form form, div#blog-article-comments-form h3,
+div#blog-article-comments-table h3,
+div#blog-article-comments-table td,
 div.list-blog-header h1,
 div.list-blog-header h2,
 div.list-blog-header h3,
@@ -1224,6 +1332,9 @@ div#body-blog-item.list-blog-padding.lang-font figure#original-text-rousi p {
 }
 
 @include breakpoint(tablet-range) {
+	div#blog-article-comments-form form, div#blog-article-comments-form h3,
+	div#blog-article-comments-table h3,
+	div#blog-article-comments-table td,
 	div.list-blog-header h1,
 	div.list-blog-header h2,
 	div.list-blog-header h3,
@@ -1242,6 +1353,9 @@ div#body-blog-item.list-blog-padding.lang-font figure#original-text-rousi p {
 
 
 @include breakpoint(mobile-only) {
+	div#blog-article-comments-form form, div#blog-article-comments-form h3,
+	div#blog-article-comments-table h3,
+	div#blog-article-comments-table td,
 	div.list-blog-header h1,
 	div.list-blog-header h2,
 	div.list-blog-header h3,
@@ -1338,7 +1452,7 @@ div#body-blog-item.list-blog-padding.lang-font:lang(ja) p a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) dl dt a {
 	text-decoration: none;
-	border-bottom: 1px solid #444;
+	border-bottom: 1px dotted #444;
 	color: #444;
 }
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) p a ruby rt,
@@ -1374,7 +1488,7 @@ div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow p a r
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.yellow dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.yellow dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.yellow dl dd a {
-	border-bottom: 1px solid #df8a13;
+	border-bottom: 1px dotted #df8a13;
 }
 //red
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red p a ruby rb,
@@ -1400,7 +1514,7 @@ div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red p a,
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.red dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.red dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.red dl dd a {
-	border-bottom: 1px solid #b52b27;
+	border-bottom: 1px dotted #b52b27;
 }
 //blue
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue p a ruby rb,
@@ -1423,7 +1537,7 @@ div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue p a rub
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.blue dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.blue dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.blue dl dd a {
-	border-bottom: 1px solid #28a1c5;
+	border-bottom: 1px dotted #28a1c5;
 }
 //green
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green p a ruby rb,
@@ -1446,7 +1560,7 @@ div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green p a ru
 div#body-blog-item.list-blog-padding.lang-font:lang(fr) div.notices.green dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(ja) div.notices.green dl dd a,
 div#body-blog-item.list-blog-padding.lang-font:lang(en) div.notices.green dl dd a {
-	border-bottom: 1px solid #3d8b3d;
+	border-bottom: 1px dotted #3d8b3d;
 }
 
 
@@ -1747,9 +1861,78 @@ div.list-item.lang-font > div#body-blog-item.list-blog-padding.lang-font {
 
 div#body-blog-item.list-blog-padding.lang-font ul li {
 	margin-left: 3rem;
+	font-family: "Arial", "Verdana", "Lucida Grande", "Times New Roman", "Open sans", serif;
 }
 
-header#header.header-about {
-	background-color: #c70102;
-	box-shadow: none;
+footer#footer p a, footer#footer p {
+	font-family: 'Meiryo', 'Noto Sans Japanese', 'SourceHanSansJP', 'hiragino-kaku-gothic-pro-w3', 'heiseiminstd-w3', 'Lucida Grande', serif;
+}
+
+svg#stopwatch {
+	vertical-align: -4px;
+	padding-right: 2px;
+}
+
+div#blog-item-footer {
+	margin-left: 130px;
+	font-family: Arial;
+	color: #cccccc;
+}
+
+div#blog-item-footer span {
+	font-family: Sansita;
+	color: #bfbfbf;
+}
+
+@include breakpoint(tablet-range) {
+	div#blog-item-footer {
+		margin-left: 90px;
+	}
+}
+
+@include breakpoint(mobile-only) {
+	div#blog-item-footer {
+		margin-left: 60px;
+	}
+}
+
+p#blog_item_width_trick {
+	visibility: hidden;
+}
+
+@include breakpoint(tablet-range) {
+	p#blog_item_width_trick {
+		display: none;
+	}
+}
+
+@include breakpoint(mobile-only) {
+	p#blog_item_width_trick {
+		display: none;
+	}
+}
+
+div#blog-article-comments-form,
+div#blog-article-comments-table,
+div#blog-article-comments-alert-message {
+	background-color: rgba(255,255,255,0.75);
+}
+
+h3#blog-article-comments-title,
+h3#blog-article-comments-title-2 {
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+}
+
+//display-none of (stopwatch + reading-time) in blog-article
+section#body div#item.blog-content-item.grid.pure-g-r div.content-wrapper-list-item div.list-item.lang-font div#body-blog-item.list-blog-padding.lang-font div#blog-item-footer {
+	display: none;
+}
+
+span#blog-item-footer-author, span#blog-item-footer-description, span#blog-item-footer-publisher, span#blog-item-footer-publisher-logo, span#blog-item-footer-publisher-image {
+	display: none;
+}
+
+div#blog-article-comments-form {
+	padding-bottom: 1rem;
 }

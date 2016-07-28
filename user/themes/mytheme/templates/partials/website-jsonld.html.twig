@@ -4,65 +4,214 @@
 
 {
 "@context": "http://schema.org",
-"@type": "ItemPage",
-"inLanguage" : "{{ langswitcher.current }}",
-{% if page.header.metadata.genre %}"genre": "search engine optimization",{% endif %}
-"url": "{{ page.url(true) }}",
-"mainEntity" : {
-"@type": "Article",
-"mainEntityOfPage": "{{ page.url(true) }}",
+"@type": "WebPage",
 "@id": "{{ page.url(true) }}",
-"headline": "{{ page.header.title }}",
-{% if page.header.title2 %}"alternativeHeadline": "{{ page.header.title2 }}",{% endif %}
-"keywords": "{{ page.header.metadata.keywords }}",
-"datePublished": "{{ page.header.date }}",
-{% if page.header.created %}"dateCreated": "{{ page.header.created }}",{% endif %}
-{% if page.header.modified %}"dateModified": "{{ page.header.modified }}",{% endif %}
-"mainEntityOfPage" : "{{ page.url(true) }}",
-"description": "{{ page.header.metadata.description }}",
-{% if page.metadata.image %}
-"image": {
-  "@type": "ImageObject",
-  "@id": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}",
-  "representativeOfPage" : "true",
-  "name": "{{ page.metadata.image.content }}",
-  "url": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}"{% if page.metadata.image_height %},
-  "height": {
-     "@type": "QuantitativeValue",
-     "value": "{{ page.metadata.image_height.content|trim('px') }}",
-     "unitText" : "px",
-     "name" : "{{ page.metadata.image_height.content }}"{% endif %}{% if page.metadata.image_width %}},
-  "width": {
-     "@type": "QuantitativeValue",
-     "value": "{{ page.metadata.image_width.content|trim('px') }}",
-     "unitText" : "px",
-     "name" : "{{ page.metadata.image_width.content }}"}
-   },{% endif %}
-
+"inLanguage" : "{{ langswitcher.current }}",
+"url": "{{ page.url(true) }}",
+{% if grav.twig.comments|length %}"hasPart": [{% for comment in grav.twig.comments|array_reverse %}{
+  "@type": "Comment",
+  "about": {
+    "@id": "{{ page.url(true) }}#{{ page.header.itempage|lower }}"},
+    "comment": {
+      "author": {
+        "@type": "Person",
+        "name": "{{comment.author}}"},
+     "inLanguage": "{{ langswitcher.current }}",
+     "position": "{{ loop.index }}",
+     "@id": "{{ page.url(true) }}#comment{{ loop.index }}",
+     "url": "{{ page.url(true) }}#comment{{ loop.index }}",
+     "dateCreated": "{{ comment.date|date("Y-m-d\\TH:i:sP") }}",
+     "datePublished": "{{ comment.date|date("Y-m-d\\TH:i:sP") }}",
+     "dateModified": "{{ comment.date|date("Y-m-d\\TH:i:sP") }}",
+     "text": "{{comment.text}}"
+     }}{% if loop.last == true %}{% else %},{% endif %}{% endfor %}
+  ],
+"potentialAction": {
+  "@type": "CommentAction",
+  "about": {"@id": "{{ page.url(true) }}#{{ page.header.itempage|lower }}"},
+  "@id": "{{ page.url(true) }}#blog-article-comments-form",
+  "inLanguage": "{{ langswitcher.current }}",
+  "description": "{{'PLUGIN_COMMENTS.ADD_COMMENT'|t}}",
+  "url": "{{ page.url(true) }}#blog-article-comments-form"
+},{% endif %}
+"Breadcrumb": {
+  "@type": "BreadcrumbList",
+  "itemListElement":
+    [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "http://francois-vidit.fr",
+        "item":
+          {
+          "@type": "WebSite",
+          "@id": "http://francois-vidit.fr",
+          "name": "http://francois-vidit.fr",
+          "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+          }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "http://francois-vidit.fr/{{ langswitcher.current }}",
+        "item":
+        {
+        "@type": "WebPage",
+        "@id": "http://francois-vidit.fr/{{ langswitcher.current }}",
+        "name": "{{ 'WEB_ALTERNATE_NAME'|t }}",
+        "inLanguage" : "{{ langswitcher.current }}",
+        "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "url": "http://francois-vidit.fr/blog/{{ langswitcher.current }}",
+        "item":
+        {
+        "@type": "Blog",
+        "@id": "http://francois-vidit.fr/blog/{{ langswitcher.current }}",
+        "name": "{% if langswitcher.current == 'en' %}Blog{% elseif langswitcher.current == 'ja' %}ブログ{% else %}Blogue{% endif %}",
+        "inLanguage" : "{{ langswitcher.current }}",
+        "image": "http://francois-vidit.fr/images/6/5/1/9/0/6519002e92162d76c0e60539947a66674a5c2421-blogimage.png"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "url": "{{ page.url(true) }}",
+        "item":
+        {
+        "@type": "WebPage",
+        "@id": "{{ page.url(true) }}"
+        }
+      }
+    ]
+},
+"mainEntity": {
+  "@type": "{{ page.header.itempage }}",
+  "@id": "{{ page.url(true) }}#{{ page.header.itempage|lower }}",
+  "inLanguage": "{{ langswitcher.current }}",
+  {% if page.header.itempage == 'VideoObject' %}"name": "{{ page.header.video.name }}","thumbnailUrl": "{{ page.header.video.thumbnailUrl }}","uploadDate": "{{ page.header.video.uploadDate|date("Y-m-d\\TH:i:sP") }}", "duration": "{{ page.header.video.duration }}",{% endif %}
+  "mainEntityOfPage": "{{ page.url(true) }}",
+  "headline": "{{ page.header.title }}",
+  {% if page.header.title2 %}"alternativeHeadline": "{{ page.header.title2 }}",{% endif %}
+  "keywords": "{{ page.header.metadata.keywords }}",
+  "datePublished": "{{ page.header.date|date("Y-m-d\\TH:i:sP") }}",
+  {% if page.header.created %}"dateCreated": "{{ page.header.created|date("Y-m-d\\TH:i:sP") }}",{% endif %}
+  {% if page.header.modified %}"dateModified": "{{ page.header.modified|date("Y-m-d\\TH:i:sP") }}",{% endif %}
+  "description": "{{ page.header.metadata.description }}",
+  {% if page.metadata.image %}
+  "image": {
+    "@type": "ImageObject",
+    "@id": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}",
+    "representativeOfPage" : "true",
+    "name": "{{ page.metadata.image.content }}",
+    "url": "{% if page.metadata.image_url %}{{ page.metadata.image_url.content }}{% else %}{{ page.url(true) }}{% endif %}/{{ page.metadata.image.content }}"{% if page.metadata.image_width %},
+    "width": {
+       "@type": "Intangible",
+       "name": "{{ page.metadata.image_width.content|trim('px') }}"},
+    "height": {
+       "@type": "Intangible",
+       "name": "{{ page.metadata.image_height.content|trim('px') }}"}{% endif %}},
 {% endif %}
 
-{% elseif page.template == "blog" %}
+{% elseif page.template == "blog" or page_url == "blog/fr" or page_url == "blog/ja" or page_url == "blog/en" %}
 
 {
    "@context": "http://schema.org",
-   "@type": "CollectionPage",
+   "@type": "WebPage",
    "inLanguage" : "{{ langswitcher.current }}",
    "name": "{{ page.title }} ",
    "url": "{{ page.url(true) }}",
    "potentialAction": {
      "@type": "SearchAction",
      "target": "{{ page.url(true) }}/search/query:{search_term_string}",
-     "query-input": "required name=search_term_string"
-   },
+     "query-input": "required name=search_term_string"},
+    "Breadcrumb": {
+  "@type": "BreadcrumbList",
+  "itemListElement":
+    [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "http://francois-vidit.fr",
+        "item":
+          {
+          "@type": "WebSite",
+          "@id": "http://francois-vidit.fr",
+          "name": "http://francois-vidit.fr",
+          "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+          }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "http://francois-vidit.fr/{{ langswitcher.current }}",
+        "item":
+          {
+          "@type": "WebPage",
+          "@id": "http://francois-vidit.fr/{{ langswitcher.current }}",
+          "name": "{{ 'WEB_ALTERNATE_NAME'|t }}",
+          "inLanguage" : "{{ langswitcher.current }}",
+          "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+          }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "url": "http://francois-vidit.fr/blog/{{ langswitcher.current }}",
+        "item":
+        {
+        "@type": "Blog",
+        "@id": "http://francois-vidit.fr/blog/{{ langswitcher.current }}",
+        "name": "{% if langswitcher.current == 'en' %}Blog{% elseif langswitcher.current == 'ja' %}ブログ{% else %}Blogue{% endif %}",
+        "inLanguage" : "{{ langswitcher.current }}",
+        "image": "http://francois-vidit.fr/images/6/5/1/9/0/6519002e92162d76c0e60539947a66674a5c2421-blogimage.png"
+        }
+      }
+    ]
+  },
 
 {% elseif page.template == "modular" %}
 
 {
 "@context" : "http://schema.org",
-"@type" : "WebSite",
+"@type" : "WebPage",
 "name" : "{{ 'WEB_ALTERNATE_NAME'|t }}",
 "inLanguage" : "{{ langswitcher.current }}",
 "url" : "{{ page.url(true) }}",
+"Breadcrumb": {
+  "@type": "BreadcrumbList",
+  "itemListElement":
+    [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "http://francois-vidit.fr",
+        "item":
+          {
+          "@type": "WebSite",
+          "@id": "http://francois-vidit.fr",
+          "name": "http://francois-vidit.fr",
+          "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+          }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "http://francois-vidit.fr/{{ langswitcher.current }}",
+        "item":
+          {
+          "@type": "WebPage",
+          "name": "{{ 'WEB_ALTERNATE_NAME'|t }}",
+          {% if langswitcher.current == 'ja' %}"alternateName": "フランソワ・ヴィディのホームページー",{% endif %}
+          "inLanguage" : "{{ langswitcher.current }}",
+          "image": "http://francois-vidit.fr/user/themes/mytheme/images/DSC8008-72px-2.png"
+          }
+      }
+    ]
+  },
 
 {% else %}
 
@@ -81,31 +230,25 @@
  "name": "François Vidit",
  "givenName": "François",
  "familyName": "Vidit",
- {% if langswitcher.current == 'ja' %}"alternateName": "フランソワ・ヴィディ",{% elseif langswitcher.current == 'en' %}"Francois Vidit",{% else %}{% endif %} 
+ {% if langswitcher.current == 'ja' %}"alternateName": "フランソワ・ヴィディ",{% elseif langswitcher.current == 'en' %}"alternateName": "Francois Vidit",{% else %}{% endif %} 
  "url": "http://id.francois-vidit.fr/{{ langswitcher.current }}/id_{{ langswitcher.current }}.jsonld"
   },
 "publisher": {
  "@type": "Organization",
- "@id": "http://francois-vidit.fr",
- "name": "francois-vidit.fr",
+ "name": "francois-vidit-fr",
  "logo": {
   "@type": "ImageObject",
   "@id": "http://id.francois-vidit.fr/francois-vidit-fr.png",
   "name": "francois-vidit-fr.png",
   "url": "http://id.francois-vidit.fr/francois-vidit-fr.png",
-  "height": {
-    "@type": "QuantitativeValue",
-    "value": "60",
-    "unitText" : "px",
-    "name" : "60px"},
   "width": {
-    "@type": "QuantitativeValue",
-    "value": "600",
-    "unitText" : "px",
-    "name" : "600px"}
+    "@type": "Intangible",
+    "name": "600"},
+  "height": {
+    "@type": "Intangible",
+    "name": "60"}
     }
+   }
   }
- }
 }
-
 </script>

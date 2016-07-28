@@ -3,22 +3,23 @@ title: Ovide
 menu: Phaéton
 date: 15-01-2016
 modified: 02-07-2016
+itempage: Article
 taxonomy:
    category: [docs, fr]
+langswitcher:
+   enabled: true
 metadata:
     description: "Texte du chapître 'Phaéton' du Livre II des Métamorphoses d'Ovide, à l'origine du portrait d'Apollon, dieu du Soleil, au Château de Versailles"
     keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Phaéton'
-    image: apollon.JPG
-    image_height: 638px
-    image_width: 803px
+    image: apollon_700x556.jpg
+    image_width: 700px
+    image_height: 556px
     image_legend: "Bassin d'Apollon, jardins du Château de Versailles"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
 shortcode-core:
    active: true
 ---
-![Bassin d'Apollon, dieu du soleil, dans les jardins de Versailles](http://localhost/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon.JPG "Bassin d'Apollon, dieu du soleil, dans les jardins de Versailles") {.class-diane-img}
+![Bassin d'Apollon, dieu du soleil, dans les jardins de Versailles][5] {.class-diane-img}
 
 ! Louis XIV est appelé le roi Soleil.  
 ! Dans les Mémoires pour l'instruction du Dauphin, lui-même explique les raisons qui l'ont conduit, jeune, à seul à faire naturellement ce choix.  
@@ -404,3 +405,4 @@ Et transmises comme parure aux jeunes femmes du Latium.
 [2]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
 [3]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
 [4]: https://fr.wikipedia.org/wiki/Pha%C3%A9ton "https://fr.wikipedia.org/wiki/Phaéton"
+[5]: ./apollon_700x556.jpg "Bassin d'Apollon, dieu du soleil, dans les jardins de Versailles"
