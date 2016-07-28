@@ -88,6 +88,11 @@ header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
 	background: #f2f2f2;
 }
 
+#body-about {
+	padding-top: 0.15rem;
+	background-color: #c70102;
+}
+
 .header-image #body .flush-top {
   height: 17rem !important;
   margin-bottom: 3rem;
@@ -156,7 +161,8 @@ header#header div#navbar ul.navigation li#search_nav ul input[type="text"] {
 //.content-wrapper .blog-header .fullwidth: blog list body section DIV padding setting
 body#top.header-image.fullwidth div#sb-site section#body div.flush-top.blog-header.blog-header-image,
 body#top.header-image.fullwidth div#sb-site section#body div.content-wrapper.blog-content-list.grid,
-body#top.header-image.fullwidth div#item.blog-content-item.grid.pure-g-r {
+body#top.header-image.fullwidth div#item.blog-content-item.grid.pure-g-r,
+body#top div#sb-site section#body-about {
 	padding-left: 15rem;
 	padding-right: 15rem;
 	@include breakpoint(tablet-range) {
@@ -1741,4 +1747,9 @@ div.list-item.lang-font > div#body-blog-item.list-blog-padding.lang-font {
 
 div#body-blog-item.list-blog-padding.lang-font ul li {
 	margin-left: 3rem;
+}
+
+header#header.header-about {
+	background-color: #c70102;
+	box-shadow: none;
 }
