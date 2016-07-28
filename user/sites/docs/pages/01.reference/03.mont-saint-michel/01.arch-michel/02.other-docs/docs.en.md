@@ -2,14 +2,17 @@
 title: Saint Michael Archangel in the other sources
 menu: Other sources
 date: 23-11-2015
+modified: 24-07-2016, 00:21
+itempage: Article
 taxonomy:
    category: [docs, en]
-summary:
-  enabled: true
-  format: short
-  size: 0
-continue_link: false
-header_image: false
+metadata:
+   description: 'Other Texts of the Old Testament where Archangel Saint-Michael appears'
+   keywords: 'Archange Saint-Michael, Old Testament, Mont-Saint-Michel'
+   image: other-docs_700x426.png
+   image_height: 700px
+   image_width: 426px
+   'twitter:card' : summary
 shortcode-core:
    active: true
 ---

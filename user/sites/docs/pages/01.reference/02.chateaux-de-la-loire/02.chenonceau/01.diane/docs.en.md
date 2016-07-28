@@ -2,10 +2,12 @@
 title: Ovid 
 menu: Diana
 date: 15-01-2016
-modified: 04-07-2016
+modified: 23-07-2016, 23:43
+itempage: article
 taxonomy:
    category: [docs, en]
-header_image: false
+langswitcher:
+   enabled: true
 metadata:
     description: "Text extract from chapter 'Actæon' of book III of Ovid's Metamorphoses and used by painter Francesco Primaticcio to realise the portrait of Diana of Poitiers exposed in the Castle of Chenonceau"
     keywords: 'Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diana de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon'
@@ -15,12 +17,10 @@ metadata:
     image_width: 1366px
     image_legend: "School of Primaticcio, Portrait of Diana"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
 shortcode-core:
    active: true
 ---
-![École du Primatice, Portrait de Diana](https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像") {.class-diane-img}
+![École du Primatice, Portrait de Diana][9] {.class-diane-img}
 
 !!!! This portrait is a work that [Primaticcio][2], painter from Bologna in Italy, invited by king [Francis I of France][1] then become almost minister of Culture, has painted, in 1556, in the [Château de Chenonceau][3].  
 !!!! In French, the same person is named « Le Primatice ».  
@@ -102,3 +102,4 @@ They say Diana the Quiver-bearer’s anger was not appeased, until his life had 
 [6]: https://en.wikipedia.org/wiki/Diana_(mythology) "https://en.wikipedia.org/wiki/Diana_(mythology)"
 [7]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
 [8]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
+[9]: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"

@@ -3,23 +3,23 @@ title: Ovide
 menu: Phaethon
 date: 15-01-2016
 modified: 18-06-2016
+itempage: Article
 taxonomy:
    category: [docs, en]
-header_image: false
+langswitcher:
+   enabled: true
 metadata:
     description: "Text extract from chapter 'Phaethon' of book II of Ovid's Metamorphoses, at the origin of figure of Apollo, god of the Sun, in the Château de Versailles"
     keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovid, The Metamorphoses, Phaethon'
-    image: apollon.JPG
-    image_height: 638px
-    image_width: 803px
+    image: apollon_700x556.jpg
+    image_width: 700px
+    image_height: 556px
     image_legend: "The Apollon Fountain, gardens of the Château de Versailles"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
 shortcode-core:
    active: true
 ---
-![Apollo, god of the Sun, in the gardens of Versailles](http://francois-vidit.fr/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton "Apollo, god of the Sun, in the gardens of Versailles") {.class-diane-img}
+![Apollo, god of the Sun, in the gardens of Versailles][5] {.class-diane-img}
 
 ! Louis XIV is called the Sun king.  
 ! Dans memoire for the instruction of the dauphin by Louis XIV, himself explains the reasons that conducted him, young, to naturally make that choice.  
@@ -215,3 +215,4 @@ Their tears still flow, and hardened by the sun, fall as <sup>365</sup> amber fr
 [2]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
 [3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
 [4]: https://en.wikipedia.org/wiki/Phaethon "https://en.wikipedia.org/wiki/Phaethon"
+[5]: ./apollon_700x556.jpg "Apollo, god of the Sun, in the gardens of Versailles"
