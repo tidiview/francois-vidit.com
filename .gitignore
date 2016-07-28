@@ -32,7 +32,6 @@ setup-8-20160508-2042-subdomains-michal-2nd.php
 setup.php
 setup2-20160508-1858-subdomains.php
 test.php
-id
 
 
 agency-site/*
@@ -46,11 +45,12 @@ docs/*
 grayscale-site/*
 google-map/*
 hpstr-site/*
+id/*
 images/*
 img/*
 landio-site/*
 logs/*
-markdown-ruby-text/*
+markdown-rubytext/*
 mediator/*
 onepage-site/*
 piwik/*
@@ -72,9 +72,12 @@ essai/*
 user/accounts/*
 user/config/*
 user/data/*
+user/languages/*
 user/pages/*
 user/plugins/*
 user/themes/*
+user/themes/antimatter/*
+user/themes/mytheme/*
 user/sites/blog/*
 user/sites/about/*
 user/sites/docs/config/*
