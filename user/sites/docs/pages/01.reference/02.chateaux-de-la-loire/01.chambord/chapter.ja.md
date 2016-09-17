@@ -1,13 +1,21 @@
 ---
 title: シャンボル城
 menu: シャンボル
+robots: 'noindex, nofollow'
 taxonomy:
     category: [docs, ja]
 visible: false
 date: 15-01-2016
-modified: 23-07-2016, 22:47
+modified: 15-08-2016, 12:26
 metadata:
-   image: chambord_700x525.jpg
+    description: "francois-vidit.com サイトのリロワール古城セクション"
+    keywords: 'ロワール古城セクション, francois-vidit.com'
+    image: chambord_700x525.jpg
+    image_width: 700
+    image_height: 525
+    image_legend: "シャンボール城の写真"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chambord/chapter.ja.md"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
 ---
 ### Le château de Chambord
 

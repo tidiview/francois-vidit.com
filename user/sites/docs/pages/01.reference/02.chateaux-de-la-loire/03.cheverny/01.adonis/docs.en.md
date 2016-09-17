@@ -1,8 +1,10 @@
 ---
 title: Ovid 
 menu: Adonis
+created: 15-01-2016
 date: 15-01-2016
-modified: 04-07-2016
+modified: 14-08-2016, 20:01
+itempage: Article
 taxonomy:
    category: [docs, en]
 header_image: false
@@ -10,14 +12,17 @@ metadata:
     description: "Text extract from chapter 'Adonis' of book X of Ovid's Metamorphoses and used by painter jean Monier to realise the canvas representing The Death of Adonis exposed in the second storey of the Château de Cheverny"
     keywords: "Château de Cheverny, Castle Of Cheverny, Cheverny, Adonis, The Death of Adonis, Ovid, The Metamorphoses, Jean Monier"
     image: adonis_700x676.jpg
-    image_height: 700px
-    image_width: 676px
+    image_height: 700
+    image_width: 676
     image_legend: "Jean Monier, The Death of Adonis"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
+significantlinks: ["https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![Jean Monier, The Death of Adonis][4] {.class-diane-img}
 

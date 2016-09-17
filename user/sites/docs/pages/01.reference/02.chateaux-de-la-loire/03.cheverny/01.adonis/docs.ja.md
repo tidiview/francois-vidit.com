@@ -1,8 +1,10 @@
 ---
 title: オウィディウス
 menu: アドニス
+created: 10-06-2016
 date: 10-06-2016
-modified: 17-06-2016
+modified: 14-08-2016, 20:02
+itempage: Article
 taxonomy:
    category: [docs, ja]
 header_image: false
@@ -10,14 +12,17 @@ metadata:
     description: 'シュヴェルニー城の二階にある暖炉で展示されている、ジャン・モニエ画家が描いたアドニスの死を表れる絵画の元に、オヴィディウス作家が書いた変身物語の第十巻末のアドニス章を語る文書'
     keywords: 'シュヴェルニー城, シュヴェルニー, アドニス, アドニスの死, オヴィディウス, 変身物語, ジャン・モニエ'
     image: adonis_700x676.jpg
-    image_height: 700px
-    image_width: 676px
+    image_height: 700
+    image_width: 676
     image_legend: ジャン・モニエ、アドニスの死
     'twitter:card' : summary
-langswitcher:
-   enabled: true
+significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![ジャン・モニエ、アドニスの死][4] {.class-diane-img}
 

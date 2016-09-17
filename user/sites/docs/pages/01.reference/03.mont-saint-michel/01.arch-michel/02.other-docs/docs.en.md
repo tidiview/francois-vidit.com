@@ -1,8 +1,9 @@
 ---
 title: Saint Michael Archangel in the other sources
 menu: Other sources
-date: 23-11-2015
-modified: 24-07-2016, 00:21
+created: 23-11-2015, 08:13
+date: 23-11-2015, 08:13
+modified: 19-08-2016, 17:58
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -10,11 +11,16 @@ metadata:
    description: 'Other Texts of the Old Testament where Archangel Saint-Michael appears'
    keywords: 'Archange Saint-Michael, Old Testament, Mont-Saint-Michel'
    image: other-docs_700x426.png
-   image_height: 700px
-   image_width: 426px
+   image_height: 700
+   image_width: 426
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/other-docs/docs.en.md"]
+specialty: ["History of France", "Religious history", "Biblic history"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 ##### [color=#df8a13]Daniel Dn 12,1-3.[/color]

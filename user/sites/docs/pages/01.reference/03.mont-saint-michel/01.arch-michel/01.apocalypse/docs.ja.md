@@ -1,21 +1,27 @@
 ---
 title: ヨハネの黙示録
 menu: 黙示録
-date: 22-11-2015
+created: 22-11-2015, 07:05
+date: 22-11-2015, 07:05
 modified: 24-07-2016, 00:21
-itempage: article
+itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
    description: '大天使ミカエルが出現する唯一の新約聖書、黙示録１２章の文書'
    keywords: '大天使ミカエル, 新約聖書, 黙示録, 黙示録１２章, モン・サン・ミシェル'
    image: apocalypse_700x694.jpg
-   image_height: 700px
-   image_width: 694px
+   image_height: 700
+   image_width: 694
    image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/apocalypse/docs.ja.md"]
+specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 ##### [color=#df8a13]12章, 1-18節[/color]  

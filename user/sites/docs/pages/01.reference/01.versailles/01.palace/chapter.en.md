@@ -4,9 +4,16 @@ menu: castle
 taxonomy:
     category: [docs, en]
 date: 15-01-2016
-modified: 23-07-2016, 22:28
+modified: 19-08-2016, 17:38
 metadata:
-   image: palace_700x375.jpg
+   description: "section Château de Versailles du site francois-vidit.com"
+   keywords: 'Château de Versailles'
+   image: versailles_700x525.jpg
+   image_width: 700
+   image_height: 426
+   image_legend: "photography of the section of the Palace of Versailles of site francois-vidit.com"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/01.versailles/palace/chapter.en.md"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles"]
 ---
 ### Le château
 

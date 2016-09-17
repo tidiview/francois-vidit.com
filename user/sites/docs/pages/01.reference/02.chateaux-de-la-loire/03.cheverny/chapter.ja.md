@@ -4,9 +4,16 @@ menu: シュヴェルニー
 taxonomy:
     category: [docs, ja]
 date: 15-01-2016
-modified: 23-07-2016, 22:54
+modified: 15-08-2016, 12:26
 metadata:
-   image: cheverny_700x398.jpg
+    description: "francois-vidit.com サイトのシュヴェルニー城セクション"
+    keywords: 'シュヴェルニー城セクション, francois-vidit.com'
+    image: cheverny_700x398.jpg
+    image_width: 700
+    image_height: 398
+    image_legend: "シュヴェルニー城の写真"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/cheverny/chapter.ja.md"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
 ---
 ### Château de Cheverny
 

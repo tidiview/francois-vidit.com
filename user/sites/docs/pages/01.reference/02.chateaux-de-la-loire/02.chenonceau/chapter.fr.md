@@ -4,9 +4,16 @@ menu: Chenonceau
 taxonomy:
     category: [docs, fr]
 date: 15-01-2016
-modified: 23-07-2016, 22:50
+modified: 15-08-2016, 12:26
 metadata:
-   image: chenonceau_700x350.jpg
+    description: "Section Châteaux de Chenonceau du site francois-vidit.com"
+    keywords: "francois-vidit.com, Section Châteaux de Chenonceau"
+    image: chenonceau_700x350.jpg
+    image_width: 700
+    image_height: 350
+    image_legend: "Photographie du Château de Chenonceau"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chenonceau/chapter.fr.md"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 ---
 
 # Château de Chenonceau

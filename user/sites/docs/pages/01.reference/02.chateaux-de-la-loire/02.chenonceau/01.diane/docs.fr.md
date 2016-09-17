@@ -2,23 +2,26 @@
 title: Ovide 
 menu: Diane
 date: 15-01-2016
-modified: 23-07-2016, 23:42
-itempage: article
+modified: 30-08-2016, 23:42
+itempage: Article
 taxonomy:
    category: [docs, fr]
-langswitcher:
-   enabled: true
 metadata:
-    description: "Texte extrait du chapître 'Actéon' livre 3 des Métamorphoses écrit par Ovide et utilisé par le peintre Le Primatice pour réaliser le portrait de Diane de Poitiers exposé au Château de Chenonceau"
-    keywords: 'Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon'
-    image: _DSC2928.JPG
-    image_url: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048
-    image_height: 2048px
-    image_width: 1366px
-    image_legend: "École du Primatice, Portrait de Diane"
-    'twitter:card' : summary
+   description: "Texte extrait du chapître 'Actéon' livre 3 des Métamorphoses écrit par Ovide et utilisé par le peintre Le Primatice pour réaliser le portrait de Diane de Poitiers exposé au Château de Chenonceau"
+   keywords: "Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon"
+   image: _DSC2928.JPG
+   image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
+   image_height: 2048
+   image_width: 1366
+   image_legend: "École du Primatice, Portrait de Diane"
+   'twitter:card' : summary
+significantlinks: ["https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 ![École du Primatice, Portrait de Diane][9] {.class-diane-img}
@@ -27,8 +30,8 @@ shortcode-core:
 !!!! En italien, la même personne est désignée par l'appellation 'Il Primaticcio'.  
 !!!! L'image représente la favorite du roi [Henri II][4], fils ayant succédé à François Ier, [Diane de Poitiers][5].  
 !!!! Alors, à la cour du roi de France, elle est connue pour être d'une beauté exceptionnelle.  
-!!!! À l'époque, comme il y avait une mode pour le 'portrait paralèlle', ici, on ne représente pas directement la personne mais la déesse la chasse connue pour avoir le même nom [Diane][6].  
-!!!! À l'origine de ce portrait parallèle, ci-dessous, un récit dans lequel apparaît Diane déesse de la Chasse, écrit par un écrivain qui a vécu à l'époque de l'Empire Romain, [Ovide][7] dans les [Métamorphoses][8]  
+!!!! À l'époque, comme il y avait une mode pour le 'portrait paralèlle', ici, on ne représente pas directement la personne mais la déesse de la chasse connue pour avoir le même nom [Diane][6].  
+!!!! À l'origine de ce portrait parallèle, ci-dessous, un récit, qui fait apparaître Diane déesse de la Chasse, écrit par un écrivain qui a vécu à l'époque de l'Empire Romain, [Ovide][7]. Ce récit est extrait de ses œuvres: les [Métamorphoses][8]  
 !!!! Puisse ce récit des aventures de la déesse de la Chasse et d'Actéon vous plaire!
 
 [color=#3d8b3d]**Actéon**[/color]
@@ -108,7 +111,7 @@ Il va pour s'écrier: « Pauvre de moi! », mais il reste sans voix.
 Il gémit: voilà tout son langage, et ses larmes coulent  
 Sur une face inconnue; de naguère, seule lui reste la pensée.  
 Que faire? Rentrer chez soi, dans le palais royal,  
-<sup>205</sup> Ou se cacher dans les forêts? De ceci il a peur, de cela il a honte?  
+<sup>205</sup> Où se cacher dans les forêts? De ceci il a peur, de cela il a honte?  
 Pendant qu'il hésite, ses chiens l'ont aperçu, et d'abord Mélampus  
 Et le sagace Ichnobatès l'ont signalé en aboyant  
 (Ichnobatès de Gnosse, Mélampus d'origine spartiate).  

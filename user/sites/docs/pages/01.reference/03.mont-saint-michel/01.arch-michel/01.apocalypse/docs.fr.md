@@ -3,19 +3,24 @@ title: Saint-Michel dans l'Apocalypse
 menu: Apocalypse
 date: 22-11-2015
 modified: 24-07-2016, 00:21
-itempage: article
+itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-   description: 'Texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Saint-Michel'
-   keywords: 'Archange Saint-Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont-Saint-Michel'
+   description: "Texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Saint-Michel"
+   keywords: "Archange Saint-Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont-Saint-Michel"
    image: apocalypse_700x694.jpg
-   image_height: 700px
-   image_width: 694px
-   image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
+   image_height: 700
+   image_width: 694
+   image_legend: "L'archange Saint-Michel, Église Saint-Gilles, Paris"
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/apocalypse/docs.fr.md"]
+specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 ##### [color=#df8a13]Ap. 12-7[/color]

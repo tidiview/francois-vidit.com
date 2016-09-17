@@ -2,7 +2,7 @@
 title: オウィディウス
 menu: パエトン
 date: 24-06-2016
-modified: 24-06-2016
+modified: 19-08-2016, 17:38
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -12,12 +12,17 @@ metadata:
     description: 'ヴェルサイユ宮殿に太陽神アポロ肖像のもとに使用された、オヴィディウス作家が書いた変身物語の第二巻のパエトン章の文書'
     keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, オヴィディウス, 変身物語, パエトン'
     image: apollon_700x556.jpg
-    image_width: 700px
-    image_height: 556px
+    image_width: 700
+    image_height: 556
     image_legend: フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像
     'twitter:card' : summary
+significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![ヴェルサイユ庭園にある太陽神アポロ泉水][5] {.class-diane-img}
 

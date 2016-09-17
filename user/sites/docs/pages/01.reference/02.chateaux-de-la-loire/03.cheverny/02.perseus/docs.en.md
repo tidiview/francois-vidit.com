@@ -2,7 +2,9 @@
 title: Ovide 
 menu: Perseus
 date: 15-01-2016
-modified: 18-06-2016
+created: 15-02-2016
+modified: 14-08-2016, 20:05
+itempage: Article
 taxonomy:
    category: [docs, en]
 header_image: false
@@ -11,14 +13,17 @@ metadata:
     keywords: "Château de Cheverny, Castle Of Cheverny, Cheverny, Adonis, The Death of Adonis, Ovid, The Metamorphoses, Jean Monier"
     image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
-    image_height: 1236px
-    image_width: 1280px
+    image_height: 1236
+    image_width: 1280
     image_legend: "Jean Monier, The Death of Adonis"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
+significantlinks: ["https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ! There is a little text at the origin of the paintings by Jean Monier for the ceiling of the royal chamber representing the story of Perseux and Andromeda at the second storey of the [Château de Cheverny][1].  
 ! [Ovid][2] has written the extract of book 4 of the [Metamorphoses][3].
@@ -75,12 +80,3 @@ The doors fold back to show the whole of the golden hall, and the noble Ethiopia
 [1]: https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny "https://en.wikipedia.org/wiki/Château_de_Cheverny"
 [2]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
 [3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
-
-[1]: https://en.wikipedia.org/wiki/Francis_I_of_France "https://en.wikipedia.org/wiki/Francis_I_of_France"
-[2]: https://en.wikipedia.org/wiki/Francesco_Primaticcio "https://en.wikipedia.org/wiki/Francesco_Primaticcio"
-[3]: https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau "https://en.wikipedia.org/wiki/Château_de_Chenonceau"
-[4]: https://en.wikipedia.org/wiki/Henry_II_of_France "https://en.wikipedia.org/wiki/Henry_II_of_France"
-[5]: https://en.wikipedia.org/wiki/Diane_de_Poitiers "https://en.wikipedia.org/wiki/Diane_de_Poitiers"
-[6]: https://en.wikipedia.org/wiki/Diana_(mythology) "https://en.wikipedia.org/wiki/Diana_(mythology)"
-[7]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
-[8]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"

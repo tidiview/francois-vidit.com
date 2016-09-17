@@ -4,9 +4,16 @@ slug: versailles
 taxonomy:
     category: [docs, fr]
 date: 15-01-2016
-modified: 23-07-2016, 22:31
+modified: 19-08-2016, 17:38
 metadata:
+   description: "section Château de Versailles du site francois-vidit.com"
+   keywords: 'Château de Versailles'
    image: versailles_700x525.jpg
+   image_width: 700
+   image_height: 426
+   image_legend: "photographie de la section Château de Versailles du site francois-vidit.com"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/01.versailles/chapter.fr.md"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Versailles"]
 ---
 
 # Le Château de Versailles

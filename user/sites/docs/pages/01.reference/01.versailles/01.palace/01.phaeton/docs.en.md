@@ -2,7 +2,7 @@
 title: Ovide 
 menu: Phaethon
 date: 15-01-2016
-modified: 18-06-2016
+modified: 19-08-2016, 17:38
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -12,12 +12,17 @@ metadata:
     description: "Text extract from chapter 'Phaethon' of book II of Ovid's Metamorphoses, at the origin of figure of Apollo, god of the Sun, in the Château de Versailles"
     keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovid, The Metamorphoses, Phaethon'
     image: apollon_700x556.jpg
-    image_width: 700px
-    image_height: 556px
+    image_width: 700
+    image_height: 556
     image_legend: "The Apollon Fountain, gardens of the Château de Versailles"
     'twitter:card' : summary
+significantlinks: ["https://en.wikipedia.org/wiki/Phaethon", "https://en.wikipedia.org/wiki/Apollo"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![Apollo, god of the Sun, in the gardens of Versailles][5] {.class-diane-img}
 

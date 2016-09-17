@@ -1,12 +1,19 @@
 ---
-title: Château de Chenonceau
-menu: Chenonceau
+title: Château de Cheverny
+menu: Cheverny
 taxonomy:
     category: [docs, fr]
 date: 15-01-2016
-modified: 23-07-2016, 22:56
+modified: 15-08-2016, 12:26
 metadata:
-   image: cheverny_700x398.jpg
+    description: "Section Château de Cheverny du site francois-vidit.com"
+    keywords: "francois-vidit.com, Section Château de Cheverny"
+    image: cheverny_700x398.jpg
+    image_width: 700
+    image_height: 398
+    image_legend: "Photographie du Château de Cheverny"
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/cheverny/chapter.fr.md"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 ---
 
-# Château de Chenonceau
+# Château de Cheverny

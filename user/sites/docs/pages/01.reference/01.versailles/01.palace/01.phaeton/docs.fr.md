@@ -2,22 +2,25 @@
 title: Ovide 
 menu: Phaéton
 date: 15-01-2016
-modified: 02-07-2016
+modified: 19-08-2016, 17:38
 itempage: Article
 taxonomy:
    category: [docs, fr]
-langswitcher:
-   enabled: true
 metadata:
     description: "Texte du chapître 'Phaéton' du Livre II des Métamorphoses d'Ovide, à l'origine du portrait d'Apollon, dieu du Soleil, au Château de Versailles"
     keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Phaéton'
     image: apollon_700x556.jpg
-    image_width: 700px
-    image_height: 556px
+    image_width: 700
+    image_height: 556
     image_legend: "Bassin d'Apollon, jardins du Château de Versailles"
     'twitter:card' : summary
+significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Pha%C3%A9ton"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Versailles"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![Bassin d'Apollon, dieu du soleil, dans les jardins de Versailles][5] {.class-diane-img}
 

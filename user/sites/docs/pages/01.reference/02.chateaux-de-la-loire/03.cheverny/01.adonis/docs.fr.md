@@ -1,8 +1,10 @@
 ---
 title: Ovide 
 menu: Adonis
+created: 15-01-2016
 date: 15-01-2016
-modified: 02-07-2016
+modified: 14-08-2016, 20:03
+itempage: Article
 taxonomy:
    category: [docs, fr]
 header_image: false
@@ -10,15 +12,17 @@ metadata:
     description: "Texte extrait du livre 10 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean Monier pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de Cheverny"
     keywords: "Château de Cheverny, Cheverny, Adonis, la mort d'Adonis, Ovide, Les Métamorphoses, Jean Monier"
     image: adonis_700x676.jpg
-    image_height: 700px
-    image_width: 676px
+    image_height: 700
+    image_width: 676
     image_legend: "Jean Monier, La Mort d'Adonis"
     'twitter:card' : summary
-langswitcher:
-   enabled: true
+significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 shortcode-core:
    active: true
-
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![Jean Monier, La Mort d'Adonis][4] {.class-diane-img}
 

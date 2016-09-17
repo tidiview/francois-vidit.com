@@ -2,17 +2,28 @@
 title: Ovide 
 menu: Persée
 date: 15-01-2016
-modified: 18-06-2016
+created: 15-01-2016
+modified: 14-08-2016, 20:06
+itempage: Article
 taxonomy:
    category: [docs, fr]
 header_image: false
 metadata:
     description: "Texte extrait du livre 4 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean Monier pour réaliser le plafond de la chambre du roi représentant l'histoire de Persée et Andromède au deuxième étage du Château de Cheverny"
     keywords: "Château de Cheverny, Cheverny, Persée et Andromède, Persée, Andromède, Ovide, Les Métamorphoses, Jean Monier"
-langswitcher:
-   enabled: true
+    image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
+    image_height: 1236
+    image_width: 1280
+    image_legend: "Jean Monier, La mort d'Adonis"
+    'twitter:card' : summary
+significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ! Il existe un petit texte à l'origine des tableaux peints par Jean Monier pour le plafond de la chambre du roi représentant l'histoire de Persée et Andromède au deuxième étage du [Château de Cheverny][1].  
 ! [Ovide][2] a écrit cet extrait du livre 4 des [Métamorphoses][3].

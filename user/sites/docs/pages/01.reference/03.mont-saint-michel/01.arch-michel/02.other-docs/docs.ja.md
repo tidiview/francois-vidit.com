@@ -1,8 +1,9 @@
 ---
 title: 他の資料での大天使ミシェル
 menu: 他の資料
-date: 23-11-2015
-modified: 24-07-2016, 00:22
+created: 23-11-2015, 13:50
+date: 23-11-2015, 13:50
+modified: 19-08-2016, 17:58
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -10,11 +11,16 @@ metadata:
    description: '大天使ミカエルが出現、旧約聖書の様々な文書'
    keywords: '大天使ミカエル, 旧約聖書, モン・サン・ミシェル'
    image: other-docs_700x426.png
-   image_height: 700px
-   image_width: 426px
+   image_height: 700
+   image_width: 426
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/other-docs/docs.ja.md"]
+specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 

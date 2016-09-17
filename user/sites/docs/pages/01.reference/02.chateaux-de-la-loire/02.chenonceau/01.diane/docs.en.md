@@ -3,22 +3,25 @@ title: Ovid
 menu: Diana
 date: 15-01-2016
 modified: 23-07-2016, 23:43
-itempage: article
+itempage: Article
 taxonomy:
    category: [docs, en]
-langswitcher:
-   enabled: true
 metadata:
     description: "Text extract from chapter 'Actæon' of book III of Ovid's Metamorphoses and used by painter Francesco Primaticcio to realise the portrait of Diana of Poitiers exposed in the Castle of Chenonceau"
-    keywords: 'Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diana de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon'
+    keywords: "Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diana de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon"
     image: _DSC2928.JPG
-    image_url: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048
-    image_height: 2048px
-    image_width: 1366px
+    image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
+    image_height: 2048
+    image_width: 1366
     image_legend: "School of Primaticcio, Portrait of Diana"
     'twitter:card' : summary
+significantlinks: ["https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Henry_II_of_France"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 ![École du Primatice, Portrait de Diana][9] {.class-diane-img}
 

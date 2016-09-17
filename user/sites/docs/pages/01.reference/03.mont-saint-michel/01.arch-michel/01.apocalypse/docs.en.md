@@ -1,21 +1,27 @@
 ---
 title: Saint Michael in the revelation
 menu: Revelation
-date: 22-11-2015
+created: 22-11-2015, 07:05
+date: 22-11-2015, 07:05
 modified: 24-07-2016, 00:21
-itempage: article
+itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
    description: 'Text of the 12th chapter of the revelation, unique of the New Testament where appears the Archangel Saint-Michael'
    keywords: 'Archangel Saint-Michael, New Testament, revelation, 12th chapter of the revelation, Mount-Saint-Michael, Mont-Saint-Michel'
    image: apocalypse_700x694.jpg
-   image_height: 700px
-   image_width: 694px
+   image_height: 700
+   image_width: 694
    image_legend: Archangel Saint-Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/apocalypse/docs.en.md"]
+specialty: ["History of France", "Religious history", "Biblic history"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 ##### [color=#df8a13]Ap. 12-7[/color]

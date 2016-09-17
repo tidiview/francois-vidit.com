@@ -1,19 +1,25 @@
 ---
 title: Autres sources
-date: 23-11-2015
-date: 22-11-2015
-modified: 24-07-2016, 00:25
+created: 22-11-2015, 09:55
+date: 22-11-2015, 09:55
+modified: 19-08-2016, 17:58
+itempage: Article
 taxonomy:
-    category: [docs, fr]
+   category: [docs, fr]
 metadata:
-   description: 'Textes de l'Ancien Testament où apparaît l'Archange Saint-Michel'
-   keywords: 'Archange Saint-Michel, Ancien Testament, Mont-Saint-Michel'
+   description: "Textes de l'Ancien Testament où apparaît l'Archange Saint-Michel"
+   keywords: "Archange Saint-Michel, Ancien Testament, Mont-Saint-Michel"
    image: other-docs_700x426.png
-   image_height: 700px
-   image_width: 426px
+   image_height: 700
+   image_width: 426
    'twitter:card' : summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/other-docs/docs.fr.md"]
+specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]
 shortcode-core:
    active: true
+sitemap:
+   changefreq: yearly
+   priority: 0.9
 ---
 
 
