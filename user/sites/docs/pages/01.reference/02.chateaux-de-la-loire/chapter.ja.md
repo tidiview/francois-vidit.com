@@ -11,6 +11,7 @@ metadata:
     image: chateaux-de-la-loire_700x499.jpg
     image_width: 700
     image_height: 499
+    image_title: ブルテシュ城
     image_legend: "ミシヤックにある、ブルテシュ城の写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chapter.ja.md"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]

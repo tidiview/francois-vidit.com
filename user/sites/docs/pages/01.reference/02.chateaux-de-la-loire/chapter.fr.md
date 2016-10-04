@@ -11,6 +11,7 @@ metadata:
     image: chateaux-de-la-loire_700x499.jpg
     image_width: 700
     image_height: 499
+    image_title: Château de la Bretesche
     image_legend: "Le Château de la Bretesche, Missillac"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chapter.fr.md"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]

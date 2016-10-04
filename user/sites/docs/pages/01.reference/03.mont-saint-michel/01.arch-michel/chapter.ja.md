@@ -10,6 +10,7 @@ metadata:
    image: arch-michel_700x700.jpg
    image_width: 700
    image_height: 700
+   image_title: "大天使・ミシェル"
    image_legend: "大天使・ミシェルの写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/chapter.ja.md"]
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]

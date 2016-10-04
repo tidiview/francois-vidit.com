@@ -13,7 +13,8 @@ metadata:
     image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
     image_height: 2048
     image_width: 1366
-    image_legend: "School of Primaticcio, Portrait of Diana"
+    image_title: Diana of Poitiers
+    image_legend: "School of Primaticcio, Portrait of Diana of Poitiers"
     'twitter:card' : summary
 significantlinks: ["https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Henry_II_of_France"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]

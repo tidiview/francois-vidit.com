@@ -13,6 +13,7 @@ metadata:
     image: chambord_700x525.jpg
     image_width: 700
     image_height: 525
+    image_title: Château de Chambord
     image_legend: "Le Château de Chambord"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/Chambord/chapter.fr.md"]
 specialty: ["Histoire de France", "Culture de cour"]

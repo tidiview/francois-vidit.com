@@ -14,6 +14,7 @@ metadata:
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
+    image_title: The Apollon Fountain
     image_legend: "The Apollon Fountain, gardens of the Château de Versailles"
     'twitter:card' : summary
 significantlinks: ["https://en.wikipedia.org/wiki/Phaethon", "https://en.wikipedia.org/wiki/Apollo"]

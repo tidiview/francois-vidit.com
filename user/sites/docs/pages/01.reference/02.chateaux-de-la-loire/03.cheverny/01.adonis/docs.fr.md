@@ -14,6 +14,7 @@ metadata:
     image: adonis_700x676.jpg
     image_height: 700
     image_width: 676
+    image_title: "La Mort d'Adonis"
     image_legend: "Jean Monier, La Mort d'Adonis"
     'twitter:card' : summary
 significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]

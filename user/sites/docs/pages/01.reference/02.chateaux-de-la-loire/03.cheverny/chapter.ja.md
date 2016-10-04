@@ -11,6 +11,7 @@ metadata:
     image: cheverny_700x398.jpg
     image_width: 700
     image_height: 398
+    image_title: シュヴェルニー城
     image_legend: "シュヴェルニー城の写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/cheverny/chapter.ja.md"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]

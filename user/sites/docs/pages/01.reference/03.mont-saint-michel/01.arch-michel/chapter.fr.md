@@ -10,6 +10,7 @@ metadata:
    image: arch-michel_700x700.jpg
    image_width: 700
    image_height: 700
+   image_title: Archange Saint-Michel
    image_legend: "Photographie de l'Archange Saint-Michel"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/chapter.fr.md"]
 specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]

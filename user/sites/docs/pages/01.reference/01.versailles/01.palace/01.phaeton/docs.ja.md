@@ -2,18 +2,19 @@
 title: オウィディウス
 menu: パエトン
 date: 24-06-2016
-modified: 19-08-2016, 17:38
+modified: 26-09-2016, 18:50
 itempage: Article
 taxonomy:
    category: [docs, ja]
 langswitcher:
    enabled: true
 metadata:
-    description: 'ヴェルサイユ宮殿に太陽神アポロ肖像のもとに使用された、オヴィディウス作家が書いた変身物語の第二巻のパエトン章の文書'
-    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, オヴィディウス, 変身物語, パエトン'
+    description: 'ヴェルサイユ宮殿に太陽神アポロ肖像のもとに使用された、オウィディウス作家が書いた変身物語の第二巻のパエトン章の文書'
+    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, オウィディウス, 変身物語, パエトン'
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
+    image_title: ディアーヌ・ド・ポワチエ肖像
     image_legend: フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3"]
@@ -30,7 +31,7 @@ sitemap:
 ! 「{r}王子{/r:Mémoires} {r}教{/r:pour} {r}育{/r:l} {r}の{/r:'} {r}ため{/r:instruction} {r}の{/r:du} {r}回顧録{/r:Dauphin}」 で、本人が、どういう訳で若いころに、自分で自ら太洋を選択したかを述べている。  
 ! ヴェルサイユでは、太洋がいろんな形を取っている。  
 ! その中で、特に、ローマ帝国時代の偉大さを思わせる [{r}アポロン{/r:Apollon} 太陽神][1] の姿がところどころに協調されている。  
-! 以下に、ローマ帝国時代作家 [{r}オヴィディウス{/r:Ovidius}][2] の「 [{r}変身物語{/r:Metamorphoseon}][3] 」に出て来る、太陽神アポロンは不思議な息子 [{r}パエトン{/r:Phæton}][4] の悲劇な死が語られていて、それで、反面に、我々も、太陽の存在の意義を考えさせられているのかも知れない！
+! 以下に、ローマ帝国時代作家 [{r}オウィディウス{/r:Ovidius}][2] の「 [{r}変身物語{/r:Metamorphoseon}][3] 」に出て来る、太陽神アポロンは不思議な息子 [{r}パエトン{/r:Phæton}][4] の悲劇な死が語られていて、それで、反面に、我々も、太陽の存在の意義を考えさせられているのかも知れない！
 
 [color=#df8a13]**パエトン**[/color]  
 

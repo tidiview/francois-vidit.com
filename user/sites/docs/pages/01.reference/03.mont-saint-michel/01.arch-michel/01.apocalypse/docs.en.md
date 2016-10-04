@@ -13,6 +13,7 @@ metadata:
    image: apocalypse_700x694.jpg
    image_height: 700
    image_width: 694
+   image_title: Archangel Saint-Michael
    image_legend: Archangel Saint-Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
    'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/apocalypse/docs.en.md"]

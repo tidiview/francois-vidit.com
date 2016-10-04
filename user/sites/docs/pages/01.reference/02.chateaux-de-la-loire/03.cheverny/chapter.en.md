@@ -10,6 +10,7 @@ metadata:
     image: image: cheverny_700x398.jpg
     image_width: 700
     image_height: 398
+    image_title: Castle of Cheverny
     image_legend: "View of the Castle of Cheverny"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/cheverny/chapter.en.md"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]

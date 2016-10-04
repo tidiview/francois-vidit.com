@@ -12,6 +12,7 @@ metadata:
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
+    image_title: "Bassin d'Apollon"
     image_legend: "Bassin d'Apollon, jardins du Château de Versailles"
     'twitter:card' : summary
 significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Pha%C3%A9ton"]

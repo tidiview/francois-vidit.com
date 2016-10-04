@@ -10,6 +10,7 @@ metadata:
    image: mont-saint-michel_700x392.jpg
    image_width: 700
    image_height: 392
+   image_title: モン・サン・ミシェル
    image_legend: "モン・サン・ミシェルの写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/chapter.ja.md"]
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]

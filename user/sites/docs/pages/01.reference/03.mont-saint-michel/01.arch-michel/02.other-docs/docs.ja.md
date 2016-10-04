@@ -13,6 +13,8 @@ metadata:
    image: other-docs_700x426.png
    image_height: 700
    image_width: 426
+   image_title: 青色
+   image_legend: 水の青色
    'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/other-docs/docs.ja.md"]
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]

@@ -12,6 +12,7 @@ metadata:
    image: apocalypse_700x694.jpg
    image_height: 700
    image_width: 694
+   image_title: "L'archange Saint-Michel"
    image_legend: "L'archange Saint-Michel, Église Saint-Gilles, Paris"
    'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/arch-michel/apocalypse/docs.fr.md"]

@@ -15,7 +15,8 @@ metadata:
     image: _DSC8053_700x353.jpg
     image_width: 700
     image_height: 353
-    image_legend: "金襴の陣の絵画の写真"
+    image_title: 金襴の陣
+    image_legend: "金襴の陣絵画の写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chambord/drap-d-or/docs.ja.md"]
 specialty: ["フランス歴史", "宮廷文化"]
 ---

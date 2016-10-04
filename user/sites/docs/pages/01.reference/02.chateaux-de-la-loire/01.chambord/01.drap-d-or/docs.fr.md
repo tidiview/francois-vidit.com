@@ -16,6 +16,7 @@ metadata:
     image: _DSC8053_700x353.jpg
     image_width: 700
     image_height: 353
+    image_title: Le Camp du drap d’Or
     image_legend: "Photographie du Tableau 'Le Camp du drap d’Or' de Friedrich BOUTERWEK à Chambord"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chambord/drap-d-or/docs.fr.md"]
 specialty: ["Histoire de France", "Culture de cour"]

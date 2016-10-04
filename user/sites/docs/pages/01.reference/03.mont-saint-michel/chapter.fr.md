@@ -10,6 +10,7 @@ metadata:
    image: mont-saint-michel_700x392.jpg
    image_width: 700
    image_height: 392
+   image_title: Mont-Saint-Michel
    image_legend: "Photographie du Mont-Saint-Michel"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/mont-saint-michel/chapter.fr.md"]
 specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]

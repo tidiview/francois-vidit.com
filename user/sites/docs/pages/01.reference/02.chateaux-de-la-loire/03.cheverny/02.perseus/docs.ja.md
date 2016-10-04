@@ -3,18 +3,19 @@ title: オウィディウス
 menu: ペルセウス
 date: 10-06-2016
 created: 10-06-2016, 14:01
-modified: 24-08-2016, 13:22
+modified: 26-09-2016, 18:50
 itempage: Article
 taxonomy:
    category: [docs, ja]
 header_image: false
 metadata:
-    description: 'シュヴェルニー城の二階にある王の寝室の天井に、ジャン・モニエ画家が描いたペルセウスとアンドロメダ諸絵の元に、オヴィディウス作家が書いた変身物語の第四巻末のペルセウスとアンドロメダ章を語る文書'
-    keywords: 'シュヴェルニー城, シュヴェルニー, ペルセウスとアンドロメダ, ペルセウス, アンドロメダ, オヴィディウス, 変身物語, ジャン・モニエ'
+    description: 'シュヴェルニー城の二階にある王の寝室の天井に、ジャン・モニエ画家が描いたペルセウスとアンドロメダ諸絵の元に、オウィディウス作家が書いた変身物語の第四巻末のペルセウスとアンドロメダ章を語る文書'
+    keywords: 'シュヴェルニー城, シュヴェルニー, ペルセウスとアンドロメダ, ペルセウス, アンドロメダ, オウィディウス, 変身物語, ジャン・モニエ'
     image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
     image_height: 1236
     image_width: 1280
+    image_title: La mort d'Adonis
     image_legend: "Jean Monier, La mort d'Adonis"
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E"]
@@ -25,7 +26,7 @@ sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある王の寝室の天井に、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いたペルセウスとアンドロメダ諸絵の元に、 [{r}オヴィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第四巻末の「ペルセウスとアンドロメダ章」があります。  
+! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある王の寝室の天井に、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いたペルセウスとアンドロメダ諸絵の元に、 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第四巻末の「ペルセウスとアンドロメダ章」があります。  
 ! ご参照ください！
 
 [color=#df8a13]**ペルセウスとアンドロメダ**[/color]

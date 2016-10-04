@@ -2,17 +2,18 @@
 title: オウィディウス
 menu: ディアヌ
 date: 15-01-2016
-modified: 30-08-2016, 23:37
+modified: 26-09-2016, 18:50
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-   description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オヴィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書"
-   keywords: "シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オヴィディウス, 変身物語, アクタイオン"
+   description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書"
+   keywords: "シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン"
    image: "_DSC2928.JPG"
    image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
    image_height: 2048
    image_width: 1366
+   image_title: ディアーヌ・ド・ポワチエ肖像
    image_legend: "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"
    'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B"]
@@ -30,7 +31,7 @@ sitemap:
 !!!! この絵には {r}François{/r:フランソワ}１世 の後を継いだ息子 [{r}Henri{/r:アンリ} 2世][4] の愛妾だった、[{r}Diane{/r:ディアーヌ} {r}de{/r:ド} {r}Poitiers{/r:ポワチエ}][5] が描かれています。  
 !!!! 当時、フランス王国宮廷では、最も注目された（気絶する）美人としても知られています。  
 !!!! この時代、「並行肖像」が流行ったため、直接肖像するのではなく、ここでは、本人が同じ名前 [{r}Diane{/r:ディアーヌ}][6] で知られる狩猟女神の姿で表されています。  
-!!!! この並行肖像の元、以下、ローマ帝国時代に生きた作家 [{r}オヴィディウス{/r:Ovidius}][7] が書いた「 [{r}変身物語{/r:Metamorphoseon}][8] 」のなかに、 {r}Diane{/r:ディアーヌ} 狩猟女神が現れる物語があります。  
+!!!! この並行肖像の元、以下、ローマ帝国時代に生きた作家 [{r}オウィディウス{/r:Ovidius}][7] が書いた「 [{r}変身物語{/r:Metamorphoseon}][8] 」のなかに、 {r}Diane{/r:ディアーヌ} 狩猟女神が現れる物語があります。  
 !!!! {r}アクタイオン{/r:Actæon} と狩猟女神の物語をお楽しみ下さい！
 
 [color=#3d8b3d]**アクタイオン**[/color]  

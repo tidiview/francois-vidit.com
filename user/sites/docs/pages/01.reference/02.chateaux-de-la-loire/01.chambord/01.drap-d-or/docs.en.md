@@ -15,6 +15,7 @@ metadata:
     image: _DSC8053_700x353.jpg
     image_width: 700
     image_height: 353
+    image_title: the Field of the Cloth of Gold
     image_legend: "photography of the painting of the Field of the Cloth of Gold painted by Friedrich BOUTERWEK, Castle of Chambord"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chambord/drap-d-or/docs.en.md"]
 specialty: ["History of France", "Culture of royal french court"]

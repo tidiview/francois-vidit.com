@@ -15,6 +15,7 @@ metadata:
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
     image_height: 1236
     image_width: 1280
+    image_title: The Death of Adonis
     image_legend: "Jean Monier, The Death of Adonis"
     'twitter:card' : summary
 significantlinks: ["https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]

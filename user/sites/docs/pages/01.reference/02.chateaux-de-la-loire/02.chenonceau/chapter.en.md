@@ -11,6 +11,7 @@ metadata:
     image: chenonceau_700x350.jpg
     image_width: 700
     image_height: 350
+    image_title: Castle of Chenonceau
     image_legend: "View of the Castle of Chenonceau"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chateaux-de-la-loire/chenonceau/chapter.en.md"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]

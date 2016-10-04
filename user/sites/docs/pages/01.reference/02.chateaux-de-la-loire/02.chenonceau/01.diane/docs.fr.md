@@ -13,7 +13,8 @@ metadata:
    image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
    image_height: 2048
    image_width: 1366
-   image_legend: "École du Primatice, Portrait de Diane"
+   image_title: Diane de Poitiers
+   image_legend: "École du Primatice, Portrait de Diane de Poitiers"
    'twitter:card' : summary
 significantlinks: ["https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
