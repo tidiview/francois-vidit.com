@@ -2,7 +2,8 @@
 title: Archangel Saint-Michael
 taxonomy:
     category: [docs, en]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 19-08-2016, 17:58
 metadata:
    description: "Archangel Saint-Michael section of site francois-vidit.com"

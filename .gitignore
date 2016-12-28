@@ -32,6 +32,14 @@ setup-8-20160508-2042-subdomains-michal-2nd.php
 setup.php
 setup2-20160508-1858-subdomains.php
 test.php
+user.rar
+package.json
+robots_old_20161101.txt
+logo.miff
+logo.gif
+logo.jpg
+htdocs.rar
+.gitignore
 
 
 agency-site/*
@@ -52,6 +60,7 @@ landio-site/*
 logs/*
 markdown-rubytext/*
 mediator/*
+node_modules/*
 onepage-site/*
 piwik/*
 phile/*
@@ -65,9 +74,11 @@ soraarticle-blog/*
 system/*
 vendor/*
 webalizer/*
+webserver-configs/*
 xampp/*
 proper-settings-ovh/*
 essai/*
+
 
 user/accounts/*
 user/config/*
@@ -83,6 +94,7 @@ user/sites/about/*
 user/sites/docs/config/*
 user/sites/docs/plugins/*
 user/sites/docs/themes/*
+user/localhost/config/*
 
 # OS Generated
 .DS_Store*
@@ -92,3 +104,6 @@ Thumbs.db
 *.swp
 *.sublime-project
 README.md
+gulpfile.js
+*.jpg
+*.webp

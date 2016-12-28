@@ -3,7 +3,8 @@ title: Référence
 slug: reference
 taxonomy:
     category: [docs, fr]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 19-08-2016, 17:58
 metadata:
    description: "la section Référence propose des documents supports afin d'approfondir"

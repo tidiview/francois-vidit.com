@@ -1,13 +1,12 @@
 ---
 title: Ovide 
 menu: Phaethon
-date: 15-01-2016
-modified: 19-08-2016, 17:38
+created: 15-01-2016, 07:05
+date: 15-01-2016, 07:05
+modified: 21-11-2016, 17:12
 itempage: Article
 taxonomy:
    category: [docs, en]
-langswitcher:
-   enabled: true
 metadata:
     description: "Text extract from chapter 'Phaethon' of book II of Ovid's Metamorphoses, at the origin of figure of Apollo, god of the Sun, in the Château de Versailles"
     keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovid, The Metamorphoses, Phaethon'
@@ -25,7 +24,20 @@ sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-![Apollo, god of the Sun, in the gardens of Versailles][5] {.class-diane-img}
+<figure><picture>
+<source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-280.webp 280w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-380.webp 380w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-480.webp 480w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-640.webp 640w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.webp 700w" type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpg" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-280.jpg 280w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-380.jpg 380w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-480.jpg 480w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-640.jpg 640w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpp 700w" title="Apollo, god of the Sun, in the gardens of Versailles" alt="Apollo, god of the Sun, in the gardens of Versailles" class="class-diane-img">
+</picture></figure>
 
 ! Louis XIV is called the Sun king.  
 ! Dans memoire for the instruction of the dauphin by Louis XIV, himself explains the reasons that conducted him, young, to naturally make that choice.  
@@ -33,7 +45,7 @@ sitemap:
 ! Among them, several places show the figure of [Apollon][1], god of the Sun, that refeer to the grandeur of the Roman Empire.      
 ! Below is told the tragic death of [Phaethon][4], the strange son of son of Apollo as he appear in the [Metamorphoses][3] of a writer of the roman empire [Ovid][2] and according to who, on the opposite, we might not be able to consider the sense of the existence of the sun the same way!
 
-![«][«]
+<span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>1</sup> The palace of the Sun towered up with raised columns, bright with glittering gold, and gleaming bronze like fire.  
 Shining ivory crowned the roofs, and the twin doors radiated light from polished silver.  
 <sup>5</sup> The work of art was finer than the material: on the doors Mulciber had engraved the waters that surround the earth’s centre, the earthly globe, and the overarching sky.  
@@ -209,16 +221,12 @@ What can their mother do but go here and there as the impulse takes her, pressin
 She tries to pull the bark from their bodies and break off new branches with her hands, <sup>360</sup> but drops of blood are left behind like wounds.  
 « Stop, mother, please » cries out whichever one she hurts, « Please stop: It is my body in the tree you are tearing.  
 Now, farewell. » and the bark closed over her with her last words.  
-Their tears still flow, and hardened by the sun, fall as <sup>365</sup> amber from the virgin branches, to be taken by the bright river and sent onwards to adorn Roman brides.
-![»][»]
+Their tears still flow, and hardened by the sun, fall as <sup>365</sup> amber from the virgin branches, to be taken by the bright river and sent onwards to adorn Roman brides. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
 
 [color=#df8a13]Ovid, The Metamorphoses, Book 2[/color]  
 
-[«]: /en/images/quotesleft.svg?classes=caracter-icon
-[»]: /en/images/quotesright.svg?classes=caracter-icon
 [1]: https://en.wikipedia.org/wiki/Apollo "https://en.wikipedia.org/wiki/Apollo"
 [2]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
 [3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
 [4]: https://en.wikipedia.org/wiki/Phaethon "https://en.wikipedia.org/wiki/Phaethon"
-[5]: ./apollon_700x556.jpg "Apollo, god of the Sun, in the gardens of Versailles"

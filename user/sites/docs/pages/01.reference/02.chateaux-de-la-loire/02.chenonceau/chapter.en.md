@@ -3,7 +3,8 @@ title: Castle of Chenonceau
 menu: Chenonceau
 taxonomy:
     category: [docs, en]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 15-08-2016, 12:26
 metadata:
     description: "Documents of Castle of Chenonceau section of site francois-vidit.com"
