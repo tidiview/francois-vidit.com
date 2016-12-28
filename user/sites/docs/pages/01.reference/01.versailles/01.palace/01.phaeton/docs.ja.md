@@ -1,8 +1,9 @@
 ---
 title: オウィディウス
 menu: パエトン
-date: 24-06-2016
-modified: 26-09-2016, 18:50
+created: 15-01-2016, 07:10
+date: 24-06-2016, 07:10
+modified: 21-11-2016, 17:12
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -25,17 +26,33 @@ sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-![ヴェルサイユ庭園にある太陽神アポロ泉水][5] {.class-diane-img}
+<figure><picture>
+<source sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-280.webp 280w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-380.webp 380w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-480.webp 480w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-640.webp 640w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.webp 700w" type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpg" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw" srcset="
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-280.jpg 280w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-380.jpg 380w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-480.jpg 480w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-640.jpg 640w,
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpp 700w" title="Apollo, god of the Sun, in the gardens of Versailles" alt="Apollo, god of the Sun, in the gardens of Versailles" class="class-diane-img">
+</picture></figure>
 
-! {r}ルイ{/r:Louis} {r}14世{/r:XIV} は太洋王とも呼ばれている。  
-! 「{r}王子{/r:Mémoires} {r}教{/r:pour} {r}育{/r:l} {r}の{/r:'} {r}ため{/r:instruction} {r}の{/r:du} {r}回顧録{/r:Dauphin}」 で、本人が、どういう訳で若いころに、自分で自ら太洋を選択したかを述べている。  
-! ヴェルサイユでは、太洋がいろんな形を取っている。  
+! {r}ルイ{/r:Louis} {r}14世{/r:XIV} は「太陽王」とも呼ばれている。  
+! 「{r}王子{/r:Mémoires} {r}教{/r:pour} {r}育{/r:l} {r}の{/r:'} {r}ため{/r:instruction} {r}の{/r:du} {r}回顧録{/r:Dauphin}」 のあるところに、本人が、どういう訳で、若いころに、自分で、自ら、太陽を選択したかを述べている。  
+! ヴェルサイユでは、太陽がいろんな形に見かけられる。  
 ! その中で、特に、ローマ帝国時代の偉大さを思わせる [{r}アポロン{/r:Apollon} 太陽神][1] の姿がところどころに協調されている。  
-! 以下に、ローマ帝国時代作家 [{r}オウィディウス{/r:Ovidius}][2] の「 [{r}変身物語{/r:Metamorphoseon}][3] 」に出て来る、太陽神アポロンは不思議な息子 [{r}パエトン{/r:Phæton}][4] の悲劇な死が語られていて、それで、反面に、我々も、太陽の存在の意義を考えさせられているのかも知れない！
+! 以下には、ローマ帝国時代作家 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」に出て来る、太陽神アポロンの不思議な息子 [{r}パエトン{/r:Phæton}][4] の悲劇な死が語られている。
+! それで、我々も、太陽の存在の意義を考えさせられて来ることになるかも知れない！  
+! ぜひ、ご覧になって上げてください。
 
 [color=#df8a13]**パエトン**[/color]  
 
-![«][«] 大陽神の宮殿は、そそり立つ列柱に支えられて、高々とそびえ、きらめく黄金と、燃えるような {r}赤銅{/r:しゃくどう}とで {r}燦爛{/r:さんらん}と輝いていた。
+
+大陽神の宮殿は、そそり立つ列柱に支えられて、高々とそびえ、きらめく黄金と、燃えるような {r}赤銅{/r:しゃくどう}とで {r}燦爛{/r:さんらん}と輝いていた。
 最上部の {r}破風{/r:はふ}は、まばゆい {r}象牙{/r:ぞうげ}で飾られているし、両開きの {r}門扉{/r:もんぴ}は、銀で光っている。
 もっとも、材料よりも、細工のほうがまさっていた。
 扉に浮き彫りを施したのは、 {r}鍛冶{/r:かじ}の神ウルカヌスだったからだ。
@@ -334,15 +351,13 @@ sitemap:
 |  |ちから及ばずして  {r}逝{/r:ゆ}く |
 |  |その大いなる 雄図むなしく 」 |
 
-哀れな父親は、悲しみやつれて、顔を隠し、まる一日のあいだ日が出なかったといわれているが、そうとすれば、あの災いにも何かの効用はあったことになる。![»][»]
+哀れな父親は、悲しみやつれて、顔を隠し、まる一日のあいだ日が出  
+なかったといわれているが、そうとすれば、あの災いにも何かの効用はあったことになる。
 
 
 [color=#df8a13]オウィディウス、変身物語、第二巻より[/color]  
 
-[«]: /fr/images/quotesleft.svg?classes=caracter-icon
-[»]: /fr/images/quotesright.svg?classes=caracter-icon
 [1]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポロン"
 [2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
 [3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
 [4]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/パエトン"
-[5]: ./apollon_700x556.jpg "ヴェルサイユ庭園にある太陽神アポロ泉水"

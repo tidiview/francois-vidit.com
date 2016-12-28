@@ -2,9 +2,9 @@
 title: Friedrich BOUTERWEK の「金襴の陣」絵画
 menu: 金襴画
 robots: 'noindex, nofollow'
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 15-08-2016, 12:26
-created: 15-01-2016
 itempage: Article
 taxonomy:
     category: [docs, ja]

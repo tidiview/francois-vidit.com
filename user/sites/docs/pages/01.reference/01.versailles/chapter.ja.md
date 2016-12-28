@@ -1,8 +1,10 @@
 ---
 title: ヴェルサイユ宮殿
+slug: versailles
 taxonomy:
     category: [docs, ja]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 19-08-2016, 17:38
 metadata:
    description: "francois-vidit.com サイトのヴェルサイユ宮殿セクション"

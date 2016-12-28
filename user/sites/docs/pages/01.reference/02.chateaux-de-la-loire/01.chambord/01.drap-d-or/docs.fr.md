@@ -2,10 +2,9 @@
 title: Tableau 'Le Camp du drap d’Or' de Friedrich BOUTERWEK
 menu: Tableau du Drap d'Or
 robots: 'noindex, nofollow'
-menu: 金襴画
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 15-08-2016, 12:26
-created: 15-01-2016
 itempage: Article
 taxonomy:
     category: [docs, fr]

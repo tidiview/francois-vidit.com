@@ -3,7 +3,8 @@ title: Château de Cheverny
 menu: Cheverny
 taxonomy:
     category: [docs, fr]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 15-08-2016, 12:26
 metadata:
     description: "Section Château de Cheverny du site francois-vidit.com"

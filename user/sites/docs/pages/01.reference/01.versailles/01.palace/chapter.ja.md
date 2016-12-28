@@ -3,7 +3,8 @@ title: 宮殿
 menu: 宮殿
 taxonomy:
     category: [docs, ja]
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 19-08-2016, 17:38
 metadata:
    description: "francois-vidit.com サイトの宮殿セクション"

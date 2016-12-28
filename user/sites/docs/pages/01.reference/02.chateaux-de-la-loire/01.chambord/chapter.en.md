@@ -5,7 +5,8 @@ robots: 'noindex, nofollow'
 taxonomy:
     category: [docs, en]
 visible: false
-date: 15-01-2016
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
 modified: 15-08-2016, 12:26
 metadata:
     description: "Documents of Castles of the Loire's section of site francois-vidit.com"

@@ -1,9 +1,9 @@
 ---
 title: オウィディウス
 menu: アドニス
-created: 10-06-2016
-date: 10-06-2016
-modified: 26-09-2016, 18:50
+created: 15-01-2016, 07:10
+date: 15-01-2016, 07:10
+modified: 21-11-2016, 20:44
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -11,9 +11,9 @@ header_image: false
 metadata:
     description: 'シュヴェルニー城の二階にある暖炉で展示されている、ジャン・モニエ画家が描いたアドニスの死を表れる絵画の元に、オウィディウス作家が書いた変身物語の第十巻末のアドニス章を語る文書'
     keywords: 'シュヴェルニー城, シュヴェルニー, アドニス, アドニスの死, オウィディウス, 変身物語, ジャン・モニエ'
-    image: adonis_700x676.jpg
-    image_height: 700
-    image_width: 676
+    image: adonis-840.jpg
+    image_height: 840
+    image_width: 808
     image_title: アドニスの死
     image_legend: ジャン・モニエ、アドニスの死絵画
     'twitter:card' : summary
@@ -25,14 +25,27 @@ sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-![ジャン・モニエ、アドニスの死][4] {.class-diane-img}
+<figure><picture>
+<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.webp 280w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.webp 380w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.webp 480w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.webp 640w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-840.webp 840w" type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.jpg 280w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.jpg 380w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_840.jpp 840w" title="ジャン・モニエ、アドニスの死" alt="ジャン・モニエ、アドニスの死" class="class-diane-img">
+</picture></figure>
 
-! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある暖炉で展示されている、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いたアドニスの死を表れる絵画の元に、 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第十巻末のアドニス章画があります。  
+! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある暖炉で展示されている、{r}Jean{/r:ジャン} {r}Monier{/r:モニエ} 画家が描いた「アドニスの死」を表れる絵画の元に、 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第十巻末の「アドニス章」があります。  
 ! ご参照ください！
 
 [color=#df8a13]**アドニスの死**[/color]  
 
-![«][«]
+<span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>708</sup> 彼女は、このように忠告すると、白鳥たちに引かせた車で、   
 空を渡ってゆく。が、若者の勇気が、この忠告に逆らうのだ。   
 たまたま、犬たちが、猪のまぎれない足跡をつけて、  
@@ -63,14 +76,10 @@ sitemap:
 {r}強靭{/r:きょうじん} な皮の下に種子を隠し持っている、あの {r}石榴{/r:ざくろ} が着ける花にそっくりだが、  
 しかし、その花を覚でる期間は短かいのだ。  
 花の付き具合が悪く、軽すぎて落ちやすいために、  
-<sup>739</sup> アネモネというその名のもとになっている {r}風{/r:アネモネ} が、これを散らすからだ。
-![»][»]  
+<sup>739</sup> アネモネというその名のもとになっている {r}風{/r:アネモネ} が、これを散らすからだ。<span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span> 
 
 [color=#df8a13]オウィディウス、変身物語、第十巻末、708～より[/color]  
 
-[«]: /fr/images/quotesleft.svg?classes=caracter-icon
-[»]: /fr/images/quotesright.svg?classes=caracter-icon
 [1]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城"
 [2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
 [3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[4]: ./adonis_700x676.jpg "ジャン・モニエ、アドニスの死"

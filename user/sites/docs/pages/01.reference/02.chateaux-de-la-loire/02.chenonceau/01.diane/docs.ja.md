@@ -2,17 +2,16 @@
 title: オウィディウス
 menu: ディアヌ
 date: 15-01-2016
-modified: 26-09-2016, 18:50
+modified: 21-11-2016, 20:14
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
    description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書"
    keywords: "シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン"
-   image: "_DSC2928.JPG"
-   image_url: "https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048"
-   image_height: 2048
-   image_width: 1366
+   image: "diane-840.jpg"
+   image_height: 840
+   image_width: 1260
    image_title: ディアーヌ・ド・ポワチエ肖像
    image_legend: "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"
    'twitter:card' : summary
@@ -24,19 +23,33 @@ sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-![フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像][9] {.class-diane-img}
+<figure><picture>
+<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.webp 380w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.webp 480w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.webp 840w" type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
+/user/sites/docs/pages/01.reference/02.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像" alt="フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像" class="class-diane-img">
+</picture></figure>
 
-!!!! この画像は、当時、 [{r}François{/r:フランソワ}１世][1] に招待され、後に文化大臣に相当する人物ともなった、イタリア・ボローニャ出身の画家 [{r}Primaticcio{/r:プリマティッチオ}][2] が1556年に [{r}Chenonceau{/r:シュノンソー} 城][3] で描いた作品です。  
-!!!!  当時 本人は {r}Le{/r:ル} {r}Primatice{/r:プリマティス} とフランス語風の名で知られていました。  
-!!!! この絵には {r}François{/r:フランソワ}１世 の後を継いだ息子 [{r}Henri{/r:アンリ} 2世][4] の愛妾だった、[{r}Diane{/r:ディアーヌ} {r}de{/r:ド} {r}Poitiers{/r:ポワチエ}][5] が描かれています。  
-!!!! 当時、フランス王国宮廷では、最も注目された（気絶する）美人としても知られています。  
-!!!! この時代、「並行肖像」が流行ったため、直接肖像するのではなく、ここでは、本人が同じ名前 [{r}Diane{/r:ディアーヌ}][6] で知られる狩猟女神の姿で表されています。  
-!!!! この並行肖像の元、以下、ローマ帝国時代に生きた作家 [{r}オウィディウス{/r:Ovidius}][7] が書いた「 [{r}変身物語{/r:Metamorphoseon}][8] 」のなかに、 {r}Diane{/r:ディアーヌ} 狩猟女神が現れる物語があります。  
-!!!! {r}アクタイオン{/r:Actæon} と狩猟女神の物語をお楽しみ下さい！
+!!!! この画像は、当時、 [{r}François{/r:フランソワ}１世][1] に招待され、後に文化大臣に相当する人物ともなった、イタリア・ボローニャ出身の画家 [{r}Primaticcio{/r:プリマティッチオ}][2] が、1556年に、 [{r}Chenonceau{/r:シュノンソー} 城][3] で描いた作品です。  
+!!!!  当時、本人は、「 {r}Le{/r:ル} {r}Primatice{/r:プリマティス} 」と、フランス語風の名で、知られていました。  
+!!!! この絵では、 {r}François{/r:フランソワ}１世 の後を継いだ息子 [{r}Henri{/r:アンリ} 2世][4] の愛妾だった、[{r}Diane{/r:ディアーヌ} {r}de{/r:ド} {r}Poitiers{/r:ポワチエ}][5] が描かれている。  
+!!!! 当時、フランス王国宮廷では、最も注目された（気絶する）美人としても知られている。  
+!!!! この時代、「並行肖像」が流行ったため、直接肖像されているのではなく、ここでは、本人と同じ名前「 [{r}Diane{/r:ディアーヌ}][6] 」で知られる狩猟女神の姿で、表されている。  
+!!!! この並行肖像の元、以下に読めれる、ローマ帝国時代に生きた作家 [{r}オウィディウス{/r:Ovidius}][7] が書いた「 [{r}変身物語{/r:Metamorphoseon}][8] 」のなかにある、 {r}Diane{/r:ディアーヌ} 狩猟女神が現れる物語がある。  
+!!!! {r}アクタイオン{/r:Actæon} 王子と狩猟女神の物語でもある。  
+!!!! お楽しみ下さい！
 
 [color=#3d8b3d]**アクタイオン**[/color]  
 
-![«][«]
+<span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 力ドモスのばあい、ありあまる幸福のなかにあって、最初の悲しみのたねは、孫 アクタイオンだった。  
 <sup>140</sup> その {r}額{/r:ひたい}に異様な {r}角{/r:つの}が生え、飼い犬によって存分に血をすすられたのではあったが、もとをただせば、 {r}咎{/r:とが}められるべきは「運命」であって、彼には罪はない。偶然の {r}過{/r:あやま}ちに、何の罪があったというのであろう？
 
@@ -79,13 +92,11 @@ sitemap:
 
 仲間たち、何も知らないで、たけりたつ犬の群を、いつものかけ声でけしかけながら、目でアクタイオンを探している。ここにはいないものと思って、われがちに大声でアクタイオンの名を呼んでいる。  
 <sup>245</sup> 本人は、名前の獲物を見物できないとは、何をぐずぐずしているのだろうというのだ。こちらは、いあわせたくもないのに、ここにいる。自分の飼い犬たちは、四方からとりかこみ、  
-<sup>250</sup> 鼻づらを彼のからだに埋め、雄鹿に変身した主人を引き裂いている。数え切れない傷を受けて息絶えるまで、矢筒を持つディアナの怒りはみたされなかったという。![»][»]  
+<sup>250</sup> 鼻づらを彼のからだに埋め、雄鹿に変身した主人を引き裂いている。数え切れない傷を受けて息絶えるまで、矢筒を持つディアナの怒りはみたされなかったという。 <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>  
 
 
 [color=#3d8b3d]オウィディウス、変身物語、第三巻より[/color]  
 
-[«]: /fr/images/quotesleft.svg?classes=caracter-icon
-[»]: /fr/images/quotesright.svg?classes=caracter-icon
 [1]: https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF1%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）"
 [2]: https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA "https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ"
 [3]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%B3%E3%82%BD%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュノンソー城"
@@ -94,4 +105,3 @@ sitemap:
 [6]: https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A "https://ja.wikipedia.org/wiki/ディアーナ"
 [7]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
 [8]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[9]: https://lh3.googleusercontent.com/-61d6SAH7jYI/UrB1ZT8PKqI/AAAAAAABDVE/OGwY3Qee8vgE7hOH4wtjlaK6sg53pYTLACCo/s2048/_DSC2928.JPG "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"
