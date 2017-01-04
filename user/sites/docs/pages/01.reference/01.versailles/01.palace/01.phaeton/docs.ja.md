@@ -38,7 +38,7 @@ sitemap:
 /user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-380.jpg 380w,
 /user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-480.jpg 480w,
 /user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon-640.jpg 640w,
-/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpp 700w" title="Apollo, god of the Sun, in the gardens of Versailles" alt="ヴェルサイユ宮殿の庭園にある、太陽神アポロン" class="class-diane-img">
+/user/sites/docs/pages/01.reference/01.versailles/01.palace/01.phaeton/apollon_700x556.jpp 700w" title="ヴェルサイユ宮殿の庭園にある、太陽神アポロン" alt="ヴェルサイユ宮殿の庭園にある、太陽神アポロン" class="class-diane-img">
 </picture></figure>
 
 ! {r}ルイ{/r:Louis} {r}14世{/r:XIV} は「太陽王」とも呼ばれている。  
