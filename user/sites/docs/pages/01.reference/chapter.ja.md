@@ -17,8 +17,8 @@ metadata:
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/chapter.ja.md"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
 ---
-# リファレンス
+# リファ<wbr>レンス
 
-このセクションには、見学を深める史料があります。
+このセクションには、見学を深める史料が<wbr>あります。
 
 気楽にご覧ください！

@@ -18,7 +18,7 @@ significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
 ---
 
-# Reference
+# Refe<wbr>rence
 
 In this section, are documents to get deeper into visits.  
 Please, feel free to have a look!

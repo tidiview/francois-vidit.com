@@ -18,7 +18,7 @@ significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 ---
 
-# Référence
+# Réfé<wbr>rence
 
 Dans cette section, se trouve des documents qui permettent d'approfondir les visites.  
 N'hésitez pas à consulter!
