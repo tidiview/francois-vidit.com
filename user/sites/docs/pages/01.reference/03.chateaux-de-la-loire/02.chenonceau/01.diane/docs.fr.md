@@ -36,7 +36,7 @@ sitemap:
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="École du Primatice, Portrait de Diane de Poitiers, Château de Chenonceau" alt="École du Primatice, Portrait de Diane de Poitiers, Château de Chenonceau" class="class-diane-img">
-</picture></figure>
+</picture><figcaption>École du Primatice, “Portrait de Diane de Poitiers”</figcaption></figure>
 
 !!!! Ce portrait est une œuvre que [Le Primatice][2], peintre originaire de Bologne en Italie, invité par le roi [François Ier][1] puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au [Château de Chenonceau][3].  
 !!!! En italien, la même personne est désignée par l'appellation 'Il Primaticcio'.  

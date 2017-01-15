@@ -13,12 +13,12 @@ metadata:
     image: tiresias_700x501.jpg
     image_width: 700
     image_height: 501
-    image_title: René-Antoine HOUASSE, « Minerve et Tirésias »
-    image_legend: Minerve rend aveugle Tirésias.
+    image_title: René-Antoine HOUASSE, “Minerve et Tirésias”
+    image_legend: Minerve au premier plan rend aveugle Tirésias, au centre
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Tir%C3%A9sias", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
-specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias"]
+specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture française du XVIIème siècle", "Peinture de cour française", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias", "Minerve", "Minerve et Tirésias"]
 shortcode-core:
    active: true
 sitemap:
@@ -37,17 +37,17 @@ srcset="
 type="image/webp">
 <img
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
-src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture « Minerve et Tirésias », qui se trouve au Grand Trianon au Château de Versailles" alt="Peinture « Minerve et Tirésias », qui se trouve au Grand Trianon au Château de Versailles" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Château de Versailles" alt="Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Château de Versailles" class="class-diane-img"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-280.jpg 280w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Minerve et Tirésias”</figcaption></figure>
 
 !!! Au [Grand Trianon][1], dans le Salon des Seigneurs, se trouve un tableau peint par [René-Antoine HOUASSE][2], « Minerve et Tirésias ».  
-!!! [Minerve][3] y rend aveugle [Tirésias][4] tel que le raconte [Ovide][5] dans le livre III de ses [Métamorphoses][6].  
+!!! [Minerve][3], au premier plan, y rend aveugle [Tirésias][4], au centre, tel que le raconte [Ovide][5] dans le livre III de ses [Métamorphoses][6].  
 !!! En voici l'extrait.
 
 [color=#28a1c5]**Tirésias**[/color]  

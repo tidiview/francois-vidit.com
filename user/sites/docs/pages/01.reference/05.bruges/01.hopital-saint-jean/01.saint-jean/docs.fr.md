@@ -47,10 +47,10 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.jpg 480w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.jpg 640w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
-</picture></figure>
+</picture><figcaption>Le triptyque ouvert</figcaption></figure>
 
 Le _retable de saint Jean L'Évangéliste et saint Jean Baptiste_ (1479) a sans doute été commandé pour le maître-autel.  
-Le cadre porte le nom de Hans Memling et la date de 1479.
+Le cadre porte le nom de Hans Memling et la date de 1479.  
 La présence de saint Jean-Baptiste sur le panneau central confirme cette supposition puisque le maître-autel d'un oratoire était généralement consacré au saint patron.  
 L'Évangéliste porte le calice avec le serpent venimeux, ce dernier étant une allusion au fait qu'on a voulu l'empoisonner.  
 On reconnaît saint Jean-Baptiste à l'agneau qui l'accompagne.
@@ -68,7 +68,7 @@ Deux angelots tiennent compagnie aux saints.
 Celui de gauche joue de l'orgue portatif, appelé également positif, celui de droite tient un livre que la Vierge feuillette.  
 La présence de tous ces saints entourant la Vierge fait songer plutôt au thème de la "{r}Sainte&#160;Conversation{/r:Sacra&#160;Conversazione}", sujet que Memling prisait fort parce qu'il lui donnait l'occasion d'élaborer une œuvre très équilibrée.  
 
-Ce sont pourtant les deux saints Jean qui apparaissent comme étant les personnages principaux, comme le prouve l'importance accordée aux nombreux , comme le prouve l'importance accordée aux nombreux détails qui, vis-à-vis du spectateur, doivent éclairer leur biographie.  
+Ce sont pourtant les deux saints Jean qui apparaissent comme étant les personnages principaux, comme le prouve l'importance accordée aux nombreux détails qui, vis-à-vis du spectateur, doivent éclairer leur biographie.  
 Des scènes illustrant les principaux épisodes de leur vie se retrouvent sur les chapiteaux des colonnes, dans les paysages et sur les colets.  
 Derrière les colonnes, qui forment les éléments verticaux de la composition et délimitent le premier plan, on aperçoit un paysage.  
 Les nombreuses scènes, à gauche de l'arrière-plan, racontent la vie et le martyre de Jean-Baptiste.  
@@ -82,12 +82,12 @@ C'est pourquoi le premier plan est entièrement occupé par la scène du martyre
 Le bourreau dépose la tête dans le plat que présente une Salomé à peine émue.  
 Quelques spectateurs complètent le cercle.  
 Les deux personnages du premier plan sont repris d'une scène analogue qui figure dans le Retable de saint Jean de Roger van der Weyden (Staatliche Museen, Berlin).  
-Le peintre du premier plan sont repris à droite, pour illustrer la vie de Jean l'Évangéliste.  
+Le peintre a utlisé le même principe à droite, pour illustrer la vie de Jean l'Évangéliste.  
 Sur l'un des chapiteaux on peut voir "La résurrection de la Drusienne", sur l'autre "Saint Jean buvant la coupe empoisonnée".  
 Dans le fond on aperçoit "l'apôtre plongé dans l'huile bouillante".  
-On verra également comment "il baptise le philosophe Craton" et, à l'extrêùe droite, comment "on le mène vers la barque" qui l'emportera à l'île de Patmos.  
+On verra également comment "il baptise le philosophe Craton" et, à l'extrême droite, comment "on le mène vers la barque" qui l'emportera à l'île de Patmos.  
 Le volet droit est entièrement consacré aux visions de l'Apocalypse.
-L'évangéliste, assis sur un rocher, circulaire au milieu de la mer Égée, écrit dans le récit de la Révélation concernant la la fin des temps, illustré dans l'angle supérieur gauche.  
+L'évangéliste, assis sur un rocher, circulaire au milieu de la mer Égée, écrit dans le récit de la Révélation concernant la fin des temps, illustré dans l'angle supérieur gauche.  
 La scène se passe dans les nuées et est encadrée d'un arc-en-ciel.  
 Les autres événements propres à la fin du monde se dérouleront sur terre.  
 Le personnage le plus important de cet événement est "Dieu", assis sur un trône.  
@@ -99,7 +99,7 @@ Ils jouent de différents instruments de musique.
 Dans le bas se tient un ange.  
 À ses pieds un autre ange s'agenouille devant l'autel des encens.  
 Au milieu des scènes terrestres, on aperçoit d'abord les "quatre chevaliers de l'Apocalypse".  
-Le cavalier au cheval noir personnifie la "famine", celui qui monte le cheval verdâtre se nomme la Peste.  
+Le cavalier au cheval noir personnifie la "famine", celui qui monte le cheval verdâtre se nomme "la Peste".  
 Il est poursuivi par l'Hadès.  
 Les "Hommes se réfugient dans les cavernes".  
 Au-dessus du monstre, on voit tomber sur une île le feu mêlé de grêle.  
@@ -112,7 +112,7 @@ Un dragon à sept têtes essaye de lui enlever son enfant.
 Memling décrit ces événements dramatiques avec une grande richesse de coloris.  
 Certains éléments qui se reflètent dans l'eau trahissent son goût pour l'analyse des phénomènes naturels.  
 Les personnages qui s'amenuisent au fur et à mesure qu'ils se rapprochent du fond, sont le résultat de la "perspective linéaire" utilisée ici.  
-Citons encore un détail intéressant  dans le panneau dans le panneau central, à droite de la draperie d'honneur, dans le haut.  
+Citons encore un détail intéressant  dans le panneau central, à droite de la draperie d'honneur, dans le haut.  
 Il s'agit d'une vue de la Place de la Grue sur laquelle se trouvait la grue en bois.  
 Cette scène a trait à l'histoire de l'hôpital.  
 Les tonneaux de vin de Bordeaux étaient déchargés ici.  

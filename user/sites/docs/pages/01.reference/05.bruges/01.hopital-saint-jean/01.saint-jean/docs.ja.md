@@ -26,7 +26,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-# {r}洗礼者<wbr>聖ヨハネ<wbr>と<wbr>福音<wbr>書記者<wbr>聖ヨハネ<wbr>の<wbr>三連画{/r:Triptiek<wbr>&#160;<wbr>van<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Doper<wbr>&#160;<wbr>en<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Evangelist}
+# <ruby><rb lang="ja">洗礼者<wbr>聖ヨハネ<wbr>と<wbr>福音<wbr>書記者<wbr>聖ヨハネ<wbr>の<wbr>三連画</rb><rt lang="nl">Triptiek<wbr>&#160;<wbr>van<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Doper<wbr>&#160;<wbr>en<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Evangelist</rt></ruby>
 
 <figure><picture>
 <source
@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.jpg 480w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.jpg 640w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
-</picture></figure>
+</picture><figcaption><ruby><rb>開翼時</rb><rt>かいよくじ</rt></ruby>の三連画</figcaption></figure>
 
 この作品は<wbr>《聖女カタリナの神秘の<wbr>結婚》とも呼ばれている。  
 画枠に作者の名だと<wbr>思われる銘文、 {r}ハンス・メムリンク{/r:Hans&#160;Memling}が<wbr>見えている。
@@ -57,7 +57,7 @@ srcset="
 
 教会の拡張工事が<wbr>実施された1473年から<wbr>その翌年頃に、画家に依頼されたと<wbr>考えられていますが、実際に作品が完成したのは<wbr>1479年であったことが<wbr>想定されています。
 
-## {r}開翼時{/r:かいよくじ}
+##
 
 開翼時の中央画面には、ポルチコのような<wbr>開放的な空間に集う、聖母子と四人の聖人たち、そして二人の天使が<wbr>表されています。
 

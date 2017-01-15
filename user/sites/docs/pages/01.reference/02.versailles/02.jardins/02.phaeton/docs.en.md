@@ -8,17 +8,17 @@ itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Text extract from chapter 'Phaethon' of book II of Ovid's Metamorphoses, at the origin of figure of Apollo, god of the Sun, in the Château de Versailles"
-    keywords: 'Palace of Versailles, Château de Versailles, Versailles, Louis XIV, Louis 14, Ovid, The Metamorphoses, Phaethon'
+    description: "Text extracted from chapter “Phaethon” of book II of Ovid's Metamorphoses, at the origin of figure of Apollo, god of the Sun, as represented in the group of “The Chariot of the Sun”, as carried out by Jean-Baptiste TUBY between 1668 and 1671 in the center of the Apollo Pond in the gardens of the Palace of Versailles and occasion to approach the meaning that could take that star to Louis XIV"
+    keywords: "Palace of Versailles, Château de Versailles, Versailles, Gardens of the Palace of Versailles, Louis XIV, Louis 14, Ovid, The Metamorphoses, Metamorphoses, Phaethon, Apollo, Apollo Pond, Apollo Fountain, Fountain of Apollo, Pond of Apollo, Bassin du Char d’Apollon, Bassin d’Apollon, Fontaine d'Apollon, Fontaine du Char d'Apollon, The Chariot of the Sun, Pond of the Chariot of Apollo, Jean-Baptiste TUBY"
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
-    image_title: The Apollon Fountain
-    image_legend: "The Apollon Fountain, gardens of the Château de Versailles"
+    image_title: "Apollo, The Pond of The Chariot of Apollo, Gardens of the Palace of Versailles"
+    image_legend: "The Chariot of the Sun, driven by Apollo, is coming out of Ocean at dawn"
     'twitter:card': summary
     robots: 'noindex, nofollow'
-significantlinks: ["https://en.wikipedia.org/wiki/Phaethon", "https://en.wikipedia.org/wiki/Apollo"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles"]
+significantlinks: ["https://en.wikipedia.org/wiki/Louis_XIV_of_France", "https://en.wikipedia.org/wiki/Palace_of_Versailles", "https://en.wikipedia.org/wiki/Apollo", "https://en.wikipedia.org/wiki/Jean-Baptiste_Tuby", "https://en.wikipedia.org/wiki/Bassin_d%27Apollo", "https://en.wikipedia.org/wiki/Gardens_of_Versailles", "https://en.wikipedia.org/wiki/Phaethon", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Jean_Racine", "https://www.amazon.com/Memoires-Instruction-Dauphin-Louis-XIV/dp/0029301300"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Ovid", "Metamorphoses", "French Sculpture of the Seventeenth century", "French Sculpture of the 17th century", "French Sculpture of the XVIIth century", "French Court Sculpture", "Louis XIV", "Louis 14th", "Louis the 14th", "Palace of Versailles", "Gardens of the Palace of Versailles", "Phaethon", "Apollo", "Bassin d'Apollon", "Bassin du Char d'Apollon", "Fontaine d'Apollon", "Fontaine du Char d'Apollon", "Jean-Baptiste TUBY", "Char du Soleil", "Pond of Apollo", "Pond of the Chariot of Apollo", "Fountain of Apollo", "Fountain of the Chariot of Apollo", "Jean-Baptiste TUBY", "Chariot of the Sun"]
 shortcode-core:
    active: true
 sitemap:
@@ -35,20 +35,23 @@ sitemap:
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.webp 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.webp 700w"
   type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="Apollo, god of the Sun, in the gardens of Versailles" title="Apollo, god of the Sun, in the gardens of Versailles" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="Apollo, god of the Sun, in the Apollo Pond of the Gardens of Palace of Versailles" title="Apollo, god of the Sun, in the Apollo Pond of the Gardens of Palace of Versailles" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
   srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-280.jpg 280w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w">
-</picture></figure>
+</picture><figcaption>The Chariot of the Sun, driven by Apollo, is coming out of Ocean at dawn</figcaption></figure>
 
-! Louis XIV is called the Sun king.  
-! Dans memoire for the instruction of the dauphin by Louis XIV, himself explains the reasons that conducted him, young, to naturally make that choice.  
-! In Versailles, the sun is visible under many forms.  
-! Among them, several places show the figure of [Apollon][1], god of the Sun, that refeer to the grandeur of the Roman Empire.      
-! Below is told the tragic death of [Phaethon][4], the strange son of son of Apollo as he appear in the [Metamorphoses][3] of a writer of the roman empire [Ovid][2] and according to who, on the opposite, we might not be able to consider the sense of the existence of the sun the same way!
+! [Louis XIV][1] is also called the “Sun King”.  
+! In the “[Memoires for the instruction of the Dolphin][11]”, he himself explained the reasons that led him, young, alone, to make this choice naturally.  
+! At the [Palace of Versailles][2], the sun is visible in many forms.  
+! Among them, several places reveal the figure of [Apollo][3], God of the Sun, which evokes the grandeur of the Roman Empire, particularly those of the first baroque fests that took place in Versailles, such as the group of the Chariot of the Sun carried out by [Jean-Baptiste TUBY][4] between 1668 and 1671 in the center of the [Pond of Apollo][5] in the [Gardens][6].  
+! The text below tells the tragic death of Apollo's strange son, [Phaethon][7], as it appears in the “[Metamorphoses][8]” of the Latin-speaking Roman Empire writer [Ovid][9], whom Louis XIV knew intimately for having apointed the writer [Jean Racine][10] of a particular reading of that work in the evening.  
+! This is the opportunity to approach the meaning of the figure of this star to Louis XIV as described by this text.  
+
+[color=#df8a13]**Phaethon**[/color]  
 
 <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 <sup>1</sup>
@@ -330,12 +333,18 @@ She tries to pull the bark from their bodies and break off new branches with her
  but drops of blood are left behind like wounds.  
 « Stop, mother, please » cries out whichever one she hurts, « Please stop: It is my body in the tree you are tearing.  
 Now, farewell. » and the bark closed over her with her last words.  
-Their tears still flow, and hardened by the sun, fall as <sup>365</sup> amber from the virgin branches, to be taken by the bright river and sent onwards to adorn Roman brides. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
-
+Their tears still flow, and hardened by the sun, fall as <sup>365</sup> amber from the virgin branches, to be taken by the bright river and sent onwards to adorn Roman brides. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>  
 
 [color=#df8a13]Ovid, The Metamorphoses, Book 2[/color]  
 
-[1]: https://en.wikipedia.org/wiki/Apollo "https://en.wikipedia.org/wiki/Apollo"
-[2]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
-[3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
-[4]: https://en.wikipedia.org/wiki/Phaethon "https://en.wikipedia.org/wiki/Phaethon"
+[1]: https://en.wikipedia.org/wiki/Louis_XIV_of_France "https://en.wikipedia.org/wiki/Louis XIV of France"
+[2]: https://en.wikipedia.org/wiki/Palace_of_Versailles "https://en.wikipedia.org/wiki/Palace of Versailles"
+[3]: https://en.wikipedia.org/wiki/Apollo "https://en.wikipedia.org/wiki/Apollo"
+[4]: https://en.wikipedia.org/wiki/Jean-Baptiste_Tuby "https://en.wikipedia.org/wiki/Jean-Baptiste Tuby"
+[5]: https://en.wikipedia.org/wiki/Bassin_d%27Apollo "https://en.wikipedia.org/wiki/Bassin d'Apollon"
+[6]: https://en.wikipedia.org/wiki/Gardens_of_Versailles "https://en.wikipedia.org/wiki/Gardens of Versailles"
+[7]: https://en.wikipedia.org/wiki/Phaethon "https://en.wikipedia.org/wiki/Phaethon"
+[8]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
+[9]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
+[10]: https://en.wikipedia.org/wiki/Jean_Racine "https://en.wikipedia.org/wiki/Jean Racine"
+[11]: https://www.amazon.com/Memoires-Instruction-Dauphin-Louis-XIV/dp/0029301300 "https://www.amazon.com/Memoires-Instruction-Dauphin-Louis-XIV/dp/0029301300"

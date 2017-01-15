@@ -16,8 +16,8 @@ metadata:
    image_title: Archangel Saint-Michael
    image_legend: Archangel Saint-Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.mont-saint-michel/01.arch-michel/02.apocalypse/docs.en.md"]
-specialty: ["History of France", "Religious history", "Biblic history"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.mont-saint-michel/arch-michel/01.nom/docs.en.md", "https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international", "https://fr.wikipedia.org/wiki/Michel_(archange)"]
+specialty: ["History of France", "Religious history", "Biblic history", "New Testament", "Revelation", "Archangel Michael", "Saint Michael", "Mont-Saint-Michel", "Mount Saint Michael"]
 shortcode-core:
    active: true
 sitemap:

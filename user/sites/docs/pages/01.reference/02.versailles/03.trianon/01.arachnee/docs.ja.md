@@ -9,17 +9,17 @@ itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-    description: 'トリアノンにルネ＝アントワーヌ・ウアスが描いたある「ミネルヴァとアラクネ」絵画のもとに使用された、オウィディウス作家が書いた変身物語の第六巻のアラクネがミネルヴァに殺人される「アラクネ章」の文書'
-    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, 大トリアノン宮殿, アラクネ, アラクネの殺人, ミネルヴァ, ミネルヴァとアラクネ, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿'
+    description: 'トリアノンにルネ＝アントワーヌ・ウアスが描いたある《ミネルヴァとアラクネ》絵画のもとに使用された、オウィディウス作家が書いた変身物語の第六巻のアラクネがミネルヴァに殴りつける「アラクネ章」の文書'
+    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, 大トリアノン宮殿, アラクネ, ミネルヴァ, ミネルヴァとアラクネ, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿, Minerve et Arachnée'
     image: arachnee_700x520.jpg
     image_width: 700
     image_height: 520
-    image_title: 「ミネルヴァとアラクネ」
-    image_legend: ルネ＝アントワーヌ・ウアス、「ミネルヴァとアラクネ」
+    image_title: ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》
+    image_legend: 手前に見えるミネルヴァが真ん中にいるアラクネを殴りつけている
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "ルネ＝アントワーヌ・ウアス"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "十七世紀フランス絵画", "ルイ14世", "Louis XIV", "ルイ十四世", "ヴェルサイユ", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "フランス宮廷絵画", "フランス宮廷画家", "ルネ＝アントワーヌ・ウアス", "ミネルヴァ", "アラクネ", "ミネルヴァとアラクネ", "Minerve et Arachnée"]
 shortcode-core:
    active: true
 sitemap:
@@ -39,7 +39,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.webp 700w"
 type="image/webp">
 <img
-src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="トリアノンにある、「ミネルヴァとアラクネ」絵画" title="トリアノンにある、「ミネルヴァとアラクネ」絵画" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》絵画" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-280.jpg 280w,
@@ -47,10 +47,10 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w">
-</picture></figure>
+</picture><figcaption>ルネ＝アントワーヌ・ウアス、《ミネルヴァと<wbr>アラクネ》</figcaption></figure>
 
 !! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] に展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}ミネルヴァとアラクネ{/r:Minerve&#160;et&#160;Arachnée} 」 絵画が {r}領主たちの<wbr>控えの間{/r:Salon&#160;Des<wbr>&#160;Seigneurs} に見られます。  
-!! [{r}オウィディウス{/r:Ovidius}][3] が書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」で、神に負けない<wbr>[リディア][5]出身の {r}機{/r:はた}織りの技術で優秀な [{r}アラクネ{/r:Arachnē}][6]が [{r}ミネルヴァ{/r:Minerva}][7] に殴られていることが<wbr>語られている。 
+!! [{r}オウィディウス{/r:Ovidius}][3] が書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」で、神に負けない<wbr>[リディア][5]出身の {r}機{/r:はた}織りの技術で優秀な [{r}アラクネ{/r:Arachnē}][6]が [{r}ミネルヴァ{/r:Minerva}][7] に殴りつけられていることが<wbr>語られている。  
 
 [color=#b52b27]**アラクネ**[/color]  
 

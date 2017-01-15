@@ -13,12 +13,12 @@ metadata:
     image: iris_700x951.jpg
     image_width: 700
     image_height: 951
-    image_title: René-Antoine HOUASSE, Iris et Morphée
-    image_legend: René-Antoine HOUASSE, Iris et Morphée
+    image_title: René-Antoine HOUASSE, “Iris et Morphée”
+    image_legend: Iris entre dans la grotte du Dieu Sommeil”
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Iris_(mythologie)", "https://fr.wikipedia.org/wiki/Junon", "https://fr.wikipedia.org/wiki/Hypnos", "https://fr.wikipedia.org/wiki/Alcyone"]
-specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morphée"]
+specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morphée", "Iris et Morphée"]
 shortcode-core:
    active: true
 sitemap:
@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w"
 type="image/webp">
 <img
-src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE, Iris et Morphée, Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE, Iris et Morphée, Grand Trianon, Versailles" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
@@ -44,7 +44,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Iris et Morphée”</figcaption></figure>
 
 !!!! Dans le Salon de Famille de Louis-Philippe du [Grand Trianon][1] à Versailles, se peut voir une peinture de [René-Antoine Houasse][2], Iris et Morphée.  
 !!!! À partir d'une partie du Livre XI des [Métamorphoses][3] d'[Ovide][4] se trouve représenté le moment où [Iris][5], messagère de [Junon][6], entre dans la grotte de [Sommeil][7] pour lui ordonner de faire rêver [Alcyone][8].   

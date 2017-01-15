@@ -14,7 +14,7 @@ metadata:
    image_height: 840
    image_width: 1260
    image_title: ディアーヌ・ド・ポワチエ肖像
-   image_legend: "フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像"
+   image_legend: "プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》"
    'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
@@ -38,8 +38,8 @@ sitemap:
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像" alt="フランチェスコ・プリマティッチオ、ディアーヌ・ド・ポワチエの肖像" class="class-diane-img">
-</picture></figure>
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img">
+</picture><figcaption>プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》</figcaption></figure>
 
 !!!! この画像は、当時、 [{r}フランソワ１世{/r:François&#160;Ier}][1] に招待され、後に文化大臣に<wbr>相当する人物とも<wbr>なった、イタリア・ボローニャ出身の画家 [{r}プリマティッチオ{/r:Primaticcio}][2] が、1556年に、 [{r}シュノンソー{/r:Chenonceau} 城][3] で描いた作品です。  
 !!!!  当時、本人は、「 {r}ル・プリマティス{/r:Le&#160;Primatice} 」と、フランス語風の<wbr>名で、知られて<wbr>いました。  

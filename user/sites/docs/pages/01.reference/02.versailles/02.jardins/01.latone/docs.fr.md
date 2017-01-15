@@ -8,13 +8,13 @@ itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-    description: "Texte extrait du Livre VI des Métaporphoses d'Ovide qui a inspiré le Bassin et Parterre de Latone des Jardins du Palais de Versailles et qui décrit l'affrontement entre Latone et les paysans de Lycie juste après la naissance d'Apollon et Diane"
+    description: "Texte extrait du Livre VI des Métaporphoses d'Ovide qui a inspiré le Bassin et Parterre de Latone des Jardins du Palais de Versailles et qui décrit l'affrontement entre Latone et les Paysans de Lycie juste après la naissance d'Apollon et Diane"
     keywords: 'Palais de Versailles, Versailles, Château de Versailles, Louis 14, Louis XIV, Ovide, Les Metamorphoses, Latone, Fontaine de Latone, Fontaine et Parterre de Latone, Latone, Apollon, Diane, Lycie, Junon'
     image: latone_700x525.jpg.jpg
     image_width: 700
     image_height: 525
     image_title: Le Bassin de Latone dans les Jardins du Palais de Versailles après la rénovation de 2016
-    image_legend: Le Bassin de Latone dans les Jardins du Palais de Versailles après la rénovation de 2016
+    image_legend: Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles", "https://fr.wikipedia.org/wiki/L%C3%A9to", "https://fr.wikipedia.org/wiki/Junon", "https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Lycie", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
@@ -44,16 +44,16 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"
 >
-</picture></figure>
+</picture><figcaption>Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone</figcaption></figure>
 
 !! « Il faut ensuite aller droit sur le haut de Latone et faire une pause pour considérer Latone, les lézards, les rampes, les statues, l’allée royale, l’Apollon, le canal, et puis se tourner pour voir le parterre et le château ».  
-!! Comme [Louis XIV][1] l'a écrit dans sa "[Manière de montrer les jardins de Versailles][2]", depuis la façade orientale du palais, suivant son axe central, après Le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, Le Bassin et le Parterre de Latone apparaît。  
+!! Comme [Louis XIV][1] l'a écrit dans sa “[Manière de montrer les jardins de Versailles][2]”, depuis la façade orientale du palais, suivant son axe central, après Le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, Le Bassin et le Parterre de Latone apparaît。  
 !! Voilà une représentation inspirée de l'affrontement entre [Latone][3] juste après que celle-ci ait donné naissance, malgré la persécution de [Junon][4],  à ses deux jumeaux, [Apollon][5], dieu du soleil, et [Diane][6], déesse de la Lune, et les paysans de [Lycie][7].  
-!! Avec ce texte écrit par [Ovide][8] dans "[Les Métamorphoses][9]", cet affrontement nous devient sans doute plus familier.   
+!! Avec ce texte écrit par [Ovide][8] dans “[Les Métamorphoses][9]”, cet affrontement nous devient sans doute plus familier.   
 
 [color=#b52b27]**Latone**[/color]  
 
-<span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> <sup>333</sup>
+<span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> <sup>333</sup>
 C'est là que Latone, appuyée contre un palmier - ou l'arbre de Pallas-,  
 Donna le jour à des jumeaux, contre le gré de leur belle-mère.  
 On raconte aussi que la jeune accouchée dut fuir Junon  
@@ -109,7 +109,7 @@ De récriminer et, sans aucune retenue, bien qu'ils soient sous les eaux,
 Sous les eaux ils tentent de lancer des injures.  
 Leur voix est devenue rauque, leur cou semblent s'être effacés,  
 Leur dos verdit, leur ventre, partie principale de leur corps, blanchit  
-Et dans le bassin fangeux sautent ces nouvelles grenouilles. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
+Et dans le bassin fangeux sautent ces nouvelles grenouilles. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
 [color=#b52b27]Ovide, Les Métamorphoses, Livre VI[/color]  
 

@@ -42,7 +42,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.jpg 480w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.jpg 640w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
-</picture></figure>
+</picture><figcaption>the opened triptych</figcaption></figure>
 
 The _altarpiece of Saint John L'Evangelist and Saint John Baptiste_ (1479) was probably commanded for the master altar.  
 The framework is named Hans Memling and shows dates from 1479.  

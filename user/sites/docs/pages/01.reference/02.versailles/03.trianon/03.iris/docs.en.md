@@ -18,7 +18,7 @@ metadata:
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morpheus"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morpheus", "Iris and Morpheus"]
 shortcode-core:
    active: true
 sitemap:
@@ -44,10 +44,10 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Iris and Morpheus”</figcaption></figure>
 
-!!!! In the Salon de Famille de Louis-Philippe of the [Grand&#160;Trianon][1] in Versailles a painting from [René-Antoine&#160;Houasse][2], Iris and Morpheus can be seen.  
-!!!! Based on a part of Book XI of [The&#160;Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [The Sleep][7] to order to him to make [Alcynoe][8] dream. 
+!!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [René-Antoine Houasse][2], “Iris and Morpheus” can be seen.  
+!!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [The Sleep][7] to order to him to make [Alcynoe][8] dream. 
 
 [color=#3d8b3d]**Iris and Morpheus**[/color]  
 

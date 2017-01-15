@@ -8,15 +8,16 @@ created: 29-12-2016, 00:02
 date: 29-12-2016, 00:02
 modified: 29-08-2016, 00:02
 metadata:
-   description: "francois-vidit.com サイトの大天使ミカエルセクション"
-   keywords: '大天使ミカエル, 大天使ミカエルセクション, 大天使ミシェルセクション, francois-vidit.com'
+   description: "「モン＝サン＝ミシェル」、その場所の名前から、大天使ミカエルの名である「ミカエル」の由来と意義をヘブライ語から分析する文書"
+   keywords: '大天使ミカエル, 大天使ミシェル, 大天使ミッハエル'
    image: arch-michel_700x700.jpg
    image_width: 700
    image_height: 700
    image_title: "大天使ミカエル"
    image_legend: "大天使ミカエルの写真"
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.mont-saint-michel/01.arch-michel/01.nom/chapter.ja.md", "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%95%99%E3%81%AE%E8%87%AA%E7%94%B1", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA%E5%A4%96%E5%9B%BD%E5%AE%A3%E6%95%99%E4%BC%9A", "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%8B%E3%82%BA%E3%83%A0", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB"]
-specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
+   'twitter:card': summary
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.mont-saint-michel/01.arch-michel/01.nom/docs.ja.md", "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%95%99%E3%81%AE%E8%87%AA%E7%94%B1", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA%E5%A4%96%E5%9B%BD%E5%AE%A3%E6%95%99%E4%BC%9A", "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%8B%E3%82%BA%E3%83%A0", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB"]
+specialty: ["フランス歴史", "宗教歴史", "聖書歴史",　"キリスト教", "新約聖書", "黙示録", "大天使ミカエル", "大天使ミシェル", "大天使ミッハエル", "モン＝サン＝ミシェル", "モン＝サン＝ミシェル"]
 shortcode-core:
    active: true
 ---
@@ -41,7 +42,7 @@ shortcode-core:
 
 時代によって、呼び名が<wbr>異なってきましたが、指されているものは今も<wbr>昔も一緒です。  
 
-元々は聖書の原文である<wbr>ヘブライ語での大天使の名は「 <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">ミッハエル</span></rt></ruby> 」と<wbr>なっています。  
+元々は聖書の原文である<wbr>ヘブライ語での大天使の名は「 <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang"he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;" lang"ja">ミッハエル</span></rt></ruby> 」と<wbr>なっています。  
 ここでは、カタカナでの<wbr>音の書き直しは、国際音声記号で「 Mîḵā’ēl 」との発音に値することは、なかなか適するのは<wbr>ないため、次のブライ語での<wbr>発音の録音を<wbr>用意しました。  
 
 | <span hidden>hidden</span> |

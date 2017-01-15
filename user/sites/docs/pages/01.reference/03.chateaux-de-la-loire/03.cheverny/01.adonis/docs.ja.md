@@ -41,7 +41,7 @@ sitemap:
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_840.jpp 840w" title="ジャン・モニエ、アドニスの死" alt="ジャン・モニエ、アドニスの死" class="class-diane-img">
-</picture></figure>
+</picture><figcaption>ジャン・モニエ、《アドニスの死》</figcaption></figure>
 
 ! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある暖炉で<wbr>展示されている、{r}ジャン・モニエ{/r:Jean&#160;Monier} 画家が描いた「アドニスの死」を表れる絵画の元に、 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第十巻末の「アドニス章」があります。  
 ! ご参照ください！

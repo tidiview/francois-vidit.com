@@ -8,17 +8,17 @@ itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-    description: "Texte du chapître 'Phaéton' du Livre II des Métamorphoses d'Ovide, à l'origine du portrait d'Apollon, dieu du Soleil, au Château de Versailles"
-    keywords: 'Château de Versailles, Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Phaéton'
+    description: "Texte du chapître “Phaéton” du Livre II des Métamorphoses d'Ovide, à l'origine de la figure d'Apollon, dieu du Soleil, tel que représenté dans le groupe “Le Char du Soleil” réalisé par Jean-Baptiste TUBY entre 1668 et 1671 au centre du Bassin d'Apollon des Jardins du Palais de Versailles et occasion d'approcher le sens que cet astre pouvait revêtir pour Louis XIV"
+    keywords: "Château de Versailles, Palais de Versailles, Versailles, Jardins du Palais de Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Livre II, Phaéton, Apollon, Bassin d'Apollon, Bassin du Char d'Apollon, Fontaine d'Apollon, Fontaine du Char d'Apollon, Jean-Baptiste TUBY, Char du Soleil"
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
-    image_title: "Bassin d'Apollon"
-    image_legend: "Bassin d'Apollon, jardins du Château de Versailles"
+    image_title: "Apollon, Bassin du Char d'Apollon, Jardins du Palais de Versailles"
+    image_legend: "Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore"
     'twitter:card': summary
     robots: 'noindex, nofollow'
-significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Pha%C3%A9ton"]
-specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Versailles"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Pha%C3%A9ton", "https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikipedia.org/wiki/Jean-Baptiste_Tuby", "https://fr.wikipedia.org/wiki/Bassin_d%27Apollon", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Jean_Racine"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Louis XIV", "Louis 14", "Château de Versailles", "Sculpture du dix-septième siècle", "Sculpture du 17ème siècle", "Sculpture du XVIIème siècle", "Sculpture de cour française", "Palais de Versailles", "Jardins du Palais de Versailles", "Ovide", "Métamorphoses", "Phaéton", "Apollon", "Bassin d'Apollon", "Bassin du Char d'Apollon", "Fontaine d'Apollon", "Fontaine du Char d'Apollon", "Jean-Baptiste TUBY", "Char du Soleil"]
 shortcode-core:
    active: true
 sitemap:
@@ -35,23 +35,25 @@ sitemap:
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.webp 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.webp 700w"
   type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="Apollon, dieu du Soleil, dans les jardins de Versailles" title="Apollon, dieu du Soleil, dans les jardins de Versailles" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="Le Char du Soleil, conduit par Apollon, Bassin du Char d'Apollon, Jardins du Palais de Versailles" title="Le Char du Soleil, conduit par Apollon, Bassin du Char d'Apollon, Jardins du Palais de Versailles" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
   srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-280.jpg 280w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w">
-</picture></figure>
+</picture><figcaption>Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore</figcaption></figure>
 
-! Louis XIV est appelé le « roi Soleil ».  
-! Dans les "Mémoires pour l'instruction du Dauphin", lui-même explique les raisons qui l'ont conduit, jeune, à seul à faire naturellement ce choix.  
-! À Versailles, le soleil est visible sous bien des formes.  
-! Parmi elles, plusieurs endroits font apparaître la figure d'[Apollon][1], dieu du Soleil, qui évoque la grandeur de l'empire romain.il en est une qui rappelle plus particulièrement la grandeur de l'empire romain    
-! Ci-dessous est raconté la tragique mort de [Phaéton][4], l'étrange fils d'Apollon tel qu'il apparaît dans les [Métamorphoses][3] de l'écrivain de l'empire romain [Ovide][2] et selon lequel, au contraire, nous ne pourrions peut-être pas nous non plus concevoir le sens de l'existence du soleil!
+! [Louis XIV][1] est aussi appelé le « roi Soleil ».  
+! Dans les “Mémoires pour l'instruction du Dauphin”, lui-même explique les raisons qui l'ont conduit, jeune, seul, à faire naturellement ce choix.  
+! Au Château de Versailles, le soleil est visible sous bien des formes.  
+! Parmi elles, plusieurs endroits font apparaître la figure d'[Apollon][2], dieu du Soleil, qui évoque la grandeur de l'empire romain, notamment celle des premières fêtes baroques qui ont eu lieu à Versailles, comme le groupe du Char du Soleil fondu par [Jean-Baptiste TUBY][3] entre 1668 et 1671 au centre du [Bassin d'Apollon][4] dans les Jardins.  
+! Le texte ci-dessous raconte la tragique mort de l'étrange fils d'Apollon, [Phaéton][5], tel qu'il apparaît dans les [Métamorphoses][6] de l'écrivain de l'empire romain d'expression latine [Ovide][7], que Louis XIV connaissait intimement pour avoir chargé le soir son historiographe l'écrivain [Jean Racine][8] de lui faire lecture particulière de cet ouvrage le soir.  
+! C'est ainsi l'occasion d'approcher le sens que revêtir pour Louis XIV la figure de cet astre tel que le décrit ce texte.  
 
+[color=#df8a13]**Phaéton**[/color]  
 
-<span><svg id="quotesleft" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
+<span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>1</sup> Le Palais du Soleil aux hautes colonnes se dressait  
 Dans la splendeur rutilante de l'or et des flamboiements du pyrope;  
 Son toit était couvert d'ivoire luminescent,  
@@ -417,12 +419,16 @@ Et de casser à la main les branches fines; il en sort
 Allons, adieu! » L'écorce envahit ces derniers mots:  
 D'elle coulent des larmes, et des jeunes branches tombent des gouttes  
 <sup>365</sup> D'ambre qui durcissent au soleil pour être recueillies par le fleuve limpide  
-Et transmises comme parure aux jeunes femmes du Latium. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
+Et transmises comme parure aux jeunes femmes du Latium. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
 
 [color=#df8a13]Ovide, Les Métamorphoses, Livre 2[/color]  
 
-[1]: https://fr.wikipedia.org/wiki/Apollon "https://fr.wikipedia.org/wiki/Apollon"
-[2]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
-[3]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
-[4]: https://fr.wikipedia.org/wiki/Pha%C3%A9ton "https://fr.wikipedia.org/wiki/Phaéton"
+[1]: https://fr.wikipedia.org/wiki/Louis_XIV "https://fr.wikipedia.org/wiki/Louis XIV"
+[2]: https://fr.wikipedia.org/wiki/Apollon "https://fr.wikipedia.org/wiki/Apollon"
+[3]: https://fr.wikipedia.org/wiki/Jean-Baptiste_Tuby "https://fr.wikipedia.org/wiki/Jean-Baptiste TUBY"
+[4]: https://fr.wikipedia.org/wiki/Bassin_d%27Apollon "https://fr.wikipedia.org/wiki/Bassin d'Apollon"
+[5]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
+[6]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
+[7]: https://fr.wikipedia.org/wiki/Pha%C3%A9ton "https://fr.wikipedia.org/wiki/Phaéton"
+[8]: https://fr.wikipedia.org/wiki/Jean_Racine "https://fr.wikipedia.org/wiki/Jean Racine"

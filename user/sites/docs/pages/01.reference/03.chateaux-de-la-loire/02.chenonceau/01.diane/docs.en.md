@@ -37,7 +37,7 @@ sitemap:
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="School of Primaticcio, Portrait of Diana, Château de Chenonceau" alt="School of Primaticcio, Portrait of Diana, Château de Chenonceau" class="class-diane-img">
-</picture></figure>
+</picture><figcaption>School of Primaticcio, “Portrait of Diana of Poitiers”</figcaption></figure>
 
 !!!! This portrait is a work that [Primaticcio][2], painter from Bologna in Italy, invited by king [Francis I of France][1] then become almost minister of Culture, has painted, in 1556, in the [Château de Chenonceau][3].  
 !!!! In French, the same person is named « Le Primatice ».  

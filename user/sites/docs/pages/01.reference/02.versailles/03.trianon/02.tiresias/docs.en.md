@@ -8,17 +8,17 @@ itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Text extract from chapter « Tirésias » of Book III of the « Metamorphosis » of Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his painting « Minerva and Tiresias »"
-    keywords: "Château de Versailles, Palais of Versailles, Versailles, Louis the 14th, Louis 14, Louis XIV, Ovid, The Metamorphosis, The Grand Trianon, Grand Trianon, Trianon, Tiresias, Minerva, Minerva and Tiresias, Minerve et Tirésias, René-Antoine HOUASSE"
+    description: "Text extract from chapter “Tirésias” of Book III of the « Metamorphosis » of Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his painting “Minerva and Tiresias”"
+    keywords: "Château de Versailles, Palais of Versailles, Versailles, Louis the 14th, Louis 14, Louis XIV, Ovid, The Metamorphosis, The Grand Trianon, Grand Trianon, Trianon, Tiresias, Minerva, Minerva and Tiresias, Minerve et Tiresias, René-Antoine HOUASSE"
     image: tiresias_700x501.jpg
     image_width: 700
     image_height: 501
-    image_title: René-Antoine HOUASSE, « Minerva and Tiresias »
-    image_legend: Minerve makes Tiresias be blind.
+    image_title: René-Antoine HOUASSE, “Minerve and Tiresias”
+    image_legend: Minerve at first ground makes Tiresias in the center becoming blind.
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Minerva", "https://en.wikipedia.org/wiki/Tiresias", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE", "Tiresias", "Minerva"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "French Painting of the Seventeenth century", "French Painting of the 17th century", "French Painting of the XVIIth century", "French Court Painting", "Louis XIV", "Louis 14th", "Louis the 14th", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE", "Tiresias", "Minerva", "Minerve et Tiresias"]
 shortcode-core:
    active: true
 sitemap:
@@ -37,18 +37,18 @@ srcset="
 type="image/webp">
 <img
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
-src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture « Minerve et Tirésias », qui se trouve au Grand Trianon au Château de Versailles" alt="Peinture « Minerve et Tirésias », qui se trouve au Grand Trianon au Château de Versailles" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg" title="Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" alt="Peinture de René-Antoine HOUASSE, “Minerve and Tiresias”, qui se trouve au Grand Trianon au Château de Versailles" class="class-diane-img"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-280.jpg 280w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-380.jpg 380w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Minerve and Tiresias”</figcaption></figure>
 
 !!! At the [Grand Trianon][1], in the Salon des Seigneurs, is a painting painted by [René-Antoine HOUASSE][2], « Minerva and Tiresias ».  
-!!! [Minerva][3] makes Tiresias be blind, as [Ovid][4] tells in Book III of the [Metamorphosis][5].  
-!!! Here the text.  
+!!! [Minerva][3] at first ground makes Tiresias in the center becoming blind, as [Ovid][4] tells in Book III of the [Metamorphosis][5].  
+!!! Here's the text.  
 
 [color=#28a1c5]**Tiresias**[/color]  
 

@@ -8,17 +8,17 @@ itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-    description: 'Texte extrait du Livre 6 des « Métamorphoses » écrites par Ovide utilisé par René-Antoine HOUASSE pour représenter le tableau « Minerve et Arachnée » qui se trouve dans la Salon des Seigneurs du Grand Trianon du Château de Versailles'
-    keywords: "Château de Versailles, Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Trianon, Grand Trianon, meurtre d'Arrachnée, Minerve, Arachnée et Minerve, René-Antoine HOUASSE"
+    description: "Texte extrait du Livre 6 des “Métamorphoses” écrites par Ovide utilisé par René-Antoine HOUASSE pour représenter le tableau “Minerve et Arachnée” qui se trouve dans la Salon des Seigneurs du Grand Trianon du Château de Versailles"
+    keywords: "Château de Versailles, Versailles, Louis XIV, Louis 14, Ovide, Les Métamorphoses, Métamorphoses, Trianon, Grand Trianon, Minerve, Arachnée, Arachnée et Minerve, René-Antoine HOUASSE"
     image: arachnee_700x520.jpg
     image_width: 700
     image_height: 520
-    image_title: René-Antoine HOUASSE, "Minerve et Arachnée"
-    image_legend: Minerve porte des coups à Arachnée la Méonienne
+    image_title: René-Antoine HOUASSE, “Minerve et Tirésias”
+    image_legend: Minerve au premier plan porte des coups à Arachnée la Méonienne, au centre
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Arachn%C3%A9", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
-specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Arachnée"]
+specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture de cour française", "Peinture française du XVIIème siècle", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Arachnée", "Minerve", "Minerve et Arachnée"]
 shortcode-core:
    active: true
 sitemap:
@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.webp 700w"
 type="image/webp">
 <img src="
-/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="René-Antoine HOUASSE, « Minerve et Arachnée »" title="René-Antoine HOUASSE, « Minerve et Arachnée »" class="class-diane-img"
+/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Versailles" title="Peinture de René-Antoine HOUASSE, “Minerve et Tirésias”, Grand Trianon, Versailles" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-280.jpg 280w,
@@ -44,10 +44,12 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Minerve et Tirésias”</figcaption></figure>
 
 !! Au [Grand Trianon][1], dans le Salon des Seigneurs, se trouve un tableau peint par [René-Antoine HOUASSE][2], « Minerve et Arachnée ».  
-!! Il raconte le meurtre d'[Arachnée][3], femme de Méonie qui refusait de céder à [Minerve][4], tel que le raconte [Ovide][5] dans le livre VI des [Métamorphoses][6].
+!! Il raconte la terrible fin d'[Arachnée][3], femme de Méonie, qui se trouve au centre et est représentée se défendant.  
+!! Elle se trouve frappée par [Minerve][4], ici déesse de l'art de tisser qui apparaît au premier plan, parce qu'elle refusait de lui reconnaître toute supériorité du fait de sa seule divinité.  
+!! Sa vie durant, elle n'a en effet eu de cesse de lui disputer l'excellence de cet art, ainsi que le raconte [Ovide][5] dans le livre VI des [Métamorphoses][6].  
 !! En voici le texte ci-dessous.
 
 [color=#b52b27]**Arachnée**[/color] 
@@ -209,7 +211,7 @@ Ni Pallas, ni l'Envie ne pourraient critiquer cet ouvrage ;
 La blonde guerrière, tout au dépit de cette réussite,  
 Déchire le tissu coloré et ses adultères divins  
 <sup>130</sup>
-Et, tenant à lamain sa navette du mont Cytore,  
+Et, tenant à la main sa navette du mont Cytore,  
 Elle en frappe trois, quatre fois au front la fille d'Idmon, Arachné.  
 La malheureuse ne le supporte pas et, fièrement, entoure son cou  
 D'un lacet. La voyant pendue, Pallas allège sa souffrance  

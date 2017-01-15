@@ -8,17 +8,17 @@ itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: 'Text from Book 6 of the Metamorphoses written by Ovid and used by René-Antoine HOUASSE to represent canvas « Minerva and Arachne » that can be found in the Salon des Seigneurs in the Grand Trianon in the palace of Versailles'
-    keywords: 'Palace of Versailles, Château de Versailles, Versailles, Louis 14th, Louis XIV, Ovid, The Metamorphosis, Trianon, The Grand Trianon, Arachne, Minerva, Arachne and Minerva, René-Antoine HOUASSE'
+    description: 'Text from Book 6 of the Metamorphoses written by Ovid and used by René-Antoine HOUASSE to represent canvas “Minerva and Arachne” that can be found in the Salon des Seigneurs in the Grand Trianon in Versailles'
+    keywords: 'Palace of Versailles, Château de Versailles, Versailles, Louis 14th, Louis XIV, Ovid, The Metamorphosis, Trianon, The Grand Trianon, Grand Trianon, Arachne, Minerva, Arachne and Minerva, Arachnée et Minerve, René-Antoine HOUASSE'
     image: arachnee_700x520.jpg
     image_width: 700
     image_height: 520
-    image_title: 'René-Antoine HOUASSE, "Minerva and Arachne"'
-    image_legend: Minerva beats Arachne the Meonian
+    image_title: "René-Antoine HOUASSE, “Minerva and Arachne”"
+    image_legend: Minerva at first ground beats Arachne the Meonian in the center
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Minerva", "https://en.wikipedia.org/wiki/Arachne", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Ovid", "Metamorphoses", "French Painting of the Seventeenth century", "French Painting of the 17th century", "French Painting of the XVIIth century", "French Court Painting", "Louis XIV", "Louis 14th", "Louis the 14th", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE", "Arachne", "Minerva", "Minerve and Arachne", "Minerve et Arachnée"]
 shortcode-core:
    active: true
 sitemap:
@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.webp 700w"
 type="image/webp">
 <img src="
-/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="René-Antoine HOUASSE, « Minerva and Arachne »" title="René-Antoine HOUASSE, « Minerva and Arachne »" class="class-diane-img"
+/user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg" alt="Painting of René-Antoine HOUASSE, “Minerve and Arachne”, Grand Trianon, Château de Versailles" title="Painting of René-Antoine HOUASSE, “Minerve and Arachne”, Grand Trianon, Château de Versailles" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-280.jpg 280w,
@@ -44,13 +44,13 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w">
-</picture></figure>
+</picture><figcaption>René-Antoine HOUASSE, “Minerve and Arachne”</figcaption></figure>
 
-!! At the [Grand Trianon][1], in the Salon des Seigneurs, is a painting painted by [René-Antoine HOUASSE][2], « Minerva and Arachnée ».  
-!! It tells the murder of [Arachne][3], woman of Meonia that refused to loose against [Minerva][4], as [Ovid][5] tells in Book VI of the [Metamorphosis][6].  
-!! Here the text below.  
+!! At the [Grand Trianon][1], in the Salon des Seigneurs, is a painting painted by [René-Antoine HOUASSE][2], “Minerva and Arachne”.  
+!! It tells the beating of [Arachne][3], woman of Meonia that refused to loose against [Minerva][4], here goddess of weaving, as [Ovid][5] tells in Book VI of the [Metamorphosis][6].  
+!! Below is the referencing text.  
 
-[color=#b52b27]**Arachne**[/color] 
+[color=#b52b27]**Arachne**[/color]  
 
 <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 <sup>1</sup>

@@ -8,20 +8,18 @@ modified: 09-01-2017, 20:02
 itempage: Article
 taxonomy:
    category: [docs, ja]
-langswitcher:
-   enabled: true
 metadata:
-    description: "ヴェルサイユ宮殿に太陽神アポロ肖像のもとに使用された、オウィディウス作家が書いた変身物語の第二巻のパエトン章の文書"
-    keywords: "ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, パエトン, ジャン＝バティスト・テュビ, Jean-Baptiste Tuby, アポロン, Apollon, アポロン泉水, Bassin d'Apollon"
+    description: "ヴェルサイユ宮殿の庭園にある、アポロの泉水の真ん中に位置されている、ジャン＝バティスト・テュビが1668年から1671年まで作った「太陽の車駕」諸像に表されている通り太陽神アポロ肖像のもとに使用された、オウィディウス作家が書いた「変身物語」の第二巻のパエトン章をどういう風にルイ14世が見ていたかを考える切っ掛けの文書"
+    keywords: "ヴェルサイユ宮殿の庭園, ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, パエトン, ジャン＝バティスト・テュビ, Jean-Baptiste TUBY, アポロン, Apollon, アポロン泉水, Bassin d'Apollon, 太陽の車駕, 太陽の車駕, Char du Soleil, 太陽の車駕の泉水, Bassin du Char du Soleil, アポロンの車駕の泉水, Bassin du Char d'Apollon, Fontaine d'Apollon, アポロンの噴水"
     image: apollon_700x556.jpg
     image_width: 700
     image_height: 556
-    image_title: ヴェルサイユ宮殿の庭園のアポロン泉水にある、ジャン＝バティスト・テュビ製作太陽神アポロン像
-    image_legend: ヴェルサイユ宮殿の庭園のアポロン泉水にある、ジャン＝バティスト・テュビ製作太陽神アポロン像
+    image_title: ヴェルサイユ宮殿の庭園にある、アポロンの車駕の泉水、太陽神アポロン像
+    image_legend: アポロンに運転されている太陽の車駕が曙に洋から出始まっている
     'twitter:card' : summary
     robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "アポロン泉水", "ジャン＝バティスト・テュビ", "アポロン", "パエトン"]
+significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%A6%E5%AE%AE%E6%AE%B", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%B7%E3%83%BC%E3%83%8C"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿の庭園", "ヴェルサイユ宮殿", "アポロン泉水", "ルイ14世", "Louis XIV", "ルイ十四世", "ジャン＝バティスト・テュビ", "Jean-Baptiste TUBY", "アポロン", "Apollon", "パエトン", "アポロン泉水", "Bassin d'Apollon", "太陽の車駕", "太陽の車駕の泉水", "Bassin du Char du Soleil", "アポロンの車駕の泉水", "Bassin du Char d'Apollon", "Fontaine d'Apollon", "アポロンの噴水", "太陽の車駕", "Char du Soleil", "Jean RACINE", "ジャン・ラシーヌ"]
 shortcode-core:
    active: true
 sitemap:
@@ -39,22 +37,21 @@ sitemap:
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.webp 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.webp 700w"
   type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="ヴェルサイユ宮殿の庭園にある、太陽神アポロン" title="ヴェルサイユ宮殿の庭園にある、太陽神アポロン" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+<img src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg" alt="ヴェルサイユ宮殿の庭園にある、アポロの泉水での太陽神であるアポロン" title="ヴェルサイユ宮殿の庭園にある、アポロの泉水での太陽神であるアポロン" class="class-diane-img" sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-280.jpg 280w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-380.jpg 380w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-480.jpg 480w, 
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/02.phaeton/apollon_700x556.jpg 700w">
-</picture></figure>
+</picture><figcaption>アポロンに運転されている<wbr>太陽の<ruby><rb>車駕<rb><rt>しゃが</rt></ruby>が曙に洋から<wbr>出始まっている</figcaption></figure>
 
-! [{r}ルイ14世{/r:Louis&#160;XIV}][1]は 「{r}太陽王{/r:Le&#160;Roi&#160;Soleil}」 とも呼ばれている。  
-! 以上の写真では、ヴェルサイユ庭園の [{r}アポロン泉水{/r:Bassin&#160;d'Apollon}][2] に見える像で<wbr>現わされている [{r}太陽神アポロン{/r:Le&#160;Dieu&#160;du&#160;Soleil&#160;Apollon}][3] だと思われる。  
-! 「 {r}王子教育のための<wbr>回顧録{/r:Mémoires&#160;pour&#160;l'instruction&#160;<wbr>du&#160;Dauphin} 」 のあるところに、本人が、どういう訳で、若いころに、自分で、自ら、太陽を選択したかを<wbr>述べている。  
-! ここでは、出来れば、その意義を捉える<wbr>目的で表すことに<wbr>している。  
-! ヴェルサイユでは、太陽がいろんな形に<wbr>見かけられる。  
-! 特に、ローマ帝国時代の<wbr>偉大さを思わせる<wbr>姿で協調されている。  
-! そのなかは、ローマ帝国時代作家 [{r}オウィディウス{/r:Ovidius}][4] が書いた<wbr>「 [{r}変身物語{/r:Metamorphoseon}][5] 」に出て来る、太陽神アポロンの<wbr>不思議な息子 [{r}パエトン{/r:Phæton}][6] の悲劇な死がある。  
+! [{r}ルイ14世{/r:Louis&#160;XIV}][1]は 「{r}太陽王{/r:Le&#160;Roi&#160;Soleil}」 とも<wbr>呼ばれている。  
+! 「 {r}王子教育の<wbr>ための回顧録{/r:Mémoires&#160;<wbr>pour&#160;l'instruction&#160;du&#160;Dauphin} 」 において、本人が<wbr>どういう訳で、若いころに、一人で、自らそう選択を<wbr>したかを述べている。  
+! 「 [{r}ヴェルサイユ宮殿{/r:le&#160;Palais&#160;de&#160;<wbr>Versailles}][2] 」に、さまざまな形で<wbr>太陽が見られる。  
+! そのなか、いくつかの<wbr>ところが、庭園にある [{r}アポロン泉水{/r:Bassin&#160;d'Apollon}][3]の<wbr>真ん中に位置されて<wbr>いる {r}ジャン＝バティスト・テュビ{/r:Jean&#160;-&#160;Baptiste&#160;TUBY}が1668年から<wbr>1671年まで作った「 {r}太陽の車駕{/r:Le&#160;Char&#160;du&#160;Soleil}」諸像に<wbr>表されているように、特に初期<wbr>ヴェルサイユに<wbr>開催された<wbr>バロック様式の<wbr>諸儀式の、ローマ帝国の偉大さを [{r}太陽神アポロン{/r:le&#160;Dieu&#160;du&#160;Soleil&#160;Apollon}][4] の<wbr>形で思付<wbr>させている。  
+! 以下の文書では、ローマ帝国時代作家 [{r}オウィディウス{/r:Ovidius}][5] が書いた<wbr>「 [{r}変身物語{/r:Metamorphoseon}][6] 」に出て来る、太陽神アポロンの<wbr>不思議な<wbr>息子 [{r}パエトン{/r:Phæton}][7] の悲劇な死が<wbr>語られてある。ルイ14世は身近く<wbr>この文書を知っていた<wbr>ことは、王付歴史作文家とも<wbr>なった [{r}ジャン・ラシーヌ{/r:Jean&#160;RACINE}作家][8]<wbr>に特別にこの作品を<wbr>夜の朗読として<wbr>貰うことを<wbr>依頼したことが<wbr>知られているので<wbr>ある。  
+! 出来れば、そうしながら、その天体が文書の中に<wbr>描かれている形で、ルイ14世に意味が<wbr>あった意義を捉える<wbr>切っ掛けとなる。  
 
 [color=#df8a13]**パエトン**[/color]  
 
@@ -377,9 +374,11 @@ srcset="
 [color=#df8a13]オウィディウス、変身物語、第二巻より[/color]  
 
 
-[1]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "ルイ14世_(フランス王)"
-[2]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4 "https://ja.wikipedia.org/wiki/アポロンの泉水"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポロン"
-[4]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[5]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[6]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/パエトン"
+[1]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)"
+[2]: https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%A6%E5%AE%AE%E6%AE%BF　"https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿"
+[3]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4 "https://ja.wikipedia.org/wiki/アポロンの泉水"
+[4]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポロン"
+[5]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
+[6]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
+[7]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/パエトン"
+[8]: https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%B7%E3%83%BC%E3%83%8C "https://ja.wikipedia.org/wiki/ジャン・ラシーヌ"

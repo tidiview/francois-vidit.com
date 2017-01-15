@@ -1,9 +1,10 @@
 ---
 title: Saint-Michel dans l'Apocalypse
 menu: apocalypse
+template: docs_minus_h1
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 27-10-2016, 17:25
+modified: 14-01-2017, 20:32
 itempage: Article
 taxonomy:
    category: [docs, fr]
@@ -17,13 +18,14 @@ metadata:
    image_legend: "L'archange Saint-Michel, Église Saint-Gilles, Paris"
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.mont-saint-michel/01.arch-michel/02.apocalypse/docs.fr.md"]
-specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]
+specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique", "Nouveau Testament", "Apocalypse", "Archange Michel", "Saint-Michel", "Mont-Saint-Michel"]
 shortcode-core:
    active: true
 sitemap:
    changefreq: yearly
    priority: 0.9
 ---
+#Saint-Michel dans l'Apocalypse
 
 ##### [color=#df8a13]Ap. 12-7[/color]
 

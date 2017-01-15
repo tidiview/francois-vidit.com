@@ -14,8 +14,8 @@ metadata:
     image: arachnee_700x951.jpg
     image_width: 700
     image_height: 951
-    image_title: 「イリスと眠り」
-    image_legend: ルネ＝アントワーヌ・ウアス、「イリスと眠り」
+    image_title: ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》
+    image_legend: イリスが眠りの神ソムヌスの洞窟に入る
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%97%E3%83%8E%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AD%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%AA%E3%82%A2%E4%BA%BA", "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%9A%E3%82%A6%E3%82%B9"]
@@ -39,7 +39,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w"
 type="image/webp">
 <img
-src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアスの「イリスと眠り」絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアスの「イリスと眠り」絵画" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》絵画" alt="ヴェルサイユの大トリアノン宮殿にある、ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》絵画" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture></figure>
+</picture><figcaption>ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》</figcaption></figure>
 
 !!!! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] にに展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}イリスとソムヌス{/r:Iris&#160;et&#160;Somnus}」 絵画が {r}ルイ=フィリップの<wbr>家族の間{/r:Salon&#160;de<wbr>&#160;Famille&#160;de&#160;Louis-Philippe} に<wbr>見られます。  
 !!!! [{r}オウィディウス{/r:Ovidius}][3] が<wbr>書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」に<wbr>おいて、夫婦 [{r}ケユクス{/r:Ceyx}][5] と [{r}アルキュオネ{/r:Alcyone}][6] の<wbr>深い愛情が<wbr>語られている。  
@@ -55,7 +55,7 @@ srcset="
 !!!! 何も知らない<wbr>アルキュオネは日夜 [{r}ユノー女神{/r:Juno}][9] の神殿で<wbr>夫の無事な帰還を<wbr>祈っていましたが、もはや叶えようもない<wbr>祈りを聞かされ<wbr>続けるのはユノーに<wbr>とってもつらいこと<wbr>でした。  
 !!!! 見かねた女神は<wbr>哀れな妻に真実を<wbr>知らせてやるべく、イリスを呼んでこう<wbr>命じました。  
 !!!!   「眠りの神ソムヌスの<wbr>ところへ行き、アルキュオネに亡き<wbr>ケユクスの夢を見せて<wbr>事の次第を教えて<wbr>やってくれるよう<wbr>頼んでちょうだい」  
-!!!! 女王の命を受けた イリス が 眠りの神である<wbr>ソムヌスが住む {r}洞窟{/r:どうくつ}を<wbr>訪れて、彼に夢幻の演出を<wbr>頼むことが<wbr>語られている。   
+!!!! 女王の命を受けた イリス が 眠りの神である<wbr>ソムヌスが住む {r}洞窟{/r:どうくつ}を<wbr>訪れて、彼に夢幻の<wbr>演出を頼むことが<wbr>語られている。   
 
 [color=#3d8b3d]**イリス**[/color]  
 

@@ -10,13 +10,13 @@ taxonomy:
    category: [docs, ja]
 metadata:
     description: 'ヴェルサイユ宮殿の庭にあるラトナの泉水と花壇のもとで使用された、オウィディウス作家が書いた変身物語の第六巻のラトナとリュキアの農夫たちの対立が語られている「リュキアの農夫たち章」の文書'
-    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, ラトナ, ラトナの噴水, ラトナの泉水, ラトナの泉水と花壇, ラトーナ, アポロン, ディアナ, リュキア, ユノー, リュキアの農夫たち'
+    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, ラトナ, ラトナの噴水, ラトナの泉水, ラトナの泉水と花壇, ラトーナ, ラトナ, アポロン, ディアナ, リュキア, ユノー, リュキアの農夫たち'
     image: latone_700x525.jpg.jpg
     image_width: 700
     image_height: 525
     image_title: 2016年に修復「ラトナの泉水と花壇」の写真
     image_legend: 2016年に修復「ラトナの泉水と花壇」の写真
-    'twitter:card' : summary
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A", "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%AD%E3%82%A2", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "ヴェルサイユ宮殿の庭", "ヴェルサイユ宮殿の庭園", "ラトナの泉水と花壇", "ラトナの泉水", "ラトナ", "ラトーナ"]
@@ -37,7 +37,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone-640.webp 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone_700x525.webp 700w"
 type="image/webp">
-<img　src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone_700x525.jpg" alt="ヴェルサイユ宮殿の庭にある、ラトーナの泉水と花壇"　title="ヴェルサイユ宮殿の庭にある、ラトーナの泉水と花壇" class="class-diane-img"
+<img　src="/user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone_700x525.jpg" alt="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇"　title="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone-280.jpg 280w,
@@ -46,7 +46,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/02.jardins/01.latone/latone_700x525.jpg 700w"
 >
-</picture></figure>
+</picture><figcaption>ラトナの怒りで<wbr>池の生き物に変身された<wbr>リュキアの農夫たち</figcaption></figure>
 
 !! 「 {r}ラトナの噴水{/r:La&#160;Fontaine&#160;de&#160;Latone} の手前で一休みして、ラトナ、周りにある<wbr>彫刻をみよ。
 !! {r}王の散歩道{/r:l'Allée&#160;Royale}、 {r}アポロンの噴水{/r:La&#160;Fontaine&#160;d'Apollon}、その向こうの運河を<wbr>見渡そう」。  
