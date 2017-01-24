@@ -9,12 +9,12 @@ taxonomy:
 metadata:
    description: "Texte extrait du chapître 'Actéon' livre 3 des Métamorphoses écrit par Ovide et utilisé par le peintre Le Primatice pour réaliser le portrait de Diane de Poitiers exposé au Château de Chenonceau"
    keywords: "Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon"
-   image: "diane-840.jpg"
-   image_height: 840
-   image_width: 1260
+   image: "diane_700x1050.jpg"
+   image_height: 700
+   image_width: 1050
    image_title: Diane de Poitiers
-   image_legend: "École du Primatice, Portrait de Diane de Poitiers"
-   'twitter:card' : summary
+   image_legend: "École du Primatice, “Portrait de Diane de Poitiers”"
+   'twitter:card': summary
 significantlinks: ["https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
 shortcode-core:
@@ -24,18 +24,24 @@ sitemap:
    priority: 0.9
 ---
 <figure><picture>
-<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.webp 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.webp 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.webp 840w" type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
+type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" title="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="École du Primatice, Portrait de Diane de Poitiers, Château de Chenonceau" alt="École du Primatice, Portrait de Diane de Poitiers, Château de Chenonceau" class="class-diane-img">
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
+>
 </picture><figcaption>École du Primatice, “Portrait de Diane de Poitiers”</figcaption></figure>
 
 !!!! Ce portrait est une œuvre que [Le Primatice][2], peintre originaire de Bologne en Italie, invité par le roi [François Ier][1] puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au [Château de Chenonceau][3].  
@@ -173,7 +179,7 @@ Ils l'encerclent et, enfouissant leurs gueules dans son corps,
 Ce fut seulement lorsque tant de blessures eurent mis  
 Fin à sa vie que fut rassasiée, dit-on, la colère de Diane au carquois. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#3d8b3d]Ovide, Les Métamorphoses, Livre III[/color]  
+[color=#3d8b3d]Ovide, “Les Métamorphoses”, Livre III[/color]  
 
 [1]: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ier_(roi_de_France) "https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)）"
 [2]: https://fr.wikipedia.org/wiki/Le_Primatice "https://fr.wikipedia.org/wiki/Le_Primatice"

@@ -9,6 +9,7 @@ itempage: Article
 taxonomy:
     category: [docs, en]
 visible: false
+published: false
 metadata:
     description: "Documents of Field of the Cloth of Gold section of site francois-vidit.com"
     keywords: 'Field of the Cloth of Gold, francois-vidit.com'

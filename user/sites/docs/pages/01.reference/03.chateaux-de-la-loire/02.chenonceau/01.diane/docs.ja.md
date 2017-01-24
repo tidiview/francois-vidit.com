@@ -10,12 +10,12 @@ taxonomy:
 metadata:
    description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書"
    keywords: "シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン"
-   image: "diane-840.jpg"
-   image_height: 840
-   image_width: 1260
+   image: "diane_700x1050.jpg"
+   image_height: 700
+   image_width: 1050
    image_title: ディアーヌ・ド・ポワチエ肖像
    image_legend: "プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》"
-   'twitter:card' : summary
+   'twitter:card': summary
 significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
 shortcode-core:
@@ -27,18 +27,24 @@ sitemap:
 #ディアヌ  
 
 <figure><picture>
-<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.webp 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.webp 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.webp 840w" type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
+type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img">
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
+>
 </picture><figcaption>プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》</figcaption></figure>
 
 !!!! この画像は、当時、 [{r}フランソワ１世{/r:François&#160;Ier}][1] に招待され、後に文化大臣に<wbr>相当する人物とも<wbr>なった、イタリア・ボローニャ出身の画家 [{r}プリマティッチオ{/r:Primaticcio}][2] が、1556年に、 [{r}シュノンソー{/r:Chenonceau} 城][3] で描いた作品です。  

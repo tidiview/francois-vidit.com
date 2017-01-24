@@ -44,7 +44,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
 </picture><figcaption>the opened triptych</figcaption></figure>
 
-The _altarpiece of Saint John L'Evangelist and Saint John Baptiste_ (1479) was probably commanded for the master altar.  
+The _altarpiece of Saint John L'Evangelist and Saint John Baptiste_ was probably commanded for the master altar.  
 The framework is named Hans Memling and shows dates from 1479.  
 The presence of Saint John-Baptiste on the central panel confirms this assumption since the master altar of an oratory was usually devoted to the patron saint.  
 The Evangelist carries the calyx with the venomous serpent, the latter being a reference to the fact that poisoning was sought.  
@@ -127,5 +127,5 @@ Saint Clare, that holds the censer, protects Sister Claire Van Hulsen.
 When on Sundays and days of celebration, and during religious offices, the polyptich was opened, the sick could see this group of saints, these idealised characters, immobiles in an atmosphere of calm and without passion, a world that contained the promise of hereafter, in which the suffering and the tried of the earth would be rewarded.  
 
 The triptych was probably commanded before 1475, since it was in that year that Antoine Seghers died.  
-He was placed above the master altar in 1479.  
-He was taken away from the church in the seventeenth century to take place in 1637 at the Baroque altar.  
+It was placed above the master altar in 1479.  
+It was taken away from the church in the seventeenth century to take place in 1637 at the Baroque altar.  

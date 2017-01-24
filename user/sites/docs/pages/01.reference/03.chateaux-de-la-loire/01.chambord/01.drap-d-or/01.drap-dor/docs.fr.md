@@ -5,7 +5,8 @@ menu: Rencontre du Drap d'Or
 date: 15-01-2016
 taxonomy:
    category: [docs, fr]
-header_image: false
+visible: false
+published: false
 ---
 
 ### préparation d'une rencontre franco-anglaise

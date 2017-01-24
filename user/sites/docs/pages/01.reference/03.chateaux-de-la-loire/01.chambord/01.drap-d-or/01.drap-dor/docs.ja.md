@@ -5,7 +5,8 @@ menu: 金襴
 date: 15-01-2016
 taxonomy:
    category: [docs, ja]
-header_image: false
+visible: false
+published: false
 ---
 
 ###仏英の出会いの準備

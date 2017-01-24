@@ -46,7 +46,7 @@ srcset="
 >
 </picture><figcaption>Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone</figcaption></figure>
 
-!! « Il faut ensuite aller droit sur le haut de Latone et faire une pause pour considérer Latone, les lézards, les rampes, les statues, l’allée royale, l’Apollon, le canal, et puis se tourner pour voir le parterre et le château ».  
+!! <cite style="font-size:1.2rem;text-align: center;">« Il faut ensuite aller droit sur le haut de Latone et faire une pause pour considérer Latone, les lézards, les rampes, les statues, l’allée royale, l’Apollon, le canal, et puis se tourner pour voir le parterre et le château. »</cite>
 !! Comme [Louis XIV][1] l'a écrit dans sa “[Manière de montrer les jardins de Versailles][2]”, depuis la façade orientale du palais, suivant son axe central, après Le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, Le Bassin et le Parterre de Latone apparaît。  
 !! Voilà une représentation inspirée de l'affrontement entre [Latone][3] juste après que celle-ci ait donné naissance, malgré la persécution de [Junon][4],  à ses deux jumeaux, [Apollon][5], dieu du soleil, et [Diane][6], déesse de la Lune, et les paysans de [Lycie][7].  
 !! Avec ce texte écrit par [Ovide][8] dans “[Les Métamorphoses][9]”, cet affrontement nous devient sans doute plus familier.   
@@ -111,7 +111,7 @@ Leur voix est devenue rauque, leur cou semblent s'être effacés,
 Leur dos verdit, leur ventre, partie principale de leur corps, blanchit  
 Et dans le bassin fangeux sautent ces nouvelles grenouilles. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#b52b27]Ovide, Les Métamorphoses, Livre VI[/color]  
+[color=#b52b27]Ovide, “Les Métamorphoses”, Livre VI[/color]  
 
 [1]: https://fr.wikipedia.org/wiki/Louis_XIV "https://fr.wikipedia.org/wiki/Louis XIV"
 [2]: https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles "https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles"
@@ -119,6 +119,6 @@ Et dans le bassin fangeux sautent ces nouvelles grenouilles. <span><svg xmlns="h
 [4]: https://fr.wikipedia.org/wiki/Junon "https://fr.wikipedia.org/wiki/Junon"
 [5]: https://fr.wikipedia.org/wiki/l’Apollon "https://fr.wikipedia.org/wiki/Apollon"
 [6]: https://fr.wikipedia.org/wiki/Diane_(mythologie) "https://fr.wikipedia.org/wiki/Diane_(mythologie)""
-[7]: https://fr.wikipedia.org/wiki/Lycie "https://fr.wikipedia.org/wiki/Lycie
+[7]: https://fr.wikipedia.org/wiki/Lycie "https://fr.wikipedia.org/wiki/Lycie"
 [8]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
 [9]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"

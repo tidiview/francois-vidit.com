@@ -42,7 +42,7 @@ shortcode-core:
 
 時代によって、呼び名が<wbr>異なってきましたが、指されているものは今も<wbr>昔も一緒です。  
 
-元々は聖書の原文である<wbr>ヘブライ語での大天使の名は「 <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang"he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;" lang"ja">ミッハエル</span></rt></ruby> 」と<wbr>なっています。  
+元々は聖書の原文である<wbr>ヘブライ語での大天使の名は「 <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;" lang="ja">ミッハエル</span></rt></ruby> 」と<wbr>なっています。  
 ここでは、カタカナでの<wbr>音の書き直しは、国際音声記号で「 Mîḵā’ēl 」との発音に値することは、なかなか適するのは<wbr>ないため、次のブライ語での<wbr>発音の録音を<wbr>用意しました。  
 
 | <span hidden>hidden</span> |

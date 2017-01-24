@@ -49,7 +49,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
 </picture><figcaption>Le triptyque ouvert</figcaption></figure>
 
-Le _retable de saint Jean L'Évangéliste et saint Jean Baptiste_ (1479) a sans doute été commandé pour le maître-autel.  
+Le _retable de saint Jean L'Évangéliste et saint Jean Baptiste_ a sans doute été commandé pour le maître-autel.  
 Le cadre porte le nom de Hans Memling et la date de 1479.  
 La présence de saint Jean-Baptiste sur le panneau central confirme cette supposition puisque le maître-autel d'un oratoire était généralement consacré au saint patron.  
 L'Évangéliste porte le calice avec le serpent venimeux, ce dernier étant une allusion au fait qu'on a voulu l'empoisonner.  

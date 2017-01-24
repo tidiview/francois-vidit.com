@@ -3,22 +3,22 @@ title: Adonis
 menu: adonis
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 21-11-2016, 20:44
+modified: 24-01-2016, 13:25
 itempage: Article
 taxonomy:
    category: [docs, fr]
 header_image: false
 metadata:
-    description: "Texte extrait du livre 10 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean Monier pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de Cheverny"
-    keywords: "Château de Cheverny, Cheverny, Adonis, la mort d'Adonis, Ovide, Les Métamorphoses, Jean Monier"
-    image: adonis-840.jpg
-    image_height: 840
-    image_width: 808
-    image_title: "La Mort d'Adonis"
-    image_legend: "Jean Monier, La Mort d'Adonis"
-    'twitter:card' : summary
-significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny"]
-specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
+    description: "Texte extrait du livre 10 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean MONIER pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de Cheverny"
+    keywords: "Château de Cheverny, Cheverny, Adonis, la mort d'Adonis, Ovide, Les Métamorphoses, Jean MONIER"
+    image: adonis_700x676.jpg
+    image_height: 700
+    image_width: 676
+    image_title: "Jean MONIER, “La Mort d'Adonis”"
+    image_legend: "Vénus assiste à la mort d'Adonis tué par un sanglier"
+    'twitter:card': summary
+significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Adonis_(mythologie)", "https://fr.wikipedia.org/wiki/V%C3%A9nus_(mythologie)"]
+specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Cheverny", "Cheverny", "Adonis", "la mort d'Adonis", "Ovide", "Les Métamorphoses", "Jean MONIER"]
 shortcode-core:
    active: true
 sitemap:
@@ -26,23 +26,30 @@ sitemap:
    priority: 0.9
 ---
 <figure><picture>
-<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.webp 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.webp 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.webp 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.webp 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-840.webp 840w" type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.webp 700w"
+type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="Jean MONIER, “La Mort d'Adonis”" title="Jean MONIER, “La Mort d'Adonis”" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-280.jpg 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-380.jpg 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_840.jpp 840w" title="Jean Monier, La Mort d'Adonis" alt="Jean Monier, La Mort d'Adonis" class="class-diane-img">
-</picture><figcaption>Jean Monier, “La Mort d'Adonis”</figcaption></figure>
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"
+>
+</picture><figcaption>Vénus assiste à la mort d'Adonis tué par un sanglier</figcaption></figure>
 
-! Il existe un petit texte à l'origine du tableau peint par Jean Monier pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de [Cheverny][1].  
-! [Ovide][2] a écrit cet extrait du livre 10 des [Métamorphoses][3].
-! Le voici ci-dessous.
+! Il existe un petit texte à l'origine du tableau peint par Jean MONIER pour le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de [Cheverny][1].  
+! Il a été écrit par [Ovide][2], écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre 10 de son œuvre la plus connue, les [Métamorphoses][3].  
+! Il raconte la fin tragique d'[Adonis][4], amant de [Vénus][5].  
+! Le voici ci-dessous.  
 
 [color=#df8a13]**Mort d'Adonis**[/color]  
 
@@ -88,10 +95,11 @@ Toutefois car, tenant mal, trop fragile en sa légèreté,
 <sup>739</sup> 
 Elle est emportée par le vent et lui donne son nom[^1]. <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#df8a13]Ovide, Les Métamorphoses, Livre 10, vers 708 et suivants[/color]  
+[color=#df8a13]Ovide, “Les Métamorphoses”, Livre 10, vers 708 et suivants[/color]  
 
 [1]: https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny "https://fr.wikipedia.org/wiki/Château_de_Cheverny"
 [2]: https://fr.wikipedia.org/wiki/Ovide "https://fr.wikipedia.org/wiki/Ovide"
 [3]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
-[4]: ./adonis_700x676.jpg "ジャン・モニエ、アドニスの死"
+[4]: https://fr.wikipedia.org/wiki/Adonis_(mythologie) "https://fr.wikipedia.org/wiki/Adonis"
+[5]: https://fr.wikipedia.org/wiki/V%C3%A9nus_(mythologie) "https://fr.wikipedia.org/wiki/Vénus"
 [^1]: Adonis est changé en anémone, la fleur qui s'ouvre au vent.

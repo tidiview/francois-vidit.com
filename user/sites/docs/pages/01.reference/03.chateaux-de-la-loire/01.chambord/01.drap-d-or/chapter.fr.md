@@ -9,6 +9,7 @@ itempage: Article
 taxonomy:
     category: [docs, fr]
 visible: false
+published: false
 metadata:
     description: "Section drap d'Or du site francois-vidit.com"
     keywords: "Section drap d'Or, francois-vidit.com"

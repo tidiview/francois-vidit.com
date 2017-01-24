@@ -4,23 +4,22 @@ menu: ペルセウス
 template: docs_minus_h1
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 26-09-2016, 18:50
+modified: 24-01-2016, 15:25
 itempage: Article
 taxonomy:
    category: [docs, ja]
 header_image: false
 metadata:
-    description: 'シュヴェルニー城の二階にある王の寝室の天井に、ジャン・モニエ画家が描いたペルセウスとアンドロメダ諸絵の元に、オウィディウス作家が書いた変身物語の第四巻末のペルセウスとアンドロメダ章を語る文書'
-    keywords: 'シュヴェルニー城, シュヴェルニー, ペルセウスとアンドロメダ, ペルセウス, アンドロメダ, オウィディウス, 変身物語, ジャン・モニエ'
-    image: 1280px-La_mort_d%27Adonis_%28Jean_Monier%29.jpg
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/La_mort_d%27Adonis_%28Jean_Monier%29.jpg
-    image_height: 1236
-    image_width: 1280
-    image_title: La mort d'Adonis
-    image_legend: "Jean Monier, La mort d'Adonis"
+    description: 'シュヴェルニー城の二階にある王の寝室の天井に、ジャン・モニエ画家が描いたペルセウスとアンドロメダ諸絵画の元に、オウィディウス作家が書いた『変身物語』の第四巻末の『ペルセウスとアンドロメダ』章を語る文書'
+    keywords: "シュヴェルニー城, シュヴェルニー, ペルセウスとアンドロメダ, ペルセウス, アンドロメダ, オウィディウス, 変身物語, ジャン・モニエ, Jean MONIER, Persée et Andromède, Persée, Andromède, Cheverny, Château de Cheverny"
+    image: persee-focus_700x763.jpg
+    image_height: 700
+    image_width: 763
+    image_title: ジャン・モニエ、《ペルセウスとアンドロメダ》
+    image_legend: "岩に鎖で付けられたアンドロメダを救おうとするペルセウス"
     'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
+significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E", "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%83%BC"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "シュヴェルニー城", "シュヴェルニー", "ペルセウスとアンドロメダ", "ペルセウス", "アンドロメダ", "オウィディウス", "変身物語", "ジャン・モニエ", "Cheverny", "Jean MONIER", "Persée et Andromède", "Persée", "Andromède", "Château de Cheverny"]
 shortcode-core:
    active: true
 sitemap:
@@ -29,17 +28,61 @@ sitemap:
 ---
 #ペル<wbr>セウス
 
-! [{r}Cheverny{/r:シュヴェルニー} 城][1] の二階にある王の<wbr>寝室の天井に、{r}ジャン・モニエ{/r:Jean&#160;Monier}画家が描いた「ペルセウスと<wbr>アンドロメダ諸絵」の元に、 [{r}オウィディウス{/r:Ovidius}][2] が書いた「 [{r}変身物語{/r:Metamorphoseon}][3] 」の第四巻末の「ペルセウスと<wbr>アンドロメダ章」があります。  
-! ご参照ください！
+<figure><picture>
+<source
+media="(min-width: 959px)"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.webp 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.webp 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.webp 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.webp 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.webp 700w"
+type="image/webp">
+<source
+media="(min-width: 959px)"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-280.jpg 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-380.jpg 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-480.jpg 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-640.jpg 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee_700x869.jpg 700w"
+>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.webp 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.webp 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.webp 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.webp 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.webp 700w"
+>
+<img　src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg" alt="ジャン・モニエ、《ペルセウスとアンドロメダ》"　title="ジャン・モニエ、《ペルセウスとアンドロメダ》" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-280.jpg 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-380.jpg 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-480.jpg 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"
+>
+</picture><figcaption>岩に鎖で付けられたアンドロメダを救おうとするペルセウス</figcaption></figure>
+
+! [{r}シュヴェルニー城{/r:Château&#160;de&#160;Cheverny}][1] の二階にある王の<wbr>寝室の天井に、{r}ジャン・モニエ{/r:Jean&#160;Monier}画家が [{r}ペルセウス{/r:Perseus}][2] の生拝を語る<wbr>さまざまな絵がある。  
+! そのなか、《ペルセウスと<wbr>アンドロメダ》も見えている。  
+! この作品の元に、ローマ帝国時代に<wbr>生きたラテン語で<wbr>書いている作家の [{r}オウィディウス{/r:Ovidius}][3] による、一番有名な<wbr>作品である『 [{r}変身物語{/r:Metamorphoseon}][4] 』の第四巻末の「ペルセウスと<wbr>アンドロメダ章」がある。  
+! 突然、 [{r}エチオピア{/r:የኢትዮጵያ}][5]の<wbr>空を飛んでいた<wbr>ペルセウスは、岩に鎖で付けられた [{r}アンドロメダ{/r:Andromedā}][6]を<wbr>出会うことから始まる<wbr>この物語を<wbr>お楽しみください！
 
 [color=#df8a13]**ペルセウスと<wbr>アンドロメダ**[/color]
 
 <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
-<sup>663</sup> 風神アイオロスは、すでに風たちを {r}永劫{/r:えいごう} の<wbr>獄につないでいた。
+<sup>663</sup> 
+風神アイオロスは、すでに風たちを {r}永劫{/r:えいごう} の<wbr>獄につないでいた。
 人びとを一日の仕事へと<wbr>駆り立てる「明けの明星」が、ひときわ明るく<wbr>輝いて、 {r}高空{/r:たかそら} に<wbr>のぼった。
 ペルセウスは、翼のついたサンダルを<wbr>取りあげて、再足に<wbr>結びつけ、 {r}鉤{/r:かぎ} なりの剣を<wbr>腰につけると、足の翼を<wbr>動かして、澄みきった<wbr>大気を分ける。
 無数の<wbr>国々が、あたりに<wbr>ひろがって、眼下に置き<wbr>去りにされて行く。
-やがて、ケペウスが<wbr>支配するアイティオピアの<wbr>住民と田野とが、視野に<wbr>はいる。
+やがて、ケペウスが<wbr>支配するエチオピアの<wbr>住民と田野とが、視野に<wbr>はいる。
 
 ここでは、罪もない<wbr>アンドロメダが、神アムモンの命令で、不当にも、母親の暴言を {r}償{/r:つぐな} わせられていた。
 乙女が荒い岩に再腕を<wbr>つながれているのが、ペルセウスの目に<wbr>うつった。
@@ -110,11 +153,14 @@ sitemap:
 これに<wbr>大喜びした彼女たちは、その海草の種子を、いくども<wbr>波にまき<wbr>ちらした。
 こうして、今もなお、 {r}珊瑚{/r:さんご}にはこの<wbr>同じ性質が残っている。  
 <sup>764</sup> 
-大気に触れると硬直し、水中では柔らかかった枝が、海から引きあげられると、石のように固くなるのだ。<span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
-
+大気に触れると硬直し、水中では柔らかかった枝が、海から引きあげられると、石のように固くなるのだ。
+ <span><svg xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>  
 
 [color=#df8a13]オウィディウス、変身物語、第四巻末、663～764より[/color]
 
 [1]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城"
-[2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
+[2]: https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9　"https://ja.wikipedia.org/wiki/ペルセウス"
+[3]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
+[4]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
+[5]: https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2 "https://ja.wikipedia.org/wiki/エチオピア"
+[6]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%83%BC "https://ja.wikipedia.org/wiki/アンドロメダ"

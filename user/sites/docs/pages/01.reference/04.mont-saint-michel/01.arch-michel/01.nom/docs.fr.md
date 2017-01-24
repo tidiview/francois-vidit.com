@@ -24,8 +24,8 @@ shortcode-core:
 ---
 #nom de l'archange Michel
 
-!!!! En hébreu, le nom de l'[archange « <span style="color:#3d8b3d;">Michel</span> »][1] s'écrit « <span lang="he" style="color:#3d8b3d;">מיכאל</span> ».
-!!!! la prononciation de Michel se situe entre le « Michel » en français et le « Mikaël » de l'anglais  
+!!!! En hébreu, le nom de l'[archange « <span style="color:#3d8b3d;">Michel</span> »][1] s'écrit « <span lang="he" style="color:#3d8b3d;">מיכאל</span> ».  
+!!!! Sa prononciation en hébreu se situe entre le « Michel » du français et le « Mikaël » de l'anglais.  
 !!!! Plus bas, se trouve un enregistrement de ce nom en hébreu, ainsi qu'une analyse succinte de l'éthymologie de cette dénomination à partir de sa signification en hébreu.  
 
 ### [color=#3d8b3d]à propos du nom de l'archange Michel[/color]
@@ -33,7 +33,7 @@ shortcode-core:
 #### [color=#3d8b3d]sens en hébreu[/color]
 
 Dans le texte original de la Bible en hébreu, le nom de l'archange « Michel » en français est « <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt></ruby> ».  
-Cela se note en [alphabet phonétique international][2] « Mîḵā’ēl » et représente le son suivant:      
+La notation « Mîḵā’ēl » vient de l'[alphabet phonétique international][2] et représente le son suivant:      
 
 | <span hidden>hidden</span> |
 | -------------------------- |

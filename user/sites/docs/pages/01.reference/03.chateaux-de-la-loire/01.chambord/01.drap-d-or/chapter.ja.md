@@ -9,6 +9,7 @@ itempage: Article
 taxonomy:
     category: [docs, ja]
 visible: false
+published: false
 metadata:
     description: "francois-vidit.com サイトの金襴の陣セクション"
     keywords: '金襴の陣セクション, francois-vidit.com'

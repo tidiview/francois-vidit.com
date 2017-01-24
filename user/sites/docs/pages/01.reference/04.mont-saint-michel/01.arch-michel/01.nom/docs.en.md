@@ -25,8 +25,8 @@ shortcode-core:
 #name of the archangel Michael
 
 
-!!!! In Hebrew, the name of the [archangel « <span style="color:#3d8b3d;">Michael</span> »][1] writes « <span lang="he" style="color:#3d8b3d;">מיכאל</span> ».
-!!!! The pronunciation of Michael is between the "Michel" in french and the "Michael" of english.  
+!!!! In hebrew, the name of the [archangel « <span style="color:#3d8b3d;">Michael</span> »][1] writes « <span lang="he" style="color:#3d8b3d;">מיכאל</span> ».  
+!!!! The pronunciation of it in hebrew is between the "Michel" in french and the "Michael" of english.  
 !!!! Below is a recording of this name in hebrew, as well as a brief analysis of the ethymology of this name from its denomination in hebrew.  
 
 ### [color=#3d8b3d]on the name of the archangel Michael[/color]
@@ -34,7 +34,7 @@ shortcode-core:
 #### [color=#3d8b3d]meaning in hebrew[/color]
 
 In the original text of the Bible in hebrew, the name of the archangel "Michael" in english is "<ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;" lang="he">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā'ēl</span></rt></ruby>.  
-This is noted in [international phonetic alphabet][2] "Mîḵā'ēl" and represents the following sound:      
+The notation "Mîḵā'ēl" comes from the [international phonetic alphabet][2] and represents the following sound:      
 
 | <span hidden>hidden</span> |
 | -------------------------- |

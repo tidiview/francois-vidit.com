@@ -10,12 +10,12 @@ taxonomy:
 metadata:
     description: "Text extract from chapter 'Actæon' of book III of Ovid's Metamorphoses and used by painter Francesco Primaticcio to realise the portrait of Diana of Poitiers exposed in the Castle of Chenonceau"
     keywords: "Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diana de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon"
-    image: "diane-840.jpg"
-    image_height: 840
-    image_width: 1260
+    image: "diane_700x1050.jpg"
+    image_height: 700
+    image_width: 1050
     image_title: Diana of Poitiers
-    image_legend: "School of Primaticcio, Portrait of Diana of Poitiers"
-    'twitter:card' : summary
+    image_legend: "School of Primaticcio, “Portrait of Diana of Poitiers”"
+    'twitter:card': summary
 significantlinks: ["https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Henry_II_of_France"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
 shortcode-core:
@@ -25,18 +25,24 @@ sitemap:
    priority: 0.9
 ---
 <figure><picture>
-<source sizes="(max-width: 767px) 98vw, 52vw" srcset="
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.webp 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.webp 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.webp 840w" type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-840.jpg" sizes="(max-width: 767px) 98vw, 52vw" srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
+type="image/webp">
+<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" title="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-380.jpg 380w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-480.jpg 480w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
-/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_840.jpp 840w" title="School of Primaticcio, Portrait of Diana, Château de Chenonceau" alt="School of Primaticcio, Portrait of Diana, Château de Chenonceau" class="class-diane-img">
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
+>
 </picture><figcaption>School of Primaticcio, “Portrait of Diana of Poitiers”</figcaption></figure>
 
 !!!! This portrait is a work that [Primaticcio][2], painter from Bologna in Italy, invited by king [Francis I of France][1] then become almost minister of Culture, has painted, in 1556, in the [Château de Chenonceau][3].  
@@ -106,7 +112,7 @@ He might wish to be absent it’s true, but he is here: he might wish to see and
 <sup>250</sup> They surround him on every side, sinking their jaws into his flesh, tearing their master to pieces in the deceptive shape of the deer.  
 They say Diana the Quiver-bearer’s anger was not appeased, until his life had ended in innumerable wounds. <span><svg id="quotesright" xmlns="http://www.w3.org/2000/svg" version="1" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#3d8b3d]Ovide, Les Métamorphoses, Livre III[/color]  
+[color=#3d8b3d]Ovide, “Les Métamorphoses”, Livre III[/color]  
 
 [1]: https://en.wikipedia.org/wiki/Francis_I_of_France "https://en.wikipedia.org/wiki/Francis_I_of_France"
 [2]: https://en.wikipedia.org/wiki/Francesco_Primaticcio "https://en.wikipedia.org/wiki/Francesco_Primaticcio"
