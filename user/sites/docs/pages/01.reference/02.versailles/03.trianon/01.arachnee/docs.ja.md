@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w">
-</picture><figcaption>ルネ＝アントワーヌ・ウアス、《ミネルヴァと<wbr>アラクネ》</figcaption></figure>
+</picture><figcaption>手前に見える<wbr>ミネルヴァが真ん中にいる<wbr>アラクネを<wbr>殴りつけている</figcaption></figure>
 
 !! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] に展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}ミネルヴァとアラクネ{/r:Minerve&#160;et&#160;Arachnée} 」 絵画が {r}領主たちの<wbr>控えの間{/r:Salon&#160;Des<wbr>&#160;Seigneurs} に見られます。  
 !! [{r}オウィディウス{/r:Ovidius}][3] が書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」で、神に負けない<wbr>[リディア][5]出身の {r}機{/r:はた}織りの技術で優秀な [{r}アラクネ{/r:Arachnē}][6]が [{r}ミネルヴァ{/r:Minerva}][7] に殴りつけられていることが<wbr>語られている。  

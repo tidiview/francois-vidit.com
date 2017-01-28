@@ -15,8 +15,8 @@ metadata:
     image_width: 700
     image_height: 951
     image_title: ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》
-    image_legend: イリスが眠りの神ソムヌスの洞窟に入る
-    'twitter:card' : summary
+    image_legend: 眠りの神の洞窟に入るユノー女神の伝達者であるイリス
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%97%E3%83%8E%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AD%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%AA%E3%82%A2%E4%BA%BA", "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%9A%E3%82%A6%E3%82%B9"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "ルネ＝アントワーヌ・ウアス"]
@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture><figcaption>ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》</figcaption></figure>
+</picture><figcaption>眠りの神の洞窟に入る<wbr>ユノー女神の伝達者である<wbr>イリス</figcaption></figure>
 
 !!!! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] にに展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}イリスとソムヌス{/r:Iris&#160;et&#160;Somnus}」 絵画が {r}ルイ=フィリップの<wbr>家族の間{/r:Salon&#160;de<wbr>&#160;Famille&#160;de&#160;Louis-Philippe} に<wbr>見られます。  
 !!!! [{r}オウィディウス{/r:Ovidius}][3] が<wbr>書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」に<wbr>おいて、夫婦 [{r}ケユクス{/r:Ceyx}][5] と [{r}アルキュオネ{/r:Alcyone}][6] の<wbr>深い愛情が<wbr>語られている。  

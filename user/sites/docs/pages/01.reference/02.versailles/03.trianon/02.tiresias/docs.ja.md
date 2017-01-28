@@ -10,16 +10,16 @@ taxonomy:
    category: [docs, ja]
 metadata:
     description: 'トリアノンにルネ＝アントワーヌ・ウアスが描いたある「ミネルヴァとテイレシアス」絵画のもとに使用された、オウィディウス作家が書いた変身物語の第三巻のミネルヴァがテイレシアスの眼を見えなくさせていることが語られている「テイレシアス章」の文書'
-    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, テイレシアス, ミネルヴァ, ミネルヴァとテイレシアス, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿, Minerve et Tirésias'
+    keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, テイレシアス, ミネルヴァ, ミネルヴァとテイレシアス, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿, Minerve et Tirésias, Minerva, Tiresias'
     image: tiresias_700x501.jpg
     image_width: 700
     image_height: 501
     image_title: ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》
     image_legend: 手前に見えるミネルヴァが真ん中にいるテイレシアスを見えなくさせている
-    'twitter:card' : summary
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AC%E3%82%B7%E3%82%A2%E3%83%BC%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "十七世紀フランス絵画", "ルイ14世", "Louis XIV", "ルイ十四世", "ヴェルサイユ", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "フランス宮廷絵画", "フランス宮廷画家", "ルネ＝アントワーヌ・ウアス", "ミネルヴァとテイレシアス", "ミネルヴァ", "テイレシアス", "ミネルヴァとテイレシアス", "Minerve et Tirésias"]
+specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "十七世紀フランス絵画", "ルイ14世", "Louis XIV", "ルイ十四世", "ヴェルサイユ", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "フランス宮廷絵画", "フランス宮廷画家", "ルネ＝アントワーヌ・ウアス", "ミネルヴァとテイレシアス", "ミネルヴァ", "テイレシアス", "ミネルヴァとテイレシアス", "Minerve et Tirésias", "Minerva", "Tiresias"]
 shortcode-core:
    active: true
 sitemap:
@@ -46,7 +46,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w">
-</picture><figcaption>ルネ＝アントワーヌ・ウアス、《ミネルヴァと<wbr>テイレシアス》絵画</figcaption></figure>
+</picture><figcaption>手前に見える<wbr>ミネルヴァが真ん中にいる<wbr>テイレシアスを<wbr>見えなくさせている</figcaption></figure>
 
 !!! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] に展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた「 {r}ミネルヴァと<wbr>テイレシアス{/r:Minerve&#160;<wbr>et&#160;Tirésias} 」絵画が {r}領主たちの<wbr>控えの間{/r:Salon&#160;<wbr>Des&#160;Seigneurs} に見られます。  
 !!! [{r}オウィディウス{/r:Ovidius}][3] が<wbr>書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」に出て来る、 [{r}ミネルヴァ{/r:Minerva}][5] が [{r}テイレシアス{/r:Tiresias}][6] の眼を<wbr>見えなく<wbr>させていることが<wbr>語られている。  
