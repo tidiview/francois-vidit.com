@@ -38,4 +38,4 @@ And those who lead the many to justice shall be like the stars forever. <span><s
 
 <br>
 
-[color=#df8a13]Source: Liturgical Translation of the New Testament[/color]
+[color=#df8a13]Liturgical Translation of the New Testament[/color]

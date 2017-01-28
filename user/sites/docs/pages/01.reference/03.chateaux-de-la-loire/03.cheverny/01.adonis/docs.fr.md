@@ -46,7 +46,7 @@ srcset="
 >
 </picture><figcaption>Vénus assiste à la mort d'Adonis tué par un sanglier</figcaption></figure>
 
-! Il existe un petit texte à l'origine du tableau peint par Jean MONIER pour le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de [Cheverny][1].  
+! Il existe un petit texte à l'origine du tableau peint par [Jean MONIER][6] pour le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de [Cheverny][1].  
 ! Il a été écrit par [Ovide][2], écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre 10 de son œuvre la plus connue, les [Métamorphoses][3].  
 ! Il raconte la fin tragique d'[Adonis][4], amant de [Vénus][5].  
 ! Le voici ci-dessous.  
@@ -102,4 +102,5 @@ Elle est emportée par le vent et lui donne son nom[^1]. <span><svg xmlns="http:
 [3]: https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide) "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"
 [4]: https://fr.wikipedia.org/wiki/Adonis_(mythologie) "https://fr.wikipedia.org/wiki/Adonis"
 [5]: https://fr.wikipedia.org/wiki/V%C3%A9nus_(mythologie) "https://fr.wikipedia.org/wiki/Vénus"
+[6]: https://fr.wikipedia.org/wiki/Jean_Mosnier "https://fr.wikipedia.org/wiki/Jean Monier"
 [^1]: Adonis est changé en anémone, la fleur qui s'ouvre au vent.

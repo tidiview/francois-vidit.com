@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/01.adonis/adonis_700x676.jpg 700w"
 >
-</picture><figcaption>猪に殺されたアドニスの死を見ているウェヌス</figcaption></figure>
+</picture><figcaption>猪に殺された<wbr>アドニスの死を<wbr>見ているウェヌス</figcaption></figure>
 
 ! [{r}シュヴェルニー城{/r:Château&#160;de&#160;Cheverny}][1] の二階にある暖炉で<wbr>展示されている、{r}ジャン・モニエ{/r:Jean&#160;Monier} 画家が描いた《{r}アドニスの死{/r:La&#160;Mort&#160;d'Adonis}》を表れる絵画がある。  
 ! 描かれている<wbr>場面の元に、ローマ帝国時代に<wbr>生きたラテン語で<wbr>書いている作家の [{r}オウィディウス{/r:Ovidius}][2] による、一番有名な<wbr>作品である『 [{r}変身物語{/r:Metamorphoseon}][3] 』の第十巻の一部として<wbr>知られている文書である。  

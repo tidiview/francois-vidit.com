@@ -10,7 +10,7 @@ date: 05-01-2017, 23:13
 modified: 13-01-2017, 16:13
 metadata:
    description: "text and image presenting the Triptych of St John the Baptist and St John the Evangelist, work of Hans Memling, seenable at the Memling Museum, Hospital Saint John of Bruges"
-   keywords: "St John Altarpiece, Memling Museum, Bruges, Brugge, Hospital Saint John, Triptych of the two Saints John, Triptych of St John the Baptist and St John the Evangelist, the Mystic Marriage of St Catherine"
+   keywords: "St John Altarpiece, Memling Museum, Bruges, Brugge, Hospital Saint John, Triptych of the two Saints John, Triptych of St John the Baptist and St John the Evangelist, the Mystic Marriage of St Catherine, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc"
    image: saint-jean_700x379.jpg
    image_width: 700
    image_height: 379
@@ -19,7 +19,7 @@ metadata:
    'twitter:card': summary
    robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.en.md"]
-specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Museums in Bruges", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", "Hans Memling Museum", " Hans Memling", "St John Altarpiece", "Triptych of St John the Baptist and St John the Evangelist", "Triptych of the two Saints John"]
+specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Museums in Bruges", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", "Hans Memling Museum", " Hans Memling", "St John Altarpiece", "Triptych of St John the Baptist and St John the Evangelist", "Triptych of the two Saints John", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Hans Memling", "Memling"]
 ---
 # {r}Triptych<wbr>&#160;<wbr>of<wbr>&#160;<wbr>Saint<wbr>&#160;<wbr>John<wbr>&#160;<wbr>The<wbr>&#160;<wbr>Baptist<wbr>&#160;<wbr>and<wbr>&#160;<wbr>Saint<wbr>&#160;<wbr>John<wbr>&#160;<wbr>The<wbr>&#160;<wbr>Evange<wbr>list{/r:Triptiek<wbr>&#160;<wbr>van<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Doper<wbr>&#160;<wbr>en<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Evangelist}
 
@@ -34,7 +34,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w"
 type="image/webp">
 <img
-src="/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Musée Memling, Hôpital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Musée Memling, Hôpital Saint John, Bruges" class="class-diane-img"
+src="/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,
@@ -50,7 +50,7 @@ The presence of Saint John-Baptiste on the central panel confirms this assumptio
 The Evangelist carries the calyx with the venomous serpent, the latter being a reference to the fact that poisoning was sought.  
 Saint Jean Baptiste is recognized to the accompanying lamb.  
 He wears the robe in camel hair and shows something of his finger.  
-This attitude relates to the gospel text '{r}behold&#160;the&#160;Lamb&#160;of&#160;God{/r:Ecce&#160;Agnus&#160;Dei}' by which John the Baptist announces the coming of Christ.  
+This attitude relates to the gospel text « {r}behold&#160;the&#160;Lamb&#160;of&#160;God{/r:Ecce&#160;Agnus&#160;Dei} » by which John the Baptist announces the coming of Christ.  
 These two characters together with two saints surround the sitting Virgin, throning in front of a brocable fabric and under a red velvet-coloured canopy.  
 Two angels hold above the head a gold crown.  
 The triangle layout of the three characters seated in the foreground forms the basis of a strictly symmetrical composition.  
@@ -61,7 +61,7 @@ The sword and the broken wheel are the attributes of Saint Catherine of Alexandr
 The holy reading is Sainte Barbe that is recognized in turn.  
 Two angelots hold company to the saints.  
 The one on the left plays the portable organ, also called positive, that on the right holds a book that the Virgin through.  
-The presence of all these saints surrounding the Virgin is rather reminiscent of the theme of "{r}Holy&#160;Conversation{/r:Sacra&#160;Conversazione}", a subject that Memling would appreciate because it would gave him the opportunity to develop a very balanced work.  
+The presence of all these saints surrounding the Virgin is rather reminiscent of the theme of « {r}Holy&#160;Conversation{/r:Sacra&#160;Conversazione} », a subject that Memling would appreciate because it would gave him the opportunity to develop a very balanced work.  
 
 These are however the two saint John who appear to be the main characters, as demonstrated by the importance accorded to many, as demonstrated by the importance attached to the many details which, towards the viewer, must enlighten their biography.  
 Scenes illustrating the main episodes of their lives are found on the columns capitals, in the landscapes and on the colets.  
@@ -116,6 +116,27 @@ Bordeaux wine barrels were unloaded here.
 We see little characters, brothers, measuring the barrels.  
 The right to gauge was a communal charge consisting of measuring and probing the imported wine.  
 In 1300, this burden was entrusted to the hospital and was for centuries an important source of income.  
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.webp 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.webp 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.webp 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.webp 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
+type="image/webp">
+<img
+src="/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.jpg 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.jpg 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.jpg 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w">
+</picture><figcaption>the closed triptych</figcaption></figure>
 
 The edges of the shutters decorate the portraits of the kneeling and accompanied donors of their patron saints. 
 They are represented in shallow niches.  

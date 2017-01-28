@@ -10,7 +10,7 @@ date: 05-01-2017, 23:13
 modified: 13-01-2017, 16:13
 metadata:
    description: "texte descriptif et image du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
-   keywords: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Le Mariage mystique de sainte Catherine, Memling, Memlinc, Hôpital Saint-Jean, Bruges, Brugge"
+   keywords: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Le Mariage mystique de sainte Catherine, Memling, Memlinc, Hôpital Saint-Jean, Bruges, Brugge, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Hans Memlinc, Memling, Memlinc"
    image: saint-jean_700x379.jpg
    image_width: 700
    image_height: 379
@@ -19,7 +19,7 @@ metadata:
    'twitter:card': summary
    robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.fr.md"]
-specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Hôpital Saint-Jean de Bruges", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", " Hans Memlinc", "Memling", "Memlinc"]
+specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Hôpital Saint-Jean de Bruges", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", "Hans Memlinc", "Memling", "Memlinc", "Triptiek van Johannes de Doper en Johannes de Evangelist"]
 shortcode-core:
    active: true
 sitemap:
@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.jpg 480w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.jpg 640w,
 /user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
-</picture><figcaption>Le triptyque ouvert</figcaption></figure>
+</picture><figcaption>le triptyque ouvert</figcaption></figure>
 
 Le _retable de saint Jean L'Évangéliste et saint Jean Baptiste_ a sans doute été commandé pour le maître-autel.  
 Le cadre porte le nom de Hans Memling et la date de 1479.  
@@ -55,7 +55,7 @@ La présence de saint Jean-Baptiste sur le panneau central confirme cette suppos
 L'Évangéliste porte le calice avec le serpent venimeux, ce dernier étant une allusion au fait qu'on a voulu l'empoisonner.  
 On reconnaît saint Jean-Baptiste à l'agneau qui l'accompagne.
 Il porte la robe en poil de chameau et montre quelque chose du doigt.
-Cette attitude se rapporte au texte d'évangile '{r}Voici&#160;l'Agneau&#160;de&#160;Dieu{/r:Ecce&#160;Agnus&#160;Dei}' par lequel Jean-Baptiste annonce la venue du Christ.  
+Cette attitude se rapporte au texte d'évangile « {r}Voici&#160;l'Agneau&#160;de&#160;Dieu{/r:Ecce&#160;Agnus&#160;Dei} » par lequel Jean-Baptiste annonce la venue du Christ.  
 Ces deux personnages ainsi que deux saints entourent la Vierge assise, trônant devant un tissu broché et sous un baldaquin de velours rouge.  
 Deux anges tiennent au-dessus de la tête une couronne d'or.  
 La disposition en triangle des trois personnages assis au premier plan forme la base d'une composition strictement symétrique.  
@@ -66,7 +66,7 @@ L'épée et la roue brisée sont les attributs de saint Catherine d'Alexandrie.
 La sainte faisant la lecture est sainte Barbe que l'on reconnaît à la tour.
 Deux angelots tiennent compagnie aux saints.  
 Celui de gauche joue de l'orgue portatif, appelé également positif, celui de droite tient un livre que la Vierge feuillette.  
-La présence de tous ces saints entourant la Vierge fait songer plutôt au thème de la "{r}Sainte&#160;Conversation{/r:Sacra&#160;Conversazione}", sujet que Memling prisait fort parce qu'il lui donnait l'occasion d'élaborer une œuvre très équilibrée.  
+La présence de tous ces saints entourant la Vierge fait songer plutôt au thème de la « {r}Sainte&#160;Conversation{/r:Sacra&#160;Conversazione} », sujet que Memling prisait fort parce qu'il lui donnait l'occasion d'élaborer une œuvre très équilibrée.  
 
 Ce sont pourtant les deux saints Jean qui apparaissent comme étant les personnages principaux, comme le prouve l'importance accordée aux nombreux détails qui, vis-à-vis du spectateur, doivent éclairer leur biographie.  
 Des scènes illustrant les principaux épisodes de leur vie se retrouvent sur les chapiteaux des colonnes, dans les paysages et sur les colets.  
@@ -119,6 +119,27 @@ Les tonneaux de vin de Bordeaux étaient déchargés ici.
 On aperçoit des petits personnages, les frères, en train de jauger les tonneaux.  
 Le droit de jauger était une charge communale consistant à mesurer et à sonder le vin importé.  
 Cette charge fut confiée, vers 1300, à l'hôpital et constitua pendant des siècles, une source importante de revenus.  
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.webp 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.webp 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.webp 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.webp 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
+type="image/webp">
+<img
+src="/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste fermé, Musée Memling, Hôpital Saint-Jean, Bruges" alt="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste fermé, Musée Memling, Hôpital Saint-Jean, Bruges" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.jpg 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.jpg 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.jpg 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w">
+</picture><figcaption>le triptyque fermé</figcaption></figure>
 
 Les revers des volets s'ornent des portraits des donateurs agenouillés et accopagnés de leurs saints patrons.  
 Ils sont représentés dans des niches peu profondes.  

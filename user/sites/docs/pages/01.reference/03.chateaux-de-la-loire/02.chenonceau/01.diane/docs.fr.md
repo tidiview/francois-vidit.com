@@ -2,21 +2,21 @@
 title: Diane 
 menu: diane
 date: 15-01-2016
-modified: 21-11-2016, 20:14
+modified: 28-01-2017, 18:39
 itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
    description: "Texte extrait du chapître 'Actéon' livre 3 des Métamorphoses écrit par Ovide et utilisé par le peintre Le Primatice pour réaliser le portrait de Diane de Poitiers exposé au Château de Chenonceau"
-   keywords: "Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon"
+   keywords: "Châteaux de la Loire, Chenonceau, Château de Chenoneau, Le Primatice, Diane de Poitiers, Ovide, Les Métamorphoses, Actéon, Actæon, Metamorphoseon, Ovidius, Primaticcio"
    image: "diane_700x1050.jpg"
    image_height: 700
    image_width: 1050
-   image_title: Diane de Poitiers
-   image_legend: "École du Primatice, “Portrait de Diane de Poitiers”"
+   image_title: "École du Primatice, “Portrait de Diane de Poitiers”"
+   image_legend: "Diane de Poitiers représentée en Diane, déesse de la Chasse"
    'twitter:card': summary
-significantlinks: ["https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)"]
-specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ier_(roi_de_France)", "https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
+specialty: ["Châteaux de la Loire", "Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Chenonceau", "Château de Chenoneau", "Le Primatice", "Diane de Poitiers", "Ovide", "Les Métamorphoses", "Actæon", "Actéon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true
 sitemap:
@@ -25,6 +25,7 @@ sitemap:
 ---
 <figure><picture>
 <source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
@@ -33,7 +34,8 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
 type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" title="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" class="class-diane-img"
+<source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
@@ -42,7 +44,25 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
 >
-</picture><figcaption>École du Primatice, “Portrait de Diane de Poitiers”</figcaption></figure>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.webp 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"
+>
+<img　src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" title="École du Primatice, “Portrait de Diane de Poitiers”, Château de Chenonceau" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"
+>
+</picture><figcaption>Diane de Poitiers représentée en Diane, déesse de la Chasse</figcaption></figure>
 
 !!!! Ce portrait est une œuvre que [Le Primatice][2], peintre originaire de Bologne en Italie, invité par le roi [François Ier][1] puis devenu quasi ministre de la Culture de l'époque, a peint, en 1556, au [Château de Chenonceau][3].  
 !!!! En italien, la même personne est désignée par l'appellation 'Il Primaticcio'.  

@@ -15,7 +15,7 @@ metadata:
     image_height: 520
     image_title: "René-Antoine HOUASSE, “Minerva and Arachne”"
     image_legend: Minerva at first ground beats Arachne the Meonian in the center
-    'twitter:card' : summary
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Minerva", "https://en.wikipedia.org/wiki/Arachne", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Ovid", "Metamorphoses", "French Painting of the Seventeenth century", "French Painting of the 17th century", "French Painting of the XVIIth century", "French Court Painting", "Louis XIV", "Louis 14th", "Louis the 14th", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE", "Arachne", "Minerva", "Minerve and Arachne", "Minerve et Arachnée"]
@@ -44,7 +44,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/01.arachnee/arachnee_700x520.jpg 700w">
-</picture><figcaption>René-Antoine HOUASSE, “Minerve and Arachne”</figcaption></figure>
+</picture><figcaption>Minerva at first ground beats Arachne the Meonian in the center</figcaption></figure>
 
 !! At the [Grand Trianon][1], in the Salon des Seigneurs, is a painting painted by [René-Antoine HOUASSE][2], “Minerva and Arachne”.  
 !! It tells the beating of [Arachne][3], woman of Meonia that refused to loose against [Minerva][4], here goddess of weaving, as [Ovid][5] tells in Book VI of the [Metamorphosis][6].  

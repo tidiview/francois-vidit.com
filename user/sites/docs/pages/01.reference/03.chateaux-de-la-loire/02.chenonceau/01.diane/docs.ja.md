@@ -3,21 +3,21 @@ title: ディアヌ
 menu: ディアヌ
 template: docs_minus_h1
 date: 15-01-2016
-modified: 21-11-2016, 20:14
+modified: 28-01-2017, 18:39
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
    description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第三巻のアクタイオン章の文書"
-   keywords: "シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン"
+   keywords: "ロワール古城, シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン, Chenonceau, Le Primatice, Diane de Poitiers, Château de Chenonceau, Acteon, Châteaux de la Loire, Actæon, Metamorphoseon, Ovidius, Primaticcio"
    image: "diane_700x1050.jpg"
    image_height: 700
    image_width: 1050
-   image_title: ディアーヌ・ド・ポワチエ肖像
-   image_legend: "プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》"
+   image_title: "プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》"
+   image_legend: "狩猟女神ディアーナの姿で描かれているディアーヌ・ド・ポワチエ"
    'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
+significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF1%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%B3%E3%82%BD%E3%83%BC%E5%9F%8E", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E"]
+specialty: ["ロワール古城", "フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "シュノンソー城", "シュノンソー", "プリマティッチオ", "ディアーヌ・ド・ポワチエ", "オウィディウス", "変身物語", "アクタイオン", "Chenonceau", "Le Primatice", "Diane de Poitiers", "Château de Chenonceau", "Acteon", "Châteaux de la Loire", "Actæon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true
 sitemap:
@@ -28,6 +28,7 @@ sitemap:
 
 <figure><picture>
 <source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
@@ -36,7 +37,8 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
 type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img"
+<source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
@@ -45,7 +47,25 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
 >
-</picture><figcaption>プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》</figcaption></figure>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.webp 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"
+>
+<img　src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"
+>
+</picture><figcaption>狩猟女神<ruby><rb>ディアーヌ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane</rt></ruby>の姿で描かれている<ruby><rb>ディアーヌ・ド・ポワチエ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane&#160;de&#160;Poitiers</rt></ruby></figcaption></figure>
 
 !!!! この画像は、当時、 [{r}フランソワ１世{/r:François&#160;Ier}][1] に招待され、後に文化大臣に<wbr>相当する人物とも<wbr>なった、イタリア・ボローニャ出身の画家 [{r}プリマティッチオ{/r:Primaticcio}][2] が、1556年に、 [{r}シュノンソー{/r:Chenonceau} 城][3] で描いた作品です。  
 !!!!  当時、本人は、「 {r}ル・プリマティス{/r:Le&#160;Primatice} 」と、フランス語風の<wbr>名で、知られて<wbr>いました。  

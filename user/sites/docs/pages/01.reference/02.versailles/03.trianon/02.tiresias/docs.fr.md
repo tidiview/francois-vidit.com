@@ -15,7 +15,7 @@ metadata:
     image_height: 501
     image_title: René-Antoine HOUASSE, “Minerve et Tirésias”
     image_legend: Minerve au premier plan rend aveugle Tirésias, au centre
-    'twitter:card' : summary
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Tir%C3%A9sias", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
 specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture française du XVIIème siècle", "Peinture de cour française", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias", "Minerve", "Minerve et Tirésias"]
@@ -44,7 +44,7 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/02.tiresias/tiresias_700x501.jpg 700w">
-</picture><figcaption>René-Antoine HOUASSE, “Minerve et Tirésias”</figcaption></figure>
+</picture><figcaption>Minerve au premier plan rend aveugle Tirésias, au centre</figcaption></figure>
 
 !!! Au [Grand Trianon][1], dans le Salon des Seigneurs, se trouve un tableau peint par [René-Antoine HOUASSE][2], « Minerve et Tirésias ».  
 !!! [Minerve][3], au premier plan, y rend aveugle [Tirésias][4], au centre, tel que le raconte [Ovide][5] dans le livre III de ses [Métamorphoses][6].  

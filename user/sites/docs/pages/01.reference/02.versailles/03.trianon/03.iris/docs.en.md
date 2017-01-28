@@ -14,7 +14,7 @@ metadata:
     image_width: 700
     image_height: 951
     image_title: René-Antoine HOUASSE, Iris and Morpheus
-    image_legend: René-Antoine HOUASSE, Iris and Morpheus
+    image_legend: Iris, messenger of Juno, enters in the cave of Sleep
     'twitter:card' : summary
     robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
@@ -44,10 +44,10 @@ srcset="
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.reference/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture><figcaption>René-Antoine HOUASSE, “Iris and Morpheus”</figcaption></figure>
+</picture><figcaption>Iris, messenger of Juno, enters in the cave of Sleep</figcaption></figure>
 
 !!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [René-Antoine Houasse][2], “Iris and Morpheus” can be seen.  
-!!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [The Sleep][7] to order to him to make [Alcynoe][8] dream. 
+!!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [the Sleep][7] to order to him to make [Alcynoe][8] dream. 
 
 [color=#3d8b3d]**Iris and Morpheus**[/color]  
 

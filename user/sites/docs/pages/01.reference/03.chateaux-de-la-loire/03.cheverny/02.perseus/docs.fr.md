@@ -65,7 +65,7 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"
 >
-</picture><figcaption>Persée secourt Andromède enchaînée par des chaînes à un rocher</figcaption></figure>
+</picture><figcaption>Persée secourt Andromède enchaînée à un rocher</figcaption></figure>
 
 ! Il existe un petit texte à l'origine de l'un des tableaux représentant l'histoire de [Persée][1] et [Andromède][2] peints par [Jean MONIER][7] sur le plafond de la chambre du Roi du deuxième étage du [Château de Cheverny][3].  
 ! Il a été écrit par [Ovide][4] , écrivain d'expression latine qui a vécu sous l'empire romain, et fait partie du livre 4 de son œuvre la plus connue, les [Métamorphoses][5].  

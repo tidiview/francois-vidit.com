@@ -3,21 +3,21 @@ title: Diana
 menu: diana
 created: 15-01-2016, 08:15
 date: 15-01-2016, 08:15
-modified: 21-11-2016, 20:14
+modified: 28-01-2017, 18:39
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
     description: "Text extract from chapter 'Actæon' of book III of Ovid's Metamorphoses and used by painter Francesco Primaticcio to realise the portrait of Diana of Poitiers exposed in the Castle of Chenonceau"
-    keywords: "Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diana de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon"
+    keywords: "Châteaux de la Loire, Chenonceau, Château de Chenoneau, Castle Of Chenonceau, Le Primatice, Primaticcio, Diane de Poitiers, Diana of Poitiers, Ovid, The Metamorphoses, Actæon, Acteon, Metamorphoseon, Ovidius, Primaticcio"
     image: "diane_700x1050.jpg"
     image_height: 700
     image_width: 1050
-    image_title: Diana of Poitiers
-    image_legend: "School of Primaticcio, “Portrait of Diana of Poitiers”"
+    image_title: "School of Primaticcio, “Portrait of Diana of Poitiers”"
+    image_legend: Diana of Poitiers represented in Diana, goddess of Hunting
     'twitter:card': summary
-significantlinks: ["https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Henry_II_of_France"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
+significantlinks: ["https://en.wikipedia.org/wiki/Francis_I_of_France", "https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau", "https://en.wikipedia.org/wiki/Henry_II_of_France", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Diana_(mythology)", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
+specialty: ["Châteaux de la Loire", "History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Chenonceau", "Château de Chenoneau", "Castle Of Chenonceau", "Le Primatice", "Primaticcio", "Diane de Poitiers", "Diana of Poitiers", "Ovid", "The Metamorphoses", "Actæon", "Acteon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true
 sitemap:
@@ -26,6 +26,7 @@ sitemap:
 ---
 <figure><picture>
 <source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.webp 280w,
@@ -34,7 +35,8 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.webp 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.webp 700w"
 type="image/webp">
-<img src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg" alt="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" title="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" class="class-diane-img"
+<source
+media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-280.jpg 280w,
@@ -43,7 +45,25 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane_700x1050.jpg 700w"
 >
-</picture><figcaption>School of Primaticcio, “Portrait of Diana of Poitiers”</figcaption></figure>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.webp 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"
+>
+<img　src="/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" title="School of Primaticcio, “Portrait of Diana of Poitiers”, Château de Chenonceau" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.jpg 380w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.jpg 480w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
+/user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"
+>
+</picture><figcaption>Diana of Poitiers represented in Diana, goddess of Hunting</figcaption></figure>
 
 !!!! This portrait is a work that [Primaticcio][2], painter from Bologna in Italy, invited by king [Francis I of France][1] then become almost minister of Culture, has painted, in 1556, in the [Château de Chenonceau][3].  
 !!!! In French, the same person is named « Le Primatice ».  

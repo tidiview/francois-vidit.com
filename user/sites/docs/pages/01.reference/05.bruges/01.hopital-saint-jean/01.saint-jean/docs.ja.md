@@ -10,7 +10,7 @@ date: 05-01-2017, 23:13
 modified: 13-01-2017, 16:13
 metadata:
    description: "ブリュージュの聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を紹介する写真と文書"
-   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, 聖ヨハネ施療院, メムリンク美術館, メムリンク'
+   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc'
    image: saint-jean_700x379.jpg
    image_width: 700
    image_height: 379
@@ -19,7 +19,7 @@ metadata:
    'twitter:card' : summary
    robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.bruges/01.hopital-saint-jean/01.saint-jean/docs.ja.md"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc"]
 shortcode-core:
    active: true
 sitemap:
@@ -57,7 +57,7 @@ srcset="
 
 教会の拡張工事が<wbr>実施された1473年から<wbr>その翌年頃に、画家に依頼されたと<wbr>考えられていますが、実際に作品が完成したのは<wbr>1479年であったことが<wbr>想定されています。
 
-##
+##{r}開翼時{/r:かいよくじ}
 
 開翼時の中央画面には、ポルチコのような<wbr>開放的な空間に集う、聖母子と四人の聖人たち、そして二人の天使が<wbr>表されています。
 
@@ -108,6 +108,27 @@ srcset="
 
 
 ## {r}閉翼時{/r:へいよくじ}
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.webp 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.webp 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.webp 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.webp 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
+type="image/webp">
+<img
+src="/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" class="class-diane-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.jpg 380w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.jpg 480w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.jpg 640w,
+/user/sites/docs/pages/01.reference/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w">
+</picture><figcaption><ruby><rb>閉翼時</rb><rt>へいよくじ</rt></ruby>の三連画</figcaption></figure>
 
 豊かな輝きを<wbr>開翼時画面から一転して、閉翼時画面は、聖人たちと<wbr>修道院関係者たちが<wbr>極めて禁欲的な色彩で<wbr>描かれています。
 

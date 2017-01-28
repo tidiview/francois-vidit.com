@@ -15,7 +15,7 @@ metadata:
     image_height: 415
     image_title: La Place Vendôme à Paris 
     image_legend: La Place Vendôme à Paris d'après le Plan de Turgot en 1734
-    'twitter:card' : summary
+    'twitter:card': summary
     robots: 'noindex, nofollow'
 significantlinks: [""]
 specialty: ["Histoire de France", "Culure de la cour de France", "Versailles", "Jules-Hardouin Mansart", "Louis XIV", "Vendôme", "Place Vendôme", "Histoire de la Place Vendôme", "Couvent des Capucines"]

@@ -47,7 +47,7 @@ srcset="
 </picture><figcaption>Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone</figcaption></figure>
 
 !! <cite style="font-size:1.2rem;text-align: center;">« Il faut ensuite aller droit sur le haut de Latone et faire une pause pour considérer Latone, les lézards, les rampes, les statues, l’allée royale, l’Apollon, le canal, et puis se tourner pour voir le parterre et le château. »</cite>
-!! Comme [Louis XIV][1] l'a écrit dans sa “[Manière de montrer les jardins de Versailles][2]”, depuis la façade orientale du palais, suivant son axe central, après Le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, Le Bassin et le Parterre de Latone apparaît。  
+!! Comme [Louis XIV][1] l'a écrit dans sa “[Manière de montrer les jardins de Versailles][2]”, depuis la façade orientale du palais, suivant son axe central, après le Parterre d' Eau, tout en appréciant l'ouverture de l'horizon, le Bassin et le Parterre de Latone apparaît。  
 !! Voilà une représentation inspirée de l'affrontement entre [Latone][3] juste après que celle-ci ait donné naissance, malgré la persécution de [Junon][4],  à ses deux jumeaux, [Apollon][5], dieu du soleil, et [Diane][6], déesse de la Lune, et les paysans de [Lycie][7].  
 !! Avec ce texte écrit par [Ovide][8] dans “[Les Métamorphoses][9]”, cet affrontement nous devient sans doute plus familier.   
 

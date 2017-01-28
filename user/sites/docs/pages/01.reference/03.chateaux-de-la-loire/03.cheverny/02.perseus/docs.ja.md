@@ -67,7 +67,7 @@ srcset="
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus-640.jpg 640w,
 /user/sites/docs/pages/01.reference/03.chateaux-de-la-loire/03.cheverny/02.perseus/persee-focus_700x763.jpg 700w"
 >
-</picture><figcaption>岩に鎖で付けられたアンドロメダを救おうとするペルセウス</figcaption></figure>
+</picture><figcaption>岩に鎖で付けられた<wbr>アンドロメダを救おうと<wbr>するペルセウス</figcaption></figure>
 
 ! [{r}シュヴェルニー城{/r:Château&#160;de&#160;Cheverny}][1] の二階にある王の<wbr>寝室の天井に、{r}ジャン・モニエ{/r:Jean&#160;Monier}画家が [{r}ペルセウス{/r:Perseus}][2] の生拝を語る<wbr>さまざまな絵がある。  
 ! そのなか、《ペルセウスと<wbr>アンドロメダ》も見えている。  
