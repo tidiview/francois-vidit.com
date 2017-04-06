@@ -17,7 +17,7 @@ metadata:
    image_legend: color blue of water
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/03.autre-docs/docs.en.md"]
-specialty: ["History of France", "Religious history", "Biblic history"]
+specialty: ["History of France", "Religious history", "Biblic history", "Bible"]
 shortcode-core:
    active: true
 sitemap:

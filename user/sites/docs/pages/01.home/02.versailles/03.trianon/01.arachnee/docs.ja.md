@@ -17,8 +17,7 @@ metadata:
     image_title: ルネ＝アントワーヌ・ウアス、《ミネルヴァとアラクネ》
     image_legend: 手前に見えるミネルヴァが真ん中にいるアラクネを殴りつけている
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1"]
+significantlinks: ["https://ja.wikipedia.org/wiki/大トリアノン宮殿", "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/リュディア", "https://ja.wikipedia.org/wiki/アラクネー", "https://ja.wikipedia.org/wiki/ミネルウァ"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "十七世紀フランス絵画", "ルイ14世", "Louis XIV", "ルイ十四世", "ヴェルサイユ", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "フランス宮廷絵画", "フランス宮廷画家", "ルネ＝アントワーヌ・ウアス", "ミネルヴァ", "アラクネ", "ミネルヴァとアラクネ", "Minerve et Arachnée"]
 shortcode-core:
    active: true
@@ -215,10 +214,10 @@ srcset="
 
 [color=#b52b27]オウィディウス、変身物語、第六巻より[/color]  
 
-[1]: https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9　"https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[4]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[5]: https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%87%E3%82%A3%E3%82%A2 "https://ja.wikipedia.org/wiki/リュディア"
-[6]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D%E3%83%BC "https://ja.wikipedia.org/wiki/アラクネー"
-[7]: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1 "https://ja.wikipedia.org/wiki/ミネルウァ"
+[1]: https://ja.wikipedia.org/wiki/大トリアノン宮殿 "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
+[2]: https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス　"https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
+[3]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[4]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[5]: https://ja.wikipedia.org/wiki/リュディア "https://ja.wikipedia.org/wiki/リュディア"
+[6]: https://ja.wikipedia.org/wiki/アラクネー "https://ja.wikipedia.org/wiki/アラクネー"
+[7]: https://ja.wikipedia.org/wiki/ミネルウァ "https://ja.wikipedia.org/wiki/ミネルウァ"

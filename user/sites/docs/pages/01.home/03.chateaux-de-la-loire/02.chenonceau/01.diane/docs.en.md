@@ -16,7 +16,7 @@ metadata:
     image_title: "School of Primaticcio, “Portrait of Diana of Poitiers”"
     image_legend: Diana of Poitiers represented in Diana, goddess of Hunting
     'twitter:card': summary
-significantlinks: ["https://en.wikipedia.org/wiki/Francis_I_of_France", "https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau", "https://en.wikipedia.org/wiki/Henry_II_of_France", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Diana_(mythology)", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
+significantlinks: ["https://en.wikipedia.org/wiki/Francis_I_of_France", "https://en.wikipedia.org/wiki/Francesco_Primaticcio", "https://en.wikipedia.org/wiki/Château_de_Chenonceau", "https://en.wikipedia.org/wiki/Henry_II_of_France", "https://en.wikipedia.org/wiki/Diane_de_Poitiers", "https://en.wikipedia.org/wiki/Diana_(mythology)", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
 specialty: ["Châteaux de la Loire", "History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Chenonceau", "Château de Chenoneau", "Castle Of Chenonceau", "Le Primatice", "Primaticcio", "Diane de Poitiers", "Diana of Poitiers", "Ovid", "The Metamorphoses", "Actæon", "Acteon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true

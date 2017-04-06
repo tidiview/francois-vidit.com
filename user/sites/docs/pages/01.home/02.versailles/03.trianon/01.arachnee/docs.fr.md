@@ -16,7 +16,6 @@ metadata:
     image_title: René-Antoine HOUASSE, “Minerve et Tirésias”
     image_legend: Minerve au premier plan porte des coups à Arachnée la Méonienne, au centre
     'twitter:card': summary
-    robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Arachn%C3%A9", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
 specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture de cour française", "Peinture française du XVIIème siècle", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Arachnée", "Minerve", "Minerve et Arachnée"]
 shortcode-core:

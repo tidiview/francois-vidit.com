@@ -16,7 +16,6 @@ metadata:
    image_title: Hôpital Saint-Jean
    image_legend: "photographie de la section Hôpital Saint-Jean du site francois-vidit.com"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/chapter.fr.md"]
 specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Hôpital Saint-Jean de Bruges", "Musée Hans Memling", "Hans Memling"]
 ---

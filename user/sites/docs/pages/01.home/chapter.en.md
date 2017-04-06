@@ -14,7 +14,7 @@ metadata:
    image_title: blue
    image_legend: "Blue colour of the documents section of site francois-vidit.com"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/chapter.en.md"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature"]
+specialty: ["History of France"]
 ---
 
 # Table of Con<wbr>tents

@@ -17,7 +17,7 @@ metadata:
     image_title: "Jean MONIER, “The Death of Adonis”"
     image_legend: "Venus looks at Adonis dying killed by a wild boar"
     'twitter:card': summary
-significantlinks: ["https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Jean_Monier", "https://en.wikipedia.org/wiki/Adonis", "https://en.wikipedia.org/wiki/Venus_(mythology)"]
+significantlinks: ["https://en.wikipedia.org/wiki/Château_de_Cheverny", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Jean_Monier", "https://en.wikipedia.org/wiki/Adonis", "https://en.wikipedia.org/wiki/Venus_(mythology)"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Château de Cheverny", "Castle Of Cheverny", "Cheverny", "Adonis", "The Death of Adonis", "La Mort d'Adonis", "Jean MONIER", "Ovid", "The Metamorphoses", "Metamorphoses"]
 shortcode-core:
    active: true

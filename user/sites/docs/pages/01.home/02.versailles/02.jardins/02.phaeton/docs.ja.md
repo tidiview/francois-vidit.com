@@ -17,8 +17,7 @@ metadata:
     image_title: ヴェルサイユ宮殿の庭園にある、アポロンの車駕の泉水、太陽神アポロン像
     image_legend: アポロンに運転されている太陽の車駕が曙に洋から出始まっている
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%A6%E5%AE%AE%E6%AE%B", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%B7%E3%83%BC%E3%83%8C"]
+significantlinks: ["https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)", "https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿", "https://ja.wikipedia.org/wiki/アポロンの泉水", "https://ja.wikipedia.org/wiki/アポロン", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/パエトン", "https://ja.wikipedia.org/wiki/ジャン・ラシーヌ"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿の庭園", "ヴェルサイユ宮殿", "アポロン泉水", "ルイ14世", "Louis XIV", "ルイ十四世", "ジャン＝バティスト・テュビ", "Jean-Baptiste TUBY", "アポロン", "Apollon", "パエトン", "アポロン泉水", "Bassin d'Apollon", "太陽の車駕", "太陽の車駕の泉水", "Bassin du Char du Soleil", "アポロンの車駕の泉水", "Bassin du Char d'Apollon", "Fontaine d'Apollon", "アポロンの噴水", "太陽の車駕", "Char du Soleil", "Jean RACINE", "ジャン・ラシーヌ"]
 shortcode-core:
    active: true
@@ -374,11 +373,11 @@ srcset="
 [color=#df8a13]オウィディウス、変身物語、第二巻より[/color]  
 
 
-[1]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%A6%E5%AE%AE%E6%AE%BF　"https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%B3%E6%B3%89%E6%B0%B4 "https://ja.wikipedia.org/wiki/アポロンの泉水"
-[4]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポロン"
-[5]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[6]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[7]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A8%E3%83%88%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/パエトン"
-[8]: https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%B7%E3%83%BC%E3%83%8C "https://ja.wikipedia.org/wiki/ジャン・ラシーヌ"
+[1]: https://ja.wikipedia.org/wiki/ルイ14世_(フランス王) "https://ja.wikipedia.org/wiki/ルイ14世_(フランス王)"
+[2]: https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿　"https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿"
+[3]: https://ja.wikipedia.org/wiki/アポロンの泉水 "https://ja.wikipedia.org/wiki/アポロンの泉水"
+[4]: https://ja.wikipedia.org/wiki/アポロン "https://ja.wikipedia.org/wiki/アポロン"
+[5]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[6]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[7]: https://ja.wikipedia.org/wiki/パエトン "https://ja.wikipedia.org/wiki/パエトン"
+[8]: https://ja.wikipedia.org/wiki/ジャン・ラシーヌ "https://ja.wikipedia.org/wiki/ジャン・ラシーヌ"

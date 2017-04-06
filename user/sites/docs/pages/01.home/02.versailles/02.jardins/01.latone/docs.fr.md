@@ -16,8 +16,7 @@ metadata:
     image_title: Le Bassin de Latone dans les Jardins du Palais de Versailles après la rénovation de 2016
     image_legend: Les Paysans de Lycie transformés en animaux des étangs par la colère de Latone
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikisource.org/wiki/Mani%C3%A8re_de_montrer_les_jardins_de_Versailles", "https://fr.wikipedia.org/wiki/L%C3%A9to", "https://fr.wikipedia.org/wiki/Junon", "https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Lycie", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikisource.org/wiki/Manière_de_montrer_les_jardins_de_Versailles", "https://fr.wikipedia.org/wiki/Léto", "https://fr.wikipedia.org/wiki/Junon", "https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Lycie", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"]
 specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Jardins", "Jardins du Palais de Versailles", "Bassin et Parterre de Latone", "Latone", "Apollon", "Diane"]
 shortcode-core:
    active: true

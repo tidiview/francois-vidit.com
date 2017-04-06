@@ -15,7 +15,6 @@ metadata:
    image_title: 聖ヨハネ施療院
    image_legend: "francois-vidit.com サイトの聖ヨハネ施療院セクション写真"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/chapter.ja.md"]
 specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク"]
 ---

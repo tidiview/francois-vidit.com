@@ -17,8 +17,7 @@ metadata:
     image_title: ルネ＝アントワーヌ・ウアス、《ミネルヴァとテイレシアス》
     image_legend: 手前に見えるミネルヴァが真ん中にいるテイレシアスを見えなくさせている
     'twitter:card': summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AC%E3%82%B7%E3%82%A2%E3%83%BC%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1"]
+significantlinks: ["https://ja.wikipedia.org/wiki/大トリアノン宮殿", "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/ミネルウァ", "https://ja.wikipedia.org/wiki/テイレシアース"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "十七世紀フランス絵画", "ルイ14世", "Louis XIV", "ルイ十四世", "ヴェルサイユ", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "フランス宮廷絵画", "フランス宮廷画家", "ルネ＝アントワーヌ・ウアス", "ミネルヴァとテイレシアス", "ミネルヴァ", "テイレシアス", "ミネルヴァとテイレシアス", "Minerve et Tirésias", "Minerva", "Tiresias"]
 shortcode-core:
    active: true
@@ -78,9 +77,9 @@ srcset="
 
 [color=#28a1c5]オウィディウス、変身物語、第三巻より[/color]  
 
-[1]: https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9 "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[4]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[5]: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%83%AB%E3%82%A6%E3%82%A1 "https://ja.wikipedia.org/wiki/ミネルウァ"
-[6]: https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AC%E3%82%B7%E3%82%A2%E3%83%BC%E3%82%B9 "https://ja.wikipedia.org/wiki/テイレシアース"
+[1]: https://ja.wikipedia.org/wiki/大トリアノン宮殿 "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
+[2]: https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
+[3]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[4]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[5]: https://ja.wikipedia.org/wiki/ミネルウァ "https://ja.wikipedia.org/wiki/ミネルウァ"
+[6]: https://ja.wikipedia.org/wiki/テイレシアース "https://ja.wikipedia.org/wiki/テイレシアース"

@@ -17,7 +17,7 @@ metadata:
    image_title: "大天使ミシェル"
    image_legend: 大天使ミシェル、サン＝ル・サン＝ジルカトリック教会、パリ
    'twitter:card' : summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/02.apocalypse/docs.ja.md", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AB", "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%8D%E3%81%AE%E9%BB%99%E7%A4%BA%E9%8C%B2", "https://ja.wikipedia.org/wiki/%E6%96%B0%E7%B4%84%E8%81%96%E6%9B%B8", "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%85%B1%E5%90%8C%E8%A8%B3%E8%81%96%E6%9B%B8"]
+significantlinks: ["https://ja.wikipedia.org/wiki/モン・サン＝ミシェル", "https://ja.wikipedia.org/wiki/ミカエル", "https://ja.wikipedia.org/wiki/新約聖書", "https://ja.wikipedia.org/wiki/ヨハネの黙示録", "https://ja.wikipedia.org/wiki/新共同訳聖書"]
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
 shortcode-core:
    active: true
@@ -83,8 +83,8 @@ sitemap:
 
 [color=#df8a13]訳名： 「新共同訳」[/color]
 
-[1]: https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB "https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AB "https://ja.wikipedia.org/wiki/ミカエル"
-[3]: https://ja.wikipedia.org/wiki/%E6%96%B0%E7%B4%84%E8%81%96%E6%9B%B8 "https://ja.wikipedia.org/wiki/新約聖書"
-[4]: https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%8D%E3%81%AE%E9%BB%99%E7%A4%BA%E9%8C%B2 "https://ja.wikipedia.org/wiki/ヨハネの黙示録"
-[5]: https://ja.wikipedia.org/wiki/%E6%96%B0%E5%85%B1%E5%90%8C%E8%A8%B3%E8%81%96%E6%9B%B8 "https://ja.wikipedia.org/wiki/新共同訳聖書"
+[1]: https://ja.wikipedia.org/wiki/モン・サン＝ミシェル "https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"
+[2]: https://ja.wikipedia.org/wiki/ミカエル "https://ja.wikipedia.org/wiki/ミカエル"
+[3]: https://ja.wikipedia.org/wiki/新約聖書 "https://ja.wikipedia.org/wiki/新約聖書"
+[4]: https://ja.wikipedia.org/wiki/ヨハネの黙示録 "https://ja.wikipedia.org/wiki/ヨハネの黙示録"
+[5]: https://ja.wikipedia.org/wiki/新共同訳聖書 "https://ja.wikipedia.org/wiki/新共同訳聖書"

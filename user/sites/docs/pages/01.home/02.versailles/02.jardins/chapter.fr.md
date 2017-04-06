@@ -15,7 +15,6 @@ metadata:
    image_title: L'Orangerie des Jardins du Château de Versailles
    image_legend: "Photographie de la section Jardins du site francois-vidit.com"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/02.versailles/02.jardins/chapter.fr.md"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Versailles", "Jardins"]
 ---

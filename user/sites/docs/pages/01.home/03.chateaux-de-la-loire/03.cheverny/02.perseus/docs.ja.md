@@ -18,7 +18,7 @@ metadata:
     image_title: ジャン・モニエ、《ペルセウスとアンドロメダ》
     image_legend: "岩に鎖で付けられたアンドロメダを救おうとするペルセウス"
     'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E", "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%83%BC"]
+significantlinks: ["https://ja.wikipedia.org/wiki/シュヴェルニー城", "https://ja.wikipedia.org/wiki/ペルセウス", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/エチオピア", "https://ja.wikipedia.org/wiki/アンドロメダ"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "シュヴェルニー城", "シュヴェルニー", "ペルセウスとアンドロメダ", "ペルセウス", "アンドロメダ", "オウィディウス", "変身物語", "ジャン・モニエ", "Cheverny", "Jean MONIER", "Persée et Andromède", "Persée", "Andromède", "Château de Cheverny"]
 shortcode-core:
    active: true
@@ -158,9 +158,9 @@ srcset="
 
 [color=#df8a13]オウィディウス、変身物語、第四巻末、663～764より[/color]
 
-[1]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9　"https://ja.wikipedia.org/wiki/ペルセウス"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[4]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[5]: https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2 "https://ja.wikipedia.org/wiki/エチオピア"
-[6]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%A1%E3%83%80%E3%83%BC "https://ja.wikipedia.org/wiki/アンドロメダ"
+[1]: https://ja.wikipedia.org/wiki/シュヴェルニー城 "https://ja.wikipedia.org/wiki/シュヴェルニー城"
+[2]: https://ja.wikipedia.org/wiki/ペルセウス　"https://ja.wikipedia.org/wiki/ペルセウス"
+[3]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[4]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[5]: https://ja.wikipedia.org/wiki/エチオピア "https://ja.wikipedia.org/wiki/エチオピア"
+[6]: https://ja.wikipedia.org/wiki/アンドロメダ "https://ja.wikipedia.org/wiki/アンドロメダ"

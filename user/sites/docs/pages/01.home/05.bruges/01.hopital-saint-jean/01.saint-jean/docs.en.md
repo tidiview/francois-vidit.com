@@ -17,7 +17,6 @@ metadata:
    image_title: Triptych of St John the Baptist and St John the Evangelist
    image_legend: "Triptych of St John the Baptist and St John the Evangelist"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.en.md"]
 specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Museums in Bruges", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", "Hans Memling Museum", " Hans Memling", "St John Altarpiece", "Triptych of St John the Baptist and St John the Evangelist", "Triptych of the two Saints John", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Hans Memling", "Memling"]
 ---

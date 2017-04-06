@@ -18,8 +18,7 @@ metadata:
     image_title: 2016年に修復「ラトナの泉水と花壇」の写真
     image_legend: 2016年に修復「ラトナの泉水と花壇」の写真
     'twitter:card': summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A", "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%AD%E3%82%A2", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E"]
+significantlinks: ["https://ja.wikipedia.org/wiki/ルイ14世 (フランス王)", "https://ja.wikipedia.org/wiki/ユーノー", "https://ja.wikipedia.org/wiki/アポローン", "https://ja.wikipedia.org/wiki/ディアナ", "https://ja.wikipedia.org/wiki/レートー", "https://ja.wikipedia.org/wiki/リュキア", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "ヴェルサイユ宮殿の庭", "ヴェルサイユ宮殿の庭園", "ラトナの泉水と花壇", "ラトナの泉水", "ラトナ", "ラトーナ"]
 shortcode-core:
    active: true
@@ -117,11 +116,11 @@ srcset="
 
 [color=#b52b27]オウィディウス、変身物語、第六巻より[/color]  
 
-[1]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A414%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "https://ja.wikipedia.org/wiki/ルイ14世 (フランス王)"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC "https://ja.wikipedia.org/wiki/ユーノー"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポローン"
-[4]: https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A "https://ja.wikipedia.org/wiki/ディアナ"
-[5]: https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BC "https://ja.wikipedia.org/wiki/レートー"
-[6]: https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%AD%E3%82%A2 "https://ja.wikipedia.org/wiki/リュキア"
-[7]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[8]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
+[1]: https://ja.wikipedia.org/wiki/ルイ14世 (フランス王) "https://ja.wikipedia.org/wiki/ルイ14世 (フランス王)"
+[2]: https://ja.wikipedia.org/wiki/ユーノー "https://ja.wikipedia.org/wiki/ユーノー"
+[3]: https://ja.wikipedia.org/wiki/アポローン "https://ja.wikipedia.org/wiki/アポローン"
+[4]: https://ja.wikipedia.org/wiki/ディアナ "https://ja.wikipedia.org/wiki/ディアナ"
+[5]: https://ja.wikipedia.org/wiki/レートー "https://ja.wikipedia.org/wiki/レートー"
+[6]: https://ja.wikipedia.org/wiki/リュキア "https://ja.wikipedia.org/wiki/リュキア"
+[7]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[8]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"

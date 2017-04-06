@@ -15,7 +15,6 @@ metadata:
    image_title: Palace of Versailles
    image_legend: "photography of the section of the Palace of Versailles of site francois-vidit.com"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/02.versailles/chapter.en.md"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles"]
 ---

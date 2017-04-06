@@ -17,7 +17,7 @@ metadata:
    image_legend: couleur bleue de l'eau
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/03.autre-docs/docs.fr.md"]
-specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique"]
+specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique", "Bible"]
 shortcode-core:
    active: true
 sitemap:

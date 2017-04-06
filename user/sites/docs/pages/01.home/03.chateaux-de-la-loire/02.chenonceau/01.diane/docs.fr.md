@@ -15,7 +15,7 @@ metadata:
    image_title: "École du Primatice, “Portrait de Diane de Poitiers”"
    image_legend: "Diane de Poitiers représentée en Diane, déesse de la Chasse"
    'twitter:card': summary
-significantlinks: ["https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ier_(roi_de_France)", "https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
+significantlinks: ["https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)", "https://fr.wikipedia.org/wiki/Le_Primatice", "https://fr.wikipedia.org/wiki/Château_de_Chenonceau", "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)", "https://fr.wikipedia.org/wiki/Diane_de_Poitiers", "https://fr.wikipedia.org/wiki/Diane_(mythologie)", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)"]
 specialty: ["Châteaux de la Loire", "Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Chenonceau", "Château de Chenoneau", "Le Primatice", "Diane de Poitiers", "Ovide", "Les Métamorphoses", "Actæon", "Actéon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true

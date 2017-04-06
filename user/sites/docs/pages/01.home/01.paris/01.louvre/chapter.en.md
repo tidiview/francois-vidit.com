@@ -18,6 +18,6 @@ metadata:
    'twitter:card' : summary
    robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/01.paris/01.louvre/chapter.en.md"]
-specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Louvre"]
+specialty: ["Louvre"]
 ---
 # Louvre

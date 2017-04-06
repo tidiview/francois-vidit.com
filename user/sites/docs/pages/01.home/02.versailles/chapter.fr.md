@@ -15,7 +15,6 @@ metadata:
    image_title: Château de Versailles
    image_legend: "photographie de la section Château de Versailles du site francois-vidit.com"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/02.versailles/chapter.fr.md"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Versailles"]
 ---

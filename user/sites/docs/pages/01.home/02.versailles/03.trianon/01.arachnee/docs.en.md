@@ -16,8 +16,7 @@ metadata:
     image_title: "René-Antoine HOUASSE, “Minerva and Arachne”"
     image_legend: Minerva at first ground beats Arachne the Meonian in the center
     'twitter:card': summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Minerva", "https://en.wikipedia.org/wiki/Arachne", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
+significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/René-Antoine_Houasse", "https://en.wikipedia.org/wiki/Minerva", "https://en.wikipedia.org/wiki/Arachne", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Ovid", "Metamorphoses", "French Painting of the Seventeenth century", "French Painting of the 17th century", "French Painting of the XVIIth century", "French Court Painting", "Louis XIV", "Louis 14th", "Louis the 14th", "Palace of Versailles", "Grand Trianon", "René-Antoine HOUASSE", "Arachne", "Minerva", "Minerve and Arachne", "Minerve et Arachnée"]
 shortcode-core:
    active: true

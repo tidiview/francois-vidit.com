@@ -15,7 +15,6 @@ metadata:
    image_title: Paris
    image_legend: "photographie de la section Paris du site francois-vidit.com"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/01.paris/chapter.fr.md"]
-specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Paris"]
+specialty: ["Paris"]
 ---

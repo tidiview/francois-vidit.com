@@ -16,7 +16,7 @@ metadata:
    image_title: "プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》"
    image_legend: "狩猟女神ディアーナの姿で描かれているディアーヌ・ド・ポワチエ"
    'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF1%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B)", "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA", "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%B3%E3%82%BD%E3%83%BC%E5%9F%8E", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8", "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E"]
+significantlinks: ["https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）", "https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ", "https://ja.wikipedia.org/wiki/シュノンソー城", "https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)", "https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ", "https://ja.wikipedia.org/wiki/ディアーナ", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語"]
 specialty: ["ロワール古城", "フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "シュノンソー城", "シュノンソー", "プリマティッチオ", "ディアーヌ・ド・ポワチエ", "オウィディウス", "変身物語", "アクタイオン", "Chenonceau", "Le Primatice", "Diane de Poitiers", "Château de Chenonceau", "Acteon", "Châteaux de la Loire", "Actæon", "Metamorphoseon", "Ovidius", "Primaticcio"]
 shortcode-core:
    active: true
@@ -144,11 +144,11 @@ srcset="
 
 [color=#3d8b3d]オウィディウス、変身物語、第三巻より[/color]  
 
-[1]: https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF1%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B) "https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%83%81%E3%82%AA "https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%B3%E3%82%BD%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュノンソー城"
-[4]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%AA2%E4%B8%96_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%8E%8B "https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)"
-[5]: https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9D%E3%83%AF%E3%83%81%E3%82%A8 "https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ"
-[6]: https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8A "https://ja.wikipedia.org/wiki/ディアーナ"
-[7]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[8]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
+[1]: https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王） "https://ja.wikipedia.org/wiki/フランソワ１世_（フランス国王）"
+[2]: https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ "https://ja.wikipedia.org/wiki/フランチェスコ・プリマティッチオ"
+[3]: https://ja.wikipedia.org/wiki/シュノンソー城 "https://ja.wikipedia.org/wiki/シュノンソー城"
+[4]: https://ja.wikipedia.org/wiki/アンリ2世_(フランス王) "https://ja.wikipedia.org/wiki/アンリ2世_(フランス王)"
+[5]: https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ "https://ja.wikipedia.org/wiki/ディアーヌ・ド・ポワチエ"
+[6]: https://ja.wikipedia.org/wiki/ディアーナ "https://ja.wikipedia.org/wiki/ディアーナ"
+[7]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[8]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"

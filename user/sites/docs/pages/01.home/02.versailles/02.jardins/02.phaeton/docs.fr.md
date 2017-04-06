@@ -16,8 +16,7 @@ metadata:
     image_title: "Apollon, Bassin du Char d'Apollon, Jardins du Palais de Versailles"
     image_legend: "Le Char du Soleil, conduit par Apollon, émerge d'Océan à l'aurore"
     'twitter:card': summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Pha%C3%A9ton", "https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikipedia.org/wiki/Jean-Baptiste_Tuby", "https://fr.wikipedia.org/wiki/Bassin_d%27Apollon", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Jean_Racine"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Apollon", "https://fr.wikipedia.org/wiki/Phaéton", "https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikipedia.org/wiki/Jean-Baptiste_Tuby", "https://fr.wikipedia.org/wiki/Bassin_d'Apollon", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Jean_Racine"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Louis XIV", "Louis 14", "Château de Versailles", "Sculpture du dix-septième siècle", "Sculpture du 17ème siècle", "Sculpture du XVIIème siècle", "Sculpture de cour française", "Palais de Versailles", "Jardins du Palais de Versailles", "Ovide", "Métamorphoses", "Phaéton", "Apollon", "Bassin d'Apollon", "Bassin du Char d'Apollon", "Fontaine d'Apollon", "Fontaine du Char d'Apollon", "Jean-Baptiste TUBY", "Char du Soleil"]
 shortcode-core:
    active: true

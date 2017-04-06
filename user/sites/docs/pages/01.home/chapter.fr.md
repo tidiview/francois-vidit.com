@@ -14,7 +14,7 @@ metadata:
    image_title: bleu
    image_legend: "couleur bleue de la section Documents du site francois-vidit.com"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/chapter.fr.md"]
-specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale"]
+specialty: ["Histoire de France"]
 ---
 
 # Table des Ma<wbr>tières

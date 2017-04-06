@@ -17,7 +17,6 @@ metadata:
    image_title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste
    image_legend: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.fr.md"]
 specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Hôpital Saint-Jean de Bruges", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", "Hans Memlinc", "Memling", "Memlinc", "Triptiek van Johannes de Doper en Johannes de Evangelist"]
 shortcode-core:

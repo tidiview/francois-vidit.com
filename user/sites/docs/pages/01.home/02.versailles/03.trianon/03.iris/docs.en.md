@@ -16,8 +16,7 @@ metadata:
     image_title: René-Antoine HOUASSE, Iris and Morpheus
     image_legend: Iris, messenger of Juno, enters in the cave of Sleep
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
+significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/René-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morpheus", "Iris and Morpheus"]
 shortcode-core:
    active: true

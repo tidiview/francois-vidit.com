@@ -18,7 +18,7 @@ metadata:
     image_title: ジャン・モニエ、《アドニスの死》
     image_legend: 猪に殺されたアドニスの死を見ているウェヌス
     'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%BC%E3%83%8B%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%8C%E3%82%B9"]
+significantlinks: ["https://ja.wikipedia.org/wiki/シュヴェルニー城", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/アドニス", "https://ja.wikipedia.org/wiki/ウェヌス"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "シュヴェルニー城", "シュヴェルニー", "アドニス", "アドニスの死", "オウィディウス", "変身物語", "ジャン・モニエ", "Cheverny", "Jean MONIER", "Adonis", "La Mort d'Adonis", "Château de Cheverny"]
 shortcode-core:
    active: true
@@ -92,8 +92,8 @@ srcset="
 
 [color=#df8a13]オウィディウス、変身物語、第十巻末、708～より[/color]  
 
-[1]: https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%BC%E5%9F%8E "https://ja.wikipedia.org/wiki/シュヴェルニー城"
-[2]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[3]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[4]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%BC%E3%83%8B%E3%82%B9 "https://ja.wikipedia.org/wiki/アドニス"
-[5]: https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%8C%E3%82%B9 "https://ja.wikipedia.org/wiki/ウェヌス"
+[1]: https://ja.wikipedia.org/wiki/シュヴェルニー城 "https://ja.wikipedia.org/wiki/シュヴェルニー城"
+[2]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[3]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[4]: https://ja.wikipedia.org/wiki/アドニス "https://ja.wikipedia.org/wiki/アドニス"
+[5]: https://ja.wikipedia.org/wiki/ウェヌス "https://ja.wikipedia.org/wiki/ウェヌス"

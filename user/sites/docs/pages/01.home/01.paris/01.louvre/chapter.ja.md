@@ -17,7 +17,7 @@ metadata:
    'twitter:card' : summary
    robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/01.paris/01.louvre/chapter.ja.md"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ルーブル", "ブルッヘ"]
+specialty: ["ルーブル"]
 ---
 ### Paris
 

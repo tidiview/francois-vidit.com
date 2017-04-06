@@ -11,14 +11,13 @@ taxonomy:
 metadata:
     description: 'トリアノンにルネ＝アントワーヌ・ウアスが描いたある「イリスとモルペウス」絵画のもとに使用された、オウィディウス作家が書いた変身物語の第十一巻の眠りの神を訪れるイリスの「眠り章」の文書'
     keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, トリアノン, 大トリアノン宮殿, 眠り, イリスとソムヌス, ルネ＝アントワーヌ・ウアス, 大トリアノン宮殿, ソムヌス, イリス, モルペウス'
-    image: arachnee_700x951.jpg
+    image: iris_700x951.jpg
     image_width: 700
     image_height: 951
     image_title: ルネ＝アントワーヌ・ウアス、《イリスとモルペウス》
     image_legend: 眠りの神の洞窟に入るユノー女神の伝達者であるイリス
     'twitter:card': summary
-    robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF", "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9", "https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E", "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%97%E3%83%8E%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3", "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AD%E3%82%B9", "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%AA%E3%82%A2%E4%BA%BA", "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC", "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%9A%E3%82%A6%E3%82%B9"]
+significantlinks: ["https://ja.wikipedia.org/wiki/大トリアノン宮殿", "https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス", "https://ja.wikipedia.org/wiki/オウィディウス", "https://ja.wikipedia.org/wiki/変身物語", "https://ja.wikipedia.org/wiki/イーリス", "https://ja.wikipedia.org/wiki/ヒュプノス", "https://ja.wikipedia.org/wiki/アポローン", "https://ja.wikipedia.org/wiki/クラロス", "https://ja.wikipedia.org/wiki/ユーノー", "https://ja.wikipedia.org/wiki/キンメリア人", "https://ja.wikipedia.org/wiki/カワセミ", "https://ja.wikipedia.org/wiki/モルペウス"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿", "大トリアノン宮殿", "フランス絵画", "フランス古典主義", "ルネ＝アントワーヌ・ウアス"]
 shortcode-core:
    active: true
@@ -114,15 +113,15 @@ srcset="
 !!! 文書だと、イリスが眠りの神のソムヌスの洞窟を訪れることになっていることが、絵画の題名では [{r}モルペウス{/r:Morpheus}][12] になってしまっていることから、 《イリスとソムヌス》 との題名のほうが適切だと断言できる。
 !!! モルペウスはソムヌスの息子であって、夢の神としても知られている。  
 
-[1]: https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%83%88%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%B3%E5%AE%AE%E6%AE%BF "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%83%8C%E3%83%BB%E3%82%A6%E3%82%A2%E3%82%B9　"https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/オウィディウス"
-[4]: https://ja.wikipedia.org/wiki/%E5%A4%89%E8%BA%AB%E7%89%A9%E8%AA%9E "https://ja.wikipedia.org/wiki/変身物語"
-[5]: https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%AA%E3%82%B9 "https://ja.wikipedia.org/wiki/イーリス"
-[6]: https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%97%E3%83%8E%E3%82%B9 "https://ja.wikipedia.org/wiki/ヒュプノス"
-[7]: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%83%AD%E3%83%BC%E3%83%B3 "https://ja.wikipedia.org/wiki/アポローン"
-[8]: https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%AD%E3%82%B9 "https://ja.wikipedia.org/wiki/クラロス"
-[9]: https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%8E%E3%83%BC "https://ja.wikipedia.org/wiki/ユーノー"
-[10]: https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%AA%E3%82%A2%E4%BA%BA "https://ja.wikipedia.org/wiki/キンメリア人"
-[11]: https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F "https://ja.wikipedia.org/wiki/カワセミ"
-[12]: https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%9A%E3%82%A6%E3%82%B9 "https://ja.wikipedia.org/wiki/モルペウス"
+[1]: https://ja.wikipedia.org/wiki/大トリアノン宮殿 "https://ja.wikipedia.org/wiki/大トリアノン宮殿"
+[2]: https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス　"https://ja.wikipedia.org/wiki/ルネ＝アントワーヌ・ウアス"
+[3]: https://ja.wikipedia.org/wiki/オウィディウス "https://ja.wikipedia.org/wiki/オウィディウス"
+[4]: https://ja.wikipedia.org/wiki/変身物語 "https://ja.wikipedia.org/wiki/変身物語"
+[5]: https://ja.wikipedia.org/wiki/イーリス "https://ja.wikipedia.org/wiki/イーリス"
+[6]: https://ja.wikipedia.org/wiki/ヒュプノス "https://ja.wikipedia.org/wiki/ヒュプノス"
+[7]: https://ja.wikipedia.org/wiki/アポローン "https://ja.wikipedia.org/wiki/アポローン"
+[8]: https://ja.wikipedia.org/wiki/クラロス "https://ja.wikipedia.org/wiki/クラロス"
+[9]: https://ja.wikipedia.org/wiki/ユーノー "https://ja.wikipedia.org/wiki/ユーノー"
+[10]: https://ja.wikipedia.org/wiki/キンメリア人 "https://ja.wikipedia.org/wiki/キンメリア人"
+[11]: https://ja.wikipedia.org/wiki/カワセミ "https://ja.wikipedia.org/wiki/カワセミ"
+[12]: https://ja.wikipedia.org/wiki/モルペウス "https://ja.wikipedia.org/wiki/モルペウス"

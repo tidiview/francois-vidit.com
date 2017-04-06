@@ -16,7 +16,7 @@ metadata:
    image_title: "大天使ミカエル"
    image_legend: "大天使ミカエルの写真"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/01.nom/docs.ja.md", "https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%95%99%E3%81%AE%E8%87%AA%E7%94%B1", "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA%E5%A4%96%E5%9B%BD%E5%AE%A3%E6%95%99%E4%BC%9A", "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%8B%E3%82%BA%E3%83%A0", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB", "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7", "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB", "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AB"]
+significantlinks: ["https://ja.wikipedia.org/wiki/信仰の自由", "https://ja.wikipedia.org/wiki/パリ外国宣教会", "https://ja.wikipedia.org/wiki/エキュメニズム", "https://ja.wikipedia.org/wiki/モン・サン＝ミシェル", "https://ja.wikipedia.org/wiki/国際音声記号", "https://ja.wikipedia.org/wiki/ミカエル"]
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史", "キリスト教", "新約聖書", "黙示録", "大天使ミカエル", "大天使ミシェル", "大天使ミッハエル", "モン＝サン＝ミシェル", "モン＝サン＝ミシェル"]
 shortcode-core:
    active: true
@@ -25,7 +25,7 @@ shortcode-core:
 
 ### [color=#3d8b3d]大天使と<wbr>名について[/color]
 
-!!!! 大天使の 「[{r}ミカエル{/r:Michael}][8]」 と [{r}モン＝サン＝ミシェル{/r:Mont-Saint-Michel}][7]の 「{r}ミシェル{/r:Michel}」 は発音でも、<wbr>よく似ています。  
+!!!! 大天使の 「[{r}ミカエル{/r:Michael}][8]」 と [{r}モン＝サン＝ミシェル{/r:Mont-Saint-Michel}][5]の 「{r}ミシェル{/r:Michel}」 は発音でも、<wbr>よく似ています。  
 !!!! ここでは、相互関係を明らかに<wbr>します。  
 
 #### [color=#3d8b3d]明治維新時代の<wbr>日本カトリック<wbr>教徒たちには、「大天使<wbr>ミシェル」でした[/color]
@@ -89,11 +89,10 @@ shortcode-core:
 
 !!!! ウィキペディアに、２０１６年１２月<wbr>２８日に、「 [{r}モン＝サン＝ミシェル{/r:Mont-Saint-Michel}][5] 」に訂正のお願いを<wbr>提出しました。  
 
-[1]: https://ja.wikipedia.org/wiki/%E4%BF%A1%E6%95%99%E3%81%AE%E8%87%AA%E7%94%B1 "https://ja.wikipedia.org/wiki/信仰の自由"
-[2]: https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA%E5%A4%96%E5%9B%BD%E5%AE%A3%E6%95%99%E4%BC%9A "https://ja.wikipedia.org/wiki/パリ外国宣教会"
-[3]: https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%8B%E3%82%BA%E3%83%A0 "https://ja.wikipedia.org/wiki/エキュメニズム"
+[1]: https://ja.wikipedia.org/wiki/信仰の自由 "https://ja.wikipedia.org/wiki/信仰の自由"
+[2]: https://ja.wikipedia.org/wiki/パリ外国宣教会 "https://ja.wikipedia.org/wiki/パリ外国宣教会"
+[3]: https://ja.wikipedia.org/wiki/エキュメニズム "https://ja.wikipedia.org/wiki/エキュメニズム"
 [4]: ./prononciation_mihael.mp3 "ヘブライ語での מיכאל の発音"
-[5]: https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB　"https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"
-[6]: https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7 "https://ja.wikipedia.org/wiki/国際音声記号"
-[7]: https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB　"https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"
-[8]: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%AB "https://ja.wikipedia.org/wiki/ミカエル"
+[5]: https://ja.wikipedia.org/wiki/モン・サン＝ミシェル　"https://ja.wikipedia.org/wiki/モン＝サン＝ミシェル"
+[6]: https://ja.wikipedia.org/wiki/国際音声記号 "https://ja.wikipedia.org/wiki/国際音声記号"
+[8]: https://ja.wikipedia.org/wiki/ミカエル "https://ja.wikipedia.org/wiki/ミカエル"

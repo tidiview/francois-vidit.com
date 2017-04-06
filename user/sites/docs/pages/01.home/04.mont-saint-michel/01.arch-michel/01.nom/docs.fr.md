@@ -17,7 +17,7 @@ metadata:
    image_title: "Statue de Saint Michel terrassant le Dragon"
    image_legend: "Statue de Saint Michel terrassant le Dragon, sculpture couronnant l'abbaye du Mont-Saint-Michel et réalisée par Emmanuel Fremiet"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/arch-michel/01.nom/docs.fr.md", "https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international", "https://fr.wikipedia.org/wiki/Michel_(archange)"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/arch-michel/01.nom/docs.fr.md", "https://fr.wikipedia.org/wiki/Alphabet_phonétique_international", "https://fr.wikipedia.org/wiki/Michel_(archange)"]
 specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique", "Nouveau Testament", "Apocalypse", "Archange Michel", "Saint-Michel", "Mont-Saint-Michel", "hébreu", "nom de l'archange Michel", "origine du nom de Saint-Michel"]
 shortcode-core:
    active: true

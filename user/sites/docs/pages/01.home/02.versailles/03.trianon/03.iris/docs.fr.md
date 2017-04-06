@@ -16,9 +16,8 @@ metadata:
     image_title: René-Antoine HOUASSE, “Iris et Morphée”
     image_legend: Iris, messagère de Junon, entre dans la grotte de Sommeil
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Iris_(mythologie)", "https://fr.wikipedia.org/wiki/Junon", "https://fr.wikipedia.org/wiki/Hypnos", "https://fr.wikipedia.org/wiki/Alcyone"]
-specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morphée", "Iris et Morphée"]
+specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culture de la cour de France", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morphée", "Iris et Morphée"]
 shortcode-core:
    active: true
 sitemap:

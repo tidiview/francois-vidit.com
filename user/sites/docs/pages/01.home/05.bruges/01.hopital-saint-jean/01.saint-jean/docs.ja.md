@@ -17,7 +17,6 @@ metadata:
    image_title: 洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画
    image_legend: "francois-vidit.com サイトの洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画セクション写真"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.bruges/01.hopital-saint-jean/01.saint-jean/docs.ja.md"]
 specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc"]
 shortcode-core:

@@ -14,7 +14,7 @@ metadata:
    image_title: 青い色
    image_legend: "francois-vidit.com サイトのドックスセクションの青い色の写真"
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/chapter.ja.md"]
-specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化"]
+specialty: ["フランス歴史"]
 ---
 #目次
 

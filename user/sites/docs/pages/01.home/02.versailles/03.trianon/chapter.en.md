@@ -9,9 +9,9 @@ modified: 02-01-2017, 21:54
 metadata:
    description: "Trianon section of site francois-vidit.com"
    keywords: 'Château de Versailles, Trianon'
-   image: trianon_700x525.jpg
+   image: trianon_700x467.jpg
    image_width: 700
-   image_height: 525
+   image_height: 467
    image_title: Trianon
    image_legend: "photography of the Trianon section du site francois-vidit.com"
    'twitter:card' : summary

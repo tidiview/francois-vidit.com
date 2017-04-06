@@ -16,7 +16,6 @@ metadata:
     image_title: The Latona Fountain in the Garden of the Palace of Versailles
     image_legend: Lycian peasants　transformed into mud-pool animals by Latona's anger
     'twitter:card' : summary
-    robots: 'noindex, nofollow'
 significantlinks: ["https://en.wikipedia.org/wiki/Louis_XIV_of_France", "https://en.wikipedia.org/wiki/Leto", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Apollo", "https://en.wikipedia.org/wiki/Diana_(mythology)", "https://en.wikipedia.org/wiki/Lycia", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Metamorphoses"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Gardens", "Latona Fountain"]
 shortcode-core:

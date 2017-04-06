@@ -15,7 +15,6 @@ metadata:
    image_title: ヴェルサイユ宮殿
    image_legend: "francois-vidit.com サイトのヴェルサイユ宮殿セクション写真"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/02.versailles/chapter.ja.md"]
 specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文化", "ヴェルサイユ宮殿"]
 ---

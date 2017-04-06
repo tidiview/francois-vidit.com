@@ -17,7 +17,7 @@ metadata:
     image_title: "Jean MONIER, “La Mort d'Adonis”"
     image_legend: "Vénus assiste à la mort d'Adonis tué par un sanglier"
     'twitter:card': summary
-significantlinks: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Cheverny", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Adonis_(mythologie)", "https://fr.wikipedia.org/wiki/V%C3%A9nus_(mythologie)"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Château_de_Cheverny", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/Métamorphoses_(Ovide)", "https://fr.wikipedia.org/wiki/Adonis_(mythologie)", "https://fr.wikipedia.org/wiki/Vénus_(mythologie)"]
 specialty: ["Histoire de France", "Mythologie", "Culture de cour", "Littérature de l'Empire Romain", "Littérature romaine impériale", "Château de Cheverny", "Cheverny", "Adonis", "la mort d'Adonis", "Ovide", "Les Métamorphoses", "Jean MONIER"]
 shortcode-core:
    active: true

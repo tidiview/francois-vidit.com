@@ -18,7 +18,7 @@ metadata:
    image_legend: 水の青色
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/03.autre-docs/docs.ja.md"]
-specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
+specialty: ["フランス歴史", "宗教歴史", "聖書歴史", "聖書"]
 shortcode-core:
    active: true
 sitemap:

@@ -15,7 +15,6 @@ metadata:
    image_title: Gardens of Orangerie of the Château de Versailles
    image_legend: "photography of the Gardens section du site francois-vidit.com"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/02.versailles/02.jardins/chapter.en.md"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Gardens"]
 ---

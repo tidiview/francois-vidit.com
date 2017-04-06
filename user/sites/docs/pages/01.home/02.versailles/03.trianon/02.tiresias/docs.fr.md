@@ -16,7 +16,6 @@ metadata:
     image_title: René-Antoine HOUASSE, “Minerve et Tirésias”
     image_legend: Minerve au premier plan rend aveugle Tirésias, au centre
     'twitter:card': summary
-    robots: 'noindex, nofollow'
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Tir%C3%A9sias", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
 specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture française du XVIIème siècle", "Peinture de cour française", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias", "Minerve", "Minerve et Tirésias"]
 shortcode-core:

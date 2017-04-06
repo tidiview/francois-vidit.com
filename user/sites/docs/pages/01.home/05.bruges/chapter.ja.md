@@ -15,7 +15,6 @@ metadata:
    image_title: ブリュージュ
    image_legend: "francois-vidit.com サイトのブリュージュセクション写真"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/chapter.ja.md"]
 specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ"]
 ---

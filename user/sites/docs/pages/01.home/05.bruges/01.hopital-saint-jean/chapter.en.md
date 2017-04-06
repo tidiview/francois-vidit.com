@@ -16,7 +16,6 @@ metadata:
    image_title: Hospital of Saint John
    image_legend: "photography of the section of Hospital of Saint John of site francois-vidit.com"
    'twitter:card': summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/chapter.en.md"]
 specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Museums in Bruges", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", " Hans Memling Museum", "Hans Memling"]
 ---
