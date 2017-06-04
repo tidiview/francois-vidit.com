@@ -4,7 +4,7 @@ taxonomy:
     category: [docs, ja]
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 04-06-2017, 21:38
+modified: 19-08-2016, 17:38
 metadata:
    description: "francois-vidit.com サイトの大天使・ミシェルセクション"
    keywords: '大天使ミカエル, 大天使ミカエルセクション, francois-vidit.com'
@@ -18,4 +18,4 @@ significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/
 specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
 ---
 
-# 大天使ミカエル  
+# 大天使<wbr>ミカエル  

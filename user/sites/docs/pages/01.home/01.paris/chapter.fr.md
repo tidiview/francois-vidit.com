@@ -9,9 +9,9 @@ modified: 05-01-2017, 23:13
 metadata:
    description: "section Paris du site francois-vidit.com"
    keywords: 'Paris'
-   image: paris_700x466.jpg
+   image: paris_700x423.jpg
    image_width: 700
-   image_height: 466
+   image_height: 423
    image_title: Paris
    image_legend: "photographie de la section Paris du site francois-vidit.com"
    'twitter:card' : summary

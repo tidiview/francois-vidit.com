@@ -1,29 +1,31 @@
 ---
-title: place Vendôme
+title: Vendôme Square
 menu: place vendôme
+template: docs_minus_h1
 created: 14-01-2017, 23:44
 date: 14-01-2017, 23:44
 modified: 11-04-2017, 20:44
 itempage: Article
 taxonomy:
-   category: [docs, fr]
+   category: [docs, en]
 metadata:
-    description: "la place Vendôme à Paris au XVIIème siècle"
-    keywords: "Place Vendôme, Paris, couvent des Capucines, couvent des Feuillants"
+    description: "Vendôme square in Paris in the 17th century"
+    keywords: "Place Vendôme, Vendôme square, Paris, couvent des Capucines, Capucines' convent, couvent des Feuillants, Feuillants' convent"
     image: vendome_700x507.jpg
     image_width: 700
     image_height: 507
-    image_title: La Place Vendôme à Paris 
-    image_legend: La Place Vendôme à Paris d'après le Plan de Turgot en 1734
+    image_title: Vendôme square in Paris 
+    image_legend: Place Vendôme in Paris according to the Turgot Plan in 1734
     'twitter:card': summary
-significantlinks: ["https://fr.wikipedia.org/wiki/Place_Vendôme", "https://fr.wikipedia.org/wiki/Rue_de_Rivoli", "https://fr.wikipedia.org/wiki/Plan_de_Turgot", "https://fr.wikipedia.org/wiki/Rue_de_Castiglione", "https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)", "https://fr.wikipedia.org/wiki/Rue_Saint-Honoré", "https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)", "https://fr.wikipedia.org/wiki/Couvent_des_Capucines", "https://fr.wikipedia.org/wiki/Madame_de_Pompadour", "https://fr.wikipedia.org/wiki/Jardin_des_Tuileries", "https://fr.wikipedia.org/wiki/Opéra_de_Paris", "https://fr.wikipedia.org/wiki/Couvent_des_Feuillants", "https://fr.wikipedia.org/wiki/Louis_XIV", "https://fr.wikipedia.org/wiki/François_Girardon", "https://fr.wikipedia.org/wiki/Révolution_française", "https://fr.wikipedia.org/wiki/Musée_Carnavalet"]
-specialty: ["Histoire de la Place Vendôme", "Couvent des Capucines", "Couvent des Feuillants", "Histoire de Paris", "Architecture française"]
+significantlinks: ["https://en.wikipedia.org/wiki/Place_Vendôme", "https://en.wikipedia.org/wiki/Rue_de_Rivoli", "https://en.wikipedia.org/wiki/Turgot_map_of_Paris", "https://en.wikipedia.org/wiki/Rue_de_la_Paix,_Paris", "https://en.wikipedia.org/wiki/Rue_Saint-Honoré", "https://en.wikipedia.org/wiki/Madame_de_Pompadour", "https://en.wikipedia.org/wiki/Tuileries_Garden", "https://en.wikipedia.org/wiki/Paris_Opera", "https://en.wikipedia.org/wiki/Couvent_des_Feuillants", "https://en.wikipedia.org/wiki/Louis_XIV_of_France", "https://en.wikipedia.org/wiki/François_Girardon", "https://en.wikipedia.org/wiki/French_Revolution", "https://en.wikipedia.org/wiki/Carnavalet_Museum", "http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback"]
+specialty: ["History of Vendôme Square", "Convent of the Capucines", "Convent of the Feuillants", "History of Paris", "french Architecture"]
 shortcode-core:
    active: true
 sitemap:
    changefreq: monthly
    priority: 0.9
 ---
+#<ruby><rb>Vendôme&#160;<wbr>Square</rb><rt>place&#160;<wbr>Vendôme</rt></ruby>
 <figure><picture>
 <source
 media="(min-width: 959px)"
@@ -61,19 +63,19 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
-</picture><figcaption>La place Vendôme à Paris d'après le Plan de Turgot en 1734</figcaption></figure>
+</picture><figcaption><ruby><rb>Vendôme&#160;Square</rb><rt>place&#160;Vendôme</rt></ruby> in Paris according to the <ruby><rb>Turgot&#160;Plan</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby> in 1734</figcaption></figure>
 
-[color=#b52b27]**la place Vendôme au XVII<sup>ème</sup> siècle**[/color]  
+[color=#b52b27]**Vendôme Square in Paris in the 17<sup>th</sup> century**[/color]  
 
-!!!! La [place Vendôme][1] a connu un visage très différent avant l'ouverture de la [rue de Rivoli][2] (1801). 
+!!!! La [{r}Vendôme&#160;Square{/r:place&#160;Vendôme}][1] had a very different face before the opening of the [{r}Rivoli&#160;Street{/r:rue&#160;de&#160;Rivoli}][2] (1801).  
 
-La place a d'abord été édifiée selon une forme carrée.  
-Cette forme est jugée trop rigide; en 1700, une partie des façades est abattue, puis reconstruite, dès 1701, en l'actuelle forme octogonale.  
+The square was first constructed in a square form.  
+This form is considered too rigid; in 1700, part of the facades was torn down and then rebuilt, in 1701, in the present octagonal form.  
 
-À regarder de près le [Plan de Turgot][3] de 1734, la place apparaît bien plus calme:
-+ côté [Tuileries][10], la [rue de Castiglione][4] ([fig. 1](#castiglione)),
-+ côté [Opéra][11], la [rue de la Paix][5] ([fig. 2](#paix)),
-n'ont pas encore été percées.  
+Looking closely at the 1734 [Turgot Plan][3], the place appears to be much calmer:
++ on the [Tuileries][10] side, The [{r}Castiglione&#160;Street{/r:rue&#160;de&#160;Castiglione}][4] ([fig. 1](#castiglione)),
++ on the [Opéra][11] side, the [{r}Paix&#160;Street{/r:rue&#160;de&#160;la&#160;Paix}][5] ([fig. 2](#paix)),
+has not yet been pierced.
 
 <figure id="castiglione"><picture>
 <source
@@ -111,11 +113,12 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w">
-</picture><figcaption>fig. 1: avant le percement de la rue Castiglione, l'accès depuis la rue Saint-Honoré (1734)</figcaption></figure> 
+</picture><figcaption>fig. 1: Prior to the puncture of <ruby><rb>Castiglione&#160;Street</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>, access from <ruby><rb>Saint-Honoré&#160;Street</rb><rt>rue&#160;Saint-Honoré</rt></ruby>
+ (1734)</figcaption></figure> 
 
-L'accès ne s'effectue que par:
-+ la [rue Saint-Honoré][6] côté [Tuileries][10] ([fig. 1](#castiglione) ci-dessus),
-+ et la [rue des Capucines][7] côté [Opéra][11] ([fig. 2](#paix) ci-dessous).  
+The access is only by:
++ the [{r}Saint-Honoré&#160;Street{/r:rue&#160;Saint-Honoré}][6] on the [Tuileries][10] side ([fig. 1](#castiglione) above),
++ and the [{r}Capucines&#160;Street{/r:rue&#160;des&#160;Capucines}][7] on the [Opéra][11] side ([fig. 2](#paix) below).  
 
 <figure id="paix"><picture>
 <source
@@ -153,11 +156,11 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w">
-</picture><figcaption>fig. 2: avant le percement de la rue de la paix, l'accès depuis la rue des Capucines (1734)</figcaption></figure>
+</picture><figcaption>fig. 2: Prior to the puncture of <ruby><rb>Paix&#160;Street</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, access from <ruby><rb>Capucines&#160;Street</rb><rt>rue&#160;des&#160;Capucines</rt></ruby></figcaption></figure>
 
-Elle n'était donc pas traversante comme depuis le XIX<sup>ème</sup> siècle.  
+It could not be passed through as since the 19<sup>th</sup> century.  
 
-Côté [Opéra][11], à l'emplacement de l'actuelle [rue de la Paix][5], se trouvait le [couvent des Capucines][8] ([fig. 3](#couvent)).
+On the [{r}Opera{/r:Opéra}][11] side, at the location of the current [{r}Paix&#160;Street{/r:rue&#160;de&#160;la&#160;Paix}][5], was the [{r}convent&#160;of&#160;the&#160;Capucines{/r:couvent&#160;des&#160;Capucines}][8] ([fig. 3](#couvent)).
 
 <figure id="couvent"><picture>
 <source
@@ -195,11 +198,11 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w">
-</picture><figcaption>fig. 3: avant le percement de la rue de la paix, le second couvent des Capucines (1705)</figcaption></figure>
+</picture><figcaption>fig. 3: Prior to the puncture of <ruby><rb>Paix&#160;Street</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, the second <ruby><rb>Convent&#160;of&#160;the&#160;Capucines</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby> (1705)</figcaption></figure>
 
-[Madame de Pompadour][9] a été enterrée, ainsi que sa mère et sa sœur, dans l'église.
+[Madame de Pompadour][9] was buried, as was her mother and sister, in the church.
 
-En face, côté [Tuileries][10], un autre portail, le portail du [couvent des Feuillants][12] lui répondait ([fig. 4](#feuillants)).
+In front, on the [Tuileries][11]' side, another portal, the portal of [{r}convent&#160;of&#160;the&#160;Capucines{/r:couvent&#160;des&#160;Capucines}][8] was responding to it ([fig. 4](#feuillants)).
 
 <figure id="feuillants"><picture>
 <source
@@ -237,13 +240,9 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w">
-</picture><figcaption>fig. 4: avant le percement de la rue de Castiglione, le portail du couvent des Feuillants (1754)</figcaption></figure>
+</picture><figcaption>fig. 4: Prior to the puncture of <ruby><rb>Castiglione&#160;Street</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>, the portal of <ruby><rb>convent&#160;of&#160;the&#160;Capucines</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby> (1754)</figcaption></figure>
 
-Au centre de la place, se dresse, dès 1699, la statue de [Louis XIV][13] dite de « Louis Le Grand » ([fig. 5](#statue)).
-
-C'est une œuvre impressionnante de [François GIRARDON][14] qui atteint, avec son piédestal, une hauteur de 17 m de haut.  
-
-La [Révolution][15] la détruira mais un des énormes pieds du roi a survécu à la fonte et est exposé au Musée d'Histoire de la Ville de Paris, le [Musée Carnavalet][16].  
+In the center of the square, was erected, since 1699, the statue of [Louis XIV][13] called « Louis le Grand » ([fig. 5](#statue)).
 
 <figure id="statue"><picture>
 <source
@@ -281,26 +280,30 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w">
-</picture><figcaption>fig. 5: au centre de la place, la statue de Louis Le Grand (1699)</figcaption></figure>
+</picture><figcaption>fig. 5: in the middle of the square, the statue of Louis Le Grand (1699)</figcaption></figure>
+
+It is an impressive work by [François GIRARDON][14] , which reaches, with its pedestal, a height of 17m high.  
+
+The [{r}Revolution{/r:Révolution}][15] will destroy it but one of the huge feet of the king survived its melt and is exhibited at the Museum of History of the City of Paris, the [{r}Carnavalet&#160;Museum{/r:Musée&#160;Carnavalet}][16].  
 
 <br>
 
-!!!! Pour plus d'information sur l'œuvre de [François GIRARDON][14], consultez la [notice de l'œuvre][17] sur le site du [Musée du Louvre][17].  
+!!!! For more information on the work of [François GIRARDON][14], consult its [reference][17] on the [Louvre Museum site][17].  
 
-[1]: https://fr.wikipedia.org/wiki/Place_Vendôme "https://fr.wikipedia.org/wiki/Place_Vendôme"
-[2]: https://fr.wikipedia.org/wiki/Rue_de_Rivoli "https://fr.wikipedia.org/wiki/Rue_de_Rivoli"
-[3]: https://fr.wikipedia.org/wiki/Plan_de_Turgot "https://fr.wikipedia.org/wiki/Plan_de_Turgot"
-[4]: https://fr.wikipedia.org/wiki/Rue_de_Castiglione "https://fr.wikipedia.org/wiki/Rue_de_Castiglione"
-[5]: https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris) "https://fr.wikipedia.org/wiki/Rue_de_la_Paix_(Paris)"
-[6]: https://fr.wikipedia.org/wiki/Rue_Saint-Honoré "https://fr.wikipedia.org/wiki/Rue_Saint-Honoré"
-[7]: https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris) "https://fr.wikipedia.org/wiki/Rue_des_Capucines_(Paris)"
-[8]: https://fr.wikipedia.org/wiki/Couvent_des_Capucines "https://fr.wikipedia.org/wiki/Couvent_des_Capucines"
-[9]: https://fr.wikipedia.org/wiki/Madame_de_Pompadour "https://fr.wikipedia.org/wiki/Madame_de_Pompadour"
-[10]: https://fr.wikipedia.org/wiki/Jardin_des_Tuileries "https://fr.wikipedia.org/wiki/Jardin_des_Tuileries"
-[11]: https://fr.wikipedia.org/wiki/Opéra_de_Paris "https://fr.wikipedia.org/wiki/Opéra_de_Paris"
-[12]: https://fr.wikipedia.org/wiki/Couvent_des_Feuillants "https://fr.wikipedia.org/wiki/Couvent_des_Feuillants"
-[13]: https://fr.wikipedia.org/wiki/Louis_XIV "https://fr.wikipedia.org/wiki/Louis_XIV"
-[14]: https://fr.wikipedia.org/wiki/François_Girardon "https://fr.wikipedia.org/wiki/François_Girardon"
-[15]: https://fr.wikipedia.org/wiki/Révolution_française "https://fr.wikipedia.org/wiki/Révolution_française"
-[16]: https://fr.wikipedia.org/wiki/Musée_Carnavalet "https://fr.wikipedia.org/wiki/Musée_Carnavalet"
-[17]: http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval "http://www.louvre.fr/oeuvre-notices/louis-xiv-cheval"
+[1]: https://en.wikipedia.org/wiki/Place_Vendôme "https://en.wikipedia.org/wiki/Place_Vendôme"
+[2]: https://en.wikipedia.org/wiki/Rue_de_Rivoli "https://en.wikipedia.org/wiki/Rue_de_Rivoli"
+[3]: https://en.wikipedia.org/wiki/Turgot_map_of_Paris "https://en.wikipedia.org/wiki/Turgot_map_of_Paris"
+[4]: https://www.google.fr/maps/place/Rue+de+Castiglione,+75001+Paris/@48.8659408,2.3257194,17z/data=!3m1!4b1!4m8!1m2!2m1!1scastiglione+street+paris!3m4!1s0x47e66e2de4cf6571:0xad54eb95ed09a09!8m2!3d48.8659408!4d2.3279081 "https://www.google.fr/maps/place/Rue+de+Castiglione,+75001+Paris/@48.8659408,2.3257194,17z/data=!3m1!4b1!4m8!1m2!2m1!1scastiglione+street+paris!3m4!1s0x47e66e2de4cf6571:0xad54eb95ed09a09!8m2!3d48.8659408!4d2.3279081"
+[5]: https://en.wikipedia.org/wiki/Rue_de_la_Paix,_Paris "https://en.wikipedia.org/wiki/Rue_de_la_Paix,_Paris"
+[6]: https://en.wikipedia.org/wiki/Rue_Saint-Honoré "https://en.wikipedia.org/wiki/Rue_Saint-Honoré"
+[7]: https://www.google.fr/maps/place/Rue+des+Capucines,+Paris/@48.8689074,2.3272296,17z/data=!3m1!4b1!4m8!1m2!2m1!1scapucines+street+paris!3m4!1s0x47e66e31789d3efd:0x1c0b307ea31b237e!8m2!3d48.8689074!4d2.3294183 "https://www.google.fr/maps/place/Rue+des+Capucines,+Paris/@48.8689074,2.3272296,17z/data=!3m1!4b1!4m8!1m2!2m1!1scapucines+street+paris!3m4!1s0x47e66e31789d3efd:0x1c0b307ea31b237e!8m2!3d48.8689074!4d2.3294183"
+[8]: https://www.google.fr/maps/place/3+Rue+de+la+Paix,+75002+Paris/@48.8686382,2.3282652,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e31a48a6115:0xf23e0c7b6c50cd93!8m2!3d48.8686382!4d2.3304539 "https://www.google.fr/maps/place/3+Rue+de+la+Paix,+75002+Paris/@48.8686382,2.3282652,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e31a48a6115:0xf23e0c7b6c50cd93!8m2!3d48.8686382!4d2.3304539"
+[9]: https://en.wikipedia.org/wiki/Madame_de_Pompadour "https://en.wikipedia.org/wiki/Madame_de_Pompadour"
+[10]: https://en.wikipedia.org/wiki/Tuileries_Garden "https://en.wikipedia.org/wiki/Tuileries_Garden"
+[11]: https://en.wikipedia.org/wiki/Paris_Opera "https://en.wikipedia.org/wiki/Paris_Opera"
+[12]: https://en.wikipedia.org/wiki/Couvent_des_Feuillants "https://en.wikipedia.org/wiki/Couvent_des_Feuillants"
+[13]: https://en.wikipedia.org/wiki/Louis_XIV_of_France "https://en.wikipedia.org/wiki/Louis_XIV_of_France"
+[14]: https://en.wikipedia.org/wiki/François_Girardon "https://en.wikipedia.org/wiki/François_Girardon"
+[15]: https://en.wikipedia.org/wiki/French_Revolution "https://en.wikipedia.org/wiki/French_Revolution"
+[16]: https://en.wikipedia.org/wiki/Carnavalet_Museum "https://en.wikipedia.org/wiki/Carnavalet_Museum"
+[17]: http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback "http://www.louvre.fr/en/oeuvre-notices/louis-xiv-horseback"

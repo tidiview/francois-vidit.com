@@ -5,7 +5,7 @@ taxonomy:
     category: [docs, ja]
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 04-06-2017, 21:26
+modified: 15-08-2016, 12:26
 metadata:
     description: "francois-vidit.com サイトのシュヴェルニー城セクション"
     keywords: 'シュヴェルニー城セクション, francois-vidit.com'
@@ -20,4 +20,4 @@ specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文�
 ---
 ### Château de Cheverny
 
-# シュヴェル<wbr>ニー城
+# シュ<wbr>ヴェル<wbr>ニー城

@@ -8,7 +8,7 @@ visible: false
 published: false
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 15-08-2016, 12:26
+modified: 04-06-2017, 21:26
 metadata:
     description: "francois-vidit.com サイトのリロワール古城セクション"
     keywords: 'ロワール古城セクション, francois-vidit.com'
@@ -22,4 +22,4 @@ specialty: ["フランス歴史", "神話", "ローマ帝国文学", "宮廷文�
 ---
 ### Le château de Chambord
 
-# シャン<wbr>ボル城
+# シャンボル城

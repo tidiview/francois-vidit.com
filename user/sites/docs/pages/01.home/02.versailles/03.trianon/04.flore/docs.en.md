@@ -1,23 +1,23 @@
 ---
-title: Iris
-menu: iris
-created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 00:15
+title: Flore
+menu: Flore
+created: 03-05-2017, 15:54
+date: 03-05-2017, 15:54
+modified: 03-05-2017, 15:54
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Text extract from chapter « Tiresias » of Book III of The « Metamorphoses » written from latin writer Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his work « Minerve et Tiresias »"
-    keywords: "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Junon, Morphée, The Sleep, Hypnos, Alcyone, René-Antoine HOUASSE"
+    description: "Text extract from chapter « Tiresias » of Book III of The « Metamorphoses » written from latin writer Ovid from which has inspired the painter Jean JOUVENET for the making of his work « Minerve et Tiresias »"
+    keywords: "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Junon, Morphée, The Sleep, Hypnos, Alcyone, Jean JOUVENET"
     image: iris_700x951.jpg
     image_width: 700
     image_height: 951
-    image_title: René-Antoine HOUASSE, Iris and Morpheus
+    image_title: Jean JOUVENET, Iris and Morpheus
     image_legend: Iris, messenger of Juno, enters in the cave of Sleep
     'twitter:card' : summary
 significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/René-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Iris", "Morpheus", "Iris and Morpheus"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "Jean JOUVENET", "Iris", "Morpheus", "Iris and Morpheus"]
 shortcode-core:
    active: true
 sitemap:
@@ -28,24 +28,24 @@ sitemap:
 <source
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.webp 280w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.webp 380w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.webp 480w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.webp 640w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w"
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.webp 280w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.webp 380w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.webp 480w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.webp 640w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.webp 700w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Painting of René-Antoine HOUASSE, « Iris and Morpheus », Grand Trianon, Palace of Versailles" alt="Painting of René-Antoine HOUASSE, « Iris and Morpheus », Grand Trianon, Palace of Versailles" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg" title="Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles" alt="Peinture de Jean JOUVENET, “Flore et Zéphyr”, Grand Trianon, Versailles" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-380.jpg 380w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture><figcaption>Iris, messenger of Juno, enters in the cave of Sleep</figcaption></figure>
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-280.jpg 280w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w">
+</picture><figcaption>Flore</figcaption></figure>
 
-!!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [René-Antoine Houasse][2], “Iris and Morpheus” can be seen.  
+!!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [Jean JOUVENET][2], “Iris and Morpheus” can be seen.  
 !!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [the Sleep][7] to order to him to make [Alcynoe][8] dream. 
 
 [color=#3d8b3d]**Iris and Morpheus**[/color]  

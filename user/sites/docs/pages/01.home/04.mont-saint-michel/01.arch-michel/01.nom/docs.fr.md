@@ -37,14 +37,14 @@ La notation « Mîḵā’ēl » vient de l'[alphabet phonétique international]
 
 | <span hidden>hidden</span> |
 | -------------------------- |
-| ![enregistrement de la prononciation de מיכאל en hébreu][3] |
+| ![][3] |
 
 ### [color=#3d8b3d]un nom qui signifie « qui est comme dieu ? »[/color]
 
 « <ruby><rb><span style="background:#f1f9f1;color:#3d8b3d;">מיכאל</span></rb><rt><span style="background:#f1f9f1;color:#3d8b3d;">Mîḵā’ēl</span></rt></ruby> » peut se décomposer comme suit:  
 
-| <span hidden>hidden</span> | <span hidden>hidden</span> | <span hidden>hidden</span> | <span hidden>hidden</span> |
-| -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| <span hidden>hidden</span> | <span hidden>hidden</span> | <span hidden>hidden</span> |
+| -------------------------- | -------------------------- | -------------------------- |
 | <span style="background:#f1f9f1;color:#3d8b3d;">mî</span> | <span style="background:#f1f9f1;color:#3d8b3d;">ḵā’</span> | <span style="background:#f1f9f1;color:#3d8b3d;">ēl</span> |
 | <span style="background:#f1f9f1;color:#3d8b3d;">qui</span> | <span style="background:#f1f9f1;color:#3d8b3d;">ressemble</span> | <span style="background:#f1f9f1;color:#3d8b3d;">dieu</span> |  
 

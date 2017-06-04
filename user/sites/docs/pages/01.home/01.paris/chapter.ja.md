@@ -9,9 +9,9 @@ modified: 05-01-2017, 23:13
 metadata:
    description: "francois-vidit.com サイトのパリセクション"
    keywords: 'パリ'
-   image: paris_700x466.jpg
+   image: paris_700x423.jpg
    image_width: 700
-   image_height: 466
+   image_height: 423
    image_title: パリ
    image_legend: "francois-vidit.com サイトのパリセクション写真"
    'twitter:card' : summary

@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.webp 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.webp 640w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w"
-type="image/webp">
+type="image/webp" />
 <img
 src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" alt="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
@@ -128,7 +128,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.webp 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.webp 640w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
-type="image/webp">
+type="image/webp" />
 <img
 src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste fermé, Musée Memling, Hôpital Saint-Jean, Bruges" alt="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste fermé, Musée Memling, Hôpital Saint-Jean, Bruges" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
