@@ -1,6 +1,6 @@
 ---
 title: Bruges
-slug: bruges
+menu: bruges
 taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13

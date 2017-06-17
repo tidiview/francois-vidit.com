@@ -1,6 +1,5 @@
 ---
 title: Vendôme
-slug: vendome
 menu: vendôme
 taxonomy:
     category: [docs, en]

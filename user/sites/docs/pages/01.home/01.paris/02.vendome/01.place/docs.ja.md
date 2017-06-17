@@ -4,7 +4,7 @@ menu: ヴァンドーム広場
 template: docs_minus_h1
 created: 11-04-2017, 23:44
 date: 11-04-2017, 23:44
-modified: 04-06-2017, 21:44
+modified: 04-06-2017, 23:19
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -65,7 +65,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
 </picture><figcaption>1734年での<ruby><rb>テュルゴの地図</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby>によるパリにある<ruby><rb>ヴァンドーム広場</rb><rt>place&#160;Vendôme</rt></ruby></figcaption></figure>
 
-[color=#3d8b3d]十七世紀での {r}ヴァンドーム広場{/r:place&#160;Vendôme}[/color]  
+##<span style="color:#3d8b3d;">十七世紀での<ruby><rb style="color:#3d8b3d;">ヴァンドーム広場</rb><rt style="color:#3d8b3d;">place&#160;Vendôme</rt></ruby></span>  
 
 !!!! [{r}リヴォリ通り{/r:rue&#160;de&#160;Rivoli}][2]が1801年に開かれる前に、[{r}ヴァンドーム広場{/r:place&#160;Vendôme}][1]は今とはとても違う顔でした。  
 

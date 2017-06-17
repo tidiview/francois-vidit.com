@@ -1,23 +1,23 @@
 ---
-title: Flore
-menu: Flore
+title: Flora
+menu: flora
 created: 03-05-2017, 15:54
 date: 03-05-2017, 15:54
-modified: 03-05-2017, 15:54
+modified: 17-06-2017, 19:04
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Text extract from chapter « Tiresias » of Book III of The « Metamorphoses » written from latin writer Ovid from which has inspired the painter Jean JOUVENET for the making of his work « Minerve et Tiresias »"
-    keywords: "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Junon, Morphée, The Sleep, Hypnos, Alcyone, Jean JOUVENET"
-    image: iris_700x951.jpg
+    description: "Text extract from chapter 5 of Book XI of « The Festivals » written from latin writer Ovid and describing the beginning of the month of may from which the painter Jean JOUVENET inspired for the making of his work « Flora and Zephyrus » (french: “Flore et Zéphyr”), painting that has been commisionned by King Louis XIV and can be seen in the Salon Frais of the Grand Trianon in Versailles"
+    keywords: "Versailles, Grand Trianon, Louis 14, Louis XIV, Louis 14th, Ovid, The Festivals, Grand Trianon, Flora, Zephyrus, Flora and Zephyrus, Jean JOUVENET, Flore, Zéphyr, Flore et Zéphyr"
+    image: flore_700x1152.jpg
     image_width: 700
-    image_height: 951
-    image_title: Jean JOUVENET, Iris and Morpheus
-    image_legend: Iris, messenger of Juno, enters in the cave of Sleep
+    image_height: 1152
+    image_title: Jean JOUVENET, “Flora and Zephyrus”
+    image_legend: Zephyrus is presenting a basket of garlands of flowers to Flora
     'twitter:card' : summary
-significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/René-Antoine_Houasse", "https://en.wikipedia.org/wiki/Metamorphoses", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Iris_(mythology)", "https://en.wikipedia.org/wiki/Juno_(mythology)", "https://en.wikipedia.org/wiki/Hypnos", "https://en.wikipedia.org/wiki/Alcyone"]
-specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "Jean JOUVENET", "Iris", "Morpheus", "Iris and Morpheus"]
+significantlinks: ["https://en.wikipedia.org/wiki/Grand_Trianon", "https://en.wikipedia.org/wiki/Jean_Jouvenet", "https://en.wikipedia.org/wiki/Anemoi#Zephyrus", "https://en.wikipedia.org/wiki/Flora_(deity)", "https://en.wikipedia.org/wiki/Louis_XIV_of_France", "https://en.wikipedia.org/wiki/Ovid", "https://en.wikipedia.org/wiki/Fasti_(poem)", "https://en.wikipedia.org/wiki/Roman_calendar", "https://en.wikipedia.org/wiki/Chloris", "https://en.wikipedia.org/wiki/Floralia", "https://en.wikipedia.org/wiki/Horae", "https://en.wikipedia.org/wiki/Charites"]
+specialty: ["History of France", "Mythology", "Culture of royal french court", "Litterature of the Roman Empire", "Roman Imperial Litterature", "Palace of Versailles", "French Painting of the 17th century", "Château de Versailles", Grand Trianon", "Jean JOUVENET", "Flora", "Zephyrus", "Flora and Zephyrus", "Flore et Zéphyr"]
 shortcode-core:
    active: true
 sitemap:
@@ -42,115 +42,100 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-380.jpg 380w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-480.jpg 480w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore-640.jpg 640w,
-/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w">
-</picture><figcaption>Flore</figcaption></figure>
+/user/sites/docs/pages/01.home/02.versailles/03.trianon/04.flore/flore_700x1152.jpg 700w" id="flore_et_zephyr">
+</picture><figcaption>Zephyrus is presenting a basket of garlands of flowers to Flora</figcaption></figure>
 
-!!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [Jean JOUVENET][2], “Iris and Morpheus” can be seen.  
-!!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [the Sleep][7] to order to him to make [Alcynoe][8] dream. 
+! At the [Grand Trianon][1] in Versailles, above the fireplace of the Salon Frais, one can see a painting of [Jean JOUVENET][2], “[{r}Flora&#160;and&#160;Zephyrus{/r:Flore&#160;et&#160;Zéphyr}][3]”.  
+! On the edge of a creek, close to nymphs occupied at their toilet, before an angel who, in an unbelievable atmosphere of spring, [{r}Zephyrus{/r:Zéphyr}][4], winged man who represents the breeze of the west, presents a basket of garlands of flowers to [{r}Flora{/r:Flore}][5], goddess of this season.  
+! Documents establish that this painting was commissioned by King [Louis XIV][6] for this piece from a story that was made by the Latin writer [Ovid][7] in a extract from one of his works, “[{r}The&#160;Festivals{/r:Fasti}][8]”.  
+! The writer, while describing traditional festivals and events related to agriculture or astrology according to the seasons of the [Roman calendar][9], introduces an original literary process: in his story, poet, he appeals to the gods, questioning himself as a master priest of calendar of the meaning of things and words.  
+! The text below comes from the 5th book and corresponds to the month of May: Ovid speaks directly to [{r}Flora{/r:Flore}][5].  
+! From [183 à 192][10]{#ref_183}, he asked her for details on the “[Floralia][13]” which took place in her honour at the end of April until early May.  
+! Although this is not directly related with the stage visually represented in the painting, this part allows to capture the mystery and charm of the goddess and the link with the representation given by [Jean JOUVENET][2].  
+! [{r}Flora{/r:Flore}][5] presents herself by identifying to [Chloris][12], Nymph of the [Fortunate Isles][14], whose beauty charmed [{r}Zephyrus{/r:Zéphyr}][4].  
+! He abduct her, took her for spouse, and gave her sovereignty over flowers.  
+! In between [193 à 222][11]{#ref_193}, she appears linked to spring, to beauty, to life, surrounded by [Hours][15] and [Graces][16].  
 
-[color=#3d8b3d]**Iris and Morpheus**[/color]  
+##[color=#3d8b3d]**Flora and Zephyrus**[/color]  
 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
-<sup>583</sup>
-but Juno could not long accept as hers  
-these supplications on behalf of one  
-then dead; and that she might persuade Halcyone  
-to turn her death-polluted hands away  
-from hallowed altars, Juno said in haste,  
-“O, Iris, best of all my messengers,  
-go quickly to the dreadful court of Sleep,  
-and in my name command him to despatch  
-a dream in the shape of Ceyx, who is dead,  
-and tell Halcyone the woeful truth.”  
+<sup>[183][101]{#183}</sup> 
+Come, Mother of flowers, you that joyful games must celebrate.  
 
-So she commanded.—Iris instantly  
-assumed a garment of a thousand tints;  
-and as she marked the high skies with her arch,  
-went swiftly thence as ordered, to the place  
-where Sleep was then concealed beneath a rock.  
+The previous month, I had deferred to deal with your fest.  
 
-Near the Cimmerian Land there is a cave,  
-with a long entrance, in a hallowed mountain,  
-the home of slothful Sleep. To that dark cave  
-the Sun, when rising or in middle skies,  
-or setting, never can approach with light.  
+<sup>185</sup> 
+It begins in April and extends in May: you take two months, the end of one, the beginning of the other.  
 
-There dense fogs, mingled with the dark, exhale  
-darkness from the black soil—and all that place  
-is shadowed in a deep mysterious gloom.  
-No wakeful bird with visage crested high  
-calls forth the morning's beauty in clear notes;  
-nor do the watchful dogs, more watchful geese,  
-<sup>600</sup> 
-nor wild beasts, cattle, nor the waving trees,  
-make sound or whisper; and the human voice  
-is never heard there—silent Rest is there.  
-But, from the bottom of a rock beneath,  
-Lethean waters of a stream ooze forth,  
-sounds of a rivulet, which trickle with  
-soft murmuring amid the pebbles and  
-invite soft sleep. Before the cavern doors  
-most fertile poppies and a wealth of herbs  
-bloom in abundance, from the juice of which  
-the humid night-hours gather sleep and spread  
-it over darkened Earth. No door is in  
-that cavern-home and not a hinge's noise  
-nor guarding porter's voice disturbs the calm.  
+Since the borders of these months are both yours and come back to you, one as much as the other agrees to sing your praises.  
 
-But in the middle is a resting-couch,  
-raised high on night-black ebony and soft  
-with feathered cushions, all jet black, concealed  
-by a rich coverlet as dark as night,  
-on which the god of sleep, dissolved in sloth  
-lies with unmoving limbs. Around him there  
-in all directions, unsubstantial dreams  
-recline in imitation of all shapes—  
-as many as the uncounted ears of corn  
-at harvest—as the myriad leaves of trees—  
-or tiny sand grains spread upon the shore.  
-As soon as Iris entered that dread gloom,  
-she pushed aside the visions in her way  
-with her fair glowing hands; and instantly,  
-that sacred cavern of the god of Sleep  
-was all illuminated with the glow  
-and splendor of her garment.—Out of himself  
-the god with difficulty lifted up  
-his lanquid eyes. From this small sign of life  
-relapsing many times to languid sloth,  
-while nodding, with his chin he struck his breast  
-again and again. At last he roused himself  
-from gloom and slumber; and, while raised upon  
-his elbow, he enquired of Iris why  
-she came to him.—He knew her by her name.  
-She answered him, “O, Sleep, divine repose  
-of all things! Gentlest of the deities!  
-Peace to the troubled mind, from which you drive  
-the cares of life, restorer of men's strength  
-when wearied with the toils of day, command  
-a vision that shall seem the actual form  
-of royal Ceyx to visit Trachin famed  
-for Hercules and tell Halcyone  
-his death by shipwreck. It is Juno's wish.”  
+It was in May that the Circus' games comes too and the victor's palm cheered at theater;  
 
-<sup>620</sup>
-Iris departed after this was said.  
-For she no longer could endure the effect  
-of slumber-vapor; and as soon as she  
-knew sleep was creeping over her tired limbs  
-she flew from there—and she departed by  
-the rainbow, over which she came before. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
+<sup>190</sup> 
+may my poem also go hand in hand with circus shows.  
 
-[color=#3d8b3d]Ovid, “The Metamorphoses”, Book XI[/color]  
+Teach me who you are: the opinion of humans is misleading; you will be the best authority to explain your own name.  
 
-!!!! ####Note:  
-!!!! The work of [René-Antoine Houasse][2] has been named in the XVII<sup style="color:#3d8b3d;">th</sup> century « Iris et Morphée ».  
-!!!! We keep this denomination for identification, while the scene represented shows more likely [Iris][5] and [the Sleep][7].  
+<sup>[193][111]{#193}</sup>
+That was my request; Here's the answer of the goddess to my requests (in speaking, her mouth breathed a fresh perfume of roses):  
+
+<sup>195</sup> 
+“I was [Chloris][12], me that now is known as [Flora][5]. A Greek letter of my name was altered by Latin pronunciation.  
+
+I was [Chloris][12], Nymph of these [Fortunate Isles][14], where, they said, the Blessed were living once.  
+
+To describe to you how beautiful I was would shock my modesty;  
+
+<sup>200</sup> 
+But it is it that gave to my mother a god for son-in-law.
+
+It was spring, I would wandered: when [Zephyrus][4] noticed me, I lelft; he followed me, I fled: he was the stronger.  
+
+Moreover, was this abduction not entirely justified by his brother [Boreas][17], who had also dared to remove the girl of [Erechtheus][18]?  
+
+<sup>205</sup> 
+However, [Zephyrus][4] repaired his contempt by giving me the title of spouse, and I have no complaints about my marriage.  
+
+I enjoy perpetual spring : always the year is bright, always trees are covered with leaves, the earth of greenery.  
+
+Among what I have from my dowry, I have a fertile garden:  
+
+<sup>210</sup> 
+the breeze fertiles it, a spring of crystal water sprays it.  
+
+My husband filled it with a multitude of noble flowers and said: “To you, Goddess, the sovereignty over flowers”.  
+
+Often I wanted to classify and count their colors, without being able to manage it: there were too many to count.  
+
+<sup>215</sup> 
+As soon as the leaves shook winter dew, as soon as the rays heated the multicolores corolles,  
+
+The [Hours][15] decorated with their colourful dresses gather and harvest my gifts in their light baskets.  
+
+Immediately, the [Graces][16] comes, which bore the crowns  
+
+<sup>220</sup> 
+and garlands to bind their divine hairs”. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
+
+[color=#3d8b3d]Ovid, “The Festivals”, Book V, 183-220[/color]  
 
 [1]: https://en.wikipedia.org/wiki/Grand_Trianon "https://en.wikipedia.org/wiki/Grand Trianon"
-[2]: https://en.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse "https://en.wikipedia.org/wiki/René-Antoine Houasse"
-[3]: https://en.wikipedia.org/wiki/Metamorphoses "https://en.wikipedia.org/wiki/Metamorphoses"
-[4]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
-[5]: https://en.wikipedia.org/wiki/Iris_(mythology) "https://en.wikipedia.org/wiki/Iris_(mythology)"
-[6]: https://en.wikipedia.org/wiki/Juno_(mythology) "https://en.wikipedia.org/wiki/Juno_(mythology)"
-[7]: https://en.wikipedia.org/wiki/Hypnos "https://en.wikipedia.org/wiki/Hypnos"
-[8]: https://en.wikipedia.org/wiki/Alcyone "https://en.wikipedia.org/wiki/Alcyone"
+[2]: https://en.wikipedia.org/wiki/Jean_Jouvenet "https://en.wikipedia.org/wiki/Jean_JOUVENET"
+[3]: ./#flore_et_zephyr "Flore et Zéphyr"
+[4]: https://en.wikipedia.org/wiki/Anemoi#Zephyrus "https://en.wikipedia.org/wiki/Anemoi#Zephyrus"
+[5]: https://en.wikipedia.org/wiki/Flora_(deity) "https://en.wikipedia.org/wiki/Flora_(deity)"
+[6]: https://en.wikipedia.org/wiki/Louis_XIV_of_France "https://en.wikipedia.org/wiki/Louis_XIV_of_France"
+[7]: https://en.wikipedia.org/wiki/Ovid "https://en.wikipedia.org/wiki/Ovid"
+[8]: https://en.wikipedia.org/wiki/Fasti_(poem) "https://en.wikipedia.org/wiki/The_Festivals"
+[9]: https://en.wikipedia.org/wiki/Roman_calendar "https://en.wikipedia.org/wiki/Roman_calendar"
+[10]: ./#183
+[101]: ./#ref_183
+[11]: ./#193
+[111]: ./#ref_193
+[12]: https://en.wikipedia.org/wiki/Chloris "https://en.wikipedia.org/wiki/Chloris"
+[13]: https://en.wikipedia.org/wiki/Floralia "https://en.wikipedia.org/wiki/Floralia"
+[14]: https://en.wikipedia.org/wiki/Fortunate_Isles "https://en.wikipedia.org/wiki/Fortunate_Isles"
+[15]: https://en.wikipedia.org/wiki/Horae "https://en.wikipedia.org/wiki/Hours"
+[16]: https://en.wikipedia.org/wiki/Charites "https://en.wikipedia.org/wiki/Graces"
+[17]: https://en.wikipedia.org/wiki/Anemoi#Boreas "https://en.wikipedia.org/wiki/Anemoi#Boreas"
+[18]: https://en.wikipedia.org/wiki/Erechtheus "https://en.wikipedia.org/wiki/Erechtheus"

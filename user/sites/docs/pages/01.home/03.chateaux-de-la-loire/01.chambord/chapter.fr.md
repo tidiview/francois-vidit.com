@@ -1,4 +1,4 @@
-home---
+---
 title: Le château de Chambord
 menu: chambord
 robots: 'noindex, nofollow'

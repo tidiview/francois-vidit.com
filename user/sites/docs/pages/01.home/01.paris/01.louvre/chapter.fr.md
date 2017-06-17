@@ -1,6 +1,5 @@
 ---
 title: Louvre
-slug: louvre
 menu: louvre
 taxonomy:
     category: [docs, fr]

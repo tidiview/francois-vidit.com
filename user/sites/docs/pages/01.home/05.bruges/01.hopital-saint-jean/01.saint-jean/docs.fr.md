@@ -1,7 +1,6 @@
 ---
 title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste
 menu: saint-jean
-slug: saint-jean
 template: docs_minus_h1
 taxonomy:
     category: [docs, fr]

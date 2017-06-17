@@ -1,5 +1,6 @@
 ---
 title: Mont-Saint-Michel
+menu: mont-saint-michel
 taxonomy:
     category: [docs, fr]
 created: 15-01-2016, 07:10

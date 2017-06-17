@@ -1,6 +1,6 @@
 ---
 title: Versailles
-slug: versailles
+menu: versailles
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10

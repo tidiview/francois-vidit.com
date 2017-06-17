@@ -1,6 +1,5 @@
 ---
 title: Hospital of Saint John
-slug: hopital-saint-jean
 menu: hopital of saint john
 taxonomy:
     category: [docs, en]

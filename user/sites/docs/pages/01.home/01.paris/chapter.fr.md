@@ -1,6 +1,6 @@
 ---
 title: Paris
-slug: paris
+menu: paris
 taxonomy:
     category: [docs, fr]
 created: 05-01-2017, 23:13

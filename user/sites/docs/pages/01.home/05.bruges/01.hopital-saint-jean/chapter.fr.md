@@ -1,6 +1,5 @@
 ---
 title: Hôpital Saint-Jean
-slug: hopital-saint-jean
 menu: hopital-saint-jean
 taxonomy:
     category: [docs, fr]
