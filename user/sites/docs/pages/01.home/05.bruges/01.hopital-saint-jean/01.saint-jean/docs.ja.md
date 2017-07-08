@@ -2,23 +2,24 @@
 title: 洗礼者聖ヨハネと福音書記者聖ヨハネの三連画
 menu: 聖ヨハネ
 slug: saint-jean
-template: docs_minus_h1
+template: docs_split
 taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
 date: 05-01-2017, 23:13
 modified: 04-06-2017, 21:13
+itempage: Article
 metadata:
-   description: "ブリュージュの聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を紹介する写真と文書"
-   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc'
+   description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"
+   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc, Sint-Janshospitaal, 聖女カタリナの神秘の結婚, Shrine of St. Ursula'
    image: saint-jean_700x379.jpg
    image_width: 700
    image_height: 379
-   image_title: 洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画
-   image_legend: "francois-vidit.com サイトの洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画セクション写真"
+   image_title: 開翼時の洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画
+   image_legend: "開翼時の洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画"
    'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.bruges/01.hopital-saint-jean/01.saint-jean/docs.ja.md"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖女カタリナの神秘の結婚", "The St John Altarpiece", "Triptych of the two Saints John", "Old St. John's Hospital", "二人の聖ヨハネの三連画", "聖ヨハネ祭壇画"]
 shortcode-core:
    active: true
 sitemap:
@@ -35,17 +36,21 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-380.webp 380w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.webp 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.webp 640w,
-/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w"
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-840.webp 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-1280.webp 1280w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-380.jpg 380w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-480.jpg 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-640.jpg 640w,
-/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w">
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-840.jpg 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-1280.jpg 1280w">
 </picture><figcaption><ruby><rb>開翼時</rb><rt>かいよくじ</rt></ruby>の三連画</figcaption></figure>
 
 この作品は《聖女カタリナの神秘の結婚》とも呼ばれている。  
@@ -116,7 +121,9 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.webp 380w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.webp 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.webp 640w,
-/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-840.webp 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-1280.webp 1280w"
 type="image/webp" />
 <img
 src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" class="class-diane-img"
@@ -126,7 +133,9 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-380.jpg 380w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-480.jpg 480w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-640.jpg 640w,
-/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w">
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-840.webp 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-1280.webp 1280w">
 </picture><figcaption><ruby><rb>閉翼時</rb><rt>へいよくじ</rt></ruby>の三連画</figcaption></figure>
 
 豊かな輝きを開翼時画面から一転して、閉翼時画面は、聖人たちと修道院関係者たちが極めて禁欲的な色彩で描かれています。

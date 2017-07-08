@@ -3,8 +3,8 @@ title: イリス
 menu: イリス
 template: docs_minus_h1
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 04-06-2017, 21:16
+date: 04-06-2017, 21:16
+modified: 07-07-2017, 18:36
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -48,7 +48,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
 </picture><figcaption>眠りの神の洞窟に入るユノー女神の伝達者であるイリス</figcaption></figure>
 
-!!!! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] に展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}イリスとソムヌス{/r:Iris&#160;et&#160;Somnus}」 絵画が {r}ルイ=フィリップの家族の間{/r:Salon&#160;de&#160;Famille&#160;de&#160;Louis-Philippe} に見られます。  
+!!!! [{r}大トリアノン宮殿{/r:Le&#160;Grand&#160;Trianon}][1] に展示されている [{r}ルネ＝アントワーヌ・ウアス{/r:René&#160;-&#160;Antoine&#160;Houasse}][2] が描いた 「 {r}イリスとモルペウス{/r:Iris&#160;et&#160;Morphée}」 絵画が {r}ルイ=フィリップの家族の間{/r:Salon&#160;de&#160;Famille&#160;de&#160;Louis-Philippe} に見られます。  
 !!!! [{r}オウィディウス{/r:Ovidius}][3] が書いた「 [{r}変身物語{/r:Metamorphoseon}][4] 」において、夫婦 [{r}ケユクス{/r:Ceyx}][5] と [{r}アルキュオネ{/r:Alcyone}][6] の深い愛情が語られている。  
 !!!! ある日、 [{r}アポロン{/r:Apollōn}][7] の神託を伺うために [クラロス][8] へ赴こうとしたケユクスは「どうか陸路で行ってほしい」という妻の言葉を聞き入れずに船で出かけ、大時化に遭って海の藻屑となってしまいます。  
 !!!! 何も知らないアルキュオネは日夜 [{r}ユノー女神{/r:Juno}][9] の神殿で夫の無事な帰還を祈っていましたが、もはや叶えようもない祈りを聞かされ続けるのはユノーにとってもつらいことでした。  

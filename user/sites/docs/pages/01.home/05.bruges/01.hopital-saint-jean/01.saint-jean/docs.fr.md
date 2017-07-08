@@ -7,9 +7,10 @@ taxonomy:
 created: 05-01-2017, 23:13
 date: 05-01-2017, 23:13
 modified: 13-01-2017, 16:13
+itempage: Article
 metadata:
-   description: "texte descriptif et image du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
-   keywords: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Le Mariage mystique de sainte Catherine, Memling, Memlinc, Hôpital Saint-Jean, Bruges, Brugge, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Hans Memlinc, Memling, Memlinc"
+   description: "texte descriptif et images du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
+   keywords: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Mariage mystique de sainte Catherine, Hôpital Saint-Jean, Bruges, Brugge, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Hans Memlinc, Musée Memling"
    image: saint-jean_700x379.jpg
    image_width: 700
    image_height: 379
@@ -17,7 +18,7 @@ metadata:
    image_legend: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste"
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.fr.md"]
-specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Hôpital Saint-Jean de Bruges", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", "Hans Memlinc", "Memling", "Memlinc", "Triptiek van Johannes de Doper en Johannes de Evangelist"]
+specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", "Hans Memlinc", "Memling", "Memlinc", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Sint-Janshospitaal"]
 shortcode-core:
    active: true
 sitemap:
