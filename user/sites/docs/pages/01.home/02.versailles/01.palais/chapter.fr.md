@@ -5,9 +5,9 @@ taxonomy:
     category: [docs, fr]
 created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
-modified: 19-08-2016, 17:38
+modified: 13-07-2017, 23:13
 metadata:
-   description: "section Château de Versailles du site francois-vidit.com"
+   description: "sommaire de la section Château de Versailles du site francois-vidit.com"
    keywords: 'Château de Versailles'
    image: versailles_700x375.jpg
    image_width: 700
