@@ -2,22 +2,22 @@
 title: Saint Michael in the revelation
 menu: revelation
 created: 22-11-2015, 07:05
-date: 22-11-2015, 07:05
-modified: 24-07-2016, 00:21
+date: 24-07-2016, 00:21
+modified: 17-07-2017, 13:53
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-   description: 'Text of the 12th chapter of the revelation, unique of the New Testament where appears the Archangel Saint-Michael'
-   keywords: 'Archangel Saint-Michael, New Testament, revelation, 12th chapter of the revelation, Mount-Saint-Michael, Mont-Saint-Michel'
+   description: 'Presentation of text of the 12th chapter of the revelation, unique of the New Testament where appears the Archangel Michael (St. Michael) related to the history of the Mont Saint-Michel'
+   keywords: 'Archangel Michael, New Testament, revelation, 12th chapter of the revelation, Mount Saint Michael, Mont-Saint-Michel, St. Michael'
    image: apocalypse_700x694.jpg
    image_height: 700
    image_width: 694
-   image_title: Archangel Saint-Michael
-   image_legend: Archangel Saint-Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
+   image_title: Archangel Michael
+   image_legend: Archangel Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/arch-michel/01.nom/docs.en.md", "https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_international", "https://fr.wikipedia.org/wiki/Michel_(archange)"]
-specialty: ["History of France", "Religious history", "Biblic history", "New Testament", "Revelation", "Archangel Michael", "Saint Michael", "Mont-Saint-Michel", "Mount Saint Michael"]
+specialty: ["History of France", "Religion", "Biblic history", "Faith", "New Testament", "Revelation", "Archangel Michael", "St. Michael", "Mont-Saint-Michel", "Mount Saint Michael"]
 shortcode-core:
    active: true
 sitemap:

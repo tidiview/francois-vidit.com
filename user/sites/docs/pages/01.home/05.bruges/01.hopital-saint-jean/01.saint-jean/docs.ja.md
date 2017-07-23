@@ -1,13 +1,13 @@
 ---
-title: 洗礼者聖ヨハネと福音書記者聖ヨハネの三連画
+title: ハンス・メムリンク筆の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画
 menu: 聖ヨハネ
 slug: saint-jean
-template: docs_split
+template: docs_minus_h1
 taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
-date: 05-01-2017, 23:13
-modified: 04-06-2017, 21:13
+date: 13-01-2017, 16:13
+modified: 22-07-2017, 16:47
 itempage: Article
 metadata:
    description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"

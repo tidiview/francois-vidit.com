@@ -1,15 +1,15 @@
 ---
-title: 聖女ウルスラの聖遺物箱
+title: ハンス・メムリンク筆の聖女ウルスラの聖遺物箱
 menu: 聖ウルスラ
 template: docs_promise
 taxonomy:
     category: [docs, ja]
 created: 03-07-2017, 09:52
 date: 03-07-2017, 09:55
-modified: 08-07-2017, 16:49
+modified: 22-07-2017, 16:25
 itempage: Article
 metadata:
-   description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にあるふくむ、ハンス・メムリンクが作った聖女ウルスラの聖遺物箱とヤコブス・デ・ヴォラギネが書いた「黄金伝説」の「一方一千童貞殉教女」章を写真や文書で紹介する"
+   description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある、ハンス・メムリンクが作った聖女ウルスラの聖遺物箱とヤコブス・デ・ヴォラギネが書いた「黄金伝説」の「一方一千童貞殉教女」章を写真や文書で紹介する"
    keywords: '聖女ウルスラの聖遺物箱, ブリュージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Hans Memling, Memling, Hans Memlinc, Memlinc, ヤコブス・デ・ヴォラギネ, 黄金伝説, 一方一千童貞殉教女'
    image: sainte-ursule-700x450.jpg
    image_width: 700
@@ -17,8 +17,8 @@ metadata:
    image_title: 聖女ウルスラの死
    image_legend: "「聖女ウルスラの殉教」絵画の詳細、聖女ウルスラの死"
    'twitter:card' : summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.bruges/01.hopital-saint-jean/02.saint-ursule/docs.ja.md"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "聖女ウルスラの聖遺物箱", "Ursulaschrijn", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖女ウルスラの聖遺物匣", "Shrine of St. Ursula", "コブス・デ・ヴォラギネ", "黄金伝説", "一方一千童貞殉教女"]
+significantlinks: ["https://ja.wikipedia.org/wiki/ハンス・メムリンク"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "聖女ウルスラの聖遺物箱", "Ursulaschrijn", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖女ウルスラの聖遺物匣", "Shrine of St. Ursula", "ヤコブス・デ・ヴォラギネ", "黄金伝説", "一方一千童貞殉教女"]
 shortcode-core:
    active: true
 sitemap:
@@ -26,6 +26,44 @@ sitemap:
    priority: 0.9
 ---
 # <ruby><rb lang="ja">聖女ウルスラの聖遺物箱</rb><rt lang="nl">Ursulaschrijn</rt></ruby>
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-280.webp 280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-380.webp 380w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-480.webp 480w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-640.webp 640w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.webp 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-840.webp 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1280.webp 1280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1600.webp 1600w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.jpg" title="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-280.jpg 280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-380.jpg 380w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-480.jpg 480w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-640.jpg 640w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.jpg 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-840.jpg 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1920.jpg 1920w">
+</picture><figcaption>《聖女ウルスラの聖遺物箱》</figcaption></figure>
+
+=*=
+
+##**一方一千童貞殉教女** 
+
+<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
+一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。  
+昔 {r}ブリタニア{/r:Britannia} に {r}ノトゥス{/r:Nothus} もしくは {r}マウルス{/r:Maurus} という名の {r}敬度{/r:けいけん} なキリスト教徒の王がいた。王には娘がひとりあって、その名を {r}ウルスラ{/r:Ursula} といった。品行ただしく、聡明で、みめかたちも美しかったので、その評判は、津々浦々にまで聞こえていた。  
+さて、当時の {r}イングランド{/r:Anglia} 王は、たいへん強力で、多くの部族を支配下に置いていた。ウルスラの高い評判は、この王の耳にもとどいた。彼は、その乙女を自分のひとり息子の嫁にむかえることができれば、これにまさる喜びはあるまい、と言った。若い王子も、ぜひその乙女を妻にしたいものだと考えた。そこで、ウルスラの父王のもとに盛大な使節団を送りこむことにした。そして、 {r}慇懃{/r:いんぎん} に礼をつくし、相手の意をむかえることをいろいろ約束してやれ、ただし、色よい返事をしそうになかったらおどしをかける手も忘れるでないぞ、と使者たちに言いふくめた。ブリタニアの王は、使者の口上を聞いて、困ったことになったものだと頭をかかえこんだ。というのは、キリストの教えを信仰しているわが娘を偽神の崇拝者にあたえる気にはなれなかったからである。それに、娘がこの結婚にけっして同意しないであろうことも、おおよそ見当がついていた。
 
 <figure><picture>
 <source
@@ -42,7 +80,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-700x351.jpg" title="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-700x351.jpg" title="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-280.jpg 280w,
@@ -56,16 +94,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-1920.jpg 1920w">
 </picture><figcaption>《<ruby><rb>ケルン</rb><rt>Colonia</rt></ruby>での到着》、《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での到着》、《<ruby><rb>ローマ</rb><rt>Roma</rt></ruby>での到着》</figcaption></figure>
 
-##**一方一千童貞殉教女** 
-
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
-一万一千人の乙女たちが殉教したいきさつは、以下のとおりである。  
-昔 {r}ブリタニア{/r:Britannia} に {r}ノトゥス{/r:Nothus} もしくは {r}マウルス{/r:Maurus} という名の {r}敬度{/r:けいけん} なキリスト教徒の王がいた。王には娘がひとりあって、その名を {r}ウルスラ{/r:Ursula} といった。品行ただしく、聡明で、みめかたちも美しかったので、その評判は、津々浦々にまで聞こえていた。  
-さて、当時の {r}イングランド{/r:Anglia} 王は、たいへん強力で、多くの部族を支配下に置いていた。ウルスラの高い評判は、この王の耳にもとどいた。彼は、その乙女を自分のひとり息子の嫁にむかえることができれば、これにまさる喜びはあるまい、と言った。若い王子も、ぜひその乙女を妻にしたいものだと考えた。そこで、ウルスラの父王のもとに盛大な使節団を送りこむことにした。そして、 {r}慇懃{/r:いんぎん} に礼をつくし、相手の意をむかえることをいろいろ約束してやれ、ただし、色よい返事をしそうになかったらおどしをかける手も忘れるでないぞ、と使者たちに言いふくめた。ブリタニアの王は、使者の口上を聞いて、困ったことになったものだと頭をかかえこんだ。というのは、キリストの教えを信仰しているわが娘を偽神の崇拝者にあたえる気にはなれなかったからである。それに、娘がこの結婚にけっして同意しないであろうことも、おおよそ見当がついていた。  
-
 他方では、イングランド王の {r}兇死暴{/r:きょうしぼう} さがおそろしかった。けれども、ウルスラは、天主のおさとしがあったのであろうか、イングランド王の申し出をお受けなさいと {r}父王{/r:おうふ} にすすめた。ただし、イングランド王とお父さまで十人の乙女を {r}選{/r:よ} りすぐって、わたしの道づれにつけ、わたしと乙女たちにそれぞれ侍女を千人ずつあたえてください、そして、わたしたちが乗る船を何 {r}艘{/r:そう} か用意してください、それから、わたしが純潔をささげるまでに三年間の {r}猶予{/r:ゆうよ} をみとめてください、そのあいだにイングランドの王子は洗礼を受け、キリスト教の教義を三年間勉強してくださらなくてはなりません、これがわたしの条件です――ウルスラは、父親にそう言った。
-
-=*=
 
 <figure><picture>
 <source
@@ -82,7 +111,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-700x1688.jpg" title="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-700x1688.jpg" title="《守護者である聖ウルスラ》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《守護者である聖ウルスラ》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-280.jpg 280w,
@@ -94,7 +123,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule2-1920.jpg 1920w">
-</picture><figcaption>《<ruby><rb>ケルン</rb><rt>Colonia</rt></ruby>での到着》、《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での到着》、《<ruby><rb>ローマ</rb><rt>Roma</rt></ruby>での到着》</figcaption></figure>
+</picture><figcaption>《守護者である聖ウルスラ》</figcaption></figure>
 
 これは、たしかに名案であった。この難題をつきつければ、イングランドの王子もその野望を思いとどまるだろう、思いとどまってくれなければ、自分とこれらの大勢の乙女たちを天主にささげようというのが、ウルスラのひそかな念願であった。ところが、王子のほうは、なにひとつ文句をつけずにウルスラの条件をのみ、みずから父のイングランド王を熱心に説きふせた。そして、さっそく洗礼を受けて、ウルスラから出されたすべての要求をいそいで実行に移せと命じた。また、娘の身の安全を案じた父親のはからいで、ウルスラと乙女たちの {r}一行{/r:いっこう} には護衛役の男たちもついていくことになった。こうして国じゅうから乙女たちが集まってきた。この盛大な {r}門出{/r:かどで} の光景を見んものと駈けつけてきた男たちもあった。それに、彼女と巡礼の旅をともにする司教たちも続々と集まってきた。
 
@@ -121,7 +150,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule3-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule3-700x965.jpg" title="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule3-700x965.jpg" title="《ケルンでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ケルンでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule3-280.jpg 280w,
@@ -154,7 +183,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule4-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule4-700x972.jpg" title="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule4-700x972.jpg" title="《バーゼルでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule4-280.jpg 280w,
@@ -185,7 +214,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-700x1016.jpg" title="《バーゼルでの到着》聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-700x1016.jpg" title="《ローマでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ローマでの到着》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-280.jpg 280w,
@@ -197,7 +226,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule5-1920.jpg 1920w">
-</picture><figcaption>《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での到着》</figcaption></figure>
+</picture><figcaption>《<ruby><rb>ローマ</rb><rt>Roma</rt></ruby>での到着》</figcaption></figure>
 
 そういうわけで彼は、すべての聖職者ともども乙女たちをてあつくもてなした。その夜、教皇は、これらの乙女たちといっしょに殉教の冠を受けるであろうという天主のお告げを聞いた。しかし、彼は、それを自分の胸に秘めておいて、侍女たちのうちまだ受洗していなかった者に洗礼をさずけた。そして、いよいよそのときが来たと見るや、多くの会衆をまえにして自分の決意を告げ、聖務と教皇位をしりぞいた。聖 {r}ペテロ{/r:Petro} からかそえて十九代目の教皇として彼が教会を統治した期間は、一年と十一週間であった。これを聞いた人びとは、こぞって異議を申し立てた。とくに {r}枢機卿{/r:すうききょう} たちは、 {r}強硬{/r:きょうこう} に反対した。教皇は分別をなくし、栄誉ある教皇の座をすてて愚かな
 小娘のあとを追おうとしているのだ、と考えたからである。けれども、教皇は、彼らの反対にこころを動かされることなく、 {r}アメトス{/r:Ametos} という名の聖徳せいとくの人物を自分のかわりに教皇位につけた。
@@ -259,7 +288,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule7-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule7-700x1004.jpg" title="《バーゼルでの帰り》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの帰り》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule7-700x1004.jpg" title="《バーゼルでの帰り》、《バーゼルでの帰り》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《バーゼルでの帰り》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule7-280.jpg 280w,
@@ -330,7 +359,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule9-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule9-700x1733.jpg" title="《聖母子と出資女者たち》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《聖母子と出資女者たち》聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule9-700x1733.jpg" title="《聖母子と出資女者たち》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《聖母子と出資女者たち》、聖女ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule9-280.jpg 280w,

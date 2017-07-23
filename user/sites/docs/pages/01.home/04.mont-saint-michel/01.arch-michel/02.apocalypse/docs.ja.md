@@ -3,22 +3,22 @@ title: ヨハネの黙示録
 menu: 黙示録
 template: docs_minus_h1
 created: 22-11-2015, 07:05
-date: 22-11-2015, 07:05
-modified: 04-06-2017, 21:52
+date: 04-06-2017, 21:52
+modified: 17-07-2017, 13:39
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-   description: '大天使ミシェルが出現する唯一の新約聖書、黙示録１２章の文書'
-   keywords: '大天使ミカエル, 大天使ミシェル, 新約聖書, 黙示録, 黙示録１２章, モン・サン・ミシェル, モン・サン＝ミシェル, モン＝サン＝ミシェル'
+   description: 'モン・サン＝ミシェルの歴史に関係する大天使ミカエルが出現する唯一の新約聖書、黙示録１２章の文書の紹介する'
+   keywords: '大天使ミカエル, 聖ミカエル, 新約聖書, 黙示録, 黙示録１２章, モン・サン・ミシェル, モン・サン＝ミシェル, モン＝サン＝ミシェル'
    image: apocalypse_700x694.jpg
    image_height: 700
    image_width: 694
-   image_title: "大天使ミシェル"
-   image_legend: 大天使ミシェル、サン＝ル・サン＝ジルカトリック教会、パリ
+   image_title: "大天使ミカエル"
+   image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
    'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/モン・サン＝ミシェル", "https://ja.wikipedia.org/wiki/ミカエル", "https://ja.wikipedia.org/wiki/新約聖書", "https://ja.wikipedia.org/wiki/ヨハネの黙示録", "https://ja.wikipedia.org/wiki/新共同訳聖書"]
-specialty: ["フランス歴史", "宗教歴史", "聖書歴史"]
+specialty: ["フランス歴史", "宗教", "聖書歴史", "信仰", "新約聖書", "黙示録", "１２章", "モン・サン＝ミシェル", "大天使ミカエル", "聖ミカエル"]
 shortcode-core:
    active: true
 sitemap:
@@ -27,8 +27,8 @@ sitemap:
 ---
 #ヨハネの黙示録
 
-! ここでは、巡礼としての [{r}モン＝サン＝ミシェル{/r:Mont-Saint-Michel}][1] の元にある、[大天使ミカエル][2]信仰の史料をご紹介します。  
-! [大天使ミカエル][2]が登場する[新約聖書][3]の[ヨハネ黙示録][4]の黙示録の真ん中に位置付けられている。  
+! ここでは、巡礼としての [{r}モン・サン＝ミシェル{/r:Mont&#160;Saint-Michel}][1] の元にある、[大天使ミカエル][2]信仰の史料をご紹介します。  
+! [大天使ミカエル][2]が登場する[新約聖書][3]の[ヨハネ黙示録][4]の真ん中に位置付けられている。  
 ! この第十二章文書は、「天の戦い」とも呼ばれている通り、恐ろしい戦いが起こって、大天使ミカエルが見えて来ますが、言葉より、[新共同訳][5]から引用されている本文を自分でお読みになることをお勧めします。  
 
 ##### [color=#df8a13]12章, 1-18節[/color]  

@@ -1,12 +1,12 @@
 ---
-title: St. Ursula Shrine
+title: St. Ursula Shrine by Hans Memling
 menu: saint-ursula
 template: docs_promise
 taxonomy:
     category: [docs, en]
 created: 03-07-2017, 14:42
-date: 03-07-2017, 14:42
-modified: 03-07-2017, 14:42
+date: 08-07-2017, 16:49
+modified: 22-07-2017, 16:25
 itempage: Article
 metadata:
    description: "Presentation and description of the Shrine de St. Ursula, whose painter Hans Memling decorated four side panels in 1489, visible at the Memling Museum, Old St. John's Hospital of Bruges, and the text of the 154th chapter “The Golden Legend” written by Jacobus de Voragine, entitled “the Eleven Thousand Virgins”"
@@ -17,7 +17,7 @@ metadata:
    image_title: The death of St. Ursula
    image_legend: "The death de Saint Ursule, detail of the third panel, “The Martyrdom of St. Ursula”"
    'twitter:card' : summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.reference/04.bruges/01.hopital-saint-jean/02.saint-ursule/docs.ja.md"]
+significantlinks: ["https://en.wikipedia.org/wiki/St._Ursula_Shrine"]
 specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Brugge", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Old St. John's Hospital", "Hans Memling Museum",  "Hans Memling", "Hans Memlinc", "Shrine de St. Ursula", "Ursulaschrijn", "Sint-Janshospitaal", "Jacobus de Voragine", "The Golden Legend", "the Eleven Thousand Virgins"]
 shortcode-core:
    active: true
@@ -26,6 +26,43 @@ sitemap:
    priority: 0.9
 ---
 # <ruby><rb lang="en">St. Ursula Shrine</rb><rt lang="nl">Ursulaschrijn</rt></ruby>
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-280.webp 280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-380.webp 380w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-480.webp 480w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-640.webp 640w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.webp 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-840.webp 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1280.webp 1280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1600.webp 1600w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.jpg" title="Châsse de Sainte Ursule, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Châsse de Sainte Ursule, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-280.jpg 280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-380.jpg 380w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-480.jpg 480w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-640.jpg 640w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-700x1037.jpg 700w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-840.jpg 840w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule1-1920.jpg 1920w">
+</picture><figcaption>Châsse de Sainte Ursule</figcaption></figure>
+
+=*=
+
+##**the Eleven Thousand Virgins**
+
+<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
+The passion of eleven thousand virgins was hallowed in this manner.  
+In Britain was a christian king named Notus or Maurus, which engendered a daughter named Ursula. This daughter shone full of marvellous honesty, wisdom, and beauty, and her fame and renomee was borne all about. And the king of England which then was right mighty, and subdued many nations to his empire, heard the renomee of her, and said that he would be well happy if this virgin might be coupled to his son by marriage. And the young man had great desire and will to have her. And there was a solemn embassy to the father of Ursula, and promised great promises, and said many fair words for to have her; and also made many menaces if they returned vainly to their lord. And then the king of Britain began to be much anxious, because that she that was ennobled in the faith of Jesu Christ should be wedded to him that adored idols, because that he wist well she would not consent in no manner, and also because he doubted much the cruelty of the king.
 
 <figure><picture>
 <source
@@ -52,13 +89,7 @@ srcset="
 /user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/sainte-ursule-1280.jpg 1280w">
 </picture><figcaption>“Arrival at Koln”, “Arrival at Basel”, “Arrival at Rome”</figcaption></figure>
 
-##**the Eleven Thousand Virgins**
-
-<span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
-The passion of eleven thousand virgins was hallowed in this manner.  
-In Britain was a christian king named Notus or Maurus, which engendered a daughter named Ursula. This daughter shone full of marvellous honesty, wisdom, and beauty, and her fame and renomee was borne all about. And the king of England which then was right mighty, and subdued many nations to his empire, heard the renomee of her, and said that he would be well happy if this virgin might be coupled to his son by marriage. And the young man had great desire and will to have her. And there was a solemn embassy to the father of Ursula, and promised great promises, and said many fair words for to have her; and also made many menaces if they returned vainly to their lord. And then the king of Britain began to be much anxious, because that she that was ennobled in the faith of Jesu Christ should be wedded to him that adored idols, because that he wist well she would not consent in no manner, and also because he doubted much the cruelty of the king. And she, that was divinely inspired, did so much to her father that she consented to the marriage by such a condition, that for to solace her he should send to her father ten virgins, and to herself, and to those ten other virgins, he should send to each a thousand virgins, and should give to her space of three years for to dedicate her virginity, and the young man should be baptized, and in these three years he should be informed in the faith sufficiently, so that by wise counsel, and by virtue of the condition made, he should withdraw from her his courage.
-
-=*=
+And she, that was divinely inspired, did so much to her father that she consented to the marriage by such a condition, that for to solace her he should send to her father ten virgins, and to herself, and to those ten other virgins, he should send to each a thousand virgins, and should give to her space of three years for to dedicate her virginity, and the young man should be baptized, and in these three years he should be informed in the faith sufficiently, so that by wise counsel, and by virtue of the condition made, he should withdraw from her his courage.
 
 <figure><picture>
 <source
@@ -328,4 +359,4 @@ There was a religious monk which had great devotion to these holy virgins, and i
 
 <br>
 
-<blockquote id="github-contrib"><blockquote><blockquote><blockquote><blockquote><p>You have found mistakes ? You think you can improve this section ?<a class="github-link" href="https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/docs.ja.md" rel="external nofollow"><i class="fa fa-github-square"></i> modify this page</a></p></blockquote></blockquote></blockquote></blockquote></blockquote>
+<blockquote id="github-contrib"><blockquote><blockquote><blockquote><blockquote><p>You have found mistakes ? You think you can improve this section ?<a class="github-link" href="https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/02.sainte-ursule/docs.en.md" rel="external nofollow"><i class="fa fa-github-square"></i> modify this page</a></p></blockquote></blockquote></blockquote></blockquote></blockquote>

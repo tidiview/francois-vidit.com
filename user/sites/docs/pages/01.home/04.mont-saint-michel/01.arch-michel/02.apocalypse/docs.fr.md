@@ -3,29 +3,29 @@ title: Saint-Michel dans l'Apocalypse
 menu: apocalypse
 template: docs_minus_h1
 created: 15-01-2016, 07:10
-date: 15-01-2016, 07:10
-modified: 14-01-2017, 20:32
+date: 14-01-2017, 20:32
+modified: 17-07-2017, 13:44
 itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-   description: "Texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Saint-Michel"
-   keywords: "Archange Saint-Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont-Saint-Michel"
+   description: "Présentation du texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Michel relatif à l'histoire du Mont Saint-Michel"
+   keywords: "Archange Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont Saint-Michel, Saint Michel"
    image: apocalypse_700x694.jpg
    image_height: 700
    image_width: 694
-   image_title: "L'archange Saint-Michel"
-   image_legend: "L'archange Saint-Michel, Église Saint-Gilles, Paris"
+   image_title: "L'archange Saint Michel"
+   image_legend: "L'archange Michel, Église Saint-Gilles, Paris"
    'twitter:card': summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/04.mont-saint-michel/01.arch-michel/02.apocalypse/docs.fr.md"]
-specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique", "Nouveau Testament", "Apocalypse", "Archange Michel", "Saint-Michel", "Mont-Saint-Michel"]
+specialty: ["Histoire de France", "Histoire religieuse", "Histoire biblique", "Nouveau Testament", "Apocalypse", "Archange Michel", "Saint Michel", "Mont Saint-Michel"]
 shortcode-core:
    active: true
 sitemap:
    changefreq: yearly
    priority: 0.9
 ---
-#Saint-Michel dans l'Apocalypse
+#Saint Michel dans l'Apocalypse
 
 ##### [color=#df8a13]Ap. 12-7[/color]
 

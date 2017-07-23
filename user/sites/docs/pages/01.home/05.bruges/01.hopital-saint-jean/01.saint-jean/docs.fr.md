@@ -1,12 +1,12 @@
 ---
-title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste
+title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste de Hans Memling
 menu: saint-jean
 template: docs_minus_h1
 taxonomy:
     category: [docs, fr]
 created: 05-01-2017, 23:13
-date: 05-01-2017, 23:13
-modified: 13-01-2017, 16:13
+date: 13-01-2017, 16:13
+modified: 22-07-2017, 17:36
 itempage: Article
 metadata:
    description: "texte descriptif et images du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
@@ -17,7 +17,7 @@ metadata:
    image_title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste
    image_legend: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.bruges/01.hopital-saint-jean/01.saint-jean/docs.fr.md"]
+significantlinks: ["https://fr.wikipedia.org/wiki/Le_Mariage_mystique_de_sainte_Catherine_(Hans_Memling)"]
 specialty: ["Belgique", "Pays-Bas Bourguignons", "Flandres", "Flandres Occidentale", "Bruges", "Brugge", "Musées de Bruges", "Primitifs Flamands", "Renaissance nordique", "Hôpital Saint-Jean", "Musée Hans Memling", "Hans Memling", "Triptyque de Jean-Baptiste et de Jean l'Évangéliste", "Hans Memlinc", "Memling", "Memlinc", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Sint-Janshospitaal"]
 shortcode-core:
    active: true
