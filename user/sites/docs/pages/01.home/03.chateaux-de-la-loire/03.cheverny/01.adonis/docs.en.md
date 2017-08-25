@@ -12,8 +12,8 @@ metadata:
     description: "Text extract from chapter “Adonis” of book X of Ovid's Metamorphoses and used by painter Jean MONIER to realise the canvas representing “The Death of Adonis” exposed in the second storey of the Château de Cheverny"
     keywords: "Château de Cheverny, Castle Of Cheverny, Cheverny, Adonis, The Death of Adonis, Ovid, The Metamorphoses, Jean MONIER, La Mort d'Adonis"
     image: adonis_700x676.jpg
-    image_height: 700
-    image_width: 676
+    image_width: 700
+    image_height: 676
     image_title: "Jean MONIER, “The Death of Adonis”"
     image_legend: "Venus looks at Adonis dying killed by a wild boar"
     'twitter:card': summary

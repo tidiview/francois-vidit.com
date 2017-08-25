@@ -11,8 +11,8 @@ metadata:
    description: 'Presentation of text of the 12th chapter of the revelation, unique of the New Testament where appears the Archangel Michael (St. Michael) related to the history of the Mont Saint-Michel'
    keywords: 'Archangel Michael, New Testament, revelation, 12th chapter of the revelation, Mount Saint Michael, Mont-Saint-Michel, St. Michael'
    image: apocalypse_700x694.jpg
-   image_height: 700
-   image_width: 694
+   image_width: 700
+   image_height: 694
    image_title: Archangel Michael
    image_legend: Archangel Michael, standglass of catholic church Saint-Leu Saint-Gilles in paris
    'twitter:card': summary

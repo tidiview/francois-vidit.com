@@ -12,9 +12,9 @@ itempage: Article
 metadata:
    description: "text and image presenting the Triptych of St John the Baptist and St John the Evangelist, work of Hans Memling, seenable at the Memling Museum, Old St. John's Hospital of Bruges"
    keywords: "St John Altarpiece, Memling Museum, Bruges, Brugge, Old St. John's Hospital, Triptych of the two Saints John, Triptych of St John the Baptist and St John the Evangelist, the Mystic Marriage of St Catherine, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc"
-   image: saint-jean_700x379.jpg
+   image: saint-jean_700x345.jpg
    image_width: 700
-   image_height: 379
+   image_height: 345
    image_title: Triptych of St John the Baptist and St John the Evangelist
    image_legend: "Triptych of St John the Baptist and St John the Evangelist"
    'twitter:card': summary

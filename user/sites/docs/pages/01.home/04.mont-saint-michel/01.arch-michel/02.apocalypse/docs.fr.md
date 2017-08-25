@@ -12,8 +12,8 @@ metadata:
    description: "Présentation du texte du chapître 12 de l'Apocalypse, seul du Nouveau Testament où apparaît l'Archange Michel relatif à l'histoire du Mont Saint-Michel"
    keywords: "Archange Michel, Nouveau Testament, Apocalypse, chapître 12 de l'Apocalypse, Mont Saint-Michel, Saint Michel"
    image: apocalypse_700x694.jpg
-   image_height: 700
-   image_width: 694
+   image_width: 700
+   image_height: 694
    image_title: "L'archange Saint Michel"
    image_legend: "L'archange Michel, Église Saint-Gilles, Paris"
    'twitter:card': summary

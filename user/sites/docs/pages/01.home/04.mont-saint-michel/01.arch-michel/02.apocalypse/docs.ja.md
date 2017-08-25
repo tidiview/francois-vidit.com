@@ -12,8 +12,8 @@ metadata:
    description: 'モン・サン＝ミシェルの歴史に関係する大天使ミカエルが出現する唯一の新約聖書、黙示録１２章の文書の紹介する'
    keywords: '大天使ミカエル, 聖ミカエル, 新約聖書, 黙示録, 黙示録１２章, モン・サン・ミシェル, モン・サン＝ミシェル, モン＝サン＝ミシェル'
    image: apocalypse_700x694.jpg
-   image_height: 700
-   image_width: 694
+   image_width: 700
+   image_height: 694
    image_title: "大天使ミカエル"
    image_legend: 大天使ミカエル、サン＝ル・サン＝ジルカトリック教会、パリ
    'twitter:card' : summary

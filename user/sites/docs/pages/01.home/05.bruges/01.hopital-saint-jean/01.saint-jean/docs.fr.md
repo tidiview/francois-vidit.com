@@ -11,9 +11,9 @@ itempage: Article
 metadata:
    description: "texte descriptif et images du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
    keywords: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Mariage mystique de sainte Catherine, Hôpital Saint-Jean, Bruges, Brugge, Triptiek van Johannes de Doper en Johannes de Evangelist, Hans Memling, Hans Memlinc, Musée Memling"
-   image: saint-jean_700x379.jpg
+   image: saint-jean_700x345.jpg
    image_width: 700
-   image_height: 379
+   image_height: 345
    image_title: Triptyque de Jean-Baptiste et de Jean l'Évangéliste
    image_legend: "Triptyque de Jean-Baptiste et de Jean l'Évangéliste"
    'twitter:card': summary

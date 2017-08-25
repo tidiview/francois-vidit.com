@@ -12,8 +12,8 @@ metadata:
     description: "Texte extrait du livre 10 des Métamorphoses écrit par Ovide et utilisé par le peintre Jean MONIER pour réaliser le dessus de cheminée représentant la mort d'Adonis exposé au deuxième étage du Château de Cheverny"
     keywords: "Château de Cheverny, Cheverny, Adonis, la mort d'Adonis, Ovide, Les Métamorphoses, Jean MONIER"
     image: adonis_700x676.jpg
-    image_height: 700
-    image_width: 676
+    image_width: 700
+    image_height: 676
     image_title: "Jean MONIER, “La Mort d'Adonis”"
     image_legend: "Vénus assiste à la mort d'Adonis tué par un sanglier"
     'twitter:card': summary

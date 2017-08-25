@@ -12,9 +12,9 @@ itempage: Article
 metadata:
    description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"
    keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc, Sint-Janshospitaal, 聖女カタリナの神秘の結婚, Shrine of St. Ursula'
-   image: saint-jean_700x379.jpg
+   image: saint-jean_700x345.jpg
    image_width: 700
-   image_height: 379
+   image_height: 345
    image_title: 開翼時の洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画
    image_legend: "開翼時の洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画"
    'twitter:card' : summary

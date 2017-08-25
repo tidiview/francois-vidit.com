@@ -13,8 +13,8 @@ metadata:
     description: "シュヴェルニー城の二階にある暖炉で展示されている、ジャン・モニエ画家が描いたアドニスの死を表れる絵画の元に、オウィディウス作家が書いた変身物語の第十巻末のアドニス章を語る文書"
     keywords: "シュヴェルニー城, シュヴェルニー, アドニス, アドニスの死, オウィディウス, 変身物語, ジャン・モニエ, Cheverny, Jean MONIER, Adonis, La Mort d'Adonis, Château de Cheverny"
     image: adonis_700x676.jpg
-    image_height: 700
-    image_width: 676
+    image_width: 700
+    image_height: 676
     image_title: ジャン・モニエ、《アドニスの死》
     image_legend: 猪に殺されたアドニスの死を見ているウェヌス
     'twitter:card': summary
