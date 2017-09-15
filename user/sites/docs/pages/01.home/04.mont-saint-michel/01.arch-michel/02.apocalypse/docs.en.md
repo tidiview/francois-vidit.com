@@ -2,8 +2,8 @@
 title: Saint Michael in the revelation
 menu: revelation
 created: 22-11-2015, 07:05
-date: 24-07-2016, 00:21
-modified: 17-07-2017, 13:53
+date: 17-07-2017, 13:53
+modified: 13-09-2017, 12:56
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -25,7 +25,7 @@ sitemap:
    priority: 0.9
 ---
 
-##### [color=#df8a13]Ap. 12-7[/color]
+##### [color=#df8a13]Ap. 12-7[/color] {#renvoi_bataille}
 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>
 <sup>01</sup> Now a great sign appeared in heaven: a woman, robed with the sun, standing on the moon, and on her head a crown of twelve stars.  
@@ -34,7 +34,7 @@ sitemap:
 <sup>04</sup> Its tail swept a third of the stars from the sky and hurled them to the ground, and the dragon stopped in front of the woman as she was at the point of giving birth, so that it could eat the child as soon as it was born.  
 <sup>05</sup> The woman was delivered of a boy, the son who was to rule all the nations with an iron sceptre, and the child was taken straight up to God and to his throne,  
 <sup>06</sup> while the woman escaped into the desert, where God had prepared a place for her to be looked after for twelve hundred and sixty days.  
-<sup>07</sup> And now war broke out in heaven, when Michael with his angels attacked the dragon. The dragon fought back with his angels,  
+<sup>[07][6]{#bataille}</sup> And now war broke out in heaven, when Michael with his angels attacked the dragon. The dragon fought back with his angels,  
 <sup>08</sup> but they were defeated and driven out of heaven.  
 <sup>09</sup> The great dragon, the primeval serpent, known as the devil or Satan, who had led all the world astray, was hurled down to the earth and his angels were hurled down with him.  
 <sup>10</sup> Then I heard a voice shout from heaven, 'Salvation and power and empire for ever have been won by our God, and all authority for his Christ, now that the accuser, who accused our brothers day and night before our God, has been brought down.  
@@ -50,3 +50,5 @@ sitemap:
 <br>
 
 [color=#df8a13]Liturgical Translation of the New Testament[/color]
+
+[6]: ./#renvoi_bataille "war broke out in heaven"

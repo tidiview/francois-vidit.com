@@ -44,7 +44,16 @@ htdocs.rar
 .gitignore
 README.md
 CHANGELOG.md
-
+.htaccess_original
+.htaccess_localhost
+.htaccess_hen
+.htaccess_do_not_erase_hsts_300
+.htaccess_do_not_erase_20170331
+.htaccess_before_cache_control
+.htaccess_before_automatic_https
+.gitignore
+.ovhconfig
+.ovhconfig_old_before_7.0_stable
 
 agency-site/*
 assets/*
@@ -94,7 +103,7 @@ user/themes/*
 user/themes/antimatter/*
 user/themes/mytheme/*
 user/sites/blog/*
-user/sites/about/*
+user/sites/profile/*
 user/sites/boutique/*
 user/sites/docs/config/*
 user/sites/docs/plugins/*

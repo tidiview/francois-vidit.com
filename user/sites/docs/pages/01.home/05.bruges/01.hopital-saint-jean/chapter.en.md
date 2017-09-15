@@ -8,7 +8,7 @@ date: 05-01-2017, 23:13
 modified: 05-01-2017, 23:13
 metadata:
    description: "section Old St. John's Hospital of francois-vidit.com website"
-   keywords: 'Old St. John's Hospital'
+   keywords: "Old St. John's Hospital"
    image: hopital-saint-jean_700x365.jpg
    image_width: 700
    image_height: 365
