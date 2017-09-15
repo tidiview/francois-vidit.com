@@ -41,7 +41,6 @@ logo.miff
 logo.gif
 logo.jpg
 htdocs.rar
-.gitignore
 README.md
 CHANGELOG.md
 .htaccess_original
@@ -51,9 +50,12 @@ CHANGELOG.md
 .htaccess_do_not_erase_20170331
 .htaccess_before_cache_control
 .htaccess_before_automatic_https
+.htaccess_https
 .gitignore
 .ovhconfig
 .ovhconfig_old_before_7.0_stable
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
 
 assets/*
 backup/*
@@ -106,6 +108,7 @@ user/sites/profile/config/*
 user/sites/profile/plugins/*
 user/sites/profile/themes/*
 user/sites/boutique/*
+user/sites/docs/pages/01.home/sitemap/*
 user/sites/docs/config/*
 user/sites/docs/plugins/*
 user/sites/docs/themes/*
