@@ -35,11 +35,15 @@ test.php
 user.rar
 package.json
 robots_old_20161101.txt
+robots.txt_old2
+robots.txt_old3
 logo.miff
 logo.gif
 logo.jpg
 htdocs.rar
 .gitignore
+README.md
+CHANGELOG.md
 
 
 agency-site/*
@@ -91,6 +95,7 @@ user/themes/antimatter/*
 user/themes/mytheme/*
 user/sites/blog/*
 user/sites/about/*
+user/sites/boutique/*
 user/sites/docs/config/*
 user/sites/docs/plugins/*
 user/sites/docs/themes/*
@@ -107,3 +112,5 @@ README.md
 gulpfile.js
 *.jpg
 *.webp
+*.mp3
+*.png
