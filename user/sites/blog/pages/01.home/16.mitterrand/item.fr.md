@@ -28,7 +28,7 @@ metadata:
     image_height: 525
     image_title: Jean-Luc Mélenchon
     image_legend: "affiche de campagne du candidat du Front de Gauche Jean-Luc Mélenchon à l'élection présidentielle de 2012"
-significantlinks: ["https://www.youtube.com/watch?v=uOeiRdPXuqg", "http://www.francois-vidit.fr/blog/fr/democratie"]
+significantlinks: ["https://www.youtube.com/watch?v=uOeiRdPXuqg", "http://www.francois-vidit.com/blog/fr/democratie"]
 specialty: ["politique", "histoire de France", "citoyenneté"]
 youtube:
    player_parameters:

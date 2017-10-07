@@ -2,8 +2,9 @@
 title: 異邦人
 menu: 異邦人
 slug: ihoujin
-date: 06-09-2016, 18:04
-modified: 02-11-2016, 10:17
+created: 06-09-2016, 18:04
+date: 02-11-2016, 10:17
+modified: 06-10-2017, 14:04
 itempage: BlogPosting
 base64_background: clouds
 base64_itembackground: cloudsinthesky
@@ -35,7 +36,7 @@ shortcode-core:
 ---
 !!!! 通常では、異なる邦の人は「異邦人」ではありますが、ここでは、誰かに対して国が異なるのではない問答を紹介します。
 
-お楽しみに！（作者は驚きですが...静かに） 
+お楽しみに！（作者は驚きですが） 
 
 ===
 
@@ -78,14 +79,14 @@ shortcode-core:
 <br>
 
 !!!! 詩：
-!!!! : [{r}Charles{/r:シャルル} {r}BAUDELAIRE{/r:ボードレール}][1] 「L'{r}étranger{/r:異邦人}」 。
+!!!! : [{r}シャルル(Charles)・()ボードレール(BAUDELAIRE){/r}][1]、「{r}異邦人(L&#39;étranger){/r}」。
 !!!! : [原文][2]
 !!!! 
 !!!! 日本語訳：
 !!!! : 独自
-!!!! : （訳する文書のご使用しょうは、「 [{r}François{/r:フランソワ} {r}VIDIT{/r:ヴィディ}][3] 訳」（リンクを含む）を追加することで可能としている）
+!!!! : （文書の御使用は「[{r}フランソワ(François)・()ヴィディ(VIDIT){/r}][3] 訳」（リンクを含む）追加で可能としている）
 
 
 [1]: https://ja.wikipedia.org/wiki/シャルル・ボードレール "https://ja.wikipedia.org/wiki/シャルル・ボードレール"
-[2]: https://francois-vidit.com/blog/fr/ikokujin "l'étranger"
-[3]: https://francois-vidit.com/blog/ja/ikokujin "異邦人"
+[2]: https://francois-vidit.com/blog/fr/ihoujin "l'étranger"
+[3]: https://francois-vidit.com/blog/ja/ihoujin "異邦人"

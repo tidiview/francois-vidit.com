@@ -65,16 +65,16 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
 </picture><figcaption><ruby><rb>Vendôme&#160;Square</rb><rt>place&#160;Vendôme</rt></ruby> in Paris according to the <ruby><rb>Turgot&#160;Plan</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby> in 1734</figcaption></figure>
 
-[color=#b52b27]**Vendôme Square in Paris in the 17<sup>th</sup> century**[/color]  
+[color=#3d8b3d]**Vendôme Square in Paris in the 17<sup style="color:#3d8b3d;">th</sup> century**[/color]  
 
-!!!! La [{r}Vendôme&#160;Square{/r:place&#160;Vendôme}][1] had a very different face before the opening of the [{r}Rivoli&#160;Street{/r:rue&#160;de&#160;Rivoli}][2] (1801).  
+!!!! La [{r}Vendôme&#160;Square(place&#160;Vendôme){/r}][1] had a very different face before the opening of the [{r}Rivoli&#160;Street(rue&#160;de&#160;Rivoli){/r}][2] (1801).  
 
 The square was first constructed in a square form.  
 This form is considered too rigid; in 1700, part of the facades was torn down and then rebuilt, in 1701, in the present octagonal form.  
 
 Looking closely at the 1734 [Turgot Plan][3], the place appears to be much calmer:
-+ on the [Tuileries][10] side, The [{r}Castiglione&#160;Street{/r:rue&#160;de&#160;Castiglione}][4] ([fig. 1](#castiglione)),
-+ on the [Opéra][11] side, the [{r}Paix&#160;Street{/r:rue&#160;de&#160;la&#160;Paix}][5] ([fig. 2](#paix)),
++ on the [Tuileries][10] side, The [{r}Castiglione&#160;Street(rue&#160;de&#160;Castiglione){/r}][4] ([fig. 1](#castiglione)),
++ on the [Opéra][11] side, the [{r}Paix&#160;Street(rue&#160;de&#160;la&#160;Paix){/r}][5] ([fig. 2](#paix)),
 has not yet been pierced.
 
 <figure id="castiglione"><picture>
@@ -117,8 +117,8 @@ srcset="
  (1734)</figcaption></figure> 
 
 The access is only by:
-+ the [{r}Saint-Honoré&#160;Street{/r:rue&#160;Saint-Honoré}][6] on the [Tuileries][10] side ([fig. 1](#castiglione) above),
-+ and the [{r}Capucines&#160;Street{/r:rue&#160;des&#160;Capucines}][7] on the [Opéra][11] side ([fig. 2](#paix) below).  
++ the [{r}Saint-Honoré&#160;Street(rue&#160;Saint-Honoré){/r}][6] on the [Tuileries][10] side ([fig. 1](#castiglione) above),
++ and the [{r}Capucines&#160;Street(rue&#160;des&#160;Capucines){/r}][7] on the [Opéra][11] side ([fig. 2](#paix) below).  
 
 <figure id="paix"><picture>
 <source
@@ -160,7 +160,7 @@ srcset="
 
 It could not be passed through as since the 19<sup>th</sup> century.  
 
-On the [{r}Opera{/r:Opéra}][11] side, at the location of the current [{r}Paix&#160;Street{/r:rue&#160;de&#160;la&#160;Paix}][5], was the [{r}convent&#160;of&#160;the&#160;Capucines{/r:couvent&#160;des&#160;Capucines}][8] ([fig. 3](#couvent)).
+On the [{r}Opera(Opéra){/r}][11] side, at the location of the current [{r}Paix&#160;Street(rue&#160;de&#160;la&#160;Paix){/r}][5], was the [{r}convent&#160;of&#160;the&#160;Capucines(couvent&#160;des&#160;Capucines){/r}][8] ([fig. 3](#couvent)).
 
 <figure id="couvent"><picture>
 <source
@@ -202,7 +202,7 @@ srcset="
 
 [Madame de Pompadour][9] was buried, as was her mother and sister, in the church.
 
-In front, on the [Tuileries][11]' side, another portal, the portal of [{r}convent&#160;of&#160;the&#160;Capucines{/r:couvent&#160;des&#160;Capucines}][8] was responding to it ([fig. 4](#feuillants)).
+In front, on the [Tuileries][11]' side, another portal, the portal of [{r}convent&#160;of&#160;the&#160;Capucines(couvent&#160;des&#160;Capucines){/r}][8] was responding to it ([fig. 4](#feuillants)).
 
 <figure id="feuillants"><picture>
 <source
@@ -284,7 +284,7 @@ srcset="
 
 It is an impressive work by [François GIRARDON][14] , which reaches, with its pedestal, a height of 17m high.  
 
-The [{r}Revolution{/r:Révolution}][15] will destroy it but one of the huge feet of the king survived its melt and is exhibited at the Museum of History of the City of Paris, the [{r}Carnavalet&#160;Museum{/r:Musée&#160;Carnavalet}][16].  
+The [{r}Revolution(Révolution){/r}][15] will destroy it but one of the huge feet of the king survived its melt and is exhibited at the Museum of History of the City of Paris, the [{r}Carnavalet&#160;Museum(Musée&#160;Carnavalet){/r}][16].  
 
 <br>
 

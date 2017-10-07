@@ -7,7 +7,7 @@ taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
 date: 13-01-2017, 16:13
-modified: 22-07-2017, 17:36
+modified: 06-10-2017, 00:23
 itempage: Article
 metadata:
    description: "text and image presenting the Triptych of St John the Baptist and St John the Evangelist, work of Hans Memling, seenable at the Memling Museum, Old St. John's Hospital of Bruges"
@@ -21,7 +21,7 @@ metadata:
 significantlinks: ["https://en.wikipedia.org/wiki/St_John_Altarpiece_(Memling)"]
 specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Brugge", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", "Hans Memling Museum", " Hans Memling", "St John Altarpiece", "Triptych of St John the Baptist and St John the Evangelist", "Triptych of the two Saints John", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Hans Memling", "Memling"]
 ---
-# {r}Triptych<wbr>&#160;<wbr>of<wbr>&#160;<wbr>Saint<wbr>&#160;<wbr>John<wbr>&#160;<wbr>The<wbr>&#160;<wbr>Baptist<wbr>&#160;<wbr>and<wbr>&#160;<wbr>Saint<wbr>&#160;<wbr>John<wbr>&#160;<wbr>The<wbr>&#160;<wbr>Evange<wbr>list{/r:Triptiek<wbr>&#160;<wbr>van<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Doper<wbr>&#160;<wbr>en<wbr>&#160;<wbr>Johannes<wbr>&#160;<wbr>de<wbr>&#160;<wbr>Evangelist}
+# {r}Triptych&#160;of&#160;Saint&#160;John&#160;The&#160;Baptist&#160;and&#160;Saint&#160;John&#160;The&#160;Evangelist(Triptiek&#160;van&#160;Johannes&#160;de&#160;Doper&#160;en&#160;Johannes&#160;de&#160;Evangelist){/r}
 
 <figure><picture>
 <source
@@ -50,7 +50,7 @@ The presence of Saint John-Baptiste on the central panel confirms this assumptio
 The Evangelist carries the calyx with the venomous serpent, the latter being a home to the fact that poisoning was sought.  
 Saint Jean Baptiste is recognized to the accompanying lamb.  
 He wears the robe in camel hair and shows something of his finger.  
-This attitude relates to the gospel text « {r}behold&#160;the&#160;Lamb&#160;of&#160;God{/r:Ecce&#160;Agnus&#160;Dei} » by which John the Baptist announces the coming of Christ.  
+This attitude relates to the gospel text « {r}behold(Ecce){/r} the {r}Lamb(Agnus){/r} of {r}God(Dei){/r} » by which John the Baptist announces the coming of Christ.  
 These two characters together with two saints surround the sitting Virgin, throning in front of a brocable fabric and under a red velvet-coloured canopy.  
 Two angels hold above the head a gold crown.  
 The triangle layout of the three characters seated in the foreground forms the basis of a strictly symmetrical composition.  
@@ -61,7 +61,7 @@ The sword and the broken wheel are the attributes of Saint Catherine of Alexandr
 The holy reading is Sainte Barbe that is recognized in turn.  
 Two angelots hold company to the saints.  
 The one on the left plays the portable organ, also called positive, that on the right holds a book that the Virgin through.  
-The presence of all these saints surrounding the Virgin is rather reminiscent of the theme of « {r}Holy&#160;Conversation{/r:Sacra&#160;Conversazione} », a subject that Memling would appreciate because it would gave him the opportunity to develop a very balanced work.  
+The presence of all these saints surrounding the Virgin is rather reminiscent of the theme of « {r}Holy(Sacra){/r} {r}Conversation(Conversazione){/r} », a subject that Memling would appreciate because it would gave him the opportunity to develop a very balanced work.  
 
 These are however the two saint John who appear to be the main characters, as demonstrated by the importance accorded to many, as demonstrated by the importance attached to the many details which, towards the viewer, must enlighten their biography.  
 Scenes illustrating the main episodes of their lives are found on the columns capitals, in the landscapes and on the colets.  

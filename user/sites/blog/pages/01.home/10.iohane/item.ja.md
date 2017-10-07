@@ -1,8 +1,9 @@
 ---
 title: 風は思いのままに吹く...
 menu: 風
+created: 15-12-2015
 date: 15-12-2015
-modified: 23-07-2016
+modified: 06-10-2017, 12:59
 itempage: BlogPosting
 base64_background: chevrons
 base64_itembackground: windindicator
@@ -30,7 +31,7 @@ metadata:
     image_legend: Le vent souffle où il veut
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/ヨハネ_(使徒)"]
-specialty: ["フランス", "日本", "ニュース", "報道", "翻訳", "通訳", "日本語", "諸子百家", "古代中国哲学", "建築", "囲碁", "フランス歴史", "日本歴史", "日仏歴史", "哲学", "市民権"]
+specialty: ["フランス", "哲学", "宗教", "キリスト教"]
 ---
 
 !!! <sup>8</sup> あなたはその音を聞いても、それがどこから来て、どこへ行くかを知らない。

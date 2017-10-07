@@ -1,9 +1,10 @@
 ---
-title: ロベスピエール と 英国
+title: ロベスピエールと英国
 menu: ロベスピエール
 template: curtain
-date: 24-11-2015
-modified: 23-07-2016, 20:02
+created: 24-11-2015
+date: 23-07-2016, 20:02
+modified: 06-10-2017, 12:45
 itempage: BlogPosting
 body_classes: header-image fullwidth
 header_image: false
@@ -37,14 +38,14 @@ shortcode-core:
 ---
 
 !! 「私はフランス人として、国民代表者として、英国民が嫌いと申します」！！！  
-!! ここでは、英国バッシンングするためではなく、革命者達を代表といえる [{r}Robespierre{/r:ロベスピエール}][1] の人間性への意義の何かが表明されているから取り上げられている。  
+!! ここでは、英国バッシンングするためではなく、革命者達を代表といえる[{r}Robespierre(ロベスピエール){/r}][1]の人間性への意義の何かが表明されているから取り上げられている。  
 !! ご覧ください。
 
 ===
 
 <br>
 
-{r}Robespierre{/r:ロベスピエール}：
+{r}Robespierre(ロベスピエール){/r}：
 : 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 一人の人間としてしか英国人に興味が無いのです。  
@@ -54,7 +55,7 @@ shortcode-core:
 
 <br>
 
-!! [{r}アルフォンス{/r:Alphonse} ・ {r}オラール{/r:AULARD}][2], [La société des Jacobins recueil de documents pour l'étude de la société des Jacobins t. 5 p. 633](http://francois-vidit.fr/blog/fr/robespierre-angleterre "フランス語") 
+!! [{r}アルフォンス(Alphonse)・()オラール(AULARD){/r}][2], [recueil de documents pour l'étude de la société des Jacobins t. 5 p. 633](https://francois-vidit.com/blog/fr/robespierre "フランス語での全文") 
 
 [1]: https://ja.wikipedia.org/wiki/マクシミリアン・ロベス "https://ja.wikipedia.org/wiki/マクシミリアン・ロベスピエール"
 [2]: https://ja.wikipedia.org/wiki/アルフォンス・オラール "https://ja.wikipedia.org/wiki/アルフォンス・オラール"

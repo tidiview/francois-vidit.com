@@ -2,8 +2,8 @@
 title: Latona
 menu: latona
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 10:05
+date: 10-01-2017, 10:05
+modified: 05-10-2017, 18:52
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -46,7 +46,7 @@ srcset="
 </picture><figcaption>Lycian peasants transformed into mud-pool animals by Latona's anger</figcaption></figure>
 
 !! <cite style="font-size:1.2rem;text-align: center;">« one has to go straight to the top of Latona and make a break to consider Latona and the Lezards, the ramps, <ruby><rb style="color:#b52b27">the&#160;Royal&#160;Alley</rb><rt style="color:#b52b27;font-size: 60%;">l'Allée&#160;Royale</rt></ruby>, <ruby><rb style="color:#b52b27">the&#160;Apollo</rb><rt style="color:#b52b27;font-size: 60%;">l'Apollon</rt></ruby>, the canal then turn around back to see the Parterre and the château. »</cite>
-!! As [Louis XIV][1] wrote in his “{r}Way&#160;to&#160;present&#160;the Gardens&#160;of&#160;Versailles{/r:Manière&#160;de&#160;montrer&#160;les&#160;jardins&#160;de&#160;Versailles}”, from the palace western facade, along its central axe, after the {r}the&#160;Ornamental&#160;Pool{/r:le&#160;Parterre&#160;d'&#160;Eau}, enjoying the opening change of the horizon line, {r}the&#160;Latona&#160;Fountain&#160;and&#160;Parterre{/r:le&#160;Bassin&#160;et&#160;le&#160;Parterre&#160;de&#160;Latone} appears。  
+!! As [Louis XIV][1] wrote in his “{r}Way(Manière){/r} {r}to(de){/r} {r}present(montrer){/r} {r}the(les){/r} {r}Gardens(jardins){/r} {r}of(de){/r} {r}Versailles(Versailles){/r}”, from the palace western facade, along its central axe, after the {r}the(le){/r} {r}Ornamental&#160;Pool(&#160;Parterre&#160;d&#39;Eau){/r}, enjoying the opening change of the horizon line, {r}the(le){/r} {r}Latona&#160;Fountain&#160;and&#160;Parterre(Bassin&#160;et&#160;le&#160;Parterre&#160;de&#160;Latone){/r} appears。  
 !! Here is a fountain inspired by the opposition between [Latona][2], that was to give birth, despite the persecution of goddess [Juno][3], to twins, [Apollo][4], god of the sun, [Diana][5], goddess of the moon and the [Lycian][6] peasants.  
 !! With the text written by [Ovid][7] in “[The Metamorphoses][8]”, this opposition should probably comes closer to us.  
 

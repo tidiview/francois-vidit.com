@@ -1,8 +1,9 @@
 ---
 title: numérisation de la société: ce que cela change
 menu: numérisation
-date: 03-04-2015
-modified: 23-07-2016
+created: 03-04-2015
+date: 23-07-2016
+modified: 27-09-2017, 09:29
 itempage: VideoObject
 base64_background: puzzlegrey
 base64_itembackground: upsidesphere
@@ -21,7 +22,7 @@ simplesearch:
 shortcode-core:
    active: true
 metadata:
-    description: numérisation de la société: ce que cela change
+    description: numérisation de la société: ce que cela change pour la politique
     keywords: "numérisation, société, États-Unis, États-Unis d'Amérique, USA, Giulietto Chiesa"
     image: numerisation_700x1050.jpg
     image_width: 700

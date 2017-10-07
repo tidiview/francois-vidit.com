@@ -63,14 +63,14 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
 </picture><figcaption>La place Vendôme à Paris d'après le Plan de Turgot en 1734</figcaption></figure>
 
-[color=#b52b27]**la place Vendôme au XVII<sup>ème</sup> siècle**[/color]  
+[color=#3d8b3d]**la place Vendôme au XVII<sup style="color:#3d8b3d;">ème</sup> siècle**[/color]  
 
 !!!! La [place Vendôme][1] a connu un visage très différent avant l'ouverture de la [rue de Rivoli][2] (1801). 
 
 La place a d'abord été édifiée selon une forme carrée.  
 Cette forme est jugée trop rigide; en 1700, une partie des façades est abattue, puis reconstruite, dès 1701, en l'actuelle forme octogonale.  
 
-À regarder de près le [Plan de Turgot][3] de 1734, la place apparaît bien plus calme:
+À regarder de près le [plan de Turgot][3] de 1734, la place apparaît bien plus calme:
 + côté [Tuileries][10], la [rue de Castiglione][4] ([fig. 1](#castiglione)),
 + côté [Opéra][11], la [rue de la Paix][5] ([fig. 2](#paix)),
 n'ont pas encore été percées.  

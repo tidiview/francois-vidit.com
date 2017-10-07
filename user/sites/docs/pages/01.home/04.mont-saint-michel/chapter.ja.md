@@ -1,5 +1,5 @@
 ---
-title: モン＝サン＝ミシェル
+title: モン・サン＝ミシェル
 taxonomy:
     category: [docs, ja]
 created: 15-01-2016, 07:10
@@ -19,4 +19,4 @@ specialty: ["フランス歴史", "宗教歴史", "聖書歴史", "モン＝サ�
 ---
 ### Le Mont-Saint-Michel
 
-# モン＝サン＝ミシェル
+# モン・サン＝ミシェル
