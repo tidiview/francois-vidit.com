@@ -8,23 +8,8 @@ visible: false
 routable: false
 taxonomy:
    category: [legende-doree, ja]
-metadata:
-   description: 'モン・サン＝ミシェルの歴史に関係する大天使ミカエルが出現する黄金伝説139章の文書の紹介する'
-   keywords: '大天使ミカエル, 聖ミカエル, 黄金伝説, 139章, モン・サン＝ミシェル, ヤコブス・デ・ヴォラギネ'
-   image: legende-doree_700x964.jpg
-   image_height: 700
-   image_width: 964
-   image_title: "大天使ミシェル"
-   image_legend: 大天使ミシェル、サン＝ル・サン＝ジルカトリック教会、パリ
-   'twitter:card' : summary
-   robots: 'noindex, nofollow'
-significantlinks: ["https://ja.wikipedia.org/wiki/モン・サン＝ミシェル", "https://ja.wikipedia.org/wiki/ミカエル", "https://ja.wikipedia.org/wiki/新約聖書", "https://ja.wikipedia.org/wiki/ヨハネの黙示録", "https://ja.wikipedia.org/wiki/新共同訳聖書"]
-specialty: ["フランス歴史", "宗教", "聖書歴史", "信仰", "黄金伝説", "大天使ミカエル", "聖ミカエル", "モン・サン＝ミシェル", "ヤコブス・デ・ヴォラギネ"]
 shortcode-core:
    active: true
-sitemap:
-   changefreq: monthly
-   priority: 0.9
 ---
 ### [color=#b52b27]大天使ミカエルの勝利[/color] {#victoire-michel}
 
@@ -128,13 +113,13 @@ sitemap:
 
 ###ルキフェル{#note-lucifer}
 
-!! 悪魔はもと権天使のひとりで、{r}ルキフェル(Lucifer){/r}（光にみちた者）とよばれたが、神にそむいたために天上から地上に追放され、{r}サタン(Satan){/r}（反対者の意）になったとされる。 
+!! 悪魔はもと権天使のひとりで、{r=ja/la}ルキフェル(Lucifer){/r}（光にみちた者）とよばれたが、神にそむいたために天上から地上に追放され、{r}サタン(Satan){/r}（反対者の意）になったとされる。 
 !! <hr>
 !! + 注に戻る：[&#11105;][47]
 
 ###ハイモ{#note-haymon}
 
-!! 九世紀の{r}オセール(Auxerre){/r}（中部フランスの町）のベネディクト会士。八六五年没。
+!! 九世紀の{r=ja/fr}オセール(Auxerre){/r}（中部フランスの町）のベネディクト会士。八六五年没。
 !! <hr>
 !! + 注に戻る：[&#11105;][49]
 
@@ -152,7 +137,7 @@ sitemap:
 
 ###しるし{#note-tau}
 
-!! ギリシア語アルファベットの第一九字「{r}&#964;(タウ){/r}」というしるし。〈神〉を意味するTheosの頭文字であると同時に、十字架のしるしでもある。
+!! ギリシア語アルファベットの第一九字「{r=grc/ja}&#964;(タウ){/r}」というしるし。〈神〉を意味するTheosの頭文字であると同時に、十字架のしるしでもある。
 !! <hr>
 !! + 注に戻る：[&#11105;][55]
 

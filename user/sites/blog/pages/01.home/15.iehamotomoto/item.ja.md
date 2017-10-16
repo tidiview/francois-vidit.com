@@ -22,7 +22,7 @@ breadcrumbs:
 simplesearch:
    enabled: false
 metadata:
-    description: '「家」から「自分」を考える'
+    description: '小島毅が著わした「朱子学と陽明学」からの引用で、江戸時代が考える「家」から「自分」を位置付けられる。'
     keywords: '小島毅, 朱子学と陽明学, 大学'
     image: machinohukei_700x528.jpg
     image_width: 700

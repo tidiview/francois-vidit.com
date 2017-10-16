@@ -22,7 +22,7 @@ simplesearch:
 shortcode-core:
    active: true
 metadata:
-    description: numérisation de la société: ce que cela change pour la politique
+    description: "numérisation de la société: ce que cela change pour la politique, la liberté, l'anonymat, le trafic d'influence, les relations de subordination."
     keywords: "numérisation, société, États-Unis, États-Unis d'Amérique, USA, Giulietto Chiesa"
     image: numerisation_700x1050.jpg
     image_width: 700
