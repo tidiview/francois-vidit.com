@@ -1,5 +1,5 @@
 ---
-title: 黄金伝説での大天使ミカエル
+title: 黄金伝説における大天使ミカエル
 menu: 黄金伝説
 created: 04-10-2017, 12:15
 date: 15-10-2017, 17:37
@@ -30,6 +30,6 @@ specialty: ["フランス歴史", "宗教", "聖書歴史", "信仰", "黄金伝
 shortcode-core:
    active: true
 sitemap:
-   changefreq: weekly
+   changefreq: dayly
    priority: 0.9
 ---

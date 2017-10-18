@@ -1,0 +1,35 @@
+---
+title: プシケ物語
+menu: プシケ
+created: 02-09-2017, 16:12
+date: 02-09-2017, 16:12
+modified: 16-09-2017, 13:45
+itempage: Article
+taxonomy:
+    category: [docs, ja]
+content:
+    items:
+       '@taxonomy':
+         category: [psyche, ja]
+    order:
+        by: default
+        dir: asc
+    limit: 1
+    pagination: true
+metadata:
+    description: ""
+    keywords: ""
+    image: onnadaigaku_700x550.jpg
+    image_width: 700
+    image_height: 550
+    image_title: 女大学
+    image_legend: 女の道だと言われている女大学の文書
+    'twitter:card' : summary
+significantlinks: [""]
+specialty: [""]
+shortcode-core:
+    active: true
+sitemap:
+   changefreq: monthly
+   priority: 0.9
+---

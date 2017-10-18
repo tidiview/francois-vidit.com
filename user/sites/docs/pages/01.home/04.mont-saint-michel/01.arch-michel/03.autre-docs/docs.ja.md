@@ -1,9 +1,9 @@
 ---
-title: ダニエル書での大天使ミカエル
+title: ダニエル書における大天使ミカエル
 menu: ダニエル書
 created: 23-11-2015, 13:50
-date: 11-09-2017, 14:56
-modified: 04-10-2017, 20:15
+date: 04-10-2017, 20:15
+modified: 16-10-2017, 15:53
 itempage: Article
 taxonomy:
    category: [docs, ja]

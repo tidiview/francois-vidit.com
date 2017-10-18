@@ -27,26 +27,25 @@ sitemap:
 ---
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 <sup>28</sup> 
-Il y avait une fois, dans certaine ville, un roi et une reine. Ils avaient trois filles d'une très grande beauté, mais les deux aînées, bien qu'elles fussent fort agréables à regarder, pouvaient, semblait-il, être louées avec des louanges humaines, tandis que de la plus jeune des jeunes filles la beauté était si extraordinaire, si éclatante qu'on ne pouvait l'exprimer ni la louer de façon suffisante à cause de la pauvreté du langage humain. 
-Beaucoup de leurs concitoyens et un grand nombre d'étrangers, toute une foule curieuse qu'attirait le bruit d'un spectacle aussi rare demeuraient béats d'admiration devant cette beauté égalée et, approchant la main droite de leur bouche, l'index sur le pouce dressé, ils l'adoraient et lui prodiguaient les mêmes hommages dévots qu’à la déesse Vénus elle-même.
+Il y avait une fois, dans certaine ville, un roi et une reine. Ils avaient trois filles d'une très grande beauté, mais les deux aînées, bien qu'elles fussent fort agréables à regarder, pouvaient, semblait-il, être louées avec des louanges humaines, tandis que celle de la plus jeune des filles était si rare, si merveilleuse, si éclatante que tous les mots du langage humain ne suffisait à l'exprimer ni à la louer dignement.  
+Une multitude d'étrangers, que la curiosité de ce prodige attirait en foule autant que ceux du pays même, en perdaient l'esprit, dès qu'ils avaient contemplé sa beauté incomparable; ils portaient religieusement le pouce et le premier doigt de la main droite à la bouche, en croisant l'index avec le pouce, de la même manière que lors du culte de Vénus elle-même.
 
-Et déjà, dans les cités voisines et les cantons d'alentour, s'était répandu le bruit que la [déesse née des profondeurs glauques de la mer][12]{#venus), nourrie par la rosée des vagues écumantes, rendait à tout venant sa majesté accessible et se mêlait à la société des hommes ou, du moins, que des goutelettes fécondantes étaient de nouveau tombées du ciel et avaient fait germer, sur la terre, et non plus sur les mers, une nouvelle Vénus, qui possédait encore la fleur de sa virginité.
+Et déjà, dans les cités voisines et les provinces d'alentour, s'était répandu le bruit que la [déesse née du sein de la profonde mer][12]{#venus}, nourrie par la rosée des vagues écumantes, ne dédaignait désormais plus de rendre sa majesté accessible et de se méler à la société des hommes ou, du moins, que des goutelettes fécondantes étaient de nouveau tombées des astres et avaient fait paraître, sur la terre, et non plus sur les mers, une nouvelle Vénus possédant encore la fleur de sa virginité.
 
 <sup>29</sup> 
 C'est ainsi qu'à l'infini, de jour en jour, se répand cette croyance, 
-et que, dans les îles, de proche en proche, et sur une bonne partie du continent, et dans la plupart des provinces, le bruit se propage et s'étend. 
-Déjà un grand nombre de mortels, au prix de longs voyages et de lointaines traversées, affluaient vers la merveille de ce temps ; Paphos, ni Cnide, ni Cythère elle-même (1) (Trois sanctuaires célèbres de Vénus: [{r=fr/grc}Paphos(Πάφος){/r}][7]{#paphos} se trouve à Chypre, [{r=fr/grc}Cnide(Κνίδος){/r}][6]{#cnidos} sur la côte d’Asie, [{r=fr/grc}Cythère(Τα&#160;Κύθηρα){/r}][1] (Cerigo) est une île au large du Cap Malée (au sud du Péloponèse) ) ne voient plus venir de voyageurs pour contempler Vénus : les sacrifices sont délaissés, les temples restent à l'abandon, les lits de parade (2) (Ces lits de parades sont les puluinaria, garni de coussins sur lesquels on installait les statues des divinités lors de certaines cérémonies) à s'abîment, les cérémonies sont négligées ; les statues demeurent sans couronnes, les autels vides, souillés d'une cendre froide. 
+et que, dans les îles, de proche en proche, et sur une bonne partie du continent, et dans les provinces les plus éloignées, la nouvelle se propage et s'étend.
+Il n'était si grande distance, ni mer si profonde, que ne franchissent les curieux, pour venir admirer la merveille de ce siècle ; [On oublie Paphos, on oublie Cnide; et Cythère][7]{#paphos} elle-même ne voient plus venir d'adorateurs empressés de jouir de la contemplation de la déesse : les sacrifices sont délaissés, les temples se dégradent, on foule aux pieds les lits sacrés recevant ses idoles lors les prières publiques : plus de cérémonies, plus de guirlandes aux statues : une cendre froide déshonore les autels désormais vides d'offrandes. 
 
-On adresse les prières à la jeune fille, on cherche à se concilier la puissance d'une si grande déesse, incarnée sous une forme humaine ; le matin, lorsque sort la vierge, victimes et festins accompagnent l'invocation du nom de Vénus absente, et, par les rues et les places, la foule se presse pour lui offrir des guirlandes et des fleurs avec ses prières. 
-
-Ce transfert insolent des honneurs dus aux divinités au culte d'une jeune fille mortelle excita fort la colère de la véritable Vénus, qui, ne se tenant plus d'indignation, branlant la tête, et toute frémissante, se tient à elle-même ce langage :
+On adresse les vœux à la jeune fille, on cherche à se concilier la puissance d'une si grande déesse dans cette mortelle ; le matin dès qu'elle paraît, on lui offre victimes et mets sacrés au nom de Vénus; la voit-on passer dans les rues, aussitôt la foule jette des fleurs sous ses pas, lui présente guirlandes et bouquets.
+Ces honneurs et ce culte divin, transférés insolemment de déesse à humaine, aigrirent au dernier point la véritable Vénus, qui, ne pouvant contenir son indignation, secoue en frémissant la tête, et, se tient à elle-même ce langage :
 
 <sup>30</sup> 
-« Me voilà donc, moi, la mère antique de la nature, moi, l'origine première des éléments, moi: la nourricière de tout l'Univers, me voilà donc, moi, Vénus, contrainte de partager avec une fille mortelle les honneurs dus à ma majesté, et mon nom, qui est inscrit au ciel, se trouve profané par les vils contacts de la terre! 
-Sans doute devrai-je supporter, lorsqu’on invoquera ce nom qui nous est commun, de ne pas savoir si cet hommage n'est pas rendu à ma remplaçante, et mon image sera partout promenée par une fille destinée à mourir! 
-C'est donc en vain que le [berger][13]{#paris} dont le grand Jupiter lui-même approuva la justice et l'impartialité m'a préférée, pour ma beauté : sans pareille, à deux déesses !
+« C'est donc ainsi que l'ancienne mère de tout ce que la nature à fait paraître, l'origine première des éléments, l'âme de l'univers, que Vénus enfin partage avec une simple mortelle les honneurs qui ne sont dus qu'à sa grandeur ! C'est donc ainsi que mon nom, inscrit si grand dans le ciel, se trouve profané par l'indigne mélange des ordures de la Terre!
+Je souffrirais qu'à l'invocation de ce nom que nous avons en partage, ma divinité se trouve méprisée, mon image partout promenée et rendue par une jeune fille soumise aux lois de la mort !
 
-Mais elle ne se réjouira pas tellement, cette fille, quelle qu'elle soit, qui a usurpé mes honneurs ; je ferai en sorte que cette beauté lui donne lieu de se repentir. »
+C'est donc en vain que le [berger][13]{#paris} dont le grand Jupiter approuva la justice m'aura préférée, à deux si grandes déesses, pour ma beauté !
+Quelle que puisse être cette fille, elle ne se réjouira pas d'avoir usurpé mes honneurs : je ferai en sorte que sa beauté lui donne lieu de se repentir. »
 
 Elle appelle sur-le-champ son fils, l'enfant ailé, cet étourdi fieffé, dont les mauvaises façons témoiguent de son mépris pour la morale publique, et qui, armé de flammes et de flèches, court, çà et là, dans les maisons d'autrui, brouille tous les ménages, commet impunément des actes si abominables et ne fait absolument rien qui vaille. 
 Bien que ses mauvais instincts le rendent déjà naturellement insolent, sa mère le stimule encore par ses paroles, le conduit dans la ville en question et lui montre [Psyché][17]{#psyche} — car tel était le nom de la jeune fille ; puis, lui racontant : toute l'histoire de leur rivalité en beauté, elle ajoute, avec des gémissements et des grincements de dents d'indignation : 
@@ -101,48 +100,61 @@ Et les malheureux parents, épuisés par cette catastrophe, s'enferment chez eux
 
 Cependant, Psyché, effrayée, tremblante, en larmes, au sommet du rocher, sent la douce brise d'un Zéphyr qui, d'un souffle caressant, fait d'abord frémir, de-ci de-là, la frange de sa robe, puis, gonflant ses voiles, la soulève peu à peu et l'emporte sur son haleine paisible, d'un mouvement insensible, au-dessus des pentes rocheuses d'une profonde vallée, au fond de laquelle il la dépose, couchée, sur un gazon fleuri »
 
+[section name="notes"]
+
+## [color=#28a1c5]注釈[/color]
+
+!!! Cette déesse, c'est [Vénus][8]{#note_venus}, déesse romaine de l'amour. [戻る &#11105;][121]
+
+!!! Ce sont les trois sanctuaires les plus célèbres de [Vénus][8]: [{r=fr/grc}Paphos(Πάφος){/r}][72]{#note_paphos} se trouve à Chypre, [{r=fr/grc}Cnide(Κνίδος){/r}][62] sur la côte d’Asie, [{r=fr/grc}Cythère(Τα&#160;Κύθηρα){/r}][1], aujourd'hui appelé « Cerigo », est une île au large du Cap Malée, au sud du Péloponèse. [戻る &#11105;][71]
+
+!!! Ces lits de parades sont appelé puluinaria, garni de coussins sur lesquels on installait les statues des divinités lors de certaines cérémonies. [戻る &#11105;][271]
+
+[/section]
+
 [1]: https://ja.wikipedia.org/wiki/キティラ島 "https://ja.wikipedia.org/wiki/キティラ島"
 [2]: https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神) "https://ja.wikipedia.org/wiki/ネーレウス_(ギリシア神話の神)"
 [3]: https://ja.wikipedia.org/wiki/トリートーン "https://ja.wikipedia.org/wiki/トリートーン"
 [4]: https://ja.wikipedia.org/wiki/リュディア "https://ja.wikipedia.org/wiki/リュディア"
-[5]: /psyche/#note_salacia "サラーキア"
-[51]: /psyche/#salacia "サラーキア"
+[5]: /psyche#note_salacia "サラーキア"
+[51]: /psyche#salacia "サラーキア"
 [52]: https://ja.wikipedia.org/wiki/サラーキア "https://ja.wikipedia.org/wiki/サラーキア"
-[6]: /psyche/#note_paphos "クニドス"
+[6]: /psyche#note_paphos "クニドス"
 [62]: https://ja.wikipedia.org/wiki/クニドス "https://ja.wikipedia.org/wiki/クニドス"
-[7]: /psyche/#note_paphos "パフォス"
-[71]: /psyche/#paphos "パフォス"
+[7]: /psyche#note_paphos "パフォス"
+[71]: /psyche#paphos "パフォス"
 [72]: https://ja.wikipedia.org/wiki/パフォス "https://ja.wikipedia.org/wiki/パフォス"
 [8]: https://ja.wikipedia.org/wiki/ウェヌス "https://ja.wikipedia.org/wiki/ウェヌス"
 [9]: https://www.google.com/maps/place/アルジェリア+メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791 "https://www.google.com/maps/place/アルジェリア+メダウルッシュ/@36.0764165,7.8014141,14z/data=!3m1!4b1!4m5!3m4!1s0x12fa713a3874ef1d:0x432130819156115b!8m2!3d36.0756762!4d7.8204791"
-[10]: /psyche/#note_numidie "ヌミディア"
-[101]: /psyche/#numidie "ヌミディア"
+[10]: /psyche#note_numidie "ヌミディア"
+[101]: /psyche#numidie "ヌミディア"
 [102]: https://ja.wikipedia.org/wiki/ヌミディア "https://ja.wikipedia.org/wiki/ヌミディア"
-[11]: /psyche/#note_imazighen "アマーズィーグ族"
-[111]: /psyche/#imazighen "アマーズィーグ族"
+[11]: /psyche#note_imazighen "アマーズィーグ族"
+[111]: /psyche#imazighen "アマーズィーグ族"
 [112]: https://ja.wikipedia.org/wiki/ベルベル人 "https://ja.wikipedia.org/wiki/ベルベル人"
-[12]: /psyche/#note_venus "ヴェヌス"
-[121]: /psyche/#venus "ヴェヌス"
-[13]: /psyche/#note_paris "パリス"
-[131]: /psyche/#paris "パリス"
+[12]: /psyche#note_venus "ヴェヌス"
+[121]: /psyche#venus "ヴェヌス"
+[13]: /psyche#note_paris "パリス"
+[131]: /psyche#paris "パリス"
 [14]: https://ja.wikipedia.org/wiki/パリス "https://ja.wikipedia.org/wiki/パリス"
 [15]: https://ja.wikipedia.org/wiki/トローアス "https://ja.wikipedia.org/wiki/トローアス"
 [16]: https://ja.wikipedia.org/wiki/カズ山 "https://ja.wikipedia.org/wiki/カズ山"
-[17]: /psyche/#note_psyche "プシケー"
-[171]: /psyche/#psyche "プシケー"
-[18]: /psyche/#note_apollo "ミレトスにおいでの神様"
-[181]: /psyche/#apollo "ミレトスにおいでの神様"
+[17]: /psyche#note_psyche "プシケー"
+[171]: /psyche#psyche "プシケー"
+[18]: /psyche#note_apollo "ミレトスにおいでの神様"
+[181]: /psyche#apollo "ミレトスにおいでの神様"
 [182]: https://ja.wikipedia.org/wiki/ミレトス "https://ja.wikipedia.org/wiki/ミレトス"
-[19]: /psyche/#note_palaimon "パライモーン"
-[191]: /psyche/#palaimon "パライモーン"
-[20]: /psyche/page:2 "https://francois-vidit.com/blog/ja/psyche_2/page:2"
-[21]: /psyche/#note_latin "ラテンの言葉で"
-[211]: /psyche/#latin "ラテンの言葉で"
-[22]: /psyche/#note_suie "黒い煤"
-[221]: /psyche/#suie "黒い煤"
-[22]: /psyche/#note_flammeum "緋色の面帕"
-[221]: /psyche/#flammeum "緋色の面帕"
+[19]: /psyche#note_palaimon "パライモーン"
+[191]: /psyche#palaimon "パライモーン"
+[20]: /psychepage:2 "https://francois-vidit.com/blog/ja/psyche_2/page:2"
+[21]: /psyche#note_latin "ラテンの言葉で"
+[211]: /psyche#latin "ラテンの言葉で"
+[22]: /psyche#note_suie "黒い煤"
+[221]: /psyche#suie "黒い煤"
+[22]: /psyche#note_flammeum "緋色の面帕"
+[221]: /psyche#flammeum "緋色の面帕"
 [23]: https://ja.wikipedia.org/wiki/呉茂一 "https://ja.wikipedia.org/wiki/呉茂一"
 [24]: https://fr.wikipedia.org/wiki/Pierre_Grimal "https://fr.wikipedia.org/wiki/Pierre_Grimal"
 [25]: https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812 "https://www.amazon.co.jp/黄金のろば-上巻-岩波文庫-赤-118-1/dp/4003211812"
 [26]: htpps://francois-vidit.com/ja#御問い合わせ "htpps://francois-vidit.com/ja#御問い合わせ"
+[27]: /psyche#note_lit_de_parade "lits de parade"
