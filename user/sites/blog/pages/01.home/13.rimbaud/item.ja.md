@@ -2,8 +2,9 @@
 title: 自我変容
 title2: 自我変容
 menu: 自我変容
+created: 25-06-2016
 date: 25-06-2016
-modified: 25-06-2016
+modified: 20-10-2017, 22:59
 itempage: BlogPosting
 base64_background: rosegrey
 base64_itembackground: conscienceofmyself
@@ -35,7 +36,7 @@ shortcode-core:
 ---  
 !!! ＜{r}私(Je){/r}＞ {r}は(est){/r} {r}一個(un){/r} の {r}他者(autre){/r} なのです  
 
-この一文句を書いたのは、 詩人[{r}アルチュール(Arthur)・()ランボー(Rimbaud){/r}][1]です。  
+この一文句を書いたのは、 詩人[{r}アルテュール(Arthur)・()ランボー(Rimbaud){/r}][1]です。  
 「フランス的思考」という本の中、井石洋二郎氏がある解釈を提供しています。
 
 ===
