@@ -1,9 +1,4 @@
 # Grav Specific
-.gitattributes
-.htaccess
-.htaccess_https
-.htaccess_before_allowcrossoriginheader
-.sass-cache
 applications.html
 bitnami.css
 composer.json
@@ -43,6 +38,11 @@ logo.miff
 logo.gif
 logo.jpg
 htdocs.rar
+.gitattributes
+.htaccess
+.htaccess_https
+.htaccess_before_allowcrossoriginheader
+.sass-cache
 .htaccess_original
 .htaccess_localhost
 .htaccess_hen
@@ -50,7 +50,6 @@ htdocs.rar
 .htaccess_do_not_erase_20170331
 .htaccess_before_cache_control
 .htaccess_before_automatic_https
-.htaccess_https
 .gitignore
 .ovhconfig
 .ovhconfig_old_before_7.0_stable
