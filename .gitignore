@@ -43,8 +43,6 @@ logo.miff
 logo.gif
 logo.jpg
 htdocs.rar
-README.md
-CHANGELOG.md
 .htaccess_original
 .htaccess_localhost
 .htaccess_hen
@@ -58,6 +56,7 @@ CHANGELOG.md
 .ovhconfig_old_before_7.0_stable
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
+CHANGELOG.md
 
 assets/*
 backup/*
