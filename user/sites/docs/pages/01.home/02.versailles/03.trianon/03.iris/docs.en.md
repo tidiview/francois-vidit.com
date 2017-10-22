@@ -1,15 +1,15 @@
 ---
-title: Iris
+title: Iris and Morpheus
 menu: iris
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 00:15
+date: 10-01-2017, 00:15
+modified: 10-19-2017, 11:21
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Text extract from chapter « Tiresias » of Book III of The « Metamorphoses » written from latin writer Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his work « Minerve et Tiresias »"
-    keywords: "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Junon, Morphée, The Sleep, Hypnos, Alcyone, René-Antoine HOUASSE"
+    description: "Text extract Book XI of The « Metamorphoses » written from latin writer Ovid from which has inspired the painter René-Antoine HOUASSE for the making of his work « Iris and Morpheus »"
+    keywords: "Château de Versailles, Palace of Versailles, Versailles, Louis 14, Louis XIV, Louis 14th, Ovid, The Metamorphoses, Grand Trianon, Trianon, Iris, Juno, Morpheus, The Sleep, Hypnos, Alcyone, René-Antoine HOUASSE"
     image: iris_700x951.jpg
     image_width: 700
     image_height: 951

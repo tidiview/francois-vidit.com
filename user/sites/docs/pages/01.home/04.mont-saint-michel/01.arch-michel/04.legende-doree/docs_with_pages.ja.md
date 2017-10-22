@@ -30,6 +30,6 @@ specialty: ["フランス歴史", "宗教", "聖書歴史", "信仰", "黄金伝
 shortcode-core:
    active: true
 sitemap:
-   changefreq: dayly
+   changefreq: daily
    priority: 0.9
 ---

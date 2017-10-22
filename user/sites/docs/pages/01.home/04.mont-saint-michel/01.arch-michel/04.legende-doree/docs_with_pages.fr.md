@@ -30,6 +30,6 @@ specialty: ["Histoire de France", "Religion", "Histoire biblique", "foi", "Lége
 shortcode-core:
    active: true
 sitemap:
-   changefreq: weekly
+   changefreq: daily
    priority: 0.9
 ---

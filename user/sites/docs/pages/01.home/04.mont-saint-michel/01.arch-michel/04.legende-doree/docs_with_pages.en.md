@@ -30,6 +30,6 @@ specialty: ["History of France", "Religious history", "Biblic history", "New Tes
 shortcode-core:
    active: true
 sitemap:
-   changefreq: weekly
+   changefreq: daily
    priority: 0.9
 ---
