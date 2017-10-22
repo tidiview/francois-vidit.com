@@ -56,6 +56,8 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/martin0-1920.jpg 1920w">
 </picture><figcaption>Diptyque de Maarten van Nieuwenhove, vue frontale de chacun des deux panneaux</figcaption></figure>
 
+<br>
+
 =*=
 
 <figure><picture>
