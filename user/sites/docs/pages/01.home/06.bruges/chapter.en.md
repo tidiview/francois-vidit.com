@@ -5,9 +5,9 @@ taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
 date: 05-01-2017, 23:13
-modified: 05-01-2017, 23:13
+modified: 06-11-2017, 14:10
 metadata:
-   description: "section Bruges of francois-vidit.com website"
+   description: "section presenting Bruges in Belgium of the docs part of the francois-vidit.com website"
    keywords: 'Bruges'
    image: bruges_700x466.jpg
    image_width: 700

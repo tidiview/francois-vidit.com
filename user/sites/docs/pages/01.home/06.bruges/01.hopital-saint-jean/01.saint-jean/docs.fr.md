@@ -5,8 +5,8 @@ template: docs_minus_h1
 taxonomy:
     category: [docs, fr]
 created: 05-01-2017, 23:13
-date: 22-07-2017, 17:36
-modified: 06-10-2017, 00:20
+date: 06-10-2017, 00:20
+modified: 06-11-2017, 17:20
 itempage: Article
 metadata:
    description: "texte descriptif et images du Triptyque de Jean-Baptiste et de Jean l'Évangéliste, œuvre de Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
@@ -54,7 +54,7 @@ La présence de saint Jean-Baptiste sur le panneau central confirme cette suppos
 L'Évangéliste porte le calice avec le serpent venimeux, ce dernier étant une allusion au fait qu'on a voulu l'empoisonner.  
 On reconnaît saint Jean-Baptiste à l'agneau qui l'accompagne.
 Il porte la robe en poil de chameau et montre quelque chose du doigt.
-Cette attitude se rapporte au texte d'évangile « {r}Voici(Ecce){/r} {r}l&#39;Agneau(Agnus){/r} {r}de(){/r} {r}Dieu(Dei){/r} » par lequel Jean-Baptiste annonce la venue du Christ.  
+Cette attitude se rapporte au texte d'évangile « {r=fr/la}Voici(Ecce){/r} {r=fr/la}l&#39;Agneau(Agnus){/r} {r}de(){/r} {r=fr/la}Dieu(Dei){/r} » par lequel Jean-Baptiste annonce la venue du Christ.  
 Ces deux personnages ainsi que deux saints entourent la Vierge assise, trônant devant un tissu broché et sous un baldaquin de velours rouge.  
 Deux anges tiennent au-dessus de la tête une couronne d'or.  
 La disposition en triangle des trois personnages assis au premier plan forme la base d'une composition strictement symétrique.  
@@ -65,7 +65,7 @@ L'épée et la roue brisée sont les attributs de saint Catherine d'Alexandrie.
 La sainte faisant la lecture est sainte Barbe que l'on reconnaît à la tour.
 Deux angelots tiennent compagnie aux saints.  
 Celui de gauche joue de l'orgue portatif, appelé également positif, celui de droite tient un livre que la Vierge feuillette.  
-La présence de tous ces saints entourant la Vierge fait songer plutôt au thème de la « {r}Sainte(Sacra){/r} {r}Conversation(Conversazione){/r} », sujet que Memling prisait fort parce qu'il lui donnait l'occasion d'élaborer une œuvre très équilibrée.  
+La présence de tous ces saints entourant la Vierge fait songer plutôt au thème de la « {r=fr/la}Sainte(Sacra){/r} {r=fr/la}Conversation(Conversazione){/r} », sujet que Memling prisait fort parce qu'il lui donnait l'occasion d'élaborer une œuvre très équilibrée.  
 
 Ce sont pourtant les deux saints Jean qui apparaissent comme étant les personnages principaux, comme le prouve l'importance accordée aux nombreux détails qui, vis-à-vis du spectateur, doivent éclairer leur biographie.  
 Des scènes illustrant les principaux épisodes de leur vie se retrouvent sur les chapiteaux des colonnes, dans les paysages et sur les colets.  

@@ -2,8 +2,8 @@
 title: 自ら勝つ者は強し
 menu: 自ら勝つ者
 created: 17-12-2015
-date: 02-10-2017, 10:47
-modified: 06-10-2017, 12:53
+date: 06-10-2017, 12:53
+modified: 30-10-2017, 12:22
 itempage: BlogPosting
 base64_background: imbricatedhexagon
 base64_itembackground: threedimensionalhexagone
@@ -90,9 +90,9 @@ shortcode-core:
 |   |   |
 | 5 |  {r}強(つよ){/r}めて行なう者は{r}志(こころざし){/r}有り。 |
 |   |   |
-| 6 | 其の所を{r}失(なが){/r}えざる者は久し。 |
+| 6 | 其の所を{r}失(たが){/r}えざる者は久し。 |
 |   |   |
-| 7 | 死して{r}冊(しか){/r}も{r}失(うしな){/r}わざる者は{r}寿(いのち){/r}ながし。 |
+| 7 | 死して{r}而(しか){/r}も{r}失(うしな){/r}わざる者は{r}寿(いのち){/r}ながし。 |
 |   |   |
 
 [color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
@@ -109,7 +109,7 @@ shortcode-core:
 
 他人を負かすには力がいり、自己を負かすにはもっと力がいる。 
 
-[color=lightgrey]（もっているだけのもので）[/color]溝足することを知るのが富んでいることであり、自分をはげまして行動するものがその志すところを得るのである。  
+[color=lightgrey]（もっているだけのもので）[/color]満足することを知るのが富んでいることであり、自分をはげまして行動するものがその志すところを得るのである。  
 
 自分の[color=lightgrey]（いるべき）[/color]場所をまちがえないものが永続する。  
 
