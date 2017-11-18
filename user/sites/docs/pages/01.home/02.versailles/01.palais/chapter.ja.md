@@ -1,5 +1,5 @@
 ---
-title: 宮殿
+title: ヴェルサイユ宮殿
 menu: 宮殿
 taxonomy:
     category: [docs, ja]
@@ -7,7 +7,7 @@ created: 15-01-2016, 07:10
 date: 15-01-2016, 07:10
 modified: 13-07-2017, 23:13
 metadata:
-   description: "francois-vidit.com サイトの宮殿セクションの目次"
+   description: "francois-vidit.com サイトのヴェルサイユ宮殿セクションの目次"
    keywords: '宮殿'
    image: versailles_700x375.jpg
    image_width: 700
