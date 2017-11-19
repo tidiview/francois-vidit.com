@@ -3,8 +3,8 @@ title: ヴァンドーム広場
 menu: ヴァンドーム広場
 template: docs_minus_h1
 created: 11-04-2017, 23:44
-date: 11-04-2017, 23:44
-modified: 04-06-2017, 23:19
+date: 04-06-2017, 23:19
+modified: 19-11-2017, 17:49
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -67,14 +67,14 @@ srcset="
 
 ##[color=#3d8b3d]十七世紀でのヴァンドーム広場[/color]  
 
-!!!! [{r}リヴォリ通り(rue&#160;de&#160;Rivoli){/r}][2]が1801年に開かれる前に、[ヴァンドーム広場][1]は今とはとても違う顔でした。  
+!!!! [{r=ja/fr}リヴォリ通り(rue&#160;de&#160;Rivoli){/r}][2]が1801年に開かれる前に、[ヴァンドーム広場][1]は今とはとても違う顔でした。  
 
 広場は、まず、正方形で建設されました。  
 しかし、この形が固すぎると見なされたため、1700年に、正面の一部が壊され、そして、1701年からすぐ、現在の八角形で再建されました。  
 
-1734年に作られた[{r}テュルゴーの地図(plan&#160;de&#160;Turgot){/r}][3]を細かく見ようとすると：
-+ [{r}テュイルリー(Tuileries){/r}][10]側、[{r}カスティグリオーヌ通り(rue&#160;de&#160;Castiglione){/r}][4]([図 1](#castiglione))、
-+ [{r}オペラ(Opéra){/r}][11]側、[{r}ペ通り(rue&#160;de&#160;la&#160;Paix){/r}][5]([図 2](#paix))、  
+1734年に作られた[{r=ja/fr}テュルゴーの地図(plan&#160;de&#160;Turgot){/r}][3]を細かく見ようとすると：
++ [{r=ja/fr}テュイルリー(Tuileries){/r}][10]側、[{r=ja/fr}カスティグリオーヌ通り(rue&#160;de&#160;Castiglione){/r}][4]([図 1](#castiglione))、
++ [{r=ja/fr}オペラ(Opéra){/r}][11]側、[{r=ja/fr}ペ通り(rue&#160;de&#160;la&#160;Paix){/r}][5]([図 2](#paix))、  
 まだ切り開かれてはいませんので、広場は一層静かに見えています。  
 
 <figure id="castiglione"><picture>
@@ -116,8 +116,8 @@ srcset="
 </picture><figcaption>図 1：<ruby><rb>カスティグリオーヌ通り</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby><rb>サントノーレ通り</rb><rt>rue&#160;Saint-Honoré</rt></ruby>からの出入り（1734年）</figcaption></figure> 
 
 広場への出入りは：
-+ [{r}テュイルリー(Tuileries){/r}][10]側では、[{r}サントノーレ通り(rue&#160;Saint-Honoré){/r}][6]（[図 1](#castiglione)、この上),
-+ [{r}オペラ(Opéra){/r}][11]側では、[{r}カプシーヌ通り(rue&#160;des&#160;Capucines){/r}][7]（[図 2](#paix)、この下）、  
++ [{r=ja/fr}テュイルリー(Tuileries){/r}][10]側では、[{r=ja/fr}サントノーレ通り(rue&#160;Saint-Honoré){/r}][6]（[図 1](#castiglione)、この上),
++ [{r=ja/fr}オペラ(Opéra){/r}][11]側では、[{r=ja/fr}カプシーヌ通り(rue&#160;des&#160;Capucines){/r}][7]（[図 2](#paix)、この下）、  
 からしか出来ていません。  
 
 <figure id="paix"><picture>
@@ -160,7 +160,7 @@ srcset="
 
 ですから、広場は、十九世紀とは違って、通過するものではありませんでした。    
 
-[{r}オペラ(Opéra){/r}][11]側では、現在[{r}ペ通り(rue&#160;de&#160;la&#160;Paix){/r}][5]の位置に、[{r}カプシーヌ修道院(couvent&#160;des&#160;Capucines){/r}][8]（[図 3](#couvent)）がありました。
+[{r=ja/fr}オペラ(Opéra){/r}][11]側では、現在[{r=ja/fr}ペ通り(rue&#160;de&#160;la&#160;Paix){/r}][5]の位置に、[{r=ja/fr}カプシーヌ修道院(couvent&#160;des&#160;Capucines){/r}][8]（[図 3](#couvent)）がありました。
 
 <figure id="couvent"><picture>
 <source
@@ -200,10 +200,10 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w">
 </picture><figcaption>図 3：<ruby><rb>ペ通り</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、二番目の<ruby><rb>カプシーヌ修道院</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby>（1705年）</figcaption></figure>
 
-そこの教会に、[{r}ポンパドゥール夫人(Madame&#160;de&#160;Pompadour){/r}][9]と、その妹とお母さまも、葬られることになった。
+そこの教会に、[{r=ja/fr}ポンパドゥール夫人(Madame&#160;de&#160;Pompadour){/r}][9]と、その妹とお母さまも、葬られることになった。
 
-広場の真向こう、[{r}テュイルリー(Tuileries){/r}][11]側では、もう一つの大門がそれに答えていました。  
-それは、別の大門、{r}フイヤン修道院(couvent&#160;des&#160;Feuillants){/r}大門（[図 4](#feuillants)）でした。
+広場の真向こう、[{r=ja/fr}テュイルリー(Tuileries){/r}][11]側では、もう一つの大門がそれに答えていました。  
+それは、別の大門、{r=ja/fr}フイヤン修道院(couvent&#160;des&#160;Feuillants){/r}大門（[図 4](#feuillants)）でした。
 
 <figure id="feuillants"><picture>
 <source
@@ -243,7 +243,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w">
 </picture><figcaption>図 4：<ruby><rb>カスティグリオーヌ通り</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby><rb>フイヤン修道院</rb><rt>couvent&#160;des&#160;Feuillants</rt></ruby>の大門（1754年）</figcaption></figure>
 
-広場の真ん中に、『{r}ルイ大王(Louis&#160;le&#160;Grand){/r}』といわれる [{r}ルイ十四世(Louis&#160;XIV){/r}][14]の銅騎馬像が、1699年からすでに立っています（[図 5](#statue)）。   
+広場の真ん中に、『{r=ja/fr}ルイ大王(Louis&#160;le&#160;Grand){/r}』といわれる [{r=ja/fr}ルイ十四世(Louis&#160;XIV){/r}][14]の銅騎馬像が、1699年からすでに立っています（[図 5](#statue)）。   
 
 <figure id="statue"><picture>
 <source
@@ -283,9 +283,9 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w">
 </picture><figcaption>図 5：広場の真ん中、<ruby><rb>ルイ大王</rb><rt>Louis&#160;le&#160;Grand</rt></ruby>銅像（1699年）</figcaption></figure>
 
-[{r}フランソワ・ジラルドン(François&#160;GIRARDON){/r}][14]作の印象的な作品です。台座を含むと高さは、17メートルに達成していました。  
+[{r=ja/fr}フランソワ・ジラルドン(François&#160;GIRARDON){/r}][14]作の印象的な作品です。台座を含むと高さは、17メートルに達成していました。  
 
-[フランス革命][15]が破壊させたが、王のでか足の一つは鋳造に生き残ることが出来て、パリ市立歴史博物館である[{r}カルナヴァレ博物館(Musée&#160;Carnavalet){/r}][16]に展示されています。 
+[フランス革命][15]が破壊させたが、王のでか足の一つは鋳造に生き残ることが出来て、パリ市立歴史博物館である[{r=ja/fr}カルナヴァレ博物館(Musée&#160;Carnavalet){/r}][16]に展示されています。 
 
 <br>
 
