@@ -3,8 +3,8 @@ title: 女大学
 menu: 女大学
 slug: onnadaigaku
 created: 15-05-2017, 11:54
-date: 27-07-2017, 07:33
-modified: 06-10-2017, 14:58
+date: 06-10-2017, 14:58
+modified: 20-11-2017, 17:21
 itempage: BlogPosting
 base64_background: troisbarres
 base64_itembackground: traditionalwomanclothing
@@ -41,9 +41,9 @@ sitemap:
 
 ===
 
-##概要
+## 概要
 
-###女大学とは？ {#renvoi_takarabako}
+### 女大学とは？ {#renvoi_takarabako}
 
 具体的に、{r}享(きょう)保(ほ){/r}元年（1716）八月、大阪の{r}柏(カシ)原(ワラ)清(キヨ)右(ウ)衛(エ)門(モン){/r}と江戸の{r}小(オ)川(ガワ)彦(ヒコ)九(ク)郎(ロウ){/r}とが合梓した教順書の題名に当たります。  
 
@@ -53,7 +53,7 @@ sitemap:
 
 しかし、「女大学」という一般的に言われている内容になると、女として夫と家を支え、慎みを忘れずに **[女の道][7]{#note_onnanomichi}** を極めよという倫理観のもと、親および{r}舅(しゆうと){/r}・{r}姑(しゆうとめ){/r}に対する孝、洗濯、裁縫等の家事労働、結納・結婚・出産・子育て、三味線などのお稽古、身だしなみのことなど多岐に渡ることをさすことになります。
 
-###著者と歴史
+### 著者と歴史
 
 [{r}貝(カイ)原(バラ)益(エキ)軒(ケン){/r}][1]の「[{r}和(わ)俗(ぞく)童(どう)子(じ)訓(くん){/r}][2] 」のなかの第五巻「教女子法」に依拠するが、著者を[益軒][1]とする確証はありません。 
 
@@ -63,13 +63,13 @@ sitemap:
 
 結果として、「{r}女(にょ)子(し){/r}を{r}教(おし){/r}ゆる法」、に採られていた男女の価値平等観は捨象され、斉家と婦人自身の保全を目的とし、女性の心得を家庭生活内に限定して説き、具体的な作法や躾、技能や教養におよばず、もっぱら心がまえを力説したものとなっている。  
 
-###女の道とは？ {#onnanomichi}
+### 女の道とは？ {#onnanomichi}
 
 「 [{r}女(おんな){/r}の{r}道(みち){/r}][8] 」、「夫に仕ふる道」のこと。{r}婦(ふ)人(じん){/r}の道ともいう。いわゆる、夫に従う道であり、  
 
 : 「一度嫁いりしては、其の家を出でざるを女の道とすること、{r}古(いにしえ){/r}聖人の{r}訓(おし){/r}えなり、{r}若(も){/r}し女の道にそむき、去らるる時は、一生の恥なり」  
 
-（『<a href="takarabako" alt="女大学宝箱"><ruby><rb>女大学宝箱</rb><rt>オンナダイガクタカラバコ</rt></ruby></a>』）、  
+（『<a href="#takarabako" alt="女大学宝箱"><ruby><rb>女大学宝箱</rb><rt>オンナダイガクタカラバコ</rt></ruby></a>』）、  
 
 : 「{r}都(すべ){/r}て婦人の道は{r}和(やわ){/r}らぎ従うにあり、夫に対するに顔色、言葉づかい、{r}慇(いん)懃(ぎん){/r}に{r}謙(へりくだ){/r}り{r}遜譲(ゆずる){/r}べし、{r}不忍(しのばず){/r}して不順なるべからず、{r}奢(おご){/r}り{r}驕(たかぶ){/r}りて無礼なるべからず、是れ女子の第一なる努めなり」  
 
@@ -97,7 +97,7 @@ sitemap:
 
 <a href="#renvoi_takarabako" alt="女大学とは？">女大学とは？ &#11105;</a>
 
-###内容目次  
+### 内容目次  
 
 <div id="translation-text-rousi" markdown="1">
 |   | <span hidden>hidden</span> |
@@ -125,9 +125,9 @@ sitemap:
 
 <hr>
 
-###女大学宝箱
+### 女大学宝箱
 
-####本文
+#### 本文
 
 <div id="translation-text-rousi" markdown="1">
 |   | <span hidden>hidden</span> |
@@ -278,7 +278,7 @@ sitemap:
 |   |  <hr>  |
 </div>
 
-####注釈
+#### 註釈
 
 <div id="translation-text-rousi" markdown="1">
 |   | <span hidden>hidden</span> |
@@ -301,7 +301,7 @@ sitemap:
 [4]: https://ja.wikipedia.org/wiki/七去 "https://ja.wikipedia.org/wiki/七去の法"
 [5]: https://ja.wikipedia.org/wiki/女大学 "https://ja.wikipedia.org/wiki/女大学"
 [6]: http://dl.ndl.go.jp/info:ndljp/pid/754896/2 "http://dl.ndl.go.jp/info:ndljp/pid/754896/2"
-[7]: ./#onnanomichi "女の道"
-[8]: ./#renvoi_takarabako "女の道"
-[9]: ./#takarabako "女大学宝箱"
-[10]: ./#renvoi_takarabako "女大学宝箱"
+[7]: #onnanomichi "女の道"
+[8]: #renvoi_takarabako "女の道"
+[9]: #takarabako "女大学宝箱"
+[10]: #renvoi_takarabako "女大学宝箱"

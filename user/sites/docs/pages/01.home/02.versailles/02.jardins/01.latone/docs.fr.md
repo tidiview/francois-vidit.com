@@ -8,7 +8,7 @@ itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-    description: "Texte extrait du Livre VI des Métaporphoses d'Ovide qui a inspiré le Bassin et Parterre de Latone des Jardins du Palais de Versailles et qui décrit l'affrontement entre Latone et les Paysans de Lycie juste après la naissance d'Apollon et Diane"
+    description: "Texte extrait du Livre VI des Métamorphoses d'Ovide qui a inspiré le Bassin et Parterre de Latone des Jardins du Palais de Versailles et qui décrit l'affrontement entre Latone et les Paysans de Lycie juste après la naissance d'Apollon et Diane"
     keywords: 'Palais de Versailles, Versailles, Château de Versailles, Louis 14, Louis XIV, Ovide, Les Metamorphoses, Latone, Fontaine de Latone, Fontaine et Parterre de Latone, Latone, Apollon, Diane, Lycie, Junon'
     image: latone_700x525.jpg
     image_width: 700
