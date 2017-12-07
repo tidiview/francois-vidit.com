@@ -104,11 +104,11 @@ Cependant, Psyché, effrayée, tremblante, en larmes, au sommet du rocher, sent 
 
 ## [color=#28a1c5]注釈[/color]
 
-!!! Cette déesse, c'est [Vénus][8]{#note_venus}, déesse romaine de l'amour. [戻る &#11105;][121]
+!!! Cette déesse, c'est [Vénus][8]{#note_venus}, déesse romaine de l'amour. [戻る ↑][121]
 
-!!! Ce sont les trois sanctuaires les plus célèbres de [Vénus][8]: [{r=fr/grc}Paphos(Πάφος){/r}][72]{#note_paphos} se trouve à Chypre, [{r=fr/grc}Cnide(Κνίδος){/r}][62] sur la côte d’Asie, [{r=fr/grc}Cythère(Τα&#160;Κύθηρα){/r}][1], aujourd'hui appelé « Cerigo », est une île au large du Cap Malée, au sud du Péloponèse. [戻る &#11105;][71]
+!!! Ce sont les trois sanctuaires les plus célèbres de [Vénus][8]: [{r=fr/grc}Paphos(Πάφος){/r}][72]{#note_paphos} se trouve à Chypre, [{r=fr/grc}Cnide(Κνίδος){/r}][62] sur la côte d’Asie, [{r=fr/grc}Cythère(Τα&#160;Κύθηρα){/r}][1], aujourd'hui appelé « Cerigo », est une île au large du Cap Malée, au sud du Péloponèse. [戻る ↑][71]
 
-!!! Ces lits de parades sont appelé puluinaria, garni de coussins sur lesquels on installait les statues des divinités lors de certaines cérémonies. [戻る &#11105;][271]
+!!! Ces lits de parades sont appelé puluinaria, garni de coussins sur lesquels on installait les statues des divinités lors de certaines cérémonies. [戻る ↑][271]
 
 [/section]
 

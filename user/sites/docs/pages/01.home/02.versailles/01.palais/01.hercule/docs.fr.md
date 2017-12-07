@@ -35,7 +35,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-640.webp 640w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.webp 700w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg" alt="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇" title="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg" alt="François Lemoyne, « l'Apothéose d'Hercule », Salon d'Hercule, Château de Versailles" title="François Lemoyne, « l'Apothéose d'Hercule », Salon d'Hercule, Château de Versailles"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-280.jpg 280w,

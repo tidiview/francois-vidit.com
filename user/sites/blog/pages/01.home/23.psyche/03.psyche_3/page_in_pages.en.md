@@ -509,7 +509,7 @@ Au pied du lit étaient posés l'arc, le carquois, les flèches, armes propices 
 
 ## [color=#28a1c5]注釈[/color]
 
-!!! [{r}奸計{/r:わるだくみ}（攻め道具を隠す小屋）の{r}蔽{/r:へ}][11]{#note_machination}　両方にかけて言えるならん、両義とも通ずべし。この辺一体功城戦の比喩で、城門を開いたのは降服のしるし。[戻る &#11105;][11]
+!!! [{r}奸計{/r:わるだくみ}（攻め道具を隠す小屋）の{r}蔽{/r:へ}][11]{#note_machination}　両方にかけて言えるならん、両義とも通ずべし。この辺一体功城戦の比喩で、城門を開いたのは降服のしるし。[戻る ↑][11]
 
 [/section]
 

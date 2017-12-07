@@ -122,69 +122,69 @@ Voilà ce que dit l'Histoire tripartite.
 
 !! Le récit intitulé « Ascension de Moïse » est un texte apocryphe du 1er siècle ap. J.-C.; la lettre de Jude a parfois elle aussi été considérée comme apocryphe.
 !! <hr>
-!! + Revenir à la note：[&#11105;][3]
+!! + Revenir à la note：[↑][3]
 
 ### patron d'Israël, défenseur des milices célestes {#note_israel}
 
 !! Michel est mentionné comme le patron d'Israël en Daniel 12, 1, et dans Apocalypse 12,7 il est le défenseur des milices célestes.
 !! <hr>
-!! + Revenir à la note：[&#11105;][5]
+!! + Revenir à la note：[↑][5]
 
 ### extrapolation de Jacques de Voragine {#note_extrapolation}
 
 !! Jacques de Voragine identifie Michel avec l'ange du Seigneur dont parle Exode 23, 20-23. et qui a joué un rôle dans les sept plaies d'Egypte (Exode 7-12) et dans la traversée de la mer Rouge (Exode 14), mais Le livre de l'Exode ne le mentionne pas explicitement. 
 !! <hr>
-!! + Revenir à la note：[&#11105;][7]
+!! + Revenir à la note：[↑][7]
 
 ### Mont Tumba {#note_tumba}
 
 !! Il s'agit bien sûr du Mont-Saint-Michel.
 !! <hr>
-!! + Revenir à la note：[&#11105;][9]
+!! + Revenir à la note：[↑][9]
 
 ### date des calendes de novembre {#note_calendes}
 
 !! Le 16 octobre (17è jour des calendes de novembre) est la date de la dédicace de l'église du Mont-Saint-Michel.
 !! <hr>
-!! + Revenir à la note：[&#11105;][11]
+!! + Revenir à la note：[↑][11]
 
 ### Pseudo-Denis {#note_denis}
 
 !! Il s'agit du Pseudo-Denis, auteur de De Hierarchia.
 !! <hr>
-!! + Revenir à la note：[&#11105;][13]
-!! + Revenir à la note：[&#11105;][131]
+!! + Revenir à la note：[↑][13]
+!! + Revenir à la note：[↑][131]
 
 ### signe du Tau {#note_tau}
 
 !! lettre grecque en forme de croix: .
 !! <hr>
-!! + Revenir à la note：[&#11105;][15]
+!! + Revenir à la note：[↑][15]
 
 ### Grégoire le Grand {#note_gregoire}
 
 !! https://fr.wikipedia.org/wiki/Grégoire_Ier "https://fr.wikipedia.org/wiki/Grégoire_Ier"
 !! <hr>
-!! + Revenir à la note：[&#11105;][17]
-!! + Revenir à la note：[&#11105;][171]
+!! + Revenir à la note：[↑][17]
+!! + Revenir à la note：[↑][171]
 
 ### Bernard de Clairvaux {#note_bernard}
 
 !! https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux "https://fr.wikipedia.org/wiki/Bernard_de_Clairvaux"
 !! <hr>
-!! + Revenir à la note：[&#11105;][19]
+!! + Revenir à la note：[↑][19]
 
 ### Histoire tripartite {#note_histoiretripartite}
 
 !! https://fr.wikipedia.org/wiki/Cassiodore "https://fr.wikipedia.org/wiki/Cassiodore"
 !! <hr>
-!! + Revenir à la note：[&#11105;][21]
+!! + Revenir à la note：[↑][21]
 
 ### Haymon {#note_haymon}
 
 !! https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt "https://fr.wikipedia.org/wiki/Haymon_d'Halberstadt"
 !! <hr>
-!! + Revenir à la note：[&#11105;][23]
+!! + Revenir à la note：[↑][23]
 
 
 [2]: /mont-saint-michel/arch-michel/legende-doree/#note_moise "ascension de Moïse"

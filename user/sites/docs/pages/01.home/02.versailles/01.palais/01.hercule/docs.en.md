@@ -14,8 +14,8 @@ metadata:
     image: hercule_700x448.jpg
     image_width: 700
     image_height: 488
-    image_title: The Latona Fountain in the Garden of the Palace of Versailles
-    image_legend: Lycian peasants　transformed into mud-pool animals by Latona's anger
+    image_title: "François Lemoyne, Detail of « The Apotheosis of Hercules », Salon d'Hercule (Hercules Room) of the Palace of Versailles"
+    image_legend: "Jupiter introduces Hercules to Hebe, Goddess of Youth, led by the Hymen."
     'twitter:card' : summary
 significantlinks: ["https://en.wikipedia.org/wiki/Louis_XV_of_France"]
 specialty: ["History of France", "Mythology", "Culture of royal french court", "Louis XV", "François Lemoyne", "François Le Moine", "Salon d'Hercule", "Apothéose d'Hercule", "Hercules Room", "Apotheosis of Hercules"]
@@ -35,7 +35,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-640.webp 640w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.webp 700w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg" alt="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇" title="ヴェルサイユ宮殿の庭園にある、ラトナの泉水と花壇"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg" alt="François Lemoyne, « The Apotheosis of Hercules », Salon d'Hercule (Hercules Room) of the Palace of Versailles" title="François Lemoyne, « The Apotheosis of Hercules », Salon d'Hercule (Hercules Room) of the Palace of Versailles"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-280.jpg 280w,
