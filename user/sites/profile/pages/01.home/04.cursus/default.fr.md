@@ -3,7 +3,7 @@ title: parisien
 slug: parisien
 created: 31-07-2016, 22:37
 date: 31-07-2016, 22:37
-modified: 06-11-2016, 22:13
+modified: 15-12-2016, 12:26
 visible: false
 routable: false
 robots: 'noindex, nofollow'
@@ -29,4 +29,4 @@ De retour en France, il change de profession et devient interprète.
 [3]: http://www.garde-intl.com/ "http://www.garde-intl.com/"
 [4]: https://www.google.fr/maps/place/Minamiaoyama,+Minato-ku,+Tokyo+107-0062,+Japon/@35.6645978,139.7148829,15.75z/data=!4m5!3m4!1s0x60188b6254cc464f:0x99773132a4b583e6!8m2!3d35.6653189!4d139.7149995 "https://www.google.fr/maps/place/Minamiaoyama"
 [^1]:
-   cette orthographe est rare, mais c'est la transgraphie française régulière; elle date de la fin du dix-neuvième siècle; elle a encore cours officiellement, par exemple dans les actes officiels; elle reflète fidèlement la prononciation originale en indiquant les nuances de prononciation par l'accentuation; transgraphie anglaise: Tokyo.
+   cette orthographe est rare, mais c'est la transgraphie française régulière; elle date de la fin du dix-neuvième siècle; elle a encore cours officiellement, par exemple dans certains actes officiels dont on souhaite marquer le caractère solennel; à la différence de la transgraphie anglaise actuelle, elle reflète fidèlement la prononciation originale en indiquant les nuances de prononciation par accentuation; transgraphie anglaise: Tokyo.

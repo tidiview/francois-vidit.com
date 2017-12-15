@@ -1,55 +1,16 @@
 ---
 title: ヘラクレス
-menu: ヘラクレス
-slug: hercule
-template: docs_minus_h1
+slug: "page:2"
 created: 26-10-2017, 15:25
-date: 27-10-2017, 14:46
-modified: 06-12-2017, 21:35
-itempage: Article
+date: 06-12-2017, 21:35
+modified: 14-12-2017, 16:00
+visible: false
+routable: false
 taxonomy:
-   category: [docs, ja]
-metadata:
-    robots: 'noindex, nofollow'
-    description: 'ヴェルサイユ宮殿にあるヘラクレスの間の天井《ヘラクレスの神格化》のルイ15世による1736年9月26日の除幕式を切っ掛けにメルクール・ド・フランス誌（Mercure de France）に出版された恐らく画家フランソワ・ルモワーヌ（François Lemoyne）によって書かれた文書の紹介。'
-    keywords: "ヴェルサイユ宮殿, ヴェルサイユ, ルイ15世, Louis XV, ルイ十五世, メルクール・ド・フランス, Mercure de France, ヘラクレスの神格化, ヘラクレスの間, Apothéose d'Hercule, Salon d'Hercule, フランソワ・ルモワーヌ, François Lemoyne"
-    image: hercule_700x448.jpg
-    image_width: 700
-    image_height: 448
-    image_title: フランソワ・ルモワーヌ作《ヘラクレスの神格化》の詳細、ヘラクレスの間、ヴェルサイユ宮殿
-    image_legend: ユピテルはヘラクレスにヒュメーンに導かれている若さの神であるヘべーを紹介しています
-    'twitter:card': summary
-significantlinks: ["https://ja.wikipedia.org/wiki/ルイ15世 (フランス王)"]
-specialty: ["フランス歴史", "神話", "宮廷文化", "ヴェルサイユ宮殿", "ヘラクレスの間", "ヘラクレスの神格化", "Apothéose d'Hercule", "フランソワ・ルモワーヌ", "François Lemoyne"]
+    category: [hercule, ja]
 shortcode-core:
-   active: true
-sitemap:
-   changefreq: daily
-   priority: 0.5
+    active: true
 ---
-# ヘラクレス
-
-<figure><picture>
-<source
-sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
-srcset="
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-280.webp 280w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-380.webp 380w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-480.webp 480w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-640.webp 640w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.webp 700w"
-type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg" alt="フランソワ・ルモワーヌ作《ヘラクレスの神格化》、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作《ヘラクレスの神格化》、ヘラクレスの間、ヴェルサイユ宮殿"
-sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
-srcset="
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-280.jpg 280w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-380.jpg 380w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-480.jpg 480w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule-640.jpg 640w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/hercule_700x529.jpg 700w"
->
-</picture><figcaption>ヘラクレスの神格化</figcaption></figure>
-
 !!! ヴェルサイユ宮殿にある{r=ja/fr}ヘラクレスの間(Salon&#160;d&#39;Hercule){/r}の天井《{r=ja/fr}ヘラクレスの神格化(Apothéose&#160;d&#39;Hercule){/r}》の{r=ja/fr}ルイ(Louis)15(XV){/r}世による1736年9月26日の除幕式を切っ掛けに{r=ja/fr}メルクール(Mercure)・()ド(de)・()フランス(France){/r}誌に出版された、恐らく画家{r=ja/fr}フランソワ(François)・()ルモワーヌ(Lemoyne){/r}によって書かれた文書を紹介します。  
 
 [color=#28a1c5]**ヴェルサイユ宮殿にある控えの間、王の礼拝堂の前で「大理石の大広間」と呼ばれている部屋の天井画**[/color]  
