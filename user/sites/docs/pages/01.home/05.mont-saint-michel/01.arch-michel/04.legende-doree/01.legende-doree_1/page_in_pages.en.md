@@ -2,8 +2,8 @@
 title: Saint Michael in the Golden Legend
 slug: "page:1"
 created: 17-07-2017, 12:59
-date: 11-09-2017, 17:51
-modified: 07-10-2017, 22:45
+date: 07-10-2017, 22:45
+modified: 24-12-2017, 21:13
 visible: false
 routable: false
 taxonomy:
@@ -11,6 +11,16 @@ taxonomy:
 shortcode-core:
    active: true
 ---
+!! In the Christian Europe of the Middle Ages, The Golden Legend also called Legenda Aurea is known as the most read book after the Bible.  
+!! It was written in Latin from 1261 to 1266 by a Dominican monk from Northern Italy, a chronicles compilor and also known as the 8 th Archbishop of Genoa, Jacobus de Voragine.  
+!! Presenting this book, even in a rudimentary way, is not easy, but to say things, there is no mistake to write that by compiling several existing documents like 150 lives of martyrs or some saints or groups of saints, by incorporating in the pre-existing pagan calendar the annual liturgical calendar of the Catholic Church, by unifying it, using also, of this opportunity to explain the main events of Christ's and the Virgin's lives from the Gospels, this text actually constructed a Christian mythology that has deeply permeated all areas of the society of its time, including, for example, its topology…  
+!! As written in the preface to his book "Christian Mythology: feasts, rites and myths of the Middle Ages», the medievalist Philippe WALTER, «remembrance endured would appear in rites, traditions from the savage memory before the arrival of Christianity», one can consider this text because it appears in the underlying way of the Church's repressed back elements, as both fascinating and particularly worthy of interest.  
+!! Here, of course, I present below only a very small part, the only chapter 139, because it is given in the work as the origin of Mont Saint-Michel as a place of pilgrimage.  
+!! Appear the archangel Michel, the Bull, and many other things… It is also surprising that the narrative develops without stopping and imperceptibly from the Archangel to a narrative of faith in angels.  
+!! Between the existence that we can't measure and the one we perceive, this text should evoke various thoughts, independently of questions about believing or not believing, and therefore I urge to read it if possible until the end without fear of the strong religious colour of the time.  
+
+<br>
+
 ## [color=#b52b27]Chapter 145[/color]{#chap145}
 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span>

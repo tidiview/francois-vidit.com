@@ -2,8 +2,8 @@
 title: Iris and Morpheus
 menu: iris
 created: 02-01-2017, 21:54
-date: 10-01-2017, 00:15
-modified: 19-10-2017, 11:21
+date: 19-10-2017, 11:21
+modified: 23-12-2017, 19:00
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -43,7 +43,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture><figcaption>Iris, messenger of Juno, enters in the cave of Sleep</figcaption></figure>
+</picture><figcaption>Iris, messenger of Juno, enters in the cave of Sleep</figcaption><map name="iris" id="iris"><area title="Iris" alt="Iris" id="area_iris" href="#iris" shape="poly" coords="50, 599, 69, 555, 109, 529, 166, 502, 167, 448, 218, 398, 262, 303, 316, 297, 360, 247, 354, 220, 334, 229, 326, 255, 262, 279, 248, 231, 251, 202, 242, 188, 220, 194, 202, 107, 170, 176, 143, 153, 116, 163, 32, 108, 29, 131, 53, 184, 87, 223, 103, 292, 81, 327, 77, 360, 57, 374, 52, 391, 60, 397, 69, 398, 71, 414, 60, 428, 47, 418, 28, 421, 18, 432, 19, 476, 37, 495, 33, 517, 43, 533, 61, 530, 54, 540, 40, 542, 32, 571, 33, 602" /><area title="God of Sleep" alt="God of Sleep" id="area_morpheus" href="#morpheus" shape="poly" coords="195, 661, 277, 634, 324, 631, 347, 645, 366, 712, 375, 718, 420, 675, 433, 655, 521, 641, 542, 621, 571, 614, 600, 593, 630, 607, 683, 592, 680, 573, 657, 567, 622, 567, 611, 552, 583, 540, 579, 512, 590, 497, 580, 481, 513, 452, 481, 453, 473, 466, 476, 515, 389, 469, 267, 447, 273, 473, 330, 503, 378, 512, 405, 529, 435, 563, 387, 546, 343, 548, 301, 556, 259, 545, 254, 555, 279, 575, 296, 597, 237, 624, 198, 630, 185, 645" /></map></figure>
 
 !!!! In the Salon de Famille de Louis-Philippe of the [Grand Trianon][1] in Versailles a painting from [René-Antoine Houasse][2], “Iris and Morpheus” can be seen.  
 !!!! Based on a part of Book XI of [The Metamorphoses][3] written by [Ovid][4], it represents the particular moment when [Iris][5], messager of [Juno][6] enters the cave of [the Sleep][7] to order to him to make [Alcynoe][8] dream. 

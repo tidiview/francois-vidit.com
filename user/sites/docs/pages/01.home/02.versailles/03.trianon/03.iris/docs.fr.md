@@ -2,8 +2,8 @@
 title: Iris
 menu: iris
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 00:15
+date: 10-01-2017, 00:15
+modified: 23-12-2017, 18:57
 itempage: Article
 taxonomy:
    category: [docs, fr]
@@ -35,7 +35,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.webp 700w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg" title="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" alt="Peinture de René-Antoine HOUASSE, “Iris et Morphée”, Grand Trianon, Versailles" class="class-diane-img" usemap="#iris"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-280.jpg 280w,
@@ -43,10 +43,10 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-480.jpg 480w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris-640.jpg 640w,
 /user/sites/docs/pages/01.home/02.versailles/03.trianon/03.iris/iris_700x951.jpg 700w">
-</picture><figcaption>Iris, messagère de Junon, entre dans la grotte de Sommeil</figcaption></figure>
+</picture><figcaption>Iris, messagère de Junon, entre dans la grotte de Sommeil</figcaption><map name="iris" id="iris"><area title="Iris" alt="Iris" id="area_iris" href="#iris" shape="poly" coords="50, 599, 69, 555, 109, 529, 166, 502, 167, 448, 218, 398, 262, 303, 316, 297, 360, 247, 354, 220, 334, 229, 326, 255, 262, 279, 248, 231, 251, 202, 242, 188, 220, 194, 202, 107, 170, 176, 143, 153, 116, 163, 32, 108, 29, 131, 53, 184, 87, 223, 103, 292, 81, 327, 77, 360, 57, 374, 52, 391, 60, 397, 69, 398, 71, 414, 60, 428, 47, 418, 28, 421, 18, 432, 19, 476, 37, 495, 33, 517, 43, 533, 61, 530, 54, 540, 40, 542, 32, 571, 33, 602" /><area title="Sommeil" alt="Sommeil" id="area_morpheus" href="#morpheus" shape="poly" coords="195, 661, 277, 634, 324, 631, 347, 645, 366, 712, 375, 718, 420, 675, 433, 655, 521, 641, 542, 621, 571, 614, 600, 593, 630, 607, 683, 592, 680, 573, 657, 567, 622, 567, 611, 552, 583, 540, 579, 512, 590, 497, 580, 481, 513, 452, 481, 453, 473, 466, 476, 515, 389, 469, 267, 447, 273, 473, 330, 503, 378, 512, 405, 529, 435, 563, 387, 546, 343, 548, 301, 556, 259, 545, 254, 555, 279, 575, 296, 597, 237, 624, 198, 630, 185, 645" /></map></figure>
 
 !!!! Dans le Salon de Famille de Louis-Philippe du [Grand Trianon][1] à Versailles, se peut voir une peinture de [René-Antoine Houasse][2], Iris et Morphée.  
-!!!! À partir d'une partie du Livre XI des [Métamorphoses][3] d'[Ovide][4] se trouve représenté le moment où [Iris][5], messagère de [Junon][6], entre dans la grotte de [Sommeil][7] pour lui ordonner de faire rêver [Alcyone][8].   
+!!!! À partir d'une partie du Livre XI des [Métamorphoses][3] d'[Ovide][4] se trouve représenté le moment où [Iris][13]{#iris}, messagère de [Junon][6], entre dans la grotte de [Sommeil][7] pour lui ordonner de faire rêver [Alcyone][8].   
 
 [color=#3d8b3d]**Iris et Morphée**[/color]  
 
@@ -119,7 +119,7 @@ Elle s’enfuit, s’en retourne par arc-en-ciel, comme elle était venue.
 
 !!!! ####Note:  
 !!!! L'œuvre de [René-Antoine Houasse][2] a été nommé au XVII<sup style="color:#3d8b3d;">ème</sup> siècle « Iris et Morphée ».  
-!!!! Nous conservons cette appellation pour permettre son identification, bien que la scène représentée montre bien plutôt [Iris][5] et [le Sommeil][7].  
+!!!! Nous conservons cette appellation pour permettre son identification, bien que la scène représentée montre bien plutôt [Iris][5] et [le Sommeil][14]{#morpheus}.  
 
 [1]: https://fr.wikipedia.org/wiki/Grand_Trianon "https://fr.wikipedia.org/wiki/Grand Trianon"
 [2]: https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse "https://fr.wikipedia.org/wiki/René-Antoine Houasse"
@@ -129,3 +129,5 @@ Elle s’enfuit, s’en retourne par arc-en-ciel, comme elle était venue.
 [6]: https://fr.wikipedia.org/wiki/Junon "https://fr.wikipedia.org/wiki/Junon"
 [7]: https://fr.wikipedia.org/wiki/Hypnos "https://fr.wikipedia.org/wiki/Hypnos"
 [8]: https://fr.wikipedia.org/wiki/Alcyone "https://fr.wikipedia.org/wiki/Alcyone"
+[13]: #area_iris "Iris"
+[14]: #area_morpheus "Morphée"

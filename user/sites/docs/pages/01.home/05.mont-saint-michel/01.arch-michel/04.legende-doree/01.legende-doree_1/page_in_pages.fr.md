@@ -2,8 +2,8 @@
 title: Saint-Michel dans la Légende Dorée
 slug: "page:1"
 created: 17-07-2017, 12:59
-date: 11-09-2017, 20:49
-modified: 07-10-2017, 22:38
+date: 07-10-2017, 22:38
+modified: 24-12-2017, 19:52
 visible: false
 routable: false
 taxonomy:
@@ -12,6 +12,14 @@ shortcode-core:
    active: true
 ---
 
+!! Dans l'Europe chrétienne du Moyen-Âge, la Légende Dorée est l'ouvrage le plus lu après la Bible.  
+!! Elle a été écrite en latin de 1261 à 1266 par un moine dominicain de l'Italie du Nord, compilateur de chroniques et également connu comme le 8ème Archevêque de Gênes, Jacques De Voragine (en latin, Jacobus de Voragine).  
+!! Présenter cet ouvrage, même de manière élémentaire, n'est pas chose aisée mais pour dire les choses, il n'y a pas d'erreur à écrire qu'en compilant plusieurs documents existants comme des vies de martyrs ou de quelques 150 saints ou groupes de saints, en incorporant dans le calendrier païen préexistant le calendrier liturgique annuel de l'église catholique, en l'uniformisant, en se servant aussi de cette occasion pour expliquer les principaux événements des vies du Christ et de la Vierge à partir des Évangiles, ce texte a de fait construit la mythologie chrétienne qui a imprégné en profondeur tous les domaines de la société de son époque, y compris par exemple sa topologie...  
+!! Comme l'écrit, dans la préface de son livre « Mythologie chrétienne : fêtes, rites et mythes du Moyen âge », le médiéviste Philippe WALTER, « le souvenir immémorial imprégnaient rites, traditions venus de la mémoire sauvage qui préexistaient à l'arrivée du christianisme », on peut considérer ce texte parce qu'y apparaissent de manière sous-jacente des éléments refoulés par l'Église de l'ancien calendrier païen, comme à la fois fascinant et particulièrement digne d'intérêt.  
+!! Ici, je n'en présente bien sûr ci-dessous qu'une très petite partie, le seul chapître 139, parce que celle-ci se rapporte dans l'œuvre comme étant origine du Mont Saint-Michel en temps que lieu de pélerinage.  
+!! Y apparaisse l'archange Michel, le Taureau, et bien d'autres choses... On peut s'étonner aussi que le récit se développe sans s'arrêter et insensiblement de l'Archange à un récit de la foi en les anges.  
+!! Entre l'existence qu'on ne peut mesurer et celle qu'on perçoit, ce texte devrait susciter diverses pensées, indépendemment de questions relatives au fait de croire ou de ne pas croire, et donc j'incite à le lire si possible jusqu'à la fin sans s'effrayer de la forte coloration religieuse propre à l'époque.  
+!! Des liens ont été établis à partir des citations pour rendre possible et facile pour ceux qui le souhaiterait, vérification des propos avancés en temps que citation.
 
 <br>
 
