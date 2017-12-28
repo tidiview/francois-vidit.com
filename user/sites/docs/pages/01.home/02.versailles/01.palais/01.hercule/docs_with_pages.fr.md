@@ -33,5 +33,5 @@ shortcode-core:
    active: true
 sitemap:
    changefreq: daily
-   priority: 0.5
+   priority: 0.6
 ---
