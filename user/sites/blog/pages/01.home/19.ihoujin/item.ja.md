@@ -3,8 +3,8 @@ title: 異邦人
 menu: 異邦人
 slug: ihoujin
 created: 06-09-2016, 18:04
-date: 02-11-2016, 10:17
-modified: 06-10-2017, 14:04
+date: 06-10-2017, 14:04
+modified: 15-01-2018, 10:31
 itempage: BlogPosting
 base64_background: clouds
 base64_itembackground: cloudsinthesky
@@ -60,13 +60,13 @@ shortcode-core:
 |   |   |
 |   | - どんな緯度に位置付けられているかも知らぬ。 |
 |   |   |
-|   | - 美さか。 |
+|   | - 美しさか。 |
 |   |   |
 |   | - 好きになっても良い、女神的死なぬもの。 |
 |   |   |
 |   | - 黄金か。 |
 |   |   |
-| <sup>10</sup> | - あなたは神が嫌いのと同じように嫌い。 |
+| <sup>10</sup> | - あなたが神が嫌いのと同じように嫌い。 |
 |   |   |
 |   | - いったい何が好きなの」か、並外れた異邦人よ。 |
 |   |   |
@@ -85,6 +85,9 @@ shortcode-core:
 !!!! 日本語訳：
 !!!! : 独自
 !!!! : （文書の御使用は「[{r}フランソワ(François)・()ヴィディ(VIDIT){/r}][3] 訳」（リンクを含む）追加で可能としている）
+!!!! 
+!!!! 訂正：
+!!!! : このページの読者達のみんなさま。感謝致します。
 
 
 [1]: https://ja.wikipedia.org/wiki/シャルル・ボードレール "https://ja.wikipedia.org/wiki/シャルル・ボードレール"

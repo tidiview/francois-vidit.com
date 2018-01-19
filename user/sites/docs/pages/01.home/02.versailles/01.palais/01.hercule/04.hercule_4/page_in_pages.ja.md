@@ -60,7 +60,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule8-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule8-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule8-640.jpg" alt="フランソワ・ルモワーヌ作、《フロラとゼピュルスが空気の精たちにともなっていて花の連なりで遊んでいます》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《フロラとゼピュルスが空気の精たちにともなっていて花の連なりで遊んでいます》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule8-640.jpg" alt="フランソワ・ルモワーヌ作、《フロラとゼピュルスが空気の精たちにともなっていて花の連なりで遊んでいます》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《フロラとゼピュルスが空気の精たちにともなっていて花の連なりで遊んでいます》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" usemap="#img_hercule5"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule8-280.jpg 280w,

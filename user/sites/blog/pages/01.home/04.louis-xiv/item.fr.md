@@ -35,7 +35,7 @@ significantlinks: ["http://bibliobs.nouvelobs.com/idees/20150901.OBS5100/louis-x
 specialty: ["histoire de France", "histoire de Versailles"]
 sitemap:
     changefreq: yearly
-    priority: 0.9
+    priority: 0.6
 ---
 
 ####Par Serge Raffy, journaliste

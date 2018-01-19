@@ -35,8 +35,8 @@ specialty: ["6ème République Française", "Élections présidentielles 2017", 
 shortcode-core:
     active: true
 sitemap:
-   changefreq: weekly
-   priority: 0.9
+   changefreq: monthly
+   priority: 0.4
 ---
 !!! Le tirage au sort comme mode de désignation des députés de l'Assemblée Constituante pour la VI<sup>ème</sup> République: quelques réflexions.   
 

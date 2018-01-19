@@ -34,7 +34,7 @@ specialty: ["フランス革命", "全国三部会", "Révolution française", "
 shortcode-core:
     active: true
 sitemap:
-   changefreq: daily
+   changefreq: weekly
    priority: 0.6
 ---
 !! 〈フランス革命〉と言われている出来事は、まだフランス革命なのか。  

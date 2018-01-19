@@ -34,8 +34,8 @@ specialty: ["フランス革命", "ヴェルサイユ", "全国三部会", "三�
 shortcode-core:
     active: true
 sitemap:
-   changefreq: daily
-   priority: 0.7
+   changefreq: weekly
+   priority: 0.8
 ---
 ! フランス革命は、一つの出来事として紹介されていることが多いですが、自分から理解しようとすると革命自体がいろんな革命から形成されていることが見えて来ます。  
 ! そのなかで、ここでは、あまり知られていないロイヤル革命を紹介します。  

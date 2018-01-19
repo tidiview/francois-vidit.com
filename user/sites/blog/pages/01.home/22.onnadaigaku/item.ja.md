@@ -35,7 +35,7 @@ shortcode-core:
     active: true
 sitemap:
     changefreq: weekly
-    priority: 0.9
+    priority: 0.4
 ---
 ! わたしたちが今日ふつう「女大学」と呼んでいるのは、この書の本文を受けついで編まれた教順書類である。  
 

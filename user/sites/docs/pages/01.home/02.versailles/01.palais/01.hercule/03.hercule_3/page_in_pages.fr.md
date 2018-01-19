@@ -24,7 +24,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg" alt="François Lemoyne, « Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg" alt="François Lemoyne, « Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" usemap="#img_hercule4"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-280.jpg 280w,
@@ -35,22 +35,34 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-1920.jpg 1920w" />
-</picture><figcaption>Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu</figcaption></figure>
+</picture><figcaption>Cupidon regarde d'un œil malin et dédaigneux l'Amour de la Vertu</figcaption><map name="img_hercule4" id="img_hercule4">
+<area id="area_bacchus" alt="Bacchus" title="Bacchus" href="#bacchus" shape="poly" coords="247,291,251,287,246,276,257,282,252,274,255,266,259,261,267,259,271,256,276,257,279,264,280,274,274,278,270,284,275,286,280,284,285,281,290,286,287,293,287,300,286,308,283,317,278,325,277,331,278,336,277,342,280,347,285,351,289,347,286,341,286,333,292,322,297,318,298,311,304,306,306,299,312,297,319,294,325,291,331,290,337,293,342,297,346,299,346,305,351,305,357,305,363,304,368,303,373,299,368,294,360,295,352,292,344,283,338,279,335,273,329,270,323,273,319,278,321,271,318,265,314,270,311,260,306,252,303,251,305,247,303,241,300,235,293,233,288,237,287,242,283,247,281,248,274,245,267,245,266,250,259,251,255,255,246,263,245,270,245,282">
+<area id="area_dieupan" alt="Dieu Pan" title="Dieu Pan" href="#dieupan" shape="poly" coords="225,300,231,290,236,281,241,278,243,266,243,272,243,286,247,290,251,286,256,283,256,279,251,274,255,270,257,262,261,258,266,259,273,256,278,259,279,265,278,273,275,279,276,286,281,282,290,286,286,294,286,305,282,315,278,322,274,308,269,313,265,320,262,330,254,335,246,340,243,334,235,334,230,341,223,336,218,330,211,329,214,321,213,313,217,305">
+<area id="area_deuxsylvains" alt="deux Sylvains" title="deux Sylvains" href="#deuxsylvains" shape="poly" coords="127,278,135,279,146,282,157,281,167,283,174,289,179,282,183,279,190,278,197,276,198,284,202,289,207,278,214,282,220,289,223,297,228,299,229,290,235,283,239,279,242,269,241,259,244,254,251,253,258,242,258,228,246,207,239,215,246,230,240,239,234,238,233,235,225,233,220,226,218,220,211,214,202,216,198,225,199,233,207,240,213,246,211,259,203,263,196,267,191,274,182,275,171,273,166,266,172,264,174,257,176,251,175,243,165,243,157,242,150,247,141,249,130,252,123,259,121,267,123,273">
+<area id="area_amphitrite" alt="Amphitrite" title="Amphitrite" href="#amphitrite" shape="poly" coords="193,131,186,135,180,150,189,153,197,160,195,166,188,169,197,173,199,182,201,187,204,192,209,191,216,194,223,198,229,198,231,203,236,205,243,202,249,201,254,204,261,203,261,195,258,188,249,185,244,178,240,178,239,175,236,172,236,169,230,161,226,159,226,153,224,142,219,136,218,133,222,129,222,122,220,117,211,116,204,123,199,130">
+<area id="area_mercure" alt="Mercure" title="Mercure" href="#mercure" shape="poly" coords="97,194,104,194,107,184,117,172,134,167,139,164,139,155,140,146,145,151,153,150,160,153,163,146,160,130,169,129,174,130,178,137,181,142,181,151,191,154,189,147,193,145,197,149,197,141,192,135,189,129,183,126,181,120,179,114,185,113,192,110,191,104,184,97,181,93,175,92,171,98,176,99,174,105,167,106,160,103,153,103,147,106,135,104,137,98,144,99,140,89,133,87,125,90,122,99,127,98,125,104,118,109,111,117,112,125,103,121,93,121,92,135,98,141,108,141,108,149,101,153,101,161,107,160,109,151,114,146,118,149,123,146,120,156,112,158,110,169,99,181,105,176,95,186">
+<area id="area_venus" alt="Vénus" title="Vénus" href="#venus" shape="poly" coords="215,431,208,430,207,420,205,420,196,423,186,422,183,424,178,428,181,434,170,431,166,424,157,416,162,410,173,410,170,401,174,396,172,389,169,389,172,379,170,368,170,358,173,351,179,344,181,333,185,327,190,327,195,327,192,321,192,312,198,308,207,307,212,314,214,322,212,330,218,333,223,337,224,345,230,345,227,351,228,358,235,359,232,360,232,365,239,368,239,374,245,380,248,388,247,395,238,400,228,406,217,416">
+<area id="area_lestroisgraces" alt="les trois Grâces" title="les trois Grâces" href="#lestroisgraces" shape="poly" coords="170,402,163,401,161,393,154,394,150,387,144,388,138,392,138,394,124,390,113,389,104,392,98,398,93,394,80,397,71,406,69,417,62,418,58,410,22,407,12,410,6,412,0,406,0,369,4,375,8,378,12,373,17,367,15,360,17,351,21,346,28,345,35,349,37,355,41,360,46,364,49,372,48,379,51,386,60,385,67,383,76,383,71,377,67,368,69,360,74,354,78,347,84,343,87,335,94,333,90,328,92,322,96,317,101,316,106,316,112,320,114,328,113,335,111,337,113,341,115,343,119,337,121,330,123,323,128,318,130,315,128,309,124,303,126,296,134,291,139,295,143,301,143,307,146,310,149,305,157,305,165,304,170,298,174,294,179,289,178,282,184,278,194,277,199,282,203,287,207,290,205,295,200,300,193,306,186,302,183,295,179,305,174,309,168,314,173,317,178,319,182,312,185,318,190,318,183,328,181,334,176,341,174,351,173,360,171,368,166,372,164,378,163,385,164,393">
+<area id="area_cupidon" alt="Cupidon" title="Cupidon" href="#cupidon" shape="poly" coords="264,403,269,396,273,390,277,367,271,363,269,372,267,365,259,355,264,353,274,358,274,351,271,343,263,340,258,343,253,342,247,345,247,343,244,341,244,337,237,336,233,342,239,348,245,352,244,357,238,361,232,359,231,364,238,366,243,367,247,369,250,374,249,381,250,387,254,394,257,401">
+<area id="area_pandore" alt="Pandore" title="Pandore" href="#pandore" shape="poly" coords="296,402,302,398,305,388,303,385,308,381,311,375,316,370,319,371,321,368,313,364,309,356,310,347,315,343,321,343,326,346,330,351,335,355,343,355,351,359,356,365,360,369,359,374,361,379,366,385,366,391,371,397,373,402,368,406,366,407,360,407,358,413,355,410,349,404,344,408,340,412,335,406,330,399,325,393,319,390,313,393,311,399,311,406,311,409,307,408,303,406,299,409">
+<area id="area_diane" alt="Diane" title="Diane" href="#diane" shape="poly" coords="375,402,372,396,367,392,367,385,362,380,360,374,363,369,358,365,363,361,366,361,363,357,357,355,359,353,355,349,360,344,361,337,365,333,370,333,370,330,366,327,362,323,361,316,364,317,366,311,372,309,379,312,384,316,382,325,384,330,389,333,391,335,394,336,400,332,406,331,407,332,404,334,407,335,413,332,415,334,410,339,403,340,408,343,415,345,416,350,422,354,429,355,437,351,438,344,439,336,443,329,448,327,445,332,442,337,441,345,441,355,441,360,438,366,435,372,438,378,439,383,441,392,442,400,440,410,438,415,434,419,432,420,430,425,425,423,423,429,416,426,414,427,413,432,406,432,402,430,404,424,399,419,393,417,389,413,385,416,379,417,374,413,368,410,373,406">
+<area id="area_comus" alt="Comus" title="Comus" href="#comus" shape="poly" coords="338,411,333,405,329,398,324,393,319,389,313,393,312,399,312,409,304,407,301,410,296,403,301,399,306,389,302,387,301,380,295,377,286,374,281,377,278,382,277,387,273,391,268,395,266,400,263,406,263,412,263,418,262,425,263,432,265,439,269,443,271,448,274,453,276,455,282,454,288,450,295,450,297,452,302,450,305,450,310,451,315,448,318,448,323,452,328,453,331,457,336,460,339,465,347,464,345,456,350,455,348,447,344,448,341,439,337,430,333,422,327,417,330,411,335,412">
+</map></figure>
 
 2<sup style="color:#555">ème</sup> Groupe.  
 Sur la droite de Jupiter, 
-Bacchus assis et appuyé sur le Dieu Pan, 
+[Bacchus][1]{#bacchus} assis et appuyé sur le [Dieu Pan][2]{#dieupan}, 
 envisage avec complaisance le triomphe d'Hercule.  
-Bacchus est accompagné de deux Sylvains, dont l'un lie son Thyrse, et l'autre des raisins, 
-au-dessus paraît Amphitrite, et Mercure le Messager des Dieux prêt à exécuter les ordres de Jupiter.  
-Au dessous de Bacchus on voit Venus avec les trois Grâces, 
+Bacchus est accompagné de [deux Sylvains][3]{#deuxsylvains}, dont l'un lie son Thyrse, et l'autre des raisins, 
+au-dessus paraît [Amphitrite][4]{#amphitrite}, et [Mercure][5]{#mercure} le Messager des Dieux prêt à exécuter les ordres de Jupiter.  
+Au dessous de Bacchus on voit [Vénus][6]{#venus} avec [les trois Grâces][7]{#lestroisgraces}, 
 elles s'applaudissent d'avoir contribuer à rendre Hébé aimable;  
 l'une des Grâces tient une Couronne qu'elle paraît lui destiner, 
-Cupidon qui est à côté de sa mère, 
+[Cupidon][8]{#cupidon} qui est à côté de sa mère, 
 regarde d'un œil malin et dédaigneux l'Amour de la Vertu.  
 Aux pieds de Bacchus,  
 et un peu en descendant, 
-Pandore et Diane semblent inviter Comus, Dieu des Banquets, à se disposer pour la Fête: 
+[Pandore][9]{#pandore} et [Diane][10]{#diane} semblent inviter [Comus][11]{#comus}, Dieu des Banquets, à se disposer pour la Fête: 
 ce Dieu porte une Picque entourée d'une guirlande de fleurs.
 
 <figure><picture>
@@ -66,7 +78,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-640.jpg" alt="François Lemoyne, « Mars attentif à la chute des Monstres et des Vices », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « Mars attentif à la chute des Monstres et des Vices », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-640.jpg" alt="François Lemoyne, « Mars attentif à la chute des Monstres et des Vices », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « Mars attentif à la chute des Monstres et des Vices », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" usemap="#img_hercule5"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-280.jpg 280w,
@@ -77,20 +89,25 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule5-1920.jpg 1920w" />
-</picture><figcaption>Mars attentif à la chute des Monstres et des Vices</figcaption></figure>
+</picture><figcaption>Mars attentif à la chute des Monstres et des Vices</figcaption><map name="img_hercule5" id="img_hercule5">
+<area id="area_mars" alt="Mars" title="Mars" href="#mars" shape="poly" coords="266,258,262,262,256,263,249,254,251,260,245,259,239,262,232,261,229,252,226,244,229,237,234,243,239,238,243,234,244,228,242,221,242,212,240,206,238,200,241,193,244,186,237,177,237,169,241,163,246,161,253,160,261,154,263,150,269,146,279,144,282,135,287,132,296,132,288,133,290,137,295,141,296,143,300,146,299,148,296,148,294,153,295,160,299,165,303,171,303,173,308,179,311,187,303,190,301,197,305,201,302,207,300,207,293,210,285,215,277,220,271,228,266,239,264,248">
+<area id="area_vulcain" alt="Vulcain" title="Vulcain" href="#vulcain" shape="poly" coords="223,264,229,252,225,244,229,238,234,241,242,235,244,227,242,221,243,213,238,200,242,188,237,184,233,177,223,171,224,169,220,165,219,162,208,162,205,169,208,179,207,181,200,181,192,184,187,190,179,191,170,190,162,185,159,184,152,184,147,187,149,192,154,194,160,193,165,196,171,199,178,202,178,205,174,209,172,211,162,210,160,212,154,219,155,226,158,233,158,240,161,245,164,250,171,252,170,261,170,271,177,279,187,282,193,280,200,276,205,273,203,267,197,259,203,258,210,263,216,265,219,265">
+<area id="area_plusieursamours" alt="plusieurs Amours" title="plusieurs Amours" href="#plusieursamours" shape="poly" coords="119,298,114,285,108,284,108,277,100,278,95,275,87,276,84,267,76,263,77,252,84,254,82,243,72,245,71,238,73,230,75,224,68,219,61,219,59,213,59,205,58,198,60,191,54,181,47,180,48,177,44,177,39,181,29,179,22,181,28,171,25,164,30,162,35,162,37,159,32,153,36,146,41,142,47,143,52,140,52,133,57,132,63,130,66,135,63,140,66,145,69,150,74,154,77,161,84,162,88,165,88,167,79,166,74,169,73,171,64,172,62,178,54,181,60,191,66,193,71,194,72,201,78,203,84,206,89,206,93,197,98,193,100,186,99,179,104,175,107,169,111,165,111,158,116,157,123,162,122,167,128,165,131,169,138,175,138,177,130,172,126,174,119,174,116,182,115,189,109,192,107,197,99,199,89,207,96,213,99,217,105,213,111,211,114,203,121,203,121,194,127,190,135,193,139,204,137,213,141,222,144,232,148,242,145,249,139,244,134,239,134,248,133,255,129,259,127,265,131,271,137,275,141,283,148,288,154,282,158,277,159,284,159,291,159,301,158,306,153,296,147,295,138,297,131,292,123,283,124,292,124,298">
+<area id="area_deuxrenommees" alt="deux Renommées" title="deux Renommées" href="#deuxrenommees" shape="poly" coords="132,360,144,360,154,348,164,347,169,344,190,344,196,345,199,349,208,349,207,343,212,342,217,338,228,336,231,341,234,332,245,333,259,330,253,324,247,321,258,322,264,318,268,313,276,323,282,322,291,320,301,317,293,317,285,316,279,315,275,308,281,304,287,303,298,307,300,305,319,313,326,312,326,305,343,299,351,299,358,303,361,302,360,295,347,287,342,291,335,289,337,288,342,290,339,284,341,277,339,271,334,274,332,280,329,286,323,288,320,278,331,279,331,277,317,276,310,266,310,265,321,263,326,257,319,251,312,253,318,249,320,244,317,236,311,230,306,240,299,242,291,242,293,234,300,228,301,221,298,215,304,210,299,203,293,210,281,219,272,228,267,238,266,254,265,262,265,264,258,265,257,260,250,260,245,262,244,267,247,271,243,276,236,270,230,266,222,264,215,263,202,256,201,265,204,273,208,279,214,282,211,291,209,298,206,303,206,307,197,306,194,306,193,299,185,294,178,296,175,302,175,310,180,315,181,318,174,317,166,315,158,319,151,325,144,333,136,345">
+</map></figure>
 
 3<sup style="color:#555">ème</sup> Groupe.  
 Au-dessous de Pandore et de Diane, 
 et sur le devant du Groupe, 
-on voit Mars attentif à la chute des Monstres et des Vices, 
+on voit [Mars][12]{#mars} attentif à la chute des Monstres et des Vices, 
 que la seule Vertu, et non la Force, terrasse en ce moment.  
-Vulcain, dont les travaux sont consacrés à ce Dieu, 
+[Vulcain][13]{#vulcain}, dont les travaux sont consacrés à ce Dieu, 
 est à côté de lui;  
-plusieurs Amours voltigent sur la droite de ces Divinités, 
+[plusieurs Amours][14]{#plusieursamours} voltigent sur la droite de ces Divinités, 
 et tiennent des Armes précieuses, 
 destinées pour, les imitateurs de la valeur d'Hercule.  
 Plus bas, 
-deux Renommées descendent pour annoncer la Terre ce qui se passe au Ciel en faveur d'Hercule.
+[deux Renommées][15]{#deuxrenommees} descendent pour annoncer la Terre ce qui se passe au Ciel en faveur d'Hercule.
 
 <figure><picture>
 <source
@@ -105,7 +122,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-640.jpg" alt="François Lemoyne, « l'Envie, la Colère, la Haine, la Discorde et les autres Vices sont précipités du Ciel », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « l'Envie, la Colère, la Haine, la Discorde et les autres Vices sont précipités du Ciel », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-640.jpg" alt="François Lemoyne, « l'Envie, la Colère, la Haine, la Discorde et les autres Vices sont précipités du Ciel », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" title="François Lemoyne, « l'Envie, la Colère, la Haine, la Discorde et les autres Vices sont précipités du Ciel », détail de l'Apothéose d'Hercule, Salon d'Hercule, Château de Versailles" usemap="#img_hercule6"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-280.jpg 280w,
@@ -125,3 +142,19 @@ l'Envie seule est encore la plus proche du Héros,
 elle le menace, 
 et sa fureur ne semble l'abandonner qu'à regret, 
 pour faire connaître que ce Monstre est le plus dangereux et le plus acharné de tous les vices, et l'unique dont la rage s'étend jusqu'au delà du trépas.
+
+[1]: #area_bacchus "Bacchus"
+[2]: #area_dieupan "Dieu Pan"
+[3]: #area_deuxsylvains "deux Sylvains"
+[4]: #area_amphitrite "Amphitrite"
+[5]: #area_mercure "Mercure"
+[6]: #area_venus "Vénus"
+[7]: #area_lestroisgraces "les trois Grâces"
+[8]: #area_cupidon "Cupidon"
+[9]: #area_pandore "Pandore"
+[10]: #area_diane "Diane"
+[11]: #area_comus "Comus"
+[12]: #area_mars "Mars"
+[13]: #area_vulcain "Vulcain"
+[14]: #area_plusieursamours "plusieurs Amours"
+[15]: #area_deuxrenommees "deux Renommées"
