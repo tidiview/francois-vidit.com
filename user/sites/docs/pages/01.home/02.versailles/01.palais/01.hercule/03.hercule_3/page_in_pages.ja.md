@@ -121,7 +121,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-640.jpg" alt="フランソワ・ルモワーヌ作、《欲望、怒り、憎しみ、不和とそのほかの悪徳たち、天から落とされています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《欲望、怒り、憎しみ、不和とそのほかの悪徳たち、天から落とされています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-640.jpg" alt="フランソワ・ルモワーヌ作、《欲望、怒り、憎しみ、不和とそのほかの悪徳たち、天から落とされています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《欲望、怒り、憎しみ、不和とそのほかの悪徳たち、天から落とされています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" usemap="#img_hercule6"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule6-280.jpg 280w,
@@ -136,7 +136,7 @@ srcset="
 
 第四団  
 ヘラクレスの戦車の下では、
-欲望、怒り、憎しみ、不和とそのほかの悪徳たち、新しい神が打ち勝つことになったこれらの身
+[欲望][16]{#envie}、[怒り][17]{#colere}、[憎しみ][18]{#haine}、[不和][19]{#discorde}と[そのほかの悪徳たち][20]{#autresvices}、新しい神が打ち勝つことになったこれらの身
 は、天から落とされています、
 欲望だけがまだ英雄の最も近くにいます、
 彼女は彼を脅かしています、
@@ -158,3 +158,8 @@ srcset="
 [13]: #area_vulcain "ウゥルカヌス"
 [14]: #area_plusieursamours "複数の天使たち"
 [15]: #area_deuxrenommees "名声二人"
+[16]: #area_envie "欲望"
+[17]: #area_colere "怒り"
+[18]: #area_haine "憎しみ"
+[19]: #area_discorde "不和"
+[20]: #area_autresvices "そのほかの悪徳たち"

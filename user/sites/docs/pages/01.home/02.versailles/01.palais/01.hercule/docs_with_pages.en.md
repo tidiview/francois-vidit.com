@@ -3,8 +3,8 @@ title: Hercules
 titleone: '<ruby><rb lang="en">Apotheosis of Hercules</rb><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
 menu: hercules
 created: 26-10-2017, 15:25
-date: 14-12-2017, 16:00
-modified: 17-01-2018, 21:19
+date: 17-01-2018, 21:19
+modified: 20-01-2018, 22:13
 itempage: Article
 taxonomy:
    category: [docs, en]
