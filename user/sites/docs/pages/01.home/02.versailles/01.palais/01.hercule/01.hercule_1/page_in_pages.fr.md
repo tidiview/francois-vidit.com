@@ -54,7 +54,15 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w" />
 </picture><figcaption>François LEMOYNE, Apothéose d'Hercule</figcaption></figure>
 
-!!! présentation du texte paru dans le Mercure de France à l'occasion de l'inauguration du plafond du Salon d'Hercule du Château de Versailles, « l'Apothéose d'Hercule » par [Louis XV][1] le 26 septembre 1736 probablement écrit par le peintre François Lemoyne.
+!!! Le 26 septembre 1736, [Louis XV][1] inaugurait au Palais de Versailles l'œuvre du peintre François LEMOYNE nouvellement créée pour le Salon d'Hercule, « l'Apothéose d'Hercule » et reproduite ci-dessus.  
+!!! À cette occasion, le journal « le Mercure de France » faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.  
+!!! C'est ce texte qui se trouve reproduit ci-dessous. 
+!!! Cette œuvre de ce peintre est exceptionnelle pour de nombreuses raisons et particulièrement pour être une de ses dernières.  
+!!! En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir achevé, en se suicidant de plusieurs coups d'épée, dans son appartement à Paris, le 4 juin 1737.   
+!!! Afin de faciliter la compréhension du texte, des liens ont été établis entre celui-ci et les parties de l'œuvre désignées: clicquer sur le mot renvoie à la partie de l'œuvre représentée et inversement, cliquer sur une partie de l'œuvre renvoie au terme du texte en référence.
+
+!!! Note:
+!!! : il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise GOOGLE, nous vous conseillons l'excellent navigateur SRWare Iron basé sur Chrome mais qui ne contient aucun mouchard.
 
 <br>
 

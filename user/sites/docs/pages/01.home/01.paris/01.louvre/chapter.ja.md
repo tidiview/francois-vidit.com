@@ -4,8 +4,8 @@ slug: louvre
 taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
-date: 05-01-2017, 23:13
-modified: 13-07-2017, 23:13
+date: 13-07-2017, 23:13
+modified: 23-01-2018, 22:09
 metadata:
    description: "francois-vidit.com サイトのルーブルセクションの目次"
    keywords: 'ルーブル'
@@ -15,7 +15,6 @@ metadata:
    image_title: ルーブル
    image_legend: "francois-vidit.com サイトのルーブルセクション写真"
    'twitter:card' : summary
-   robots: 'noindex, nofollow'
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/01.paris/01.louvre/chapter.ja.md"]
 specialty: ["フランス", "イル・ド・フランス", "パリ", "ルーブル"]
 ---

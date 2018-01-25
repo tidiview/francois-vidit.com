@@ -54,7 +54,15 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w" />
 </picture><figcaption>Apotheosis of Hercules</figcaption></figure>
 
-!!! presentation of the text published in the Mercure de France for the inauguration of the ceiling of the Salon d'Hercule (Hercules Room) of the Palace of Versailles, « The Apotheosis of Hercules » by King [Louis XV][1] on 1736 september, 26th probably written by painter François Lemoyne.
+!!! In 1736, on September 26th, King [Louis XV][1] inaugurated at the Palais de Versailles the work of the painter François LEMOYNE, newly created for the Salon of Hercules, "The Apotheosis of Hercules" and reproduced above.  
+!!! On this occasion, the gazette "Le Mercure de France" published an exceptional text because probably written by the painter himself which tells us about the conditions that presided over this work and also of the detail of its composition.  
+!!! It is this text that is reproduced below.  
+!!! This painter's work is exceptional for many reasons and especially to be one of his last.   
+!!! Indeed, the artist decided to put an end to his days shortly after achieving it, by suiciding of several strokes of sword, in his apartment in Paris on June 4th, 1737.  
+!!! In order to facilitate the comprehension of the text, links have been established between it and the parts of the work designated: a click on the word refers to the part of the work represented and also reversely, a click on a part of the work refers to the word of the text in reference.
+
+!!! Note:
+!!! : It is possible to reveal the perimeter of the part of the image designated in the text using to read this page a browser based on Chrome. However, as Chrome contains a tracker and reports all your browsing to the Google company, we advise you to use the excellent browser [SRWare Iron][3] based on Chrome but which do not contain the tracker component.
 
 <br>
 
@@ -84,3 +92,5 @@ because to say it, the biggest part of the great Gallery, painted by the illustr
 here is the description.
 
 [1]: https://en.wikipedia.org/wiki/Louis_XV_of_France "https://en.wikipedia.org/wiki/Louis XV of France"
+
+[3]: https://www.srware.net/en/software_srware_iron_download.php "https://www.srware.net/en/software_srware_iron_download.php"
