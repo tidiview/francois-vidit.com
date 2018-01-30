@@ -13,7 +13,7 @@ shortcode-core:
 ---
 以下は描写です。
 
-この天井は長さが64ピエ、幅が48ピエ、コーニスから頂点までの奥行きが8.5ピエ。（註：昔の長さの単位32.48㌢。約20.8×16.6、奥行き2.8㍍。）
+この天井は長さが64[{r=ja/fr}ピエ(pieds){/r}][15]{#pieds}、幅が48ピエ、コーニスから頂点までの奥行きが8.5ピエ。（註：昔の長さの単位32.48㌢。約20.8×16.6、奥行き2.8㍍。）
 アティック（古代ローマ建築の正面最上部を成す帯状壁面。コーニスによって正面を構成する主たるオーダーから区別され，付け柱，銘板，浮彫などで装飾された。）の絵の中の人物らは10から11ピエの大きさ。  
 作品全体で、142体が数えられ、
 主要グループをざっと見渡したら、62体見えます、  
@@ -118,7 +118,7 @@ srcset="
 
 この美徳は、力、粘り強さ、価値、正義です。
 これらは特にヘラクレスの性格を表しています。  
-これ以外に構図が9つのだ団体に配置されています。
+これ以外に構図が9つの組に配置されています。
 
 <figure><picture>
 <source
@@ -151,7 +151,7 @@ srcset="
 <area id="area_ganimede" alt="ガニメデ" title="ガニメデ" href="#ganimede" shape="poly" coords="170,574,175,569,180,565,182,554,184,545,178,538,180,532,184,528,178,523,175,518,160,515,155,521,152,530,150,537,151,547,152,557,152,562,158,564,155,569,162,568"></map></figure>
 
 第一としては、  
-[{r}ユピテル(木星){/r}の衛星たち][11]{#lessatellitesdejupiter}に支えられている幕の下で、
+[{r}ユピテル(木星){/r}の衛星たち][17]{#lessatellitesdejupiter2}に支えられている幕の下で、
 この神が玉座におられて
 彼女に婿として前もって与えています。  
 
@@ -160,8 +160,24 @@ srcset="
 この巧妙な形が、美徳がいつも嫉妬心と欲望を乗り越えることが明らかにしています。  
 ユピテルの足元に、
 雷を受託する[鷲][13]{#laigle}が見えます。  
-[ガニメデ][14]{#ganimede}はヘーベのそばにいて
+[ガニメデ][31]{#ganimede2}はヘーベのそばにいて
 女神の幸福を喜んで見ています。
+
+<br>
+ 
+!!! #### ピエ {#note_pieds}
+!!! {r=ja/fr}旧体制(Ancien&#160;Régime){/r}の長さの単位。1ピエは32、48㌢。それでは、天井は20、8㍍の長さ、幅16、6㍍と奥行き2、8㍍。  
+!!! + 註に戻る： [天井は長さが64ピエ ↑][16]  
+
+!!! #### ユピテルの衛星たち {#note_lessatellitesdejupiter}
+!!! ローマ神話では{r=ja/fr}ユピテル(Jupiter){/r}が神々の頭として知られている。  
+!!! 同時に、フランス語ではユピテルは太陽系での天体である[{r}木星(ユピテル){/r}][27]をも指している。  
+!!! 《{r=ja/fr}ヘラクレスの神格化(Apothéose&#160;d&#39;Hercule){/r}》では、1610年1月7日に[{r=ja/it}ガリレオ(Galileo)・()ガリレイ(Galilei){/r}][18]が発見した木星の3つの[イオ][19]、[エウロパ][20]、[カリスト][21]とよばれている衛星を記念する形にしている。  
+!!! これらの衛星がギリシャ神話のユピテルが愛した[ニュンペー][22]にちなむことになったため、絵では{r}ユピテル(木星){/r}人物のそばに、[カーテンを持つ三人の女の人][11]{#lessatellitesdejupiter}の姿で、[イオ][28]、[エウロパ][29]、[カリスト][30]が描かれて、当時代の科学的事実が正確に表されることになっている。  
+!!! 同時に、ユピテルの向こう側、[{r=ja/fr}ガニメデ(Ganymède){/r}][14]{#note_ganimede}も見えている。彼は日本語では古代ギリシャ語から呼称されている[{r=ja/grc}ガニュメーデース(Γανυμήδης){/r}][24]となるが全く同じユピテルが愛した[{r=ja/grc}イリオス(Ἴλιος){/r}][25]出身の美少年である。この美少年がガリレオ・ガリレイが発見したイタリア語から呼ばれた[ガニメデ][26]4つ目の木星の衛星を表そうとしている。  
+!!! + 註に戻る： [ユピテルの衛星たち ↑][23]  
+!!! + 註に戻る： [ガニメデはヘーベのそばにいて ↑][32]  
+!!! + ガリレオ衛星について、さらに詳しく： [ガリレオ衛星 ↑][33]  
 
 [1]: #area_hercule "ヘラクレス"
 [2]: #area_jupiter "ユピテル"
@@ -177,3 +193,22 @@ srcset="
 [12]: #area_junon "ユノ"
 [13]: #area_laigle "鷲"
 [14]: #area_ganimede "ガニメデ"
+[15]: #note_pieds "「ピエ」という長さの単位の定義"
+[16]: #pieds "「ピエ」という註へ戻る"
+[17]: #note_lessatellitesdejupiter "ユピテルの衛星たち"
+[18]: https://ja.wikipedia.org/wiki/ガリレオ・ガリレイ "https://ja.wikipedia.org/wiki/ガリレオ・ガリレイ"
+[19]: https://ja.wikipedia.org/wiki/イオ_(衛星) "https://ja.wikipedia.org/wiki/イオ_(衛星)"
+[20]: https://ja.wikipedia.org/wiki/エウロパ_(衛星) "https://ja.wikipedia.org/wiki/エウロパ_(衛星)"
+[21]: https://ja.wikipedia.org/wiki/カリスト_(衛星) "https://ja.wikipedia.org/wiki/カリスト_(衛星)"
+[22]: https://ja.wikipedia.org/wiki/ニュンペー "https://ja.wikipedia.org/wiki/ニュンペー"
+[23]: #lessatellitesdejupiter2 "ユピテルの衛星たち"
+[24]: https://ja.wikipedia.org/wiki/ガニュメーデース "https://ja.wikipedia.org/wiki/ガニュメーデース"
+[25]: https://ja.wikipedia.org/wiki/イリオス "https://ja.wikipedia.org/wiki/イリオス"
+[26]: https://ja.wikipedia.org/wiki/ガニメデ_(衛星) "https://ja.wikipedia.org/wiki/ガニメデ_(衛星)"
+[27]: https://ja.wikipedia.org/wiki/木星 "https://ja.wikipedia.org/wiki/木星"
+[28]: https://ja.wikipedia.org/wiki/イーオー "https://ja.wikipedia.org/wiki/イーオー"
+[29]: https://ja.wikipedia.org/wiki/エウローペー "https://ja.wikipedia.org/wiki/エウローペー"
+[30]: https://ja.wikipedia.org/wiki/カリストー "https://ja.wikipedia.org/wiki/カリストー"
+[31]: #note_ganimede "ガニメデ""
+[32]: #ganimede2 "ガニメデ"
+[33]: https://ja.wikipedia.org/wiki/ガリレオ衛星 "https://ja.wikipedia.org/wiki/ガリレオ衛星"

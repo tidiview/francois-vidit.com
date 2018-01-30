@@ -18,4 +18,6 @@ metadata:
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/01.paris/01.louvre/chapter.en.md"]
 specialty: ["France", "Île-de-France", "Paris", "Louvre"]
 ---
+### Paris
+
 # Louvre

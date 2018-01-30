@@ -3,7 +3,7 @@ title: name
 slug: name
 created: 31-07-2016, 21:42
 date: 31-07-2016, 21:42
-modified: 06-11-2016, 21:35
+modified: 26-01-2018, 12:35
 visible: false
 routable: false
 robots: 'noindex, nofollow'
@@ -26,7 +26,7 @@ pure_u: 3-7
 
 | <span hidden>hidden</span> |
 | -------------------------- |
-| <span style="color:#000e5f">François VIDIT is </span> <span title="Profession" style="color:#000e5f" lang="en">japanese interpreter<span style="color:#000e5f"> in </span></span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. For more than 14 years, he is receiving work under various forms, from touristical guiding, intercultural councelling, consecutive interpretation, to translation.</span> |
+| <span style="color:#000e5f">François VIDIT is </span> <span title="Profession" style="color:#000e5f" lang="en">japanese interpreter<span style="color:#000e5f"> in </span></span><span style="color:#000e5f" lang="fr">Paris</span><span style="color:#000e5f">. For more than 15 years, he is receiving work under various forms, from touristical guiding, intercultural councelling, consecutive interpretation, to translation.</span> |
 
 [1]: ./Francois.mp3 "audio pronunciation of given name « François »"
 [2]: ./VIDIT.mp3 "audio pronunciation of family name « VIDIT »"

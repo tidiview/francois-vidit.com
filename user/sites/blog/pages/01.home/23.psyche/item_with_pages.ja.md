@@ -2,8 +2,8 @@
 title: プシケ物語
 menu: プシケ
 created: 02-09-2017, 16:12
-date: 06-11-2017, 10:37
-modified: 08-11-2017, 22:30
+date: 08-11-2017, 22:23
+modified: 29-01-2018, 13:31
 base64_background: lemonraisin
 svg_icon: goldenassdonkey
 itempage: Blogposting

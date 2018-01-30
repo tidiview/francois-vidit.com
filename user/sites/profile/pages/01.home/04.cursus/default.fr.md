@@ -3,7 +3,7 @@ title: parisien
 slug: parisien
 created: 31-07-2016, 22:37
 date: 31-07-2016, 22:37
-modified: 15-12-2016, 12:26
+modified: 26-01-2018, 12:36
 visible: false
 routable: false
 robots: 'noindex, nofollow'
@@ -14,7 +14,7 @@ pure_u: 5-6
 ---
 ##Un Parisien ayant fait escale à Tōkiō
 
-Comme ses parents, François VIDIT est parisien.
+Comme ses parents, François VIDIT est Parisien.
 
 Il découvre la culture japonaise grâce au [jeu de go][1] et commence à en apprendre la langue, en autodidacte, à l'âge de dix-sept ans.
 

@@ -2,8 +2,8 @@
 title: Hercules
 slug: "page:1"
 created: 26-10-2017, 15:25
-date: 06-12-2017, 21:35
-modified: 14-12-2017, 16:00
+date: 14-12-2017, 16:00
+modified: 25-01-2018, 02:00
 visible: false
 routable: false
 taxonomy:

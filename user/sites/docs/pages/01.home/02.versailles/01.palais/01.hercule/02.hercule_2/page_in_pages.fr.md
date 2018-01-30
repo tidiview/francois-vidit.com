@@ -2,8 +2,8 @@
 title: L'Apothéose d'Hercule par François LEMOYNE
 slug: "page:2"
 created: 26-10-2017, 15:25
-date: 06-12-2017, 21:35
-modified: 14-12-2017, 16:00
+date: 14-12-2017, 21:35
+modified: 25-01-2018, 16:54
 visible: false
 routable: false
 taxonomy:
@@ -13,8 +13,8 @@ shortcode-core:
 ---
 en voici la description.
 
-Ce Plafond porte 64 pieds de long, sur 4 de large, et huit pieds et demi de renfoncement superficie de la corniche au sommet. （注：昔の長さの単位32.48㌢。約20.8×16.6、奥行き2.8㍍。）  
-Les Figures de l'Attique （古代ローマ建築の正面最上部を成す帯状壁面。コーニスによって正面を構成する主たるオーダーから区別され，付け柱，銘板，浮彫などで装飾された。） ont dix à onze pieds de proportion;  
+Ce Plafond porte 64 [pieds][15]{#pieds} de long, sur 4 de large, et huit pieds et demi de renfoncement superficie de la corniche au sommet.  
+Les Figures de l'Attique ont dix à onze pieds de proportion;  
 on compte dans tout l'Ouvrage jusqu'à 142 Figures, 
 compris environ trente, feintes stuc.  
 On en voit 62 d’un coup d’œil en découvrant le principal Groupe.
@@ -160,6 +160,12 @@ on voit [l'Aigle][13]{#laigle} dépositaire de la foudre;
 [Ganimède][14]{#ganimede} est à côté d'Hébé, 
 regarde avec plaisir le bonheur de cette Déesse.
 
+<br>
+ 
+!!! ###pied: {#note_pieds}
+!!! unité de mesure de l'Ancien Régime. 1 pied équivaut 32,48 cm. Le plafond mesure donc 20,8 × 16,6 m, pour 2,8 m de profondeur.  
+!!! + retour à la note: [ce plafond porte 64 pieds ↑][16]
+
 [1]: #area_hercule "Hercule"
 [2]: #area_jupiter "Jupiter"
 [3]: #area_amourdelavertu "l'Amour de la Vertu"
@@ -174,3 +180,5 @@ regarde avec plaisir le bonheur de cette Déesse.
 [12]: #area_junon "Junon"
 [13]: #area_laigle "l'Aigle"
 [14]: #area_ganimede "Ganimède"
+[15]: #note_pieds "Définition de l'unité de mesure appelée « pied »"
+[16]: #pieds "retour à la note « pied »"

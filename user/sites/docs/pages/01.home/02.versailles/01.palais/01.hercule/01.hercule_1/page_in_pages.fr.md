@@ -2,8 +2,8 @@
 title: L'Apothéose d'Hercule par François LEMOYNE
 slug: "page:1"
 created: 26-10-2017, 15:25
-date: 06-12-2017, 21:35
-modified: 14-12-2017, 16:00
+date: 14-12-2017, 16:00
+modified: 25-01-2018, 02:00
 visible: false
 routable: false
 taxonomy:
@@ -54,15 +54,15 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w" />
 </picture><figcaption>François LEMOYNE, Apothéose d'Hercule</figcaption></figure>
 
-!!! Le 26 septembre 1736, [Louis XV][1] inaugurait au Palais de Versailles l'œuvre du peintre François LEMOYNE nouvellement créée pour le Salon d'Hercule, « l'Apothéose d'Hercule » et reproduite ci-dessus.  
-!!! À cette occasion, le journal « le Mercure de France » faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.  
+!!! Le 26 septembre 1736, [Louis XV][1] inaugurait au Palais de Versailles l'œuvre du peintre [François LEMOYNE][2] nouvellement créée pour le Salon d'Hercule, « l'Apothéose d'Hercule » et reproduite ci-dessus.  
+!!! À cette occasion, le journal « [le Mercure de France][2] » faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.  
 !!! C'est ce texte qui se trouve reproduit ci-dessous. 
 !!! Cette œuvre de ce peintre est exceptionnelle pour de nombreuses raisons et particulièrement pour être une de ses dernières.  
 !!! En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir achevé, en se suicidant de plusieurs coups d'épée, dans son appartement à Paris, le 4 juin 1737.   
 !!! Afin de faciliter la compréhension du texte, des liens ont été établis entre celui-ci et les parties de l'œuvre désignées: clicquer sur le mot renvoie à la partie de l'œuvre représentée et inversement, cliquer sur une partie de l'œuvre renvoie au terme du texte en référence.
 
 !!! Note:
-!!! : il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise GOOGLE, nous vous conseillons l'excellent navigateur SRWare Iron basé sur Chrome mais qui ne contient aucun mouchard.
+!!! : il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise Google, nous vous conseillons l'excellent navigateur [SRWare Iron][4] basé sur Chrome mais qui ne contient aucun mouchard.
 
 <br>
 
@@ -77,7 +77,7 @@ et nous croirions n'avoir rien fait pour leur gloire, si nous négligions de par
 
 L'Apothéose d'Hercule fait le sujet de cette immense et magnifique composition.
 
-François Le Moine, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin, Pair de France, Chevalier des Ordres de S. M., Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
+François Le Moine, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin, Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
 
 Le Mercredi 26 Septembre, jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;  
 S. M. accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;  
@@ -91,3 +91,7 @@ dont le concours ne diminue point, il augmente même tous les jours au même deg
 car pour le dire en pas le plus grand morceau de la grande Galerie, peinte par l'illustre Le Brun, n'est pas à coup près si grand que la moitié de celui qui donne lieu à cet Article;  
 
 [1]: https://fr.wikipedia.org/wiki/Louis_XV "https://fr.wikipedia.org/wiki/Louis XV"
+[2]: https://fr.wikipedia.org/wiki/François_Lemoyne "https://fr.wikipedia.org/wiki/François_Lemoyne"
+[3]: https://fr.wikipedia.org/wiki/Salon_d%27Hercule "https://fr.wikipedia.org/wiki/Salon_d'Hercule"
+[3]: https://fr.wikipedia.org/wiki/Mercure_de_France "https://fr.wikipedia.org/wiki/Mercure_de_France"
+[4]: http://www.srware.net/en/software_srware_iron_download.php "http://www.srware.net/en/software_srware_iron_download.php"
