@@ -108,6 +108,7 @@ user/sites/profile/config/*
 user/sites/profile/plugins/*
 user/sites/profile/themes/*
 user/sites/boutique/*
+user/sites/haywire/*
 user/sites/docs/pages/01.home/sitemap/*
 user/sites/docs/config/*
 user/sites/docs/plugins/*
