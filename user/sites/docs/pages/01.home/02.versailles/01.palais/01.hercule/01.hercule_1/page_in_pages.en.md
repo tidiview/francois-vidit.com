@@ -54,15 +54,16 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w" />
 </picture><figcaption>Apotheosis of Hercules</figcaption></figure>
 
-!!! In 1736, on September 26th, King [Louis XV][1] inaugurated at the Palais de Versailles the work of the painter François LEMOYNE, newly created for the Salon of Hercules, "The Apotheosis of Hercules" and reproduced above.  
-!!! On this occasion, the gazette "Le Mercure de France" published an exceptional text because probably written by the painter himself which tells us about the conditions that presided over this work and also of the detail of its composition.  
+!!! In 1736, on September 26th, King [Louis XV][1] inaugurated at the Palais de Versailles the work of the painter [François LEMOYNE][2], newly created for the [Salon of Hercules][4], "The Apotheosis of Hercules" and reproduced above.  
+!!! On this occasion, the gazette "[Le Mercure de France][5]" published an exceptional text because probably written by the painter himself which tells us about the conditions that presided over this work and also of the detail of its composition.  
 !!! It is this text that is reproduced below.  
 !!! This painter's work is exceptional for many reasons and especially to be one of his last.   
-!!! Indeed, the artist decided to put an end to his days shortly after achieving it, by suiciding of several strokes of sword, in his apartment in Paris on June 4th, 1737.  
-!!! In order to facilitate the comprehension of the text, links have been established between it and the parts of the work designated: a click on the word refers to the part of the work represented and also reversely, a click on a part of the work refers to the word of the text in reference.
+!!! Indeed, the artist decided to put an end to his days shortly after achieving it, by suiciding of several strokes of sword, in his apartment in Paris on June 4th, 1737.
 
-!!! Note:
-!!! : It is possible to reveal the perimeter of the part of the image designated in the text using to read this page a browser based on Chrome. However, as Chrome contains a tracker and reports all your browsing to the Google company, we advise you to use the excellent browser [SRWare Iron][3] based on Chrome but which do not contain the tracker component.
+!!!! In order to facilitate the comprehension of the text, links have been established between it and the parts of the work designated: a click on the word refers to the part of the work represented and also reversely, a click on a part of the work refers to the word of the text in reference.
+
+!!!! About the display of the perimeter in the Browser:
+!!!! : It is possible to reveal the perimeter of the part of the image designated in the text using to read this page a browser based on Chrome. However, as Chrome contains a tracker and reports all your browsing to the Google company, we advise you to use the excellent browser [SRWare Iron][3] based on Chrome but which do not contain the tracker component.
 
 <br>
 
@@ -75,9 +76,9 @@ but we have never had such a wonderful opportunity that the one that is presenti
 And we thought we did nothing for their glory, if we were negligent in talking about the great book of oil painting that has just been discovered to the eyes of the public;  
 an exceptional event, which is to most illustrate our School in this century, and serve as a Monument to Posterity, to prove the progress of Painting in France, under the reign of Louis XV.
 
-The Apotheosis of Hercules makes the Subject of this immense and beautiful composition.
+[color=#28a1c5]The Apotheosis of Hercules[/color] makes the Subject of this immense and beautiful composition.
 
-François Le Moine, from Paris, Professor of the Royal Academy of Painting and Sculpture, Student of Mr. Galoche, Professor of the same Academy, worked in the order of the King for four years, under the direction of the Duke of Antin, Pair of France, Chevalier of His Majesty's Orders, Governor of the Orléanais, Minister of State, and Director General of the King's Buildings, enlightened Protector of the Arts, and always attentive to what can contribute to their advancement.
+[color=#28a1c5]François Le Moine[/color], from Paris, Professor of the Royal Academy of Painting and Sculpture, Student of Mr. Galoche, Professor of the same Academy, worked in the order of the King for four years, under the direction of the Duke of Antin, Pair of France, Chevalier of His Majesty's Orders, Governor of the Orléanais, Minister of State, and Director General of the King's Buildings, enlightened Protector of the Arts, and always attentive to what can contribute to their advancement.
 
 Wednesday, September the 26th, the day for the appearance of this great Work, the Salon was, until the time the King crossed it to go to Mass;  
 Her Majesty accompanied by the Lords, Cardinal of Fleury and other Ministers, followed by a large crowd came from afar;  
@@ -93,4 +94,9 @@ here is the description.
 
 [1]: https://en.wikipedia.org/wiki/Louis_XV_of_France "https://en.wikipedia.org/wiki/Louis XV of France"
 
+[2]: https://en.wikipedia.org/wiki/François_Lemoyne "https://en.wikipedia.org/wiki/François_Lemoyne"
+
 [3]: https://www.srware.net/en/software_srware_iron_download.php "https://www.srware.net/en/software_srware_iron_download.php"
+
+[4]: https://en.wikipedia.org/wiki/Salon_d%27Hercule "https://en.wikipedia.org/wiki/Salon d'Hercule"
+[5]: https://en.wikipedia.org/wiki/Mercure_de_France "https://en.wikipedia.org/wiki/Mercure_de_France"

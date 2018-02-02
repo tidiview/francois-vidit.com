@@ -75,9 +75,9 @@ mais nous n'avons jamais eu une si belle occasion que celle qui se présente auj
 et nous croirions n'avoir rien fait pour leur gloire, si nous négligions de parler du grand Ouvrage en peinture à huile qui vient d’être découvert aux yeux du Public;  
 événement insigne, qui doit le plus illustrer notre École dans ce Siècle, et servir d'un Monument éclatant à la Postérité, pour prouver le progrès de la Peinture en France, sous le Règne de Louis XV.
 
-L'Apothéose d'Hercule fait le sujet de cette immense et magnifique composition.
+[color=#28a1c5]L'Apothéose d'Hercule[/color] fait le sujet de cette immense et magnifique composition.
 
-François Le Moine, de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin, Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
+[color=#28a1c5]François Le Moine[/color], de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin, Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
 
 Le Mercredi 26 Septembre, jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;  
 S. M. accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;  

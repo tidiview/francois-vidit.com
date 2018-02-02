@@ -3,8 +3,8 @@ title: フランソワ・ルモワーヌ作ヘラクレスの神格化
 titleone: '<ruby><rb lang="ja">ヘラクレスの神格化</rb><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
 menu: ヘラクレス
 created: 26-10-2017, 15:25
-date: 22-01-2018, 17:45
-modified: 24-01-2018, 23:47
+date: 24-01-2018, 23:47
+modified: 02-02-2018, 13:05
 itempage: Article
 taxonomy:
    category: [docs, ja]
