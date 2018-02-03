@@ -27,7 +27,7 @@ type="image/webp" />
 <img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg" alt="フランソワ・ルモワーヌ作、《クピドンは美徳の愛を、意地悪で軽蔑的な目で見ています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《クピドンは美徳の愛を、意地悪で軽蔑的な目で見ています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" usemap="#img_hercule4"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-280.jpg 280w,
+ser/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-280.jpg 280w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-380.jpg 380w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-480.jpg 480w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg 640w,
@@ -63,7 +63,7 @@ srcset="
 バックスの足元で、
 少し下がると
 [パンドラ][9]{#pandore}と[ディアヌ][10]{#diane}は饗宴の神の[コムス][11]{#comus}を、祭りのために支度するように誘っているかのようです。
-この神は花の連なりでくるまれた槍を持っています。  
+この神は連なった花でくるまれた槍を持っています。  
 
 <figure><picture>
 <source
@@ -99,14 +99,14 @@ srcset="
 第三組  
 パンドラとディアヌの下に、
 そして、団体の前の方に、
-怪物たちと悪徳たちの墜落に熱心な[マルス][12]{#mars}が見られます、
+怪物たちと悪徳たちの墜落に熱心な[マルス][12]{#mars}が見れます、
 彼は今、力の神ではなく、美徳の神にのみ打ちのめされます。 
 この神に自分の労働を捧げている[ウゥルカヌス][13]{#vulcain}は、
-隣りにいます。  
+その隣りにいます。  
 [複数の天使たち][14]{#plusieursamours}がこの神々の右側を飛び回り、
 貴重な武器を掴んでいます、
 これらはヘラクレスを模範とする人たちのためです。  
-その下で、 [名声二人][15]{#deuxrenommees}が天でヘラクレスに有利に起こっているのを地球に告げるために降りようとしています。
+その下で [名声二人][15]{#deuxrenommees}が、天でヘラクレスに有利な事が起こっていることを地球に告げるために降りようとしています。
 
 <figure><picture>
 <source
@@ -136,12 +136,12 @@ srcset="
 
 第四組  
 ヘラクレスの戦車の下では、
-[欲望][16]{#envie}、[怒り][17]{#colere}、[憎しみ][18]{#haine}、[不和][19]{#discorde}と[そのほかの悪徳たち][20]{#autresvices}、新しい神が打ち勝つことになったこれらの身
+[欲望][16]{#envie}、[怒り][17]{#colere}、[憎しみ][18]{#haine}、[不和][19]{#discorde}と[そのほかの悪徳たち][20]{#autresvices}、新しい神が打ち勝つことになったこれらの化身
 は、天から落とされています、
 欲望だけがまだ英雄の最も近くにいます、
-彼女は彼を脅かしています、
+欲望は英雄を脅かしています、
 その憤怒が心ならずも放棄していないのは、
-この怪物が悪徳のなかで最も危険で最も激しく、その怒りが死を超えて拡大する唯一のものであることを明らかにするためです。
+この欲望という怪物が悪徳のなかで最も危険で最も激しく、その怒りが死を超えて拡大する唯一のものであることを表しています。
 
 [1]: #area_bacchus "バックス"
 [2]: #area_dieupan "パンの神"
