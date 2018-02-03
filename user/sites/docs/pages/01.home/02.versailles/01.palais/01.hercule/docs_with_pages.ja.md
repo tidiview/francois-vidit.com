@@ -3,8 +3,8 @@ title: フランソワ・ルモワーヌ作ヘラクレスの神格化
 titleone: '<ruby><rb lang="ja">ヘラクレスの神格化</rb><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
 menu: ヘラクレス
 created: 26-10-2017, 15:25
-date: 24-01-2018, 23:47
-modified: 02-02-2018, 13:05
+date: 02-02-2018, 13:05
+modified: 03-02-2018, 18:21
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -18,7 +18,6 @@ content:
     limit: 1
     pagination: true
 metadata:
-    robots: 'noindex, nofollow'
     description: '1736年9月26日にヴェルサイユ宮殿に行われたヘラクレスの間の《ヘラクレスの神格化》の除幕式を切っ掛けにメルクール・ド・フランス誌（Mercure de France）に記載された恐らく画家フランソワ・ルモワーヌ（François Lemoyne）によって書かれた文書を紹介。'
     keywords: "ヴェルサイユ宮殿, ヴェルサイユ, メルクール・ド・フランス, Mercure de France, ヘラクレスの神格化, ヘラクレスの間, Apothéose d'Hercule, Salon d'Hercule, フランソワ・ルモワーヌ, François Lemoyne"
     image: hercule_700x448.jpg
