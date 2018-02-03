@@ -3,8 +3,8 @@ title: Hercules
 titleone: '<ruby><rb lang="en">Apotheosis of Hercules</rb><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
 menu: hercules
 created: 26-10-2017, 15:25
-date: 22-01-2018, 17:45
-modified: 24-01-2018, 23:45
+date: 24-01-2018, 23:45
+modified: 02-02-2018, 20:31
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -18,7 +18,6 @@ content:
     limit: 1
     pagination: true
 metadata:
-    robots: 'noindex, nofollow'
     description: "presentation of the text published in the Mercure de France for the inauguration of the ceiling of the Salon d'Hercule (Hercules Room) of the Palace of Versailles, « The Apotheosis of Hercules » by King Louis XV on 1736 september, 26th probably written by painter François Lemoyne."
     keywords: "Palace of Versailles, Versailles, Château de Versailles, Louis 15, Louis XV, François Lemoyne, François Le Moine, Salon d'Hercule, Apothéose d'Hercule, Hercules Room, Apotheosis of Hercules"
     image: hercule_700x448.jpg
