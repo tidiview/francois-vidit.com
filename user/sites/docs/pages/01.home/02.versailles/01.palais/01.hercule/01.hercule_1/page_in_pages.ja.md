@@ -31,8 +31,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-480.webp 480w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-640.webp 640w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus_700x573.webp 700w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.webp 840w"
-type="image/webp" />
+/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.webp 840w" type="image/webp" />
 <source
 media="(min-width: 959px)"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
@@ -53,11 +52,11 @@ sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/01.hercule_1/hercule-focus-840.jpg 840w" />
 </picture><figcaption>フランソワ・ルモワーヌ作《ヘラクレスの神格化》</figcaption></figure>
 
-!!! 1736年の9月26日、[ヴェルサイユ宮殿][4]で、[{r=ja/fr}ルイ(Louis)15(XV){/r}世][1]が、新たに改装された{r=ja/fr}ヘラクレスの間(Salon&#160;d&#39;Hercule){/r}のために作られた、この上に載せてある画家{r=ja/fr}フランソワ(François)・()ルモワーヌ(Lemoyne){/r}の作品《{r=ja/fr}ヘラクレスの神格化(Apothéose&#160;d&#39;Hercule){/r}》を除幕しました。  
-!!! これを切っ掛けに、文芸誌「[{r=ja/fr}ル(Le)・()メルキュール(Mercure)・()ド(De)・()フランス(France){/r}][2]」が、この注文を主宰する条件について、または構図の詳細を教えてくれる、おそらく画家自身によって書かれているから例外的なテキストを出版しました。  
-!!! 以下に載せてある文書はこのテキストであります。  
-!!! この画家の作品は、多くの理由で例外的であり、特に彼の最後の中の一つでもからです。  
-!!! なにしろ、芸術家は、これを完成させた少し後に、自分の人生に止符をすることをパリでのアパートに自分を剣で何回か刺して1737年の6月4日にと決めたから...  
+!!! 1736年の9月26日、[ヴェルサイユ宮殿][4]で、[{r=ja/fr}ルイ(Louis)15(XV){/r}世][1]により、新たに改装された{r=ja/fr}ヘラクレスの間(Salon&#160;d&#39;Hercule){/r}のために作られた、この画家{r=ja/fr}フランソワ(François)・()ルモワーヌ(Lemoyne){/r}の作品《{r=ja/fr}ヘラクレスの神格化(Apothéose&#160;d&#39;Hercule){/r}》が除幕されました。  
+!!! これを切っ掛けに、文芸誌「[{r=ja/fr}ル(Le)・()メルキュール(Mercure)・()ド(De)・()フランス(France){/r}][2]」が、この注文受ける条件について、または構図の詳細を教えてくれる、おそらく画家自身によって書かれた特別なテキストを出版しました。  
+!!! 以下の文書はこのテキストです。  
+!!! この画家の作品は、多くの理由で例外であり、特に彼の最後の中の一つの作品は特別です。   
+!!! なにしろ、芸術家は1737年の6月4日にこの作品完成させた少し後に、自分の人生に止符をすることにして、パリのアパートで自分を剣で何回か刺して...
 
 !!!! 文書の理解を容易にするためには、リンクが文書と言葉で指定されている作品の部分との間作られました。ある単語をクリックすると、それを指す作品の部分へ移動されます。逆にでも、作品の一部をクリックすると、文書の中の単語へ移されることになります.
 
