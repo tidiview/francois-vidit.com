@@ -21,8 +21,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-640.webp 640w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-840.webp 840w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1280.webp 1280w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1600.webp 1600w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1920.webp 1920w"
+/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1600.webp 1600w/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1920.webp 1920w"
 type="image/webp" />
 <img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-640.jpg" alt="ネプテューンが喜んで見ています、しかもプルトは、目をそらせる姿で現れています" title="ネプテューンが喜んで見ています、しかもプルトは、目をそらせる姿で現れています" usemap="#img_hercule7"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
@@ -49,10 +48,10 @@ srcset="
 [キュベレー][1]{#cibele}が自分の獅子たちに引っ張られているなかで立っています。  
 [ある{r}天使(アモール){/r}][2]{#unamour}が遊びながら彼女の冠を持ち上げています。  
 くぼんだ面の上に、
-[ミネルヴァ][3]{#minerve}と[ケレス][4]{#ceres}と、彼女たちを表象するものごとが見られます、
+[ミネルヴァ][3]{#minerve}と[ケレス][4]{#ceres}と、彼女たちを象徴するものが見られます、
 [ネプテューン][5]{#neptune}と[プルト][6]{#pluton}がキュベレーの側にいます。  
 海の神が新しい神の栄光を喜んで見ています、
-しかもプルトは、この英雄が死界に立ち向かったことがあるため、凱旋に賛成していると見えないように目をそらせる姿で現れています。
+しかもプルトは、この英雄が死界に立ち向かったことがあるため、凱旋に賛成していると見えないように目をそらせる姿で描かれています。
 
 <figure><picture>
 <source
@@ -92,10 +91,10 @@ srcset="
 </map></figure>
 
 第六組  
-各種風の神、[アイオルス][7]{#eole}が見られます、  
+各種の風の神、[アイオルス][7]{#eole}が見られます、  
 彼の側で[空気の精たち][9]{#geniesdelair}にともなっているのは、[ゼピュルスとフロラ][8]{#zephyretflore}です、  
 ため息が花を芽生えさせるこの愛情深い神々が
-[愛の精たち][10]{#lesamours}に作られた花の連なりで遊んでいます。  
+[愛の精たち][10]{#lesamours}に作られた連なった花で遊んでいます。  
 [露][11]{#rosee}は前方に立っています、
 雲の上に自分の壺を傾けています、  
 そこに[雨の精たち][12]{#nymphesdelapluie}がいます。  
@@ -103,9 +102,9 @@ srcset="
 翼が密雲で形成されている[夢たち][14]{#songes}が、彼の上に{r}罌粟(けし){/r}をばらまいています。  
 アイオルスの上には、やや遠く、
 [永遠の精][15]{#geniedeleternite}が見え、
-彼は円形に丸めた蛇で表されている表象を掴み、
+彼は円形に丸めた蛇で表されている象徴を掴み、
 それを[サトゥルヌス][16]{#saturne}に見せようとしていて、
-美徳に無効である彼の大鎌をあざけているように見えます。
+美徳には無力である彼の大鎌をあざけているように見えます。
 
 <figure><picture>
 <source
