@@ -25,7 +25,7 @@ les obstacles s'évanouissent à la vue des intérêts de son Roy et de sa Patri
 soutenu par l'honneur et conduit par la fidélité, 
 il arrive par ses actions à l'immortalité.
 
-L'Apothéose d'Hercule paroît bien propre à déveloper cette pensée:  
+[color=#28a1c5]L'Apothéose d'Hercule[/color] paroît bien propre à déveloper cette pensée:  
 ce Héros ne fut occupé pendant le cours de sa vie qu’à s'immortaliser par des actions vertueuses et héroïques;  
 et Jupiter dont il avait été l'image sur la terre, couronne ses travaux dans le Ciel par l'immortalité.
 
