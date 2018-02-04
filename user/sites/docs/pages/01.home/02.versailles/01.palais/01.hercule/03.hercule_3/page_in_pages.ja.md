@@ -27,7 +27,7 @@ type="image/webp" />
 <img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg" alt="フランソワ・ルモワーヌ作、《クピドンは美徳の愛を、意地悪で軽蔑的な目で見ています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" title="フランソワ・ルモワーヌ作、《クピドンは美徳の愛を、意地悪で軽蔑的な目で見ています》、ヘラクレスの神格化の詳細、ヘラクレスの間、ヴェルサイユ宮殿" usemap="#img_hercule4"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-ser/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-280.jpg 280w,
+/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-280.jpg 280w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-380.jpg 380w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-480.jpg 480w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/03.hercule_3/hercule4-640.jpg 640w,
@@ -139,9 +139,9 @@ srcset="
 [欲望][16]{#envie}、[怒り][17]{#colere}、[憎しみ][18]{#haine}、[不和][19]{#discorde}と[そのほかの悪徳たち][20]{#autresvices}、新しい神が打ち勝つことになったこれらの化身
 は、天から落とされています、
 欲望だけがまだ英雄の最も近くにいます、
-欲望は英雄を脅かしています、
+彼女は彼を脅かしています、
 その憤怒が心ならずも放棄していないのは、
-この欲望という怪物が悪徳のなかで最も危険で最も激しく、その怒りが死を超えて拡大する唯一のものであることを表しています。
+この欲望という怪物が悪徳のなかで最も危険で最も激しく、その怒りが死を超えて拡大する唯一のものであることを明らかにするためです。
 
 [1]: #area_bacchus "バックス"
 [2]: #area_dieupan "パンの神"
