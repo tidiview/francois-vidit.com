@@ -12,8 +12,8 @@ shortcode-core:
     active: true
 ---
 <figure><picture>
-<sourcede
-          sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+<source 
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/05.hercule_5/hercule10-280.webp 280w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/05.hercule_5/hercule10-380.webp 380w,
