@@ -21,7 +21,8 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-640.webp 640w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-840.webp 840w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1280.webp 1280w,
-/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1600.webp 1600w/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1920.webp 1920w"
+/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1600.webp 1600w,
+/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-1920.webp 1920w"
 type="image/webp" />
 <img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/04.hercule_4/hercule7-640.jpg" alt="ネプテューンが喜んで見ています、しかもプルトは、目をそらせる姿で現れています" title="ネプテューンが喜んで見ています、しかもプルトは、目をそらせる姿で現れています" usemap="#img_hercule7"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
@@ -51,7 +52,7 @@ srcset="
 [ミネルヴァ][3]{#minerve}と[ケレス][4]{#ceres}と、彼女たちを象徴するものが見られます、
 [ネプテューン][5]{#neptune}と[プルト][6]{#pluton}がキュベレーの側にいます。  
 海の神が新しい神の栄光を喜んで見ています、
-しかもプルトは、この英雄が死界に立ち向かったことがあるため、凱旋に賛成していると見えないように目をそらせる姿で描かれています。
+しかもプルトは、この英雄が死界に立ち向かったことがあるため、凱旋に賛成していると見えないように目をそらせる姿で見えています。
 
 <figure><picture>
 <source
