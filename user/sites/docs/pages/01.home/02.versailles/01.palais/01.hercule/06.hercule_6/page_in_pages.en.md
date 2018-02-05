@@ -40,7 +40,7 @@ srcset="
 <area id="area_nessus" alt="the Centaur Nessus" title="the Centaur Nessus" href="#nessus" shape="poly" coords="340,158,340,164,346,166,353,155,360,156,364,163,374,163,384,138,391,135,390,125,392,120,402,121,405,126,411,129,416,129,423,123,419,106,415,98,408,87,411,88,412,79,415,74,412,64,405,60,395,61,390,68,389,70,383,64,377,65,362,77,354,89,354,98,335,106,343,112,339,120,342,123,339,130,344,132,342,137,344,144,346,148,348,154">
 </map></figure>
  
-In the Second Cartel, apart from [the Boar][1]{#sanglier} that Hercules brought alive to Euristheus,  
+[color=#28a1c5]In the Second Cartel[/color], apart from [the Boar][1]{#sanglier} that Hercules brought alive to Euristheus,  
 One sees the Harpies and the Golden Apples of the Hesperides,
 on the other side is [the Centaur Nessus][2]{#nessus}, etc.
 
@@ -72,7 +72,7 @@ srcset="
 <area id="area_diomede" alt="Diomedes eaten by his own Horses" title="Diomedes eaten by his own Horses" href="#diomede" shape="poly" coords="170,284,185,285,190,280,190,272,250,274,254,278,264,279,264,275,279,275,281,284,288,288,305,281,309,275,362,276,367,286,401,286,399,274,410,271,409,269,416,236,412,243,409,242,407,234,410,224,417,221,423,224,424,220,421,212,424,205,427,206,433,202,442,204,444,213,445,222,456,233,457,256,453,260,441,253,449,273,454,282,440,283,431,266,427,266,430,273,427,283,440,283,455,282,460,267,457,256,456,234,463,231,472,224,477,208,472,195,465,188,455,190,449,195,454,203,455,216,461,210,461,203,454,203,449,194,444,189,436,184,426,184,423,184,414,175,402,168,402,161,390,149,379,149,380,146,367,146,360,148,361,145,353,147,346,152,339,156,336,161,333,162,329,169,323,179,322,172,323,166,317,159,313,146,316,145,303,136,296,136,288,145,286,154,280,158,280,164,284,171,281,175,270,174,261,175,259,177,248,173,235,172,227,176,220,183,216,189,214,184,216,180,227,176,220,171,214,168,206,173,202,186,203,197,209,208,208,212,209,219,214,226,204,245,197,247,184,261,180,274">
 </map></figure>
 
-On the opposite side of the first Cartel, 
+[color=#28a1c5]On the opposite side of the first Cartel[/color], 
 [Diomedes eaten by his own Horses][3]{#diomede}, which he fed with human flesh.
 
 <figure><picture>
@@ -104,16 +104,17 @@ srcset="
 <area id="area_cacus" alt="Cacus suffocated by Alcide" title="Cacus suffocated by Alcide" href="#cacus" shape="poly" coords="409,158,409,155,402,154,399,152,398,148,409,136,417,121,414,113,407,111,394,116,399,107,400,99,396,92,400,92,402,82,395,75,387,74,385,80,382,81,375,77,368,79,367,82,360,83,357,88,347,97,347,114,362,113,353,121,356,123,353,126,358,126,351,132,356,133,353,139,354,150,346,152,344,161,361,166,373,166,383,159">
 </map></figure>
 
-The third Cartel represents on one side [the Mascot to the Golden Horns][4]{#labiche}, with the Horn of Abundance, and the other [Cacus suffocated by Alcide][5]{#cacus}.  
-All these Cartels are crowned by a big swap of oak leaves, supported by the Geniusesof Virtue.  
+[color=#28a1c5]The third Cartel[/color] represents on one side [the Mascot to the Golden Horns][4]{#labiche}, with the Horn of Abundance, and the other [Cacus suffocated by Alcide][5]{#cacus}.
+
+All these Cartels are crowned by [color=#28a1c5]a big swap of oak leaves, supported by the Geniuses of Virtue[/color].  
 This Swap, feigned of stucco, also-although the figures that surround the Cartels and Virtues, which characterize the actions of Hercules, 
 reigns all along the perimeter of Attica, 
 which is feigned of white marble, veined with purple brèche panels; (geology term. Black marble, mixed with white and yellow spots, derived from the Pyrenees and other places)  
 the coronation of hte attica is enhanced by gold, 
-all being hold by the Corniche of the Salon.  
-This corniche is laying on twenty pilasters pairs of the most beautiful marbles, 
+[color=#28a1c5]all being hold by the Corniche of the Salon[/color].  
+[color=#28a1c5]This corniche is laying on twenty pilasters pairs of the most beautiful marbles[/color], 
 of the four most famous quarries of the Kingdom, with an exquisite choice;  
-namely, some marble called Dantin, some Vercampan, some Rance and some white veined, 
+namely, some marble called Dantin, some Vercampan, some Rancé and some white veined, 
 whose bases and capitals are gilded, as well as the corniche and Door Jambs, etc.  
 The brilliance of this guilding and of that marble, which combines itself and 
 gives to itself, so to speak, a mutual help, makes an so amazing than wonderful effect, 

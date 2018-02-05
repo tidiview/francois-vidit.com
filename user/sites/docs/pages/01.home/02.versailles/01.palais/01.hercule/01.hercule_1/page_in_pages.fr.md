@@ -77,16 +77,16 @@ et nous croirions n'avoir rien fait pour leur gloire, si nous négligions de par
 
 [color=#28a1c5]L'Apothéose d'Hercule[/color] fait le sujet de cette immense et magnifique composition.
 
-[color=#28a1c5]François Le Moine[/color], de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin, Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
+[color=#28a1c5]François Le Moine[/color], de Paris, Professeur de l'Académie Royale de Peinture et Sculpture, Élève de M. Galoche, Professeur de la même Académie, [color=#28a1c5]y travaillait depuis quatre ans par ordre du Roy, sous la Direction du Duc d'Antin[/color], Pair de France, Chevalier des Ordres de Sa Majesté (S. M.), Gouverneur de l'Orléanais, Ministre d'État, et Directeur Général des Bâtimens du Roy, Protecteur éclairé des Beaux-Arts, et toujours attentif à ce qui peut contribuer à leur avancement.
 
-Le Mercredi 26 Septembre, jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;  
+[color=#28a1c5]Le Mercredi 26 Septembre[/color], jour destiné à faire paraître ce grand Ouvrage, le Salon fut, jusqu'à l'heure que le Roy le traversa pour aller à la Messe;  
 S. M. accompagnée des Seigneurs, du Cardinal de Fleury et des autres Ministres, et suivie d'une très nombreux foule de Loin;  
 s’y arrêta longtemps, et plus encore au retour de la Messe;  
-le Roy examina alors en détail l'ordonnance en général, les differens Groupes en particulier, le Dessein, le coloris l'effet merveilleux du tout ensemble.
+[color=#28a1c5]le Roy[/color] examina alors en détail l'ordonnance en général, les differens Groupes en particulier, le Dessein, le coloris l'effet merveilleux du tout ensemble.
 
 S. M. dont on connaît la délicatesse du goût, et son amour pour la Peinture et pour tous les Beaux Arts, 
 après avoir extrêmement loué le génie et le beau de M. Le Moine, 
-le nomma sur le champ son Premier Peintre, avec aplaudissement de toute la Cour, et d'un nombre infini de spectateurs que la curiosité avait attirés à Versailles,  
+[color=#28a1c5]le nomma sur le champ son Premier Peintre[/color], avec aplaudissement de toute la Cour, et d'un nombre infini de spectateurs que la curiosité avait attirés à Versailles,  
 dont le concours ne diminue point, il augmente même tous les jours au même degré du point, que l'on a à voir l'exécution heureuse d'une si grande composition;  
 car pour le dire en pas le plus grand morceau de la grande Galerie, peinte par l'illustre Le Brun, n'est pas à coup près si grand que la moitié de celui qui donne lieu à cet Article;  
 

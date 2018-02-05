@@ -44,7 +44,7 @@ srcset="
 <area id="area_lapeinture" alt="Painting" title="Painting" href="#lapeinture" shape="poly" coords="442,520,456,518,462,526,472,554,466,564,475,572,482,572,488,568,496,568,504,564,515,570,536,564,542,567,549,563,545,555,546,546,538,541,544,534,539,529,538,520,537,509,544,498,542,487,536,478,528,474,529,465,498,421,495,423,491,438,481,449,469,462,455,463,448,469,445,468,442,460,434,452,424,446,414,451,411,464,413,475,422,478,421,485,426,505">
 </map></figure>
 
-On the top of the 8<sup style="color:#555">th</sup> group,  
+[color=#28a1c5]On the top of the 8<sup style="color:#28a1c5">th</sup> group[/color],  
 one can see the Temple of Memory opened;  
 [several Geniuses][1]{#plusieursgenies} are quick to attach Medallions to the memory of Great Men;  
 Next, [Apollo][2]{#apollon} rises on a Cloud with [the Genius of Fine arts][3]{#geniedesbeauxarts}.  
@@ -83,13 +83,13 @@ srcset="
 <area id="area_faunesetenfans" alt="a troupe of Fauns and Infants" title="a troupe of Fauns and Infants" href="#faunesetenfans" shape="poly" coords="441,343,445,349,452,351,462,360,469,364,463,373,451,376,456,371,455,364,447,364,443,369,450,377,461,380,471,388,469,380,478,382,482,390,489,391,495,383,491,366,483,361,488,358,488,350,481,343,474,349,472,355,465,350,458,342,449,331,441,343,423,336,414,347,412,354,413,357,426,364,425,367,410,365,409,374,413,379,423,385,418,392,412,396,408,405,398,408,386,401,371,400,365,411,364,420,354,423,354,435,347,441,337,442,328,437,320,431,314,439,308,433,310,421,315,413,319,408,320,399,329,398,333,403,341,403,341,397,351,401,354,410,356,415,365,410,371,400,368,391,371,381,366,376,368,366,376,369,380,364,390,367,388,358,391,346,399,336,403,339,403,331,412,327,420,330,423,336">
 </map></figure>
 
-9<sup style="color:#555">th</sup> Group.  
+[color=#28a1c5]9<sup style="color:#28a1c5">th</sup> Group[/color].  
 On the left and above the Muses, 
 appears the [Constellation de Castor and Pollux][7]{#castoretpollux}.  
 In the half tint, 
 [Silenus][8]{#silene} with [a troupe of Fauns and Infants][9]{#faunesetenfans}, form a Bacchic Feast.
 
-The Cartels, whose the middles of the corniche are displayed with, represent the work of Hercules;  
+[color=#28a1c5]The Cartels, whose the middles of the corniche are displayed with, represent the work of Hercules;[/color]
 
 <figure><picture>
 <source
@@ -120,7 +120,7 @@ srcset="
 <area id="area_lyondenemee" alt="Lion of the Nemea Forest" title="Lion of the Nemea Forest" href="#lyondenemee" shape="poly" coords="330,133,326,147,328,153,331,155,335,158,335,168,338,170,341,169,341,176,346,179,354,170,351,180,357,177,351,186,356,191,358,199,353,208,351,216,358,216,362,212,362,203,366,192,366,185,371,180,379,192,372,201,373,206,369,214,371,217,375,211,380,209,387,211,385,203,381,198,379,192,371,180,372,173,376,164,374,161,367,151,364,153,360,147,358,148,356,143,348,142,344,141,335,141,326,146,329,133,314,128,306,122,305,125,290,120,281,123,278,130,279,135,294,136,306,139,313,138,317,139">
 </map></figure>
 
-in the first, above the Chimney, one sees on one side [Cerberus][10]{#cerbere} with his three heads, 
+[color=#28a1c5]In the first[/color], above the Chimney, one sees on one side [Cerberus][10]{#cerbere} with his three heads, 
 and on the other the skin of [Lion of the Nemea Forest][11]{#lyondenemee}, with the mace, etc.
 
 [1]: #area_plusieursgenies "several Geniuses"

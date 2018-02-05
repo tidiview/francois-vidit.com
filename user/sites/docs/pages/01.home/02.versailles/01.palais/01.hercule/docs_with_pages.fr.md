@@ -3,8 +3,8 @@ title: L'Apothéose d'Hercule par François LEMOYNE
 titleone: L'Apothéose d'Hercule
 menu: hercule
 created: 26-10-2017, 15:25
-date: 24-01-2018, 23:46
-modified: 03-02-2018, 20:31
+date: 03-02-2018, 18:21
+modified: 05-02-2018, 01:46
 itempage: Article
 taxonomy:
    category: [docs, fr]

@@ -89,8 +89,7 @@ Her Majesty whose delicacy of taste is known, and his love for Painting and for 
 after having extremely praised the genius and beauty of Mr Le Moine, 
 appointed him immediately his First Painter, with applause from the entire Court, and an infinite number of spectators whom curiosity had attracted to Versailles, 
 whose contribution does not diminish, it even increases every day to the same degree of the point, which is to be seen of such a well execution of such a great composition;  
-because to say it, the biggest part of the great Gallery, painted by the illustrious Le Brun, is not almost so big that half the one that gives occasion to this Article;  
-here is the description.
+because to say it, the biggest part of the great Gallery, painted by the illustrious Le Brun, is not almost so big that half the one that gives occasion to this Article.
 
 [1]: https://en.wikipedia.org/wiki/Louis_XV_of_France "https://en.wikipedia.org/wiki/Louis XV of France"
 

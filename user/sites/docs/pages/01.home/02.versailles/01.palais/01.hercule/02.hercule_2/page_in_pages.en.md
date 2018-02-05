@@ -11,20 +11,21 @@ taxonomy:
 shortcode-core:
     active: true
 ---
-This ceiling is 64 feet long, out of 4 wide, and eight and a half feet of indentation area from corniche to
-top.  
+[color=#28a1c5]Below the description of it.[/color]
+
+This ceiling is 64 feet long, out of 4 wide, and eight and a half feet of indentation area from corniche to top.  
 The Figures in the attica have ten to eleven feet of proportion;  
 One can count in the entire Work up to 142 Figures,
 included about thirty, feigned stuccos.  
 One can see 62 at a glance by discovering the main Group.
 
-The whole Work rolls on this thought: 
-The Love of Virtue elevates man above himself and makes him superior to the most difficult and perilous work;  
+[color=#28a1c5]The whole Work rolls on this thought:[/color]  
+The Love of Virtue elevates man above himself and makes him superior to the most difficult and perilous work; 
 the obstacles vanish in the view of the interests of his King and his Fatherland, 
 supported by honour and driven by loyalty, 
 he reaches by his actions to immortality.
 
-The Apotheosis of Hercules appears well suited to develop this thought: 
+[color=#28a1c5]The Apotheosis of Hercules appears well suited to develop this thought:[/color] 
 This Hero was busy during his life only to immortalize himself through virtuous and heroic actions;  
 and Jupiter of which he had been the image on earth, crown his work in Heaven by immortality.
 
@@ -41,9 +42,7 @@ srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/02.hercule_2/hercule1-1600.webp 1600w,
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/02.hercule_2/hercule1-1920.webp 1920w"
 type="image/webp" />
-<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/02.hercule_2/hercule1-640.jpg" alt="François Lemoyne, « Hercules
-presented to Jupiter by the Love of Virtue », detail of The Apotheosis of Hercules, Salon d'Hercule (Hercules Room) of the Palace of Versailles" title="François Lemoyne, « Hercules
-presented to Jupiter by the Love of Virtue », detail of The Apotheosis of Hercules, Salon d'Hercule (Hercules Room) of the Palace of Versailles" usemap="#img_hercule1"
+<img src="/user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/02.hercule_2/hercule1-640.jpg" alt="François Lemoyne, « Hercules presented to Jupiter by the Love of Virtue », detail of The Apotheosis of Hercules, Salon d'Hercule (Hercules Room) of the Palace of Versailles" title="François Lemoyne, « Hercules presented to Jupiter by the Love of Virtue », detail of The Apotheosis of Hercules, Salon d'Hercule (Hercules Room) of the Palace of Versailles" usemap="#img_hercule1"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/02.versailles/01.palais/01.hercule/02.hercule_2/hercule1-280.jpg 280w,
@@ -61,12 +60,11 @@ presented to Jupiter by the Love of Virtue</figcaption><map name="img_hercule1" 
 <area id="area_amourdelavertu" alt="Love of Virtue" title="Love of Virtue" href="#amourdelavertu" shape="poly" coords="348,421,343,423,335,423,326,418,318,409,306,409,299,398,302,385,296,379,287,383,274,386,270,380,278,369,286,365,295,365,301,369,305,365,299,360,299,350,306,346,313,345,319,349,319,360,320,366,326,364,330,356,342,354,348,355,353,361,351,370,343,372,337,380,336,389,340,396,341,406,345,416">
 <area id="area_geniesdelamour" alt="Geniuses of the same Love" title="Geniuses of the same Love" href="#geniesdelamour" shape="poly" coords="346,507,336,516,328,514,321,507,319,500,308,492,302,479,289,473,290,460,297,468,302,466,303,457,299,450,293,454,284,454,285,465,288,481,285,486,279,477,275,462,271,455,269,463,265,467,262,461,258,467,256,453,260,441,263,436,257,431,243,423,241,412,246,407,250,414,255,417,260,415,256,406,260,401,268,400,271,408,279,399,286,399,293,402,290,409,298,414,304,416,307,421,314,421,321,422,324,427,316,426,310,428,312,434,317,432,323,434,327,436,323,440,321,445,325,449,330,456,336,462,327,464,316,465,310,469,316,475,320,477,326,483,331,484,336,490,342,494,345,498">
 <area id="area_lesmonstresetlesvices" alt="Monsters and Vices" title="Monsters and Vices" href="#lesmonstresetlesvices" shape="poly" coords="394,467,394,476,399,481,407,483,411,476,415,488,407,492,400,497,394,500,390,505,383,513,379,519,372,523,365,519,372,512,367,508,373,503,358,503,350,506,344,512,340,521,341,531,346,534,348,540,344,553,340,564,338,573,340,579,345,581,352,577,356,570,358,577,362,584,372,599,379,597,394,605,399,610,396,617,389,622,387,611,381,605,359,607,354,602,356,593,351,589,344,595,341,608,344,614,352,613,362,623,371,622,370,632,361,638,352,645,346,654,346,664,348,679,354,691,361,693,368,696,377,701,394,703,400,705,408,710,420,713,433,713,450,718,463,717,475,707,483,702,490,695,494,690,490,684,494,668,488,687,482,685,478,693,471,701,454,705,456,695,457,688,452,681,443,680,435,689,437,678,444,665,437,648,432,640,440,642,447,637,453,637,463,640,474,640,485,639,481,650,482,662,485,670,494,662,496,656,508,656,514,655,513,663,509,670,512,676,516,679,521,681,521,686,512,686,517,694,526,699,537,700,540,693,541,686,551,690,562,693,575,696,587,707,596,730,605,724,596,704,585,686,578,684,568,682,572,675,580,674,586,672,577,662,565,654,553,644,545,633,547,627,538,617,525,609,515,607,517,598,515,589,509,582,500,590,490,601,481,606,478,592,480,585,478,577,480,568,489,560,492,550,490,541,489,532,483,538,477,545,472,553,464,552,458,546,461,536,456,526,468,524,472,517,479,516,465,507,459,513,451,513,442,515,440,522,435,525,427,523,432,514,432,502,431,490,423,489,419,494,412,494,416,481,416,474,410,468,404,474,398,470" shape="poly">
-" >
 <area id="area_hebe" alt="Hebe" title="Hebe" href="#hebe" shape="poly" coords="109,374,116,358,125,351,120,345,125,328,121,321,121,307,129,296,123,298,122,291,137,270,143,269,146,268,144,263,150,257,157,257,162,260,167,265,162,269,161,273,155,275,156,281,157,286,161,290,173,294,179,293,191,295,193,298,186,299,179,299,174,302,175,305,173,311,170,317,168,325,169,338,169,343,165,346,157,347,148,348,143,355,143,363,144,369,138,368,133,364,126,365,121,369,116,373">
 <area id="area_hymen" alt="Hymen" title="Hymen" href="#hymen" shape="poly" coords="122,291,126,281,137,267,140,270,143,268,141,264,145,258,153,254,160,258,165,262,162,267,157,272,153,276,161,287,167,284,167,280,178,278,185,273,192,264,209,264,219,257,229,254,232,248,238,248,240,241,249,231,226,235,225,223,232,216,221,210,217,216,215,226,219,232,215,240,202,242,199,227,192,219,182,214,173,210,165,205,158,211,152,214,137,209,122,200,115,202,121,212,127,220,136,227,139,232,134,243,135,252,128,249,118,254,112,260,109,266,115,272,121,267,123,272,118,279,113,275,103,279,98,282,101,287,89,297,85,303,91,305,102,296,109,291,116,293">
 </map></figure>
 
-This is the general idea of the subject.  
+[color=#28a1c5]This is the general idea of the subject.[/color]  
 [Hercules][1]{#hercule}
 presented to [Jupiter][2]{#jupiter} by the [Love of Virtue][3]{#amourdelavertu},
 is pulled in a Chariot by the [Geniuses of the same Love][4]{#geniesdelamour}.  
@@ -105,12 +103,12 @@ srcset="
 <area id="area_lesneufsoeurs" alt="the nine Sisters" title="the nine Sisters" href="#lesneufsoeurs" shape="poly" coords="226,506,226,493,241,482,249,484,258,471,276,436,268,436,273,425,283,429,292,422,301,420,313,406,317,406,319,403,314,391,317,383,327,378,334,380,339,385,339,395,343,399,348,394,349,386,346,378,341,377,345,370,355,374,359,372,361,366,367,362,376,362,382,368,378,377,386,376,394,376,397,382,395,396,401,396,406,400,412,398,412,383,418,376,425,376,428,382,427,392,434,395,437,386,449,381,442,378,443,368,451,363,459,366,461,380,477,377,483,379,489,378,491,370,500,367,503,372,501,378,497,382,493,393,487,397,479,398,481,406,486,411,491,406,502,413,508,420,505,426,491,427,502,438,517,448,526,444,533,452,536,453,537,444,536,430,531,422,531,404,535,412,541,413,541,420,561,432,567,434,567,423,561,414,562,406,555,405,550,408,546,394,551,386,560,386,573,394,577,387,586,380,577,372,575,364,560,367,549,369,534,368,530,362,528,356,513,347,503,348,489,347,484,342,491,341,499,341,505,338,507,334,496,322,480,321,473,318,474,307,481,303,488,302,494,306,498,300,515,300,524,303,535,298,540,300,548,296,559,296,575,302,575,310,569,319,564,328,557,332,569,330,577,332,573,336,583,334,585,341,590,347,591,355,593,362,597,352,606,356,607,362,605,368,610,372,616,376,623,372,639,366,637,463,629,469,611,464,597,465,568,472,569,480,566,487,555,488,535,482,526,464,517,460,513,453,517,449,503,439,495,441,483,436,475,431,466,435,458,438,447,441,439,442,430,440,421,444,413,446,428,452,434,458,438,468,438,477,447,478,463,486,463,492,449,487,453,492,459,497,472,500,461,507,443,500,443,507,423,505,407,504,398,508,391,520,384,524,380,509,365,501,367,490,370,482,365,477,350,481,334,497,325,497,335,481,335,472,329,481,317,481,305,486,299,482,294,475,283,475,281,482,273,491,279,496,263,504,259,498,249,500,237,503">
 <area id="area_letempledelamemoire" alt="the Temple of Memory" title="the Temple of Memory" href="#letempledelamemoire" shape="poly" coords="153,299,150,289,156,274,164,272,169,266,160,258,161,248,169,243,204,231,208,238,222,233,239,229,252,227,267,229,279,232,297,241,302,231,325,237,350,250,348,255,339,267,342,275,339,281,331,280,328,274,319,272,322,283,327,290,322,292,314,288,313,298,313,304,315,311,323,311,329,313,337,313,347,313,346,324,341,330,339,336,331,334,318,332,311,334,297,338,289,344,289,350,280,353,274,346,263,348,257,348,255,342,247,337,238,339,235,334,228,336,218,336,211,336,203,336,202,329,192,327,184,325,176,323,169,323,166,314,161,304"></map></figure>
 
-On the opposite side
+[color=#28a1c5]On the opposite side[/color]
 is [Apollo][8]{#apollon},
 which invites [the nine Sisters][9]{#lesneufsoeurs} to celebrate the high feats, and the Apotheosis of the new God.  
 Behind Apollo is [the Temple of Memory][10]{#letempledelamemoire}.
 
-Above the Corniche,
+[color=#28a1c5]Above the Corniche[/color],
 reigns around an Attica that encircles the Subject,
 it is drawn up in the middle of enhanced Golden Cartels,
 accompanied by the main works of Hercules feigned of Sculpture of white marble.  
@@ -119,7 +117,7 @@ are four Virtues on Pedestals and feigned the same way.
 
 These Virtues are Force, Your Constancy, Value, Justice,
 which specifically refers to the character of Hercules.  
-For the rest, the composition is distributed in nine Groups.
+[color=#28a1c5]For the rest, the composition is distributed in nine Groups.[/color]
 
 <figure><picture>
 <source
@@ -151,7 +149,7 @@ srcset="
 <area id="area_laigle" alt="the Eagle" title="the Eagle" href="#laigle" shape="poly" coords="278,647,253,631,251,624,247,628,240,621,240,630,220,630,226,642,214,644,203,637,185,644,180,635,176,640,170,633,155,641,147,631,138,616,134,600,139,590,149,597,158,603,165,599,169,582,174,572,187,569,197,572,191,575,189,584,187,593,194,596,203,596,210,590,217,587,226,588,239,591,248,596,257,599,264,602,272,612,281,622,284,633,283,640">
 <area id="area_ganimede" alt="Ganymede" title="Ganymede" href="#ganimede" shape="poly" coords="170,574,175,569,180,565,182,554,184,545,178,538,180,532,184,528,178,523,175,518,160,515,155,521,152,530,150,537,151,547,152,557,152,562,158,564,155,569,162,568"></map></figure>
 
-In the first, under a Curtain supported by [the Satellites of Jupiter][11]{#lessatellitesdejupiter},
+[color=#28a1c5]In the first[/color], under a Curtain supported by [the Satellites of Jupiter][11]{#lessatellitesdejupiter},
 this God on a throne
 is intend him for spouse;  
 [Juno][12]{#junon} who crossed Hercules during her life,
