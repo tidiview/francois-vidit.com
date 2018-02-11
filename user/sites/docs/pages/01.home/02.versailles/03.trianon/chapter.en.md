@@ -4,11 +4,11 @@ menu: trianon
 taxonomy:
     category: [docs, en]
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 23-01-2018, 22:07
+date: 02-02-2018, 21:05
+modified: 11-02-2018, 14:47
 metadata:
-   description: "Trianon section of site francois-vidit.com"
-   keywords: 'Château de Versailles, Trianon'
+   description: "the Trianon section presents documents that put in relation paintings of Arachee, Tiresias, Iris or Flora exposed in the Grand Trianon in Versailles and texts from latin writer Ovide that inspired to painters their mythological representations"
+   keywords: 'Château de Versailles, Grand Trianon'
    image: trianon_700x467.jpg
    image_width: 700
    image_height: 467

@@ -3,13 +3,13 @@ title: Vendôme Square
 menu: place vendôme
 template: docs_minus_h1
 created: 14-01-2017, 23:44
-date: 14-01-2017, 23:44
-modified: 11-04-2017, 20:44
+date: 11-04-2017, 20:44
+modified: 05-02-2017, 21:04
 itempage: Article
 taxonomy:
    category: [docs, en]
 metadata:
-    description: "Vendôme square in Paris in the 17th century"
+    description: "17th century old maps of the Vendôme square in Paris present its original physionomy with the convent of the capucines (couvent des capucines)"
     keywords: "Place Vendôme, Vendôme square, Paris, couvent des Capucines, Capucines' convent, couvent des Feuillants, Feuillants' convent"
     image: vendome_700x507.jpg
     image_width: 700

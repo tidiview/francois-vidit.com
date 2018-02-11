@@ -4,8 +4,8 @@ menu: vendôme
 taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
-date: 05-01-2017, 23:13
-modified: 13-07-2017, 23:13
+date: 13-07-2017, 23:13
+modified: 05-02-2017, 21:02
 metadata:
    description: "summary of section Vendôme of francois-vidit.com website"
    keywords: 'Vendôme'

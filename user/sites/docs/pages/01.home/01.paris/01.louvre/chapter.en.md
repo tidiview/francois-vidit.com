@@ -1,5 +1,5 @@
 ---
-title: Louvre
+title: The Louvre
 menu: louvre
 taxonomy:
     category: [docs, en]

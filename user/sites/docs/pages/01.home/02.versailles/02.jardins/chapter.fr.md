@@ -4,10 +4,10 @@ menu: jardins
 taxonomy:
     category: [docs, fr]
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 09:54
+date: 10-01-2017, 09:54
+modified: 11-02-2018, 14:57
 metadata:
-   description: "section Jardins du site francois-vidit.com"
+   description: "La section Jardins du site francois-vidit.com présente des extraits de texte de la littérature impériale romaine, principalement Ovide, afin d'approfondir les sujets mythologiques des différentes œuvres de la culture de cour présentés dans les jardins du Palais de Versailles, que ce soit Latone ou Apollon."
    keywords: 'Château de Versailles, Versailles'
    image: jardins_700x467.jpg
    image_width: 700

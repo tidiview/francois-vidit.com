@@ -4,10 +4,10 @@ menu: gardens
 taxonomy:
     category: [docs, en]
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 09:54
+date: 10-01-2017, 09:54
+modified: 11-02-2018, 15:00
 metadata:
-   description: "Gardens section of site francois-vidit.com"
+   description: "The Gardens section presents documents that put in relations sculptures of Latone, Apollo exposed in the gardens of the Palace of Versailles and texts from latin writer Ovide that inspired to artists their mythological representations."
    keywords: 'Château de Versailles, Gardens, Versailles'
    image: jardins_700x467.jpg
    image_width: 700
