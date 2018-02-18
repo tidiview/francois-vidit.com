@@ -3,8 +3,8 @@ title: ハンス・メムリンク筆の聖ウルスラの聖遺物箱
 titleone: '<ruby><rb lang="ja">聖ウルスラの聖遺物箱</rb><rt lang="nl">Het&#160;Ursulaschrijn</rt></ruby>'
 menu: 聖ウルスラ
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 15:05
+date: 14-12-2017, 15:05
+modified: 18-12-2017, 12:16
 itempage: Article
 taxonomy:
     category: [docs, ja]
@@ -27,7 +27,7 @@ metadata:
    image_legend: "「聖ウルスラの殉教」絵画の詳細、聖ウルスラの死"
    'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/ハンス・メムリンク"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "聖ウルスラの聖遺物箱", "Ursulaschrijn", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖ウルスラの聖遺物匣", "Shrine of St. Ursula", "ヤコブス・デ・ヴォラギネ", "黄金伝説", "一万一千処女", "レゲンダ・アウレア", "一万一千童貞女"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "聖ウルスラの聖遺物箱", "Ursulaschrijn", "Hans Memling", "Memling", "Sint-Janshospitaal", "聖ウルスラの聖遺物匣", "Shrine of St. Ursula", "ヤコブス・デ・ヴォラギネ", "黄金伝説", "一万一千処女", "レゲンダ・アウレア", "一万一千童貞女"]
 shortcode-core:
    active: true
 sitemap:
