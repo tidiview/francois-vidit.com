@@ -3,13 +3,13 @@ title: ディアヌ
 menu: ディアヌ
 template: docs_minus_h1
 created: 15-01-2016
-date: 27-09-2017, 19:21
-modified: 25-02-2018, 12:34
+date: 25-02-2018, 12:34
+modified: 25-02-2018, 22:46
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-   description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワチエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第3巻のアクタイオン章の文書"
+   description: "シュノンソー城に展示されている、プリマティッチオ画家が描いたディアーヌ・ド・ポワティエ肖像画のもとに使用された、オウィディウス作家が書いた変身物語の第3巻のアクタイオン章の文書"
    keywords: "ロワール古城, シュノンソー城, シュノンソー, プリマティッチオ, ディアーヌ・ド・ポワチエ, オウィディウス, 変身物語, アクタイオン, Chenonceau, Le Primatice, Diane de Poitiers, Château de Chenonceau, Acteon, Châteaux de la Loire, Actæon, Metamorphoseon, Ovidius, Primaticcio, ディアーヌ・ド・ポワティエ"
    image: "diane_700x1050.jpg"
    image_height: 700
@@ -54,8 +54,9 @@ srcset="
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-380.webp 380w,
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-480.webp 480w,
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.webp 640w,
-/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w" />
-<img　src="/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワチエ肖像》" class="class-diane-img"
+/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x1050.webp 700w"
+type="image/webp" />
+<img　src="/user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg" alt="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" title="プリマティッチオ派、《ディアーヌ・ド・ポワティエ肖像》" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-280.jpg 280w,
@@ -64,14 +65,14 @@ srcset="
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/04.chateaux-de-la-loire/02.chenonceau/01.diane/diane-focus_700x798.jpg 700w"
 >
-</picture><figcaption>狩猟女神<ruby><rb>ディアーヌ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane</rt></ruby>の姿で描かれている<ruby><rb>ディアーヌ・ド・ポワチエ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane&#160;de&#160;Poitiers</rt></ruby></figcaption></figure>
+</picture><figcaption>狩猟女神<ruby><rb>ディアーヌ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane</rt></ruby>の姿で描かれている<ruby><rb>ディアーヌ・ド・ポワティエ<rb><rt style="font-size:60%;letter-spacing: .1rem;">Diane&#160;de&#160;Poitiers</rt></ruby></figcaption></figure>
 
 !!!! この絵画は、当時、[{r}フランソワ(François)１世(Ier){/r}][1]に招待され、後に文化大臣に相当する人物ともなった、イタリア・ボローニャ出身の画家[{r}プリマティッチオ(Primaticcio){/r}][2]が、1556年に、[{r}シュノンソー(Chenonceau){/r}城][3]で描いた作品です。  
 !!!!  当時、本人は、「{r}ル(Le)・()プリマティス(Primatice){/r}」と、フランス語風の名で、知られていました。  
 !!!! この絵では、{r}フランソワ(François)１世(Ier){/r}の後を継いだ息子[{r}アンリ(Henri)2世(II){/r}][4]の愛妾だった、[{r}ディアーヌ(Diane)・()ド(de)・()ポワティエ(Poitiers){/r}][5]が描かれている。  
 !!!! 当時、フランス王国宮廷では、最も注目された（気絶する）美人としても知られている。  
 !!!! この時代、「並行肖像」が流行ったため、直接肖像されているのではなく、ここでは、本人とフランス語で同じ名前「[{r}ディアーヌ(Diane){/r}][6]」で知られる狩猟女神の姿で、表されている。  
-!!!! この並行肖像の元、以下に読めれる、ローマ帝国時代に生きた作家[{r}オウィディウス(Ovidius){/r}][7] が書いた「[{r}変身物語(Metamorphoseon){/r}][8]」のなかにある、日本語では{r}ディアーナ(Diana){/r}狩猟女神が現れる物語がある。  
+!!!! この並行肖像の元、以下に読めれる、ローマ帝国時代に生きた作家[{r}オウィディウス(Ovidius){/r}][7] が書いた「[{r}変身物語(Metamorphoseon){/r}][8]」のなかにある、日本語ではラテン語から{r}ディアーナ(Diana){/r}狩猟女神が現れる物語がある。  
 !!!! {r}アクタイオン(Actæon){/r}王子との登場でもある。  
 !!!! お楽しみ下さい！
 
@@ -88,7 +89,7 @@ srcset="
 
 「おい、みんな、綱も槍も、獣たちの血で濡れている。  
 <sup>150</sup> 
-今日の結果は上々の首尾だった。明朝、{r}紅(くれない){/r}馬車に乗った「{r}曙(アウロラ){/r}」が、輝く光をよみがえらせたとき、この猟を続けるとしよう。いま、大陽神は東西の両地点に等しい距離にあって、熱気が地面にひび割れをつくっている。さしあたり仕事を中止して、猟綱をとりのけるよかろう！」
+今日の結果は上々の首尾だった。明朝、{r}紅(くれない){/r}馬車に乗った「{r}曙(アウロラ){/r}」が、輝く光をよみがえらせたとき、この猟を続けるとしよう。いま、太陽神は東西の両地点に等しい距離にあって、熱気が地面にひび割れをつくっている。さしあたり仕事を中止して、猟綱をとりのけるよかろう！」
   
 <sup>155</sup> 
 ここは帯を高く締めたディアナ女神に献げられた聖地になっている。そのいちばん奥深いところに、木々に囲まれた洞窟があり、{r}人(ひと)手(で){/r}はいっさい加えられていない。むしろ、自然が、巧みな技によって、人工を真似している。  
