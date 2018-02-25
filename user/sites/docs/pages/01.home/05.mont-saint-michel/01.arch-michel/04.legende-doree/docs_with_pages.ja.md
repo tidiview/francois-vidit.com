@@ -2,8 +2,8 @@
 title: 黄金伝説における大天使ミカエル
 menu: 黄金伝説
 created: 04-10-2017, 12:15
-date: 19-11-2017, 17:40
-modified: 24-12-2017, 22:00
+date: 24-12-2017, 22:00
+modified: 25-02-2018, 00:47
 itempage: Article
 taxonomy:
     category: [docs, ja]
