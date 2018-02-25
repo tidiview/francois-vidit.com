@@ -5,8 +5,8 @@ template: docs_minus_h1
 taxonomy:
     category: [docs, ja]
 created: 29-12-2016, 00:02
-date: 17-07-2017, 19:02
-modified: 04-10-2017, 19:06
+date: 04-10-2017, 19:06
+modified: 25-02-2018, 12:43
 metadata:
    description: "「モン・サン＝ミシェル」、その場所の名前から、大天使ミカエルの名である「ミカエル」の由来と意義をヘブライ語から分析する文書を紹介する"
    keywords: '大天使ミカエル, 大天使ミシェル, 大天使ミッハエル'

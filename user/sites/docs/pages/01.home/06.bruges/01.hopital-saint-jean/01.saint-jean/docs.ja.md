@@ -6,8 +6,8 @@ template: docs_minus_h1
 taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
-date: 22-07-2017, 16:47
-modified: 06-10-2017, 00:17
+date: 06-10-2017, 00:17
+modified: 25-02-2018, 12:49
 itempage: Article
 metadata:
    description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"

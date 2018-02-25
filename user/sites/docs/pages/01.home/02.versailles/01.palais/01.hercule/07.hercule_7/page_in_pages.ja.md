@@ -23,7 +23,7 @@ shortcode-core:
 2本の豊穣の角があり、門縁の下部は獅子の2つの頭か皮で終わっています。
 
 [color=#28a1c5]これらの作品は、<ruby lang="ja" style="color:#28a1c5;">トゥーロン<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">Toulon</rt><rp>)</rp></ruby>出身の器用な彫刻家である亡き<ruby lang="ja" style="color:#28a1c5;">アントワーヌ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">Antoine</rt><rp>)</rp>＝<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">-</rt><rp>)</rp>フランソワ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">François</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5"></rt><rp>)</rp>ヴァセ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">VASSÉ</rt><rp>)</rp></ruby>のものです[/color]。  
-パオロ・ヴェロネーゼ作の大絵画の縁も、大理石のなかにはめ込まれていて、4つの持ち送りに支えられていて、また同じく水銀での箔押しされていながら、同じ彫刻家によるものです。
+{r=ja/it}パオロ(Paulo)・()ヴェロネーゼ(Veronese){/r}作の大絵画の縁も、大理石のなかにはめ込まれていて、4つの持ち送りに支えられていて、また同じく水銀での箔押しされていながら、同じ彫刻家によるものです。
 
 [color=#28a1c5]暖炉の絵画の縁、炉の薪置台などはアカデミー彫刻家<ruby lang="ja" style="color:#28a1c5;">ジャック<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">Jacques</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5"></rt><rp>)</rp>ヴェルベクッ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#28a1c5">Verbeckt</rt><rp>)</rp></ruby>のものです[/color]。
 
@@ -58,12 +58,12 @@ shortcode-core:
 !!! 幅52ピエ×高さ15ピエが現在の寸法では、幅16,9㍍×高さ4.9㍍とします。
 !!! + 註に戻る： [ファリサイ人家での祝宴 ↑][3] 
 
-!!! #### 《エリエゼルがリベカ》絵画の寸法 {#note_metre1}
+!!! #### 《エリエゼルとリベカ》絵画の寸法 {#note_metre1}
 !!! 高さ11ピエ×幅8ピエが現在の寸法では、高さ3.6㍍×幅2.69㍍とします。
-!!! + 註に戻る： [エリエゼルがリベカ ↑][5] 
+!!! + 註に戻る： [エリエゼルとリベカ ↑][5] 
 
 [1]: https://ja.wikipedia.org/wiki/パオロ・ヴェロネーゼ "https://ja.wikipedia.org/wiki/パオロ・ヴェロネーゼ"
 [2]: #note_metre1 "ファリサイ人家での祝宴"
 [3]: #metre1 "ファリサイ人家での祝宴"
-[4]: #note_metre2 "エリエゼルがリベカ"
+[4]: #note_metre2 "エリエゼルとリベカ"
 [5]: #metre2 "エリエゼルがリベカ"

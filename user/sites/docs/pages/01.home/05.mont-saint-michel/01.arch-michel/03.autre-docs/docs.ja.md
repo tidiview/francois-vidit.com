@@ -2,13 +2,13 @@
 title: ダニエル書における大天使ミカエル
 menu: ダニエル書
 created: 23-11-2015, 13:50
-date: 04-10-2017, 20:15
-modified: 16-10-2017, 15:53
+date: 16-10-2017, 15:53
+modified: 25-02-2018, 12:46
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-   description: '大天使ミカエルが出現、旧約聖書の様々な文書'
+   description: '大天使ミカエルが出現、旧約聖書の様々な文書、説くにダニエル書。'
    keywords: '大天使ミカエル, 旧約聖書, モン・サン・ミシェル'
    image: other-docs_700x426.png
    image_height: 700
