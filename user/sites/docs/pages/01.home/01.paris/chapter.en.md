@@ -5,9 +5,9 @@ taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
 date: 05-01-2017, 23:13
-modified: 05-01-2017, 23:13
+modified: 01-03-2018, 10:18
 metadata:
-   description: "section Paris of francois-vidit.com website"
+   description: "In the Paris section, documents are presented which allow to deepen understanding of the formation, history and culture of the city of Paris. For example, documents showing the state in the 17 th century of Place Vendôme."
    keywords: 'Paris'
    image: paris_700x423.jpg
    image_width: 700

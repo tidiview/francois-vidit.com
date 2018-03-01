@@ -5,9 +5,9 @@ taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
 date: 05-01-2017, 23:13
-modified: 05-01-2017, 23:13
+modified: 01-03-2018, 10:15
 metadata:
-   description: "francois-vidit.com サイトのパリセクション"
+   description: "パリセクションでは、パリの町の形成、歴史や文化などの理解を深める目的に資料を提供しています。例えば、17世紀ヴァンドーム（Place Vendôme）の元々の様子を示す資料。"
    keywords: 'パリ'
    image: paris_700x423.jpg
    image_width: 700

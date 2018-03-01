@@ -2,8 +2,8 @@
 title: Hercules
 slug: "page:1"
 created: 26-10-2017, 15:25
-date: 14-12-2017, 16:00
-modified: 25-01-2018, 02:00
+date: 25-01-2018, 02:00
+modified: 01-03-2018, 13:45
 visible: false
 routable: false
 taxonomy:
@@ -62,8 +62,8 @@ srcset="
 
 !!!! In order to facilitate the comprehension of the text, links have been established between it and the parts of the work designated: a click on the word refers to the part of the work represented and also reversely, a click on a part of the work refers to the word of the text in reference.
 
-!!!! About the display of the perimeter in the Browser:
-!!!! : It is possible to reveal the perimeter of the part of the image designated in the text using to read this page a browser based on Chrome. However, as Chrome contains a tracker and reports all your browsing to the Google company, we advise you to use the excellent browser [SRWare Iron][3] based on Chrome but which do not contain the tracker component.
+!!!! to display the perimeter in your browser:
+!!!! : It is possible to reveal the perimeter of the part of the image designated in the text using to read this page a browser based on Chrome. However, as Chrome contains a tracker and reports all your browsing to the Google company, we advise you to use the excellent browser [SRWare Iron][3] based on Chrome but which do not contain the tracker component. For android based mobiles, the SRWare Iron application can be found [here...][6].
 
 <br>
 
@@ -99,3 +99,4 @@ because to say it, the biggest part of the great Gallery, painted by the illustr
 
 [4]: https://en.wikipedia.org/wiki/Salon_d%27Hercule "https://en.wikipedia.org/wiki/Salon d'Hercule"
 [5]: https://en.wikipedia.org/wiki/Mercure_de_France "https://en.wikipedia.org/wiki/Mercure_de_France"
+[6]: https://play.google.com/store/apps/details?id=org.iron.srware&hl=en "https://play.google.com/store/apps/details?id=org.iron.srware&hl=en"

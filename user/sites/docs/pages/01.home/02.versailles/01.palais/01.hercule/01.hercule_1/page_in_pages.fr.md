@@ -2,8 +2,8 @@
 title: L'Apothéose d'Hercule par François LEMOYNE
 slug: "page:1"
 created: 26-10-2017, 15:25
-date: 14-12-2017, 16:00
-modified: 25-01-2018, 02:00
+date: 25-01-2018, 02:00
+modified: 01-03-2018, 13:07
 visible: false
 routable: false
 taxonomy:
@@ -58,11 +58,12 @@ srcset="
 !!! À cette occasion, le journal « [le Mercure de France][2] » faisait paraître un texte exceptionnel parce que probablement écrit par le peintre lui-même qui nous renseigne sur les conditions qui ont présidé à cette commande ainsi sur le détail de la composition.  
 !!! C'est ce texte qui se trouve reproduit ci-dessous. 
 !!! Cette œuvre de ce peintre est exceptionnelle pour de nombreuses raisons et particulièrement pour être une de ses dernières.  
-!!! En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir achevé, en se suicidant de plusieurs coups d'épée, dans son appartement à Paris, le 4 juin 1737.   
-!!! Afin de faciliter la compréhension du texte, des liens ont été établis entre celui-ci et les parties de l'œuvre désignées: clicquer sur le mot renvoie à la partie de l'œuvre représentée et inversement, cliquer sur une partie de l'œuvre renvoie au terme du texte en référence.
+!!! En effet, l'artiste décidait de mettre fin à ses jours peu après l'avoir achevé, en se suicidant de plusieurs coups d'épée, dans son appartement à Paris, le 4 juin 1737.
 
-!!! Note:
-!!! : il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise Google, nous vous conseillons l'excellent navigateur [SRWare Iron][4] basé sur Chrome mais qui ne contient aucun mouchard.
+!!!! Afin de faciliter la compréhension du texte, des liens ont été établis entre celui-ci et les parties de l'œuvre désignées: clicquer sur le mot renvoie à la partie de l'œuvre représentée et inversement, cliquer sur une partie de l'œuvre renvoie au terme du texte en référence.
+
+!!!! Pour faire apparaître le périmètre des figures:
+!!!! : il est possible de faire apparaître le périmètre de la partie de l'image désignée dans le texte en utilisant pour lire cette page un navigateur basé sur Chrome. Toutefois, comme Chrome contient un mouchard qui piste votre navigation pour l'entreprise Google, nous vous conseillons l'excellent navigateur [SRWare Iron][4] basé sur Chrome mais qui ne contient aucun mouchard. Pour les portables android, l'application SRWare Iron peut être téléchargée [ici...][5].
 
 <br>
 
@@ -95,3 +96,4 @@ car pour le dire en pas le plus grand morceau de la grande Galerie, peinte par l
 [3]: https://fr.wikipedia.org/wiki/Salon_d%27Hercule "https://fr.wikipedia.org/wiki/Salon_d'Hercule"
 [3]: https://fr.wikipedia.org/wiki/Mercure_de_France "https://fr.wikipedia.org/wiki/Mercure_de_France"
 [4]: http://www.srware.net/en/software_srware_iron_download.php "http://www.srware.net/en/software_srware_iron_download.php"
+[5]: https://play.google.com/store/apps/details?id=org.iron.srware&hl=fr "https://play.google.com/store/apps/details?id=org.iron.srware&hl=fr"
