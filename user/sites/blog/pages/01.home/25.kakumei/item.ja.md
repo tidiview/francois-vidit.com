@@ -2,8 +2,8 @@
 title: フランス革命という出来事が何であるか
 menu: 革命という出来事
 created: 11-11-2017, 17:23
-date: 28-02-2017, 11:11
-modified: 01-03-2017, 16:25
+date: 01-03-2017, 16:25
+modified: 03-03-2017, 16:34
 itempage: BlogPosting
 base64_background: cartons-ouverts
 base64_itembackground: hexagonedefleches
