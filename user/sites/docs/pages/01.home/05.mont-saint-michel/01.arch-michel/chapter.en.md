@@ -1,22 +1,22 @@
 ---
-title: Archangel Saint-Michael
-menu: archange saint-michael
+title: Archangel Michael
+menu: archange michael
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10
-date: 15-01-2016, 07:10
-modified: 19-08-2016, 17:58
+date: 19-08-2016, 17:58
+modified: 04-03-2018, 12:35
 metadata:
-   description: "Archangel Saint-Michael section of site francois-vidit.com"
-   keywords: 'Archangel Saint-Michael, francois-vidit.com, Archangel Saint-Michael section'
+   description: "In the Archangel Michael section, documents are presented which allow us to deepen understanding of the figure of the Archangel Michael. For example, the explanation of the Hebrew ethymology of the name « Michael », the main texts that evoke the archangel in the Old or New Testament or the Golden Legend."
+   keywords: 'Archangel Michael'
    image: arch-michel_700x700.jpg
    image_width: 700
    image_height: 700
-   image_title: Archangel Saint-Michael
-   image_legend: "Photography of the Archangel Saint-Michael"
+   image_title: Archangel Michael
+   image_legend: "Photography of the Archangel Michael"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/chapter.en.md"]
-specialty: ["History of France", "Religious history", "Biblic history"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/05.mont-saint-michel/01.arch-michel/chapter.en.md"]
+specialty: ["History of France", "Religious history", "Biblic history", "Archangel Michael"]
 ---
 
-# Archangel Saint-Michael
+# Archangel Michael

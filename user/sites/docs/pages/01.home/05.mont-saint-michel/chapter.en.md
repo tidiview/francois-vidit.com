@@ -1,21 +1,21 @@
 ---
-title: Mont-Saint-Michel
-menu: mont-saint-michel
+title: Mont Saint-Michel
+menu: mont saint-michel
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10
-date: 15-01-2016, 07:10
-modified: 19-08-2016, 17:58
+date: 19-08-2016, 17:58
+modified: 04-03-2018, 12:15
 metadata:
-   description: "Mont-Saint-Michel section of site francois-vidit.com"
-   keywords: 'Mont-Saint-Michel, francois-vidit.com, Mont-Saint-Michel section'
+   description: "In the Mont Saint-Michel section, documents are presented to deepen the history and understanding of Mont Saint-Michel. For example, the explanation of the Hebrew ethymology of the name « Michel » (Michael), the layout of the main texts that evoke the archangel in the Old or New Testament or the Golden Legend."
+   keywords: 'Mont-Saint-Michel'
    image: mont-saint-michel_700x392.jpg
    image_width: 700
    image_height: 392
    image_title: Mont-Saint-Michel
    image_legend: "Photography of the Mont-Saint-Michel"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/05.mont-saint-michel/chapter.en.md"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/05.mont-saint-michel/chapter.en.md"]
 specialty: ["History of France", "Religious history", "Biblic history"]
 ---
 ### Le Mont-Saint-Michel
