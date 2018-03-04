@@ -2,8 +2,8 @@
 title: フランス革命という出来事が何であるか
 menu: 革命という出来事
 created: 11-11-2017, 17:23
-date: 01-03-2017, 16:25
-modified: 03-03-2017, 16:34
+date: 03-03-2017, 16:34
+modified: 04-03-2017, 12:48
 itempage: BlogPosting
 base64_background: cartons-ouverts
 base64_itembackground: hexagonedefleches
@@ -30,7 +30,7 @@ metadata:
     image_legend: 下の方に『ヴァレンヌでのルイ十六世の逮捕。ルイ十六世はテュイルリー宮殿から1791年6月17日の夜の脱出した。王妃、子供たちの二人と妹と一緒に。国境の近くヴァレンヌに到着して、車の運転手が無理に馬たちを交換させようとした、自分のが複数の交換所を抜けたことで疲れ切っていて、約束と脅し、何もかも進出することに断行するにならず。交換する馬が用意してはいなかったので、旅館に停車しなければならなくなった。論争が様々な観客者たちを群がらせて、こんなに急いでどうしても進みたい格好と一般群衆の目にこんなに気を使って自分を隠そうとしている旅人たちは誰であるかを明かすことになった。市長が来て、王だと見分けたので、彼を通らせて上げられないと言って置いた。一魅力的な約束や念願や王妃と彼の家族の涙でも何もかも融通の利かない市長を当たることはなかったの。王は逮捕されて、25日にパリに戻させられた。』とと書いてあります。
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/フランス革命", "https://ja.wikipedia.org/wiki/人間と市民の権利の宣言", "https://ja.wikipedia.org/wiki/ユーグ・カペー", "https://ja.wikipedia.org/wiki/立法議会", "https://ja.wikipedia.org/wiki/ヴァルミーの戦い", "https://ja.wikipedia.org/wiki/ブラウンシュヴァイクの宣言", "https://ja.wikipedia.org/wiki/フランス革命戦争", "https://ja.wikipedia.org/wiki/ナポレオン戦争", "https://ja.wikipedia.org/wiki/ナポレオン", "https://ja.wikipedia.org/wiki/ルイ十六世", "https://ja.wikipedia.org/wiki/全国三部会", "https://francois-vidit/blog/ja/la-marseillaise", "https://ja.wikipedia.org/wiki/ワーテルローの戦い", "https://ja.wikipedia.org/wiki/ソフィア・コッポラ", "https://ja.wikipedia.org/wiki/マリー・アントワネット_(映画)", "https://ja.wikipedia.org/wiki/ヴェルサイユ宮殿", "https://ja.wikipedia.org/wiki/恐怖政治", "https://ja.wikipedia.org/wiki/国民公会", "https://ja.wikipedia.org/wiki/フランス第一共和政"]
-specialty: ["フランス革命", "全国三部会", "Révolution française", "Versailles", "États généraux", "1789", "三部会"]
+specialty: ["フランス革命", "全国三部会", "Révolution française"]
 shortcode-core:
     active: true
 sitemap:
@@ -49,7 +49,7 @@ sitemap:
 
 それなのに、同時に、「フランス」を省いて、親しんで、ただ、《革命》と呼ばれて来たものとして、統一しているかのように見えて来るため、語り方によって、革命の意義が真反対に異なることも不可能なことではありません。  
 
-一般的に、教育施設などでは、[{r=ja/en}ソフィア(Sofia)・()コッポラ(Coppola){/r}][30]が製作した[{r=ja/fr}マリー(Marie)＝(-)アントワネット(Antoinette){/r}](https://ja.wikipedia.org/wiki/マリー・アントワネット_(映画) "https://ja.wikipedia.org/wiki/マリー・アントワネット_(映画)")映画のように、展開が決定的に省略され過ぎていて、革命を暴力としてしか位置づけさせないように国民を矛盾やあいまいにさせてしまいます。  
+一般的に、教育施設などでは、[{r=ja/en}ソフィア(Sofia)・()コッポラ(Coppola){/r}][30]が製作した[{r=ja/fr}マリー(Marie)＝(-)アントワネット(Antoinette){/r}](https://ja.wikipedia.org/wiki/マリー・アントワネット_(映画) "https://ja.wikipedia.org/wiki/マリー・アントワネット_(映画)")映画のように、展開が決定的に省略され過ぎていて、革命を暴力としてしか位置づけてないため、国民は矛盾とあいまいの中に陥ってしまうことになります。  
 
 そういった意味で、200年以上が経った現代でも、革命はまだ権力者たちにとって恐ろしい出来事としてしか意味づけられていません。  
 
