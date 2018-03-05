@@ -1,6 +1,6 @@
 ---
 title: Hercules
-titleone: '<ruby><rb lang="en">Apotheosis of Hercules</rb><rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
+titleone: '<ruby lang="en">Apotheosis of Hercules<rt lang="fr">Apothéose&#160;d&#39;Hercule</rt></ruby>'
 menu: hercules
 created: 26-10-2017, 15:25
 date: 05-02-2018, 01:46
