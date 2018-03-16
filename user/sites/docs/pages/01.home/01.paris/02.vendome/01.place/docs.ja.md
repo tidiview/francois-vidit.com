@@ -3,13 +3,13 @@ title: ヴァンドーム広場
 menu: ヴァンドーム広場
 template: docs_minus_h1
 created: 11-04-2017, 23:44
-date: 04-06-2017, 23:19
-modified: 19-11-2017, 17:49
+date: 19-11-2017, 17:49
+modified: 17-03-2017, 00:04
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-    description: "十七世紀でのパリにあるヴァンドーム広場"
+    description: "17世紀でのパリにあるヴァンドーム広場"
     keywords: "ヴァンドーム広場, パリ, カプシーヌ修道院, フイヤン修道院"
     image: vendome_700x507.jpg
     image_width: 700
@@ -65,7 +65,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
 </picture><figcaption>1734年での<ruby><rb>テュルゴの地図</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby>によるパリにある<ruby><rb>ヴァンドーム広場</rb><rt>place&#160;Vendôme</rt></ruby></figcaption></figure>
 
-##[color=#3d8b3d]十七世紀でのヴァンドーム広場[/color]  
+##[color=#3d8b3d]17世紀でのヴァンドーム広場[/color]  
 
 !!!! [{r=ja/fr}リヴォリ通り(rue&#160;de&#160;Rivoli){/r}][2]が1801年に開かれる前に、[ヴァンドーム広場][1]は今とはとても違う顔でした。  
 
@@ -158,7 +158,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w">
 </picture><figcaption>図 2：<ruby><rb>ペ通り</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、<ruby><rb>カプシーヌ通り</rb><rt>rue&#160;des&#160;Capucines</rt></ruby>からの出入り（1734年）</figcaption></figure>
 
-ですから、広場は、十九世紀とは違って、通過するものではありませんでした。    
+ですから、広場は、19世紀とは違って、通過するものではありませんでした。    
 
 [{r=ja/fr}オペラ(Opéra){/r}][11]側では、現在[{r=ja/fr}ペ通り(rue&#160;de&#160;la&#160;Paix){/r}][5]の位置に、[{r=ja/fr}カプシーヌ修道院(couvent&#160;des&#160;Capucines){/r}][8]（[図 3](#couvent)）がありました。
 
@@ -190,7 +190,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.webp 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.webp 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x447.webp 700w" />
-<img　src="/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg" alt="二番目のカプシーヌ修道院、パリにあるヴァンドーム広場、1705年"　title="二番目のカプシーヌ修道院、パリにあるヴァンドーム広場、1705年" class="class-diane-img"
+<img　src="/user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg" alt="2番目のカプシーヌ修道院、パリにあるヴァンドーム広場、1705年"　title="2番目のカプシーヌ修道院、パリにあるヴァンドーム広場、1705年" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-280.jpg 280w,
@@ -200,7 +200,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w">
 </picture><figcaption>図 3：<ruby><rb>ペ通り</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、二番目の<ruby><rb>カプシーヌ修道院</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby>（1705年）</figcaption></figure>
 
-そこの教会に、[{r=ja/fr}ポンパドゥール夫人(Madame&#160;de&#160;Pompadour){/r}][9]と、その妹とお母さまも、葬られることになった。
+そこの教会に、[{r=ja/fr}ポンパドゥール夫人(Madame&#160;de&#160;Pompadour){/r}][9]と、その妹とお母さまも、葬られることになりました。
 
 広場の真向こう、[{r=ja/fr}テュイルリー(Tuileries){/r}][11]側では、もう一つの大門がそれに答えていました。  
 それは、別の大門、{r=ja/fr}フイヤン修道院(couvent&#160;des&#160;Feuillants){/r}大門（[図 4](#feuillants)）でした。
@@ -243,7 +243,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w">
 </picture><figcaption>図 4：<ruby><rb>カスティグリオーヌ通り</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby><rb>フイヤン修道院</rb><rt>couvent&#160;des&#160;Feuillants</rt></ruby>の大門（1754年）</figcaption></figure>
 
-広場の真ん中に、『{r=ja/fr}ルイ大王(Louis&#160;le&#160;Grand){/r}』といわれる [{r=ja/fr}ルイ十四世(Louis&#160;XIV){/r}][14]の銅騎馬像が、1699年からすでに立っています（[図 5](#statue)）。   
+広場の真ん中に、『{r=ja/fr}ルイ大王(Louis&#160;le&#160;Grand){/r}』といわれる [{r=ja/fr}ルイ14世(Louis&#160;XIV){/r}][14]の銅騎馬像が、1699年からすでに立っています（[図 5](#statue)）。   
 
 <figure id="statue"><picture>
 <source
@@ -283,7 +283,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w">
 </picture><figcaption>図 5：広場の真ん中、<ruby><rb>ルイ大王</rb><rt>Louis&#160;le&#160;Grand</rt></ruby>銅像（1699年）</figcaption></figure>
 
-[{r=ja/fr}フランソワ・ジラルドン(François&#160;GIRARDON){/r}][14]作の印象的な作品です。台座を含むと高さは、17メートルに達成していました。  
+[{r=ja/fr}フランソワ・ジラルドン(François&#160;GIRARDON){/r}][14]作の印象的な作品です。台座を含むと高さは、17㍍に達成していました。  
 
 [フランス革命][15]が破壊させたが、王のでか足の一つは鋳造に生き残ることが出来て、パリ市立歴史博物館である[{r=ja/fr}カルナヴァレ博物館(Musée&#160;Carnavalet){/r}][16]に展示されています。 
 
