@@ -1,12 +1,12 @@
 ---
 title: Diptyque de Maarten van Nieuwenhove de Hans Memling
 menu: maarten van nieuwenhove
-template: docs_promise
+template: docs_minus_h1
 taxonomy:
     category: [docs, fr]
 created: 22-07-2017, 22:04
 date: 22-07-2017, 22:04
-modified: 22-07-2017, 22:04
+modified: 16-03-2018, 01:03
 itempage: Article
 metadata:
    description: "Présentation et description du Diptyque de Maarten van Nieuwenhove, œuvre du peintre Hans Memling, visible au Musée Memling, Hôpital Saint-Jean de Bruges"
@@ -206,5 +206,3 @@ srcset="
 [color=#df8a13]**Hans Memling, “Diptyque de Maarten van Nieuwenhove”**[/color]  
 
 <br>
-
-<div id="github-contrib"><p>Vous avez découvert des erreurs ? Vous pensez pouvoir améliorer cette documentation ?<a class="github-link" href="https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/docs.ja.md" rel="external nofollow" style="margin-left: 0px;border-top: 30px solid #6AB0DE;background: #E7F2FA;padding: 15px;display: block;font-size: 1.05rem;margin-top: 0rem;margin-bottom: 0rem;"><i class="fa fa-github-square" style="vertical-align: middle;"></i> modifier cette page</a></p></div>
