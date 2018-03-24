@@ -39,7 +39,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-700x1047.jpg" title="《ケルンでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ケルンでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-700x1047.jpg" title="《ケルンでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ケルンでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-280.jpg 280w,
@@ -71,7 +71,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-700x1063.jpg" title="《バーゼルでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-700x1063.jpg" title="《バーゼルでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《バーゼルでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule4-280.jpg 280w,
@@ -103,7 +103,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-700x1056.jpg" title="《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-700x1056.jpg" title="《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule5-280.jpg 280w,

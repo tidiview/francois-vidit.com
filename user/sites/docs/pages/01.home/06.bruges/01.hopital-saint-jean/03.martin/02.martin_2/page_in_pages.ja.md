@@ -25,7 +25,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-70-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin3-280.jpg 280w,
@@ -54,7 +54,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-840.jpg" title="《聖母子》、《マールテン・ファン・ニューウェンホーフェの二連画》の左パネル、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《聖母子》、《マールテン・ファン・ニューウェンホーフェの二連画》の左パネル、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-840.jpg" title="《聖母子》、《マールテン・ファン・ニューウェンホーフェの二連画》の左パネル、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《聖母子》、《マールテン・ファン・ニューウェンホーフェの二連画》の左パネル、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin4-280.jpg 280w,
@@ -83,7 +83,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-840.jpg" title="《マールテン・ファン・ニューウェンホーフェ肖像》、《マールテン・ファン・ニューウェンホーフェの二連画》の右パネル、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェ肖像》、《マールテン・ファン・ニューウェンホーフェの二連画》の右パネル、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-840.jpg" title="《マールテン・ファン・ニューウェンホーフェ肖像》、《マールテン・ファン・ニューウェンホーフェの二連画》の右パネル、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェ肖像》、《マールテン・ファン・ニューウェンホーフェの二連画》の右パネル、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-280.jpg 280w,

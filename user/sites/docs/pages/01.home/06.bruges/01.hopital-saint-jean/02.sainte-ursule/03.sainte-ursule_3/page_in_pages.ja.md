@@ -31,7 +31,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-700x379.jpg" title="《バーゼルでの帰り》、《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-700x379.jpg" title="《バーゼルでの帰り》、《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule6-280.jpg 280w,
@@ -74,7 +74,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-700x1016.jpg" title="《バーゼルでの帰り》、《バーゼルでの帰り》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《バーゼルでの帰り》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-700x1016.jpg" title="《バーゼルでの帰り》、《バーゼルでの帰り》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《バーゼルでの帰り》、《バーゼルでの帰り》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule7-280.jpg 280w,
@@ -115,7 +115,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-700x540.jpg" title="《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-75-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-700x540.jpg" title="《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《11 000処女の殉教》、《聖ウルスラの殉教》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-75-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule8-280.jpg 280w,
@@ -164,7 +164,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule9-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule9-700x1050.jpg" title="《聖母子と出資女者たち》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《聖母子と出資女者たち》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule9-700x1050.jpg" title="《聖母子と出資女者たち》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《聖母子と出資女者たち》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule9-280.jpg 280w,
@@ -261,8 +261,8 @@ srcset="
 [11]: ./#cordula "コルドゥラ"
 [14]: ./#note_antioche "アンティオケイア"
 [15]: ./#antioche "アンティオケイア"
-[16]: ./#note_constantinus "ブリュージュ"
-[17]: ./#constantinus "ブリュージュ"
+[16]: ./#note_constantinus "ブルージュ"
+[17]: ./#constantinus "ブルージュ"
 [18]: ./#note_marcianus "マルキアヌス"
 [19]: ./#marcianus "マルキアヌス"
 [20]: ./#note_notrepere "主の祈り"

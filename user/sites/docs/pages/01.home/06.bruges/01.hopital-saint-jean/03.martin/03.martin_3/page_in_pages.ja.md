@@ -25,7 +25,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-840.jpg" title="《ファン・ニューウェンホーフェ家の紋章》、《聖母の後ろにあり鏡》、左パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ファン・ニューウェンホーフェ家の紋章》、《聖母の後ろにあり鏡》、左パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-840.jpg" title="《ファン・ニューウェンホーフェ家の紋章》、《聖母の後ろにあり鏡》、左パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ファン・ニューウェンホーフェ家の紋章》、《聖母の後ろにあり鏡》、左パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin7-280.jpg 280w,
@@ -54,7 +54,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-840.jpg" title="《物乞いにマントを割いて与える聖マルティヌス》、《ミネワテル風景》、《マールテン・ファン・ニューウェンホーフェ肖像》の右パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《物乞いにマントを割いて与える聖マルティヌス》、《ミネワテル風景》、《マールテン・ファン・ニューウェンホーフェ肖像》の右パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-840.jpg" title="《物乞いにマントを割いて与える聖マルティヌス》、《ミネワテル風景》、《マールテン・ファン・ニューウェンホーフェ肖像》の右パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《物乞いにマントを割いて与える聖マルティヌス》、《ミネワテル風景》、《マールテン・ファン・ニューウェンホーフェ肖像》の右パネルの詳細、《マールテン・ファン・ニューウェンホーフェの二連画》、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/03.martin_3/martin6-280.jpg 280w,

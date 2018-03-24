@@ -25,7 +25,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-280.jpg 280w,
@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin0-1920.jpg 1920w">
-</picture><figcaption>《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）</figcaption></figure>
+</picture><figcaption>《マールテン・ファン・ニューウェンホーフェの二連画》、展示会所の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）</figcaption></figure>
 
 <br>
 
@@ -54,7 +54,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、展示装置の全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、展示装置の全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、展示装置の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、展示装置の全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin1-280.jpg 280w,
@@ -83,7 +83,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、全体景観、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-70-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-840.jpg" title="《マールテン・ファン・ニューウェンホーフェの二連画》、全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《マールテン・ファン・ニューウェンホーフェの二連画》、全体景観、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/01.martin_1/martin2-280.jpg 280w,

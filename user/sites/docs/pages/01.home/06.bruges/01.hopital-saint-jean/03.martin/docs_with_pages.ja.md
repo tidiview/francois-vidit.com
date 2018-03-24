@@ -18,8 +18,8 @@ content:
     limit: 1
     pagination: true
 metadata:
-   description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある、ハンス・メムリンクが作ったマールテン・ファン・ニューウェンホーフェの二連画を写真や文書で紹介する"
-   keywords: 'マールテン・ファン・ニューウェンホーフェの二連画, ブリュージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Hans Memling, Memling, Hans Memlinc, Memlinc'
+   description: "ブルージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある、ハンス・メムリンクが作ったマールテン・ファン・ニューウェンホーフェの二連画を写真や文書で紹介する"
+   keywords: 'マールテン・ファン・ニューウェンホーフェの二連画, ブルージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Hans Memling, Memling, Hans Memlinc, Memlinc'
    image: martin0_700x489.jpg
    image_width: 700
    image_height: 489
@@ -27,7 +27,7 @@ metadata:
    image_legend: "ハンス・メムリンク筆のマールテン・ファン・ニューウェンホーフェの二連画、正面からの各パネルの様子"
    'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/ハンス・メムリンク"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "マールテン・ファン・ニューウェンホーフェの二連画", "Ursulaschrijn", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "マールテン・ファン・ニューウェンホーフェの二連画", "Diptiek van Maarten van Nieuwenhove"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブルージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "マールテン・ファン・ニューウェンホーフェの二連画", "Ursulaschrijn", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "マールテン・ファン・ニューウェンホーフェの二連画", "Diptiek van Maarten van Nieuwenhove"]
 shortcode-core:
    active: true
 sitemap:

@@ -6,12 +6,12 @@ template: docs_minus_h1
 taxonomy:
     category: [docs, ja]
 created: 05-01-2017, 23:13
-date: 25-02-2018, 12:49
-modified: 24-03-2018, 21:52
+date: 24-03-2018, 21:52
+modified: 24-03-2018, 21:59
 itempage: Article
 metadata:
-   description: "ブリュージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"
-   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブリュージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc, Sint-Janshospitaal, 聖女カタリナの神秘の結婚, Shrine of St. Ursula'
+   description: "ブルージュ（ブルッヘ）の聖ヨハネ施療院メムリンク美術館にある洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画を写真と文書で紹介する"
+   keywords: '洗礼者聖ヨハネと福音書記者聖ヨハネの三連画, ブルージュ, ブルッヘ, 聖ヨハネ施療院, メムリンク美術館, メムリンク, Triptiek van Johannes de Doper en Johannes de Evangelist, Triptych of St John the Baptist and St John the Evangelist, Hans Memling, Memling, Hans Memlinc, Memlinc, Sint-Janshospitaal, 聖女カタリナの神秘の結婚, Shrine of St. Ursula'
    image: saint-jean_700x345.jpg
    image_width: 700
    image_height: 345
@@ -19,7 +19,7 @@ metadata:
    image_legend: "開翼時の洗礼者聖ヨハネと福音書記者聖ヨハネ施の三連画"
    'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/develop/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/docs.ja.md"]
-specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブリュージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブリュージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖女カタリナの神秘の結婚", "The St John Altarpiece", "Triptych of the two Saints John", "Old St. John's Hospital", "二人の聖ヨハネの三連画", "聖ヨハネ祭壇画"]
+specialty: ["ベルギー", "ブルゴーニュ領ネーデルラント", "フランドル", "ウェスト=フランデレン州", "ブルージュ", "ブルッヘ", "初期フランドル派", "北方ルネサンス", "フランドル絵画", "ブルージュでの美術館", "ブルッヘでの美術館", "聖ヨハネ施療院", "ハンス・メムリンク美術館", "ハンス・メムリンク", "洗礼者聖ヨハネと福音書記者聖ヨハネの三連画", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Triptych of St John the Baptist and St John the Evangelist", "Hans Memling", "Memling", "Hans Memlinc", "Memlinc", "Sint-Janshospitaal", "聖女カタリナの神秘の結婚", "The St John Altarpiece", "Triptych of the two Saints John", "Old St. John's Hospital", "二人の聖ヨハネの三連画", "聖ヨハネ祭壇画"]
 shortcode-core:
    active: true
 sitemap:
@@ -41,7 +41,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-1280.webp 1280w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,
@@ -126,7 +126,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-1280.webp 1280w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブリュージュ" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,

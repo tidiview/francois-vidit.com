@@ -26,7 +26,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-700x1037.jpg" title="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-700x1037.jpg" title="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-280.jpg 280w,
@@ -40,7 +40,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w">
 </picture><figcaption>《聖ウルスラの聖遺物箱》</figcaption></figure>
 
-!!!! [{r=ja/fr}ブリュージュ(Bruges){/r}][12]{#bruges}の{r=ja/nl}聖(Sint)ヨハネ(Jans)施療院(hospitaal){/r}だった{r}メムリンク(Memling){/r}美術館に、{r=ja/nl}聖ウルスラの聖遺物箱(Het&#160;Ursulaschrijn){/r}が展示されている。  
+!!!! [{r=ja/fr}ブルージュ(Bruges){/r}][12]{#bruges}の{r=ja/nl}聖(Sint)ヨハネ(Jans)施療院(hospitaal){/r}だった{r}メムリンク(Memling){/r}美術館に、{r=ja/nl}聖ウルスラの聖遺物箱(Het&#160;Ursulaschrijn){/r}が展示されている。  
 !!!! 初期フランドル派の巨匠のひとりである[{r=ja/en}ハンス(Hans)・()メムリンク(Memling){/r}][1]の作品で、1489年に祝福儀式を証明する史料が残っているため、ちょっと前に製作されたと断言できる。  
 !!!! 昔は、一年にたった一回、聖ウルスラの祝日、10月の21日の日にのみしか公に施療院に展示されていなかったのです！  
 !!!! 1475年に完成した、聖ヨハネ施療院の前の{r=ja/nl}マリア(Maria)・()ストラアート(straat){/r}（マリア通り）の向こうにある{r=ja/nl}聖母教会(Onze-Lieve-Vrouwekerk){/r}に見える、土台を除いた {r=ja/nl}天国の門(Paradijsportaal){/r} と聖遺物箱が以上に似っているため、メムリンクがそこから形を決めたのではないかとつよく思われる。  
@@ -80,7 +80,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-700x395.jpg" title="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-700x395.jpg" title="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《ケルンでの到着》、《バーゼルでの到着》、《ローマでの到着》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-280.jpg 280w,
@@ -113,7 +113,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-700x1071.jpg" title="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" alt="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブリュージュ（ブルッヘ）" class="class-40-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-700x1071.jpg" title="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="《守護者である聖ウルスラ》、聖ウルスラの聖遺物箱、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-40-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule2-280.jpg 280w,
@@ -148,15 +148,15 @@ srcset="
 
 ##　**[color=#3d8b3d]註釈[/color]** {#commentaires}
 
-### ブリュージュ {#note_bruges}
+### ブルージュ {#note_bruges}
 
-!!!! {r=ja/fr}ブリュージュ(Bruges){/r} は、フランス語から由来している歴史的な呼称で、現在、フラマン語での [{r=ja/nl}ブルッヘ(Brugge){/r}][30] のほうに改める推薦もある。
+!!!! {r=ja/fr}ブルージュ(Bruges){/r} は、フランス語から由来している歴史的な呼称で、現在、フラマン語での [{r=ja/nl}ブルッヘ(Brugge){/r}][30] のほうに改める推薦もある。
 !!!! <hr>
 !!!! 註に戻る：　[↑][13]
 
 [1]: https://ja.wikipedia.org/wiki/ハンス・メムリンク "https://ja.wikipedia.org/wiki/ハンス・メムリンク"
 [2]: https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ "https://ja.wikipedia.org/wiki/ヤコブス・デ・ヴォラギネ"
 [3]: https://ja.wikipedia.org/wiki/レゲンダ・アウレア "https://ja.wikipedia.org/wiki/レゲンダ・アウレア"
-[12]: ./#note_bruges "ブリュージュ"
-[13]: ./#bruges "ブリュージュ"
+[12]: ./#note_bruges "ブルージュ"
+[13]: ./#bruges "ブルージュ"
 [30]: https://ja.wikipedia.org/wiki/ブルッヘ "https://ja.wikipedia.org/wiki/ブルッヘ"
