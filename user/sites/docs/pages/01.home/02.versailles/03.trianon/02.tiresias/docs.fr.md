@@ -2,8 +2,8 @@
 title: Tirésias
 menu: tirésias
 created: 02-01-2017, 21:54
-date: 02-01-2017, 21:54
-modified: 10-01-2017, 00:15
+date: 10-01-2017, 00:15
+modified: 24-03-2018, 19:01
 itempage: Article
 taxonomy:
    category: [docs, fr]
@@ -17,7 +17,7 @@ metadata:
     image_legend: Minerve au premier plan rend aveugle Tirésias, au centre
     'twitter:card': summary
 significantlinks: ["https://fr.wikipedia.org/wiki/Grand_Trianon", "https://fr.wikipedia.org/wiki/Ren%C3%A9-Antoine_Houasse", "https://fr.wikipedia.org/wiki/Minerve_(mythologie)", "https://fr.wikipedia.org/wiki/Tir%C3%A9sias", "https://fr.wikipedia.org/wiki/Ovide", "https://fr.wikipedia.org/wiki/M%C3%A9tamorphoses_(Ovide)"]
-specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culure de la cour de France", "Peinture française du XVIIème siècle", "Peinture de cour française", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias", "Minerve", "Minerve et Tirésias"]
+specialty: ["Histoire de France", "Mythologie", "Littérature de l'Empire Romain", "Culture de la cour de France", "Peinture française du XVIIème siècle", "Peinture de cour française", "Louis XIV", "Palais de Versailles", "Château de Versailles", "Trianon", "Grand Trianon", "René-Antoine HOUASSE", "Tirésias", "Minerve", "Minerve et Tirésias"]
 shortcode-core:
    active: true
 sitemap:
