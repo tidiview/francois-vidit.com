@@ -6,8 +6,8 @@ template: docs_minus_h1
 taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
-date: 13-01-2017, 16:13
-modified: 06-10-2017, 00:23
+date: 06-10-2017, 00:23
+modified: 24-03-2018, 21:30
 itempage: Article
 metadata:
    description: "text and image presenting the Triptych of St John the Baptist and St John the Evangelist, work of Hans Memling, seenable at the Memling Museum, Old St. John's Hospital of Bruges"
@@ -21,7 +21,7 @@ metadata:
 significantlinks: ["https://en.wikipedia.org/wiki/St_John_Altarpiece_(Memling)"]
 specialty: ["Belgium", "Burgundian Netherlands", "Flanders", "West Flanders", "Bruges", "Brugge", "Early Netherlandish painting", "Flemish Primitives", "Flemish Painting", "Northern Renaissance", "Hospital of Saint John", "Hans Memling Museum", " Hans Memling", "St John Altarpiece", "Triptych of St John the Baptist and St John the Evangelist", "Triptych of the two Saints John", "Triptiek van Johannes de Doper en Johannes de Evangelist", "Hans Memling", "Memling"]
 ---
-# {r}Triptych&#160;of&#160;Saint&#160;John&#160;The&#160;Baptist&#160;and&#160;Saint&#160;John&#160;The&#160;Evangelist(Triptiek&#160;van&#160;Johannes&#160;de&#160;Doper&#160;en&#160;Johannes&#160;de&#160;Evangelist){/r}
+# <ruby lang="en">Triptych of St. John The Baptist and St. John The Evangelist<rp>(</rp><rt lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt><rp>)</rp></ruby>
 
 <figure><picture>
 <source
@@ -34,7 +34,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist, Memling Museum, Hospital Saint John, Bruges" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,
@@ -128,7 +128,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.webp 700w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" alt="Hans Memling, Triptych of Saint John the Baptist and Saint John the Evangelist closed, Memling Museum, Hospital Saint John, Bruges" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,

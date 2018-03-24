@@ -2,8 +2,8 @@
 title: St. Ursula Shrine by Hans Memling
 slug: "page:1"
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 12:12
+date: 14-12-2017, 12:12
+modified: 24-03-2017, 21:36
 visible: false
 routable: false
 taxonomy:
@@ -38,7 +38,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule1-1920.jpg 1920w">
-</picture><figcaption>Châsse de Sainte Ursule</figcaption></figure>
+</picture><figcaption>St. Ursula Shrine</figcaption></figure>
 
 ## ** [color=#3d8b3d]the Eleven Thousand Virgins[/color]**
 
