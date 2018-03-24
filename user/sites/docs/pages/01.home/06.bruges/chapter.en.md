@@ -1,11 +1,11 @@
 ---
-title: Bruges
+title: Bruges section
 menu: bruges
 taxonomy:
     category: [docs, en]
 created: 05-01-2017, 23:13
-date: 06-11-2017, 14:10
-modified: 02-03-2017, 16:43
+date: 02-03-2017, 16:43
+modified: 20-03-2017, 23:59
 metadata:
    description: "In the Bruges section, documents are presented to deepen the understanding of several emblematic works of art of the city of Bruges, such as those presented at the Memling Museum, Old St. John's Hospital of Bruges, the Triptych of St John the Baptist and St John the Evangelist, St. Ursula Shrine, or the Diptych of Maarten van Nieuwenhove."
    keywords: 'Bruges'

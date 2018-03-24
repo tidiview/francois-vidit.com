@@ -4,10 +4,10 @@ menu: docs
 taxonomy:
     category: [docs, fr]
 created: 15-01-2016, 07:10
-date: 15-01-2016, 07:10
-modified: 19-08-2016, 17:58
+date: 19-08-2016, 17:58
+modified: 20-03-2018, 23:48
 metadata:
-   description: "la section Documents propose des documents supports afin d'approfondir"
+   description: "la section Documents propose des documents afin d'approfondir certains aspects d'œuvres présentés durant les visites de monuments historiques importants de France."
    keywords: 'francois-vidit.com, Documents, Section Documents'
    image: reference_700x426.png
    image_width: 1600

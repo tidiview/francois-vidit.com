@@ -1,11 +1,11 @@
 ---
-title: Versailles
+title: Versailles section
 menu: versailles
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10
-date: 19-08-2016, 17:38
-modified: 02-03-2018, 17:23
+date: 02-03-2018, 17:23
+modified: 20-03-2018, 23:56
 metadata:
    description: "In the section Palace of Versailles are presented documents that allow to deepen the understanding of works presented at the Palace of Versailles, whether in the palace, the gardens or Trianon. For example, the text presenting the ceiling of François Lemoyne entitled the Apotheosis of Hercules, or extracts from ancient texts that have inspired some works visible at Trianon or sculptures in the gardens."
    keywords: 'Château de Versailles'

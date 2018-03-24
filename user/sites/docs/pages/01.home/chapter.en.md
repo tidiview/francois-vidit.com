@@ -1,12 +1,13 @@
 ---
-title: Docs
+title: Documents
+menu: docs
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10
-date: 15-01-2016, 07:10
-modified: 19-08-2016, 17:58
+date: 19-08-2016, 17:58
+modified: 20-03-2018, 23:52
 metadata:
-   description: "Documents section offers documents to get deeper into visits"
+   description: "Documents section offers documents to get deeper into some aspects of a work of arts presented during the visits of some important historical monuments in France."
    keywords: 'Documents, francois-vidit.com, Documents section'
    image: reference_700x426.png
    image_width: 1600

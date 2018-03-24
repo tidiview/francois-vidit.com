@@ -1,11 +1,11 @@
 ---
-title: Mont Saint-Michel
+title: Mont Saint-Michel section
 menu: mont saint-michel
 taxonomy:
     category: [docs, en]
 created: 15-01-2016, 07:10
-date: 19-08-2016, 17:58
-modified: 04-03-2018, 12:15
+date: 04-03-2018, 12:15
+modified: 20-03-2018, 23:58
 metadata:
    description: "In the Mont Saint-Michel section, documents are presented to deepen the history and understanding of Mont Saint-Michel. For example, the explanation of the Hebrew ethymology of the name « Michel » (Michael), the layout of the main texts that evoke the archangel in the Old or New Testament or the Golden Legend."
    keywords: 'Mont-Saint-Michel'
