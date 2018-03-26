@@ -93,5 +93,5 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-840.jpg 840w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-1600.jpg 1600w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-1920.jpg1920w">
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/03.martin/02.martin_2/martin5-1920.jpg 1920w">
 </picture><figcaption>“Portrait de Maarten van Nieuwenhove”, panneau de droite</figcaption></figure>
