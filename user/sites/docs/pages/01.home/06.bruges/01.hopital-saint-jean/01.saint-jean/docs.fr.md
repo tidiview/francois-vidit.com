@@ -38,7 +38,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.webp 700w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" alt="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" alt="Hans Memling, Triptyque de Jean-Baptiste et de Jean l'Évangéliste, Musée Memling, Hôpital Saint-Jean, Bruges" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,

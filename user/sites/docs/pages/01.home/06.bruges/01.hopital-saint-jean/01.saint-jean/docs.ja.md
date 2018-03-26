@@ -41,7 +41,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-1280.webp 1280w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg" title="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" alt="洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ（ブルッヘ）" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-280.jpg 280w,
