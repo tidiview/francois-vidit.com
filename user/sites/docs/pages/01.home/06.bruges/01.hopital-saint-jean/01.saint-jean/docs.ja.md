@@ -26,7 +26,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-# <ruby><rb lang="ja">洗礼者聖ヨハネと福音書記者聖ヨハネの三連画</rb><rt lang="nl">Triptiek&#160;van&#160;Johannes&#160;de&#160;Doper&#160;en&#160;Johannes&#160;de&#160;Evangelist</rt></ruby>
+# <ruby lang="ja">洗礼者聖ヨハネと福音書記者聖ヨハネの三連画<rt lang="nl">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>
 
 <figure><picture>
 <source
@@ -51,7 +51,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean_700x345.jpg 700w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-840.jpg 840w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-1280.jpg 1280w">
-</picture><figcaption><ruby><rb>開</rb><rt>かい</rt><rb>翼</rb><rt>よく</rt><rb>時</rb><rt>じ</rt></ruby>の三連画</figcaption></figure>
+</picture><figcaption><ruby>開<rt>かい</rt>翼<rt>よく</rt>時<rt>じ</rt></ruby>の三連画</figcaption></figure>
 
 この作品は《聖女カタリナの神秘の結婚》とも呼ばれている。  
 画枠に作者の名だと思われる銘文、{r}ハンス(Hans)・()メムリンク(Memling){/r}が見えている。
@@ -63,7 +63,7 @@ srcset="
 
 ## {r}開(かい)翼(よく)時(じ){/r}
 
-開翼時の中央画面には、ポルチコのような開放的な空間に集う、聖母子と四人の聖人たち、そして2人の天使が表されています。
+開翼時の中央画面には、ポルチコのような開放的な空間に集う、聖母子と4人の聖人たち、そして2人の天使が表されています。
 
 玉座に座した聖母マリアは、傍らの天使が差し出す書物をそっと紐解きながら、後方に控えている別の天使が奏でるポータブル・オルガンの音色に耳を傾けているようです。
 そして幼子イエスが、聖女カタリナの左手薬指に金の指輪をはぬようとしています。
@@ -126,7 +126,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-1280.webp 1280w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg" title="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" alt="閉翼時の洗礼者聖ヨハネと福音書記者聖ヨハネの三連画、メムリンク美術館、聖ヨハネ施療院、ブルージュ" class="class-70-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-280.jpg 280w,
@@ -136,7 +136,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme_700x736.jpg 700w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-840.webp 840w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/saint-jean-ferme-1280.webp 1280w">
-</picture><figcaption><ruby><rb>閉</rb><rt>へい</rt><rb>翼</rb><rt>よく</rt><rb>時</rb><rt>じ</rt></ruby>の三連画</figcaption></figure>
+</picture><figcaption><ruby>閉<rt>へい</rt>翼<rt>よく</rt>時<rt>じ</rt></ruby>の三連画</figcaption></figure>
 
 豊かな輝きを開翼時画面から一転して、閉翼時画面は、聖人たちと修道院関係者たちが極めて禁欲的な色彩で描かれています。
 
