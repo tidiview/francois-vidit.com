@@ -3,8 +3,8 @@ title: ピエル＝ドニ・マルタンによるマルリー宮殿の全体景�
 titleone: '<ruby lang="ja">マルリー宮殿の全体景観<rp>(</rp><rt lang="fr">Vue générale du Château de Marly</rt><rp>)</rp></ruby>の2枚'
 menu: 全体景観の2枚
 created: 05-03-2018, 19:51
-date: 05-03-2018, 19:51
-modified: 24-03-2018, 18:24
+date: 24-03-2018, 18:24
+modified: 24-03-2018, 21:08
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -18,7 +18,7 @@ content:
     limit: 1
     pagination: true
 metadata:
-    description: 'この1723年と1724年にピエル＝ドニ・マルタン（Pierre-Denis MARTIN）によって施された《水飲み場から眺めた、マルリー宮殿の全体景観》の2枚がの2枚がフランス国王ルイ14世の治世下のマルリーのあらゆる空間的存在を想像するための一重要な資料です。'
+    description: 'この1723年と1724年にピエル＝ドニ・マルタン（Pierre-Denis MARTIN）によって施された《水飲み場から眺めた、マルリー宮殿の全体景観》の2枚がの2枚がフランス国王ルイ14世の治世下のマルリーのあらゆる空間的存在を想像するための一重要な史料です。'
     keywords: 'ヴェルサイユ宮殿, ヴェルサイユ, ルイ14世, Louis XIV, ルイ十四世'
     image: marly_700x950.jpg
     image_width: 700
