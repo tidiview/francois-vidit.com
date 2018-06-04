@@ -3,13 +3,13 @@ title: ヴァンドーム広場
 menu: ヴァンドーム広場
 template: docs_minus_h1
 created: 11-04-2017, 23:44
-date: 19-11-2017, 17:49
-modified: 17-03-2017, 00:04
+date: 17-03-2018, 00:04
+modified: 04-06-2018, 18:04
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-    description: "17世紀でのパリにあるヴァンドーム広場"
+    description: "パリにあるヴァンドーム広場の17世紀の様子を証明する史料を提供致します。史料によって、特に元々のカプチン女子修道院（カプシーヌ修道院）（Couvent des Capusinces）の位置と、ペ通り（Rue de la Paix）とカスティグリオーヌ通り（Rue de Castiglione）の切り開き前のヴァンドーム広場の様子が分かります。"
     keywords: "ヴァンドーム広場, パリ, カプシーヌ修道院, フイヤン修道院"
     image: vendome_700x507.jpg
     image_width: 700

@@ -2,13 +2,13 @@
 title: place Vendôme
 menu: place vendôme
 created: 14-01-2017, 23:44
-date: 14-01-2017, 23:44
-modified: 11-04-2017, 20:44
+date: 11-04-2017, 20:44
+modified: 04-06-2018, 17:52
 itempage: Article
 taxonomy:
    category: [docs, fr]
 metadata:
-    description: "la place Vendôme à Paris au XVIIème siècle"
+    description: "présentation de documents représentant l'état de la place Vendôme à Paris au XVIIème siècle, c'est-à-dire avant le percement de la rue de la Paix et de la rue de Castiglione, notamment permettant de se représenter la situation du Couvent des Capucines."
     keywords: "Place Vendôme, Paris, couvent des Capucines, couvent des Feuillants"
     image: vendome_700x507.jpg
     image_width: 700
