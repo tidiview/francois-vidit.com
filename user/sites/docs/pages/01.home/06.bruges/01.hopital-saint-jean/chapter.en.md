@@ -28,7 +28,7 @@ Throughout all this time, brothers and sisters lived and worked there.
 It acquired the dimensions that we know today through extensions made in the XIIIth century and at the beginning of the XIVth century. 
 
 Originally, hospital staff were a community of secular brothers and sisters, controlled by regents, representing the city's administration.  
-But under the administration of the Burgundian Ducal Court in Flanders, a charter signed in 1459 by Jean CHEVROT, Bishop of Tournai, transformed the community into a religious order obeying the rule of St. Augustine, thereby exempting it from the city for the benefit of the bishop linked to the court.  
+But a charter signed in 1459 by Jean CHEVROT, Bishop of Tournai, transformed the community into a religious order obeying the rule of St. Augustine, thereby exempting it from the city for the benefit of the burgundian Ducal Court in Flanders.  
 A compromise with the city magistrate introduces the sharing of control in 1463 and provides income to the hospital by real estate property and communal privileges, such as the measurement of wine unloaded on Kraanplaats (square of the Crane), eel fishing, weight calibration and measures and the right of inheritance on the possessions of patients. 
 
 In the XVth century, the brothers were administered by a master, assisted by a fellow, sisters by a mistress and a sister responsible for bedding. 
