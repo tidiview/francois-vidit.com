@@ -1,10 +1,10 @@
 ---
-title: ベナラ事件、３つの日本語での記事に添削、コメント、情報追加などの試み
+title: 【ベナラ事件】３つの日本語での記事に添削、コメント、情報追加などの試み
 menu: ベナラ事件
 created: 25-07-2018, 01:39
 date: 25-07-2018, 19:22
 modified: 26-07-2018, 04:31
-itempage: BlogPosting
+itempage: NewsArticle
 base64_background: cartons-ouverts
 base64_itembackground: hexagonedefleches
 svg_icon: troisengrenages
