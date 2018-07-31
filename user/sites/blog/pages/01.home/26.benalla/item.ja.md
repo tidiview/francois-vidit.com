@@ -3,7 +3,7 @@ title: 【ベナラ事件】４つの日本語での記事に添削、コメン�
 menu: ベナラ事件
 created: 25-07-2018, 01:39
 date: 28-07-2018, 14:01
-modified: 31-07-2018, 06:31
+modified: 31-07-2018, 07:58
 itempage: NewsArticle
 base64_background: cartons-ouverts
 base64_itembackground: hexagonedefleches
@@ -38,13 +38,18 @@ sitemap:
    priority: 1.0
 ---
 !!!! {r=ja/fr}ベナラ事件(Affaire&#160;BENALLA){/r}に関して、今まで日本語で出された記事を読んで、フランス語での情報と合わせてやや不満が残った気がしたことを切っ掛けに、よりよく日本語でもこの事件について理解できるよう、以下、４つの日本語での記事を元にしていろいろ添削、コメント、情報追加などを試みました。  
-!!!! 以下に記事が出版順に並んでいます。
-!!!! 1.   
 !!!! ベナラ事件によってよりマクロン政権の暗さがある程度に見えて来て、興味があったら、どうぞ、気楽にご覧ください。
 
-[color=#b3b3b3]作成日付：２０１８年０７月２５日、０１時３９分 | 最新編集：２０１８年０７月３１日 ０６時３１分 | Copyright © francois-vidit.com[/color]
+[color=#b3b3b3]作成日付：２０１８年０７月２５日、０１時３９分 | 最新編集：２０１８年０７月３１日 ０７時５８分 | Copyright © francois-vidit.com[/color]
 
 ===
+
+!!!! #### 目次　記事が出版順に並んでいます。
+!!!! 
+!!!! 1. [【第１の記事】　産経ニュース、７月２２日　暴行容疑でマクロン大統領の警備責任者身柄拘束　野党は「もみ消し疑惑」で攻勢強める](#article-1){.green #renvoi-article-1}
+!!!! 2. [【第２の記事】　英国放送協会、７月２３日　マクロン仏大統領の側近、デモ市民に暴行疑い　大統領府への批判高まる](#article-2){.green #renvoi-article-2}
+!!!! 3. [【第３の記事】　フランス通信社、７月２３日　仏大統領の元警護責任者、暴行容疑で予審開始 政権に試練](#article-3){.green #renvoi-article-3}
+!!!! 4. [【第４の記事】　産経ニュース、７月２４日　仏マクロン大統領に「就任以来最大」の逆風　側近の地位悪用黙認で追及](#article-4){.green #renvoi-article-4}
 
 !!!! ご協力をお願いします！   
 !!!! 　この作文に当って、以上に気を付けているつもりではいますが、それでもきっと日本語での改善できる点が残っているでしょう。  
@@ -55,15 +60,17 @@ sitemap:
 
 <br>
 
-## <span style="color: #3d8b3d;">【第１の記事】　産経ニュース、７月２２日</span>
+## 【第１の記事】　産経ニュース、７月２２日 {.green #article-1}
 
-[color=#3d8b3d]【題名|リンク】[/color]　<a style="size:1.2rem;color:#3d8b3d;background-color:#f1f9f1;" href="https://www.sankei.com/world/news/180722/wor1807220006-n1.html" alt="https://www.sankei.com/world/news/180722/wor1807220006-n1.html" title="https://www.sankei.com/world/news/180722/wor1807220006-n1.html">暴行容疑でマクロン大統領の警備責任者身柄拘束　野党は「もみ消し疑惑」で攻勢強める</a>
+[color=#3d8b3d]【題名|リンク】[/color][暴行容疑でマクロン大統領の警備責任者身柄拘束　野党は「もみ消し疑惑」で攻勢強める][5] {.green}
 
 [color=#3d8b3d]【日付】　２０１８年７月２２日、１７時１５分[/color]
 
 [color=#3d8b3d]【発信地】　パリ[/color]
 
 [color=#3d8b3d]【記事者】　三井美奈[/color]
+
+[〖戻る ↑〗](#renvoi-article-1) {.green}
 
 <br>
 
@@ -83,13 +90,15 @@ sitemap:
 
 　国会は現在、マクロン政権が目指す憲法改正案の審議中だが、左右両派の野党は本会議を中断して、政府に説明を要求。審議が遅れる可能性が出てきた。
 
-## [color=#3d8b3d]【第２の記事】　英国放送協会、７月２３日[/color]
+## 【第２の記事】　英国放送協会、７月２３日 {.green #article-2}
 
-[color=#3d8b3d]【題名|リンク】　[/color] <a style="size:1.2rem;color:#3d8b3d;background-color:#f1f9f1;" href="https://www.bbc.com/japanese/44919923" alt="https://www.bbc.com/japanese/44919923" title="https://www.bbc.com/japanese/44919923">マクロン仏大統領の側近、デモ市民に暴行疑い　大統領府への批判高まる</a>
+[color=#3d8b3d]【題名|リンク】　[/color][マクロン仏大統領の側近、デモ市民に暴行疑い　大統領府への批判高まる][6] {.green}
 
 [color=#3d8b3d]【日付】　２０１８年０７月２３日[/color]
 
 [color=#3d8b3d]【発信地】　パリ/フランス[/color]
+
+[〖戻る ↑〗](#renvoi-article-2) {.green}
 
 <br>
 
@@ -215,13 +224,15 @@ sitemap:
 
 [color=#3d8b3d]（英語記事　Macron shakes up Élysée over beating row）[/color]
 
-## [color=#3d8b3d]【第３の記事】　フランス通信社、７月２３日[/color]
+## 【第３の記事】　フランス通信社、７月２３日 {.green #article-3}
 
-[color=#3d8b3d]【題名|リンク】　[/color] <a style="size:1.2rem;color:#3d8b3d;background-color:#f1f9f1;" href="http://www.afpbb.com/articles/-/3183368" alt="http://www.afpbb.com/articles/-/3183368" title="http://www.afpbb.com/articles/-/3183368">仏大統領の元警護責任者、暴行容疑で予審開始 政権に試練</a>
+[color=#3d8b3d]【題名|リンク】　[/color][仏大統領の元警護責任者、暴行容疑で予審開始 政権に試練][7] {.green}
 
 [color=#3d8b3d]【日付】　２０１８年７月２３日、１２時１０分[/color]
 
 [color=#3d8b3d]【発信地】　パリ/フランス[/color]
+
+[〖戻る ↑〗](#renvoi-article-3) {.green}
 
 <br>
 
@@ -284,15 +295,17 @@ sitemap:
 
 <span style="color: #cccccc">(c)AFP/Anne Pascale REBOUL and Joseph SCHMID</span>
 
-## [color=#3d8b3d]【第４の記事】　産経ニュース、７月２４日[/color]
+## 【第４の記事】　産経ニュース、７月２４日 {.green #article-4}
 
-[color=#3d8b3d]【題名|リンク】　[/color] <a style="size:1.2rem;color:#3d8b3d;background-color:#f1f9f1;" href="https://www.sankei.com/world/news/180724/wor1807240030-n1.html" alt="https://www.sankei.com/world/news/180724/wor1807240030-n1.html" title="https://www.sankei.com/world/news/180724/wor1807240030-n1.html">仏マクロン大統領に「就任以来最大」の逆風　側近の地位悪用黙認で追及</a>
+[color=#3d8b3d]【題名|リンク】　[/color][仏マクロン大統領に「就任以来最大」の逆風　側近の地位悪用黙認で追及][8] {.green}
 
 [color=#3d8b3d]【日付】　２０１８年０７月２４日、２２時１３分[/color]
 
 [color=#3d8b3d]【発信地】　パリ[/color]
 
 [color=#3d8b3d]【記事者】　三井美奈[/color]
+
+[〖戻る ↑〗](#renvoi-article-4) {.green}
 
 <br>
 
@@ -313,7 +326,15 @@ sitemap:
 
 　ベナラ容疑者は選挙戦でマクロン氏の身辺警護にあたった私的ボディーガード。選挙後、そのまま大統領府入りした。大統領府警備隊や警察に所属していないが、革命記念日などの国家行事の警備を担っていた。今回の事件を受けて、大統領府は免職の方針を発表している。
 
+<br>
+
+<br>
+
 [1]: https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/blog/pages/01.home/26.benalla/item.ja.md "https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/blog/pages/01.home/26.benalla/item.ja.md"
 [2]: https:francois-vidit.com/ja#御問い合わせ "https:francois-vidit.com/ja#御問い合わせ"
 [3]: https://ja.wikipedia.org/wiki/フランス国家警察 "https://ja.wikipedia.org/wiki/フランス国家警察"
 [4]: https://ja.wikipedia.org/wiki/国家憲兵隊_(フランス) "https://ja.wikipedia.org/wiki/国家憲兵隊_(フランス)"
+[5]: https://www.sankei.com/world/news/180722/wor1807220006-n1.html "https://www.sankei.com/world/news/180722/wor1807220006-n1.html"
+[6]: https://www.bbc.com/japanese/44919923 "https://www.bbc.com/japanese/44919923"
+[7]: http://www.afpbb.com/articles/-/3183368 "http://www.afpbb.com/articles/-/3183368"
+[8]: https://www.sankei.com/world/news/180724/wor1807240030-n1.html "https://www.sankei.com/world/news/180724/wor1807240030-n1.html"
