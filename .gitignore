@@ -8,9 +8,11 @@ favicon.ico
 htaccess.txt
 index.php
 index2.php
+info.php
 grav.sublime-workspace
 lighttpd.conf
 nginx.conf
+package-lock.json
 test.php
 web.config
 test.php
@@ -27,6 +29,7 @@ setup-7-20160508-2034-sommerregen-11nov2015.php
 setup-8-20160508-2042-subdomains-michal-2nd.php
 setup.php
 setup2-20160508-1858-subdomains.php
+system.yaml
 test.php
 user.rar
 package.json
@@ -50,13 +53,15 @@ htdocs.rar
 .htaccess_before_cache_control
 .htaccess_before_automatic_https
 .gitignore
-.ovhconfig
 .ovhconfig_old_before_7.0_stable
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
 CHANGELOG.md
 README.md
 
+.cache/*
+gatsby-site/*
+hello-world/*
 assets/*
 backup/*
 bin/*
