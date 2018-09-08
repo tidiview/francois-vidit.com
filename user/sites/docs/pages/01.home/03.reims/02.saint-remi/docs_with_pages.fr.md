@@ -18,7 +18,7 @@ content:
     pagination: true
 metadata:
    description: "Nous présentons ici la vie de saint Remi selon le chapitre 16 et 141 de la Légende dorée (aussi appelée Legenda Aurea) écrit par Jacques de Voragine comme à l'origine de l'histoire selon laquelle s'est instaurée la cérémonie du sacre des anciens roi de France en la Cathédrale Notre Dame de Reims."
-   keywords: ''
+   keywords: 'Reims, Saint Remi, Clovis, Baptème de Clovis, Jacques de VORAGINE, Légende Dorée, Cathédrale Notre-Dame de Reims'
    image: clovis_700x949.jpg
    image_height: 700
    image_width: 949
