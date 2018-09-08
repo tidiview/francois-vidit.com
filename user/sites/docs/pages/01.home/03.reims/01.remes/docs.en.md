@@ -2,14 +2,14 @@
 title: The Remi according to Cesar
 menu: the remi
 created: 21-10-2017, 17:31
-date: 21-10-2017, 17:31
-modified: 21-10-2017, 17:31
+date: 25-12-2017, 20:50
+modified: 05-03-2018, 00:36
 itempage: Article
 taxonomy:
     category: [docs, en]
 metadata:
-   description: ''
-   keywords: ''
+   description: 'Presentation and excerpt of Book II of the Commentaries on the Gallic War written by Julius Caesar (campaign against the Belgians) where appears the tribe of Remi at the origin of the present city of Reims before the Battle of the Aisne'
+   keywords: 'tribe of Remi, Reims, Julius Caesar, Book II of the Commentaries on the Gallic War, campaign against the Belgians'
    image: photo_700x883.jpg
    image_height: 700
    image_width: 883
@@ -17,19 +17,29 @@ metadata:
    image_legend: ""
    'twitter:card': summary
 significantlinks: [""]
-specialty: ["History of France", "Période romaine", "Gaule", "Les Rèmes", "Jules César", "Commentaires sur la Guerre des Gaules", "livre II", "57", "campagne contre les Belges"]
+specialty: ["History of France", "Roman period", "Champagne region", "Commentaries on the Gallic War Book II", "the Remi Tribe", "Julius Caesar", "campaign against the Belgians"]
 shortcode-core:
    active: true
 sitemap:
-   changefreq: daily
-   priority: 0.9
+   changefreq: weekly
+   priority: 0.4
 ---
+!!!! The « Commentaries on the Gallic War », which is said to have been written by Julius Caesar himself, count as a written historical document concerning the past of France as one of the oldest.  
+!!!! There would be much to say about this exceptional work, but here it is not so much the whole work as the short part, first half of Book II, where the tribe of the Remi, at the origins of the name of the current Reims, appears, that keeps our attention.  
+!!!! The extract of the text below is limited to this and to the « Battle of the Aisne river ».  
+!!!! The [1st][1] and [2nd][2] chapter describe the resulting situation of the progression of the Roman army in Gaul.  
+!!!! During the [3rd chapter][3], the chiefs of the Remi think fowards and send to Caesar a delegation to ally with Rome.  
+!!!! From the [4th chapter][4], is the « [Battle of the Aisne river][5] » that sees the victory of the roman army.  
+!!!! The Remi were to be rewarded notabily by the recognition of Reims as capital city of roman province of Second Belgium.
+
+<br>
+
 ## [color=#3d8b3d]Commentaries on the Gallic War, Book 2[/color]
 
-#### [color=#3d8b3d]Turmoil in Belgium[/color]
-1
+#### [color=#3d8b3d]Turmoil in Belgium[/color] {#1chap}
+[color=#3d8b3d]Chapter 1[/color] 
 <sup>1</sup> 
-While Caesar was in winter quarters in Hither Gaul, frequent reports were brought to him, and he was also informed by letters from Labienus, that all the Belgae, who we have said are a third part of Gaul, were entering into a confederacy against the Roman people, and giving hostages to one another; 
+While [color=#3d8b3d]Caesar[/color] was in winter quarters in Hither Gaul, frequent reports were brought to him, and he was also informed by letters from Labienus, that all the Belgae, who we have said are a third part of Gaul, were entering into a confederacy against the Roman people, and giving hostages to one another; 
 <sup>2</sup> 
 that the reasons of the confederacy were these-first, because they feared that, after all [Celtic] Gaul was subdued, our army would be led against them; 
 <sup>3</sup> 
@@ -37,10 +47,10 @@ secondly, because they were instigated by several of the Gauls; some of whom as 
 <sup>4</sup> 
 and others of them, from a natural instability and fickleness of disposition, were anxious for a revolution; [the Belgae were instigated] by several, also, because the government in Gaul was generally seized upon by the more powerful persons and by those who had the means of hiring troops, and they could less easily effect this object under our dominion. 
 
-#### [color=#3d8b3d]Measures of Caesar[/color]
-2
+#### [color=#3d8b3d]Measures of Caesar[/color] {#2chap}
+[color=#3d8b3d]Chapter 2[/color] 
 <sup>1</sup> 
-Alarmed by these tidings and letters, Caesar levied two new legions in Hither Gaul, and, at the beginning of summer, sent Quintus Pedius, his legate, to conduct them further into Gaul.
+Alarmed by these tidings and letters, [color=#3d8b3d]Caesar[/color] levied two new legions in Hither Gaul, and, at the beginning of summer, sent Quintus Pedius, his legate, to conduct them further into Gaul.
 <sup>2</sup> 
 He, himself, as soon as there began to be plenty of forage, came to the army.
 <sup>3</sup> 
@@ -50,10 +60,10 @@ These all uniformly reported that troops were being raised, and that an army was
 <sup>5</sup> 
 Then, indeed, he thought that he ought not to hesitate about proceeding toward them, and having provided supplies, moves his camp, and in about fifteen days arrives at the territories of the Belgae. 
 
-#### [color=#3d8b3d]The Remi are declaring themselves for the Romans[/color]
-3
+#### [color=#3d8b3d]The Remi are declaring themselves for the Romans[/color] {#3chap}
+[color=#3d8b3d]Chapter 3[/color] 
 <sup>1</sup> 
-As he arrived there unexpectedly and sooner than any one anticipated, the Remi, who are the nearest of the Belgae to [Celtic] Gaul, sent to him Iccius and Andecombogius, [two of] the principal persons of the state, as their embassadors:
+As he arrived there unexpectedly and sooner than any one anticipated, [color=#3d8b3d]the Remi[/color], who are the nearest of the Belgae to [Celtic] Gaul, sent to him Iccius and Andecombogius, [two of] the principal persons of the state, as their embassadors:
 <sup>2</sup> 
 to tell him that they surrendered themselves and all their possessions to the protection and disposal of the Roman people: and that they had neither combined with the rest of the Belgae, nor entered into any confederacy against the Roman people:
 <sup>3</sup> 
@@ -61,10 +71,10 @@ and were prepared to give hostages, to obey his commands, to receive him into th
 <sup>4</sup> 
 that all the rest of the Belgae were in arms; and that the Germans, who dwell on this side of the Rhine, had joined themselves to them; and that so great was the infatuation of them all, that they could not restrain even the Suessiones, their own brethren and kinsmen, who enjoy the same rights, and the, same laws, and who have one government and one magistracy [in common] with themselves, from uniting with them. 
 
-#### [color=#3d8b3d]Enumeration of enemy forces[/color]
-4
+#### [color=#3d8b3d]Enumeration of enemy forces[/color] {#4chap}
+[color=#3d8b3d]Chapter 4[/color] 
 <sup>1</sup> 
-When Caesar inquired of them what states were in arms, how powerful they were, and what they could do, in war, he received the following information: that the greater part of the Belgae were sprung from the Germans, and that having crossed the Rhine at an early period, they had settled there, on account of the fertility of the country, and had driven out the Gauls who inhabited those regions;
+When [color=#3d8b3d]Caesar[/color] inquired of them what states were in arms, how powerful they were, and what they could do, in war, he received the following information: that the greater part of the Belgae were sprung from the Germans, and that having crossed the Rhine at an early period, they had settled there, on account of the fertility of the country, and had driven out the Gauls who inhabited those regions;
 <sup>2</sup> 
 and that they were the only people who, in the memory of our fathers, when all Gaul was overrun, had prevented the Teutones and the Cimbri from entering their territories;[1]
 <sup>3</sup> 
@@ -86,46 +96,45 @@ that the Condrusi, the Eburones, the Caeraesi, the Paemani, who are called by th
 
 #### [color=#3d8b3d]Diviciacus attacks the Bellovaci. Caesar crosses the Aisne[/color]
 
-5
+[color=#3d8b3d]Chapter 5[/color] 
 <sup>1</sup> 
-Caesar, having encouraged the Remi, and addressed them courteously, ordered the whole senate to assemble before him, and the children of their chief men to be brought to him as hostages; all which commands they punctually performed by the day [appointed].
+[color=#3d8b3d]Caesar[/color], having encouraged [color=#3d8b3d]the Remi[/color], and addressed them courteously, ordered the whole senate to assemble before him, and the children of their chief men to be brought to him as hostages; all which commands they punctually performed by the day [appointed].
 <sup>2</sup> 
 He, addressing himself to Diviciacus, the Aeduan, with great earnestness, points out how much it concerns the republic and their common security, that the forces of the enemy should be divided, so that it might not be necessary to engage with so large a number at one time.
 <sup>3</sup> 
 [He asserts] that this might be affected if the Aedui would lead their forces into the territories of the Bellovaci, and begin to lay waste their country. With these instructions he dismissed him from his presence.
 <sup>4</sup> 
-After he perceived that all the forces of the Belgae, which had been collected in one place, were approaching toward him, and learned from the scouts whom he had sent out, and [also] from the Remi, that they were then not far distant, he hastened to lead his army over the Aisne, which is on the borders of the Remi, and there pitched his camp.
+After he perceived that all the forces of the Belgae, which had been collected in one place, were approaching toward him, and learned from the scouts whom he had sent out, and [also] from [color=#3d8b3d]the Remi[/color], that they were then not far distant, he hastened to lead his army over the Aisne, which is on the borders of [color=#3d8b3d]the Remi[/color], and there pitched his camp.
 <sup>5</sup> 
-This position fortified one side of his camp by the banks of the river, rendered the country which lay in his rear secure from the enemy, and furthermore insured that provisions might without danger be brought to him by the Remi and the rest of the states.
+This position fortified one side of his camp by the banks of the river, rendered the country which lay in his rear secure from the enemy, and furthermore insured that provisions might without danger be brought to him by [color=#3d8b3d]the Remi[/color] and the rest of the states.
 <sup>6</sup> 
 Over that river was a bridge: there he places a guard; and on the other side of the river he leaves Quintus Titurius Sabinus, his legate, with six cohorts. He orders him to fortify a camp with a rampart twelve feet in height, and a trench eighteen feet in breadth. 
 
 #### [color=#3d8b3d]He raised the siege of Bibrax[/color]
-
-6
+[color=#3d8b3d]Chapter 6[/color] 
 <sup>1</sup> 
-There was a town of the Remi, by name Bibrax, eight miles distant from this camp. This the Belgae on their march began to attack with great vigor. [The assault] was with difficulty sustained for that day.
+There was a town of [color=#3d8b3d]the Remi[/color], by name Bibrax, eight miles distant from this camp. This the Belgae on their march began to attack with great vigor. [The assault] was with difficulty sustained for that day.
 <sup>2</sup> 
 The Gauls' mode of besieging is the same as that of the Belgae: when after having drawn a large number of men around the whole of the fortifications, stones have begun to be cast against the wall on all sides, and the wall has been stripped of its defenders, [then], forming a testudo, they advance to the gates and undermine the wall:
 <sup>3</sup> 
 which was easily effected on this occasion; for while so large a number were casting stones and darts, no one was able to maintain his position upon the wall.
 <sup>4</sup> 
-When night had put an end to the assault, Iccius Remus, who was then in command of the town, one of the Remi, a man of the highest rank and influence among his people, and one of those who had come to Caesar as embassador [to sue] for peace, sends messengers to him, [to report] "That, unless assistance were sent to him he could not hold out any longer." 
+When night had put an end to the assault, Iccius Remus, who was then in command of the town, one of [color=#3d8b3d]the Remi[/color], a man of the highest rank and influence among his people, and one of those who had come to [color=#3d8b3d]Caesar[/color] as embassador [to sue] for peace, sends messengers to him, [to report] "That, unless assistance were sent to him he could not hold out any longer." 
 
-7
+[color=#3d8b3d]Chapter 7[/color] 
 <sup>1</sup> 
-Thither, immediately after midnight, Caesar, using as guides the same persons who had come to him as messengers from Iccius, sends some Numidian and Cretan archers, and some Balearian slingers
+Thither, immediately after midnight, [color=#3d8b3d]Caesar[/color], using as guides the same persons who had come to him as messengers from Iccius, sends some Numidian and Cretan archers, and some Balearian slingers
 <sup>2</sup> 
-as a relief to the towns-people, by whose arrival both a desire to resist together with the hope of [making good their] defense, was infused into the Remi, and, for the same reason, the hope of gaining the town, abandoned the enemy.
+as a relief to the towns-people, by whose arrival both a desire to resist together with the hope of [making good their] defense, was infused into [color=#3d8b3d]the Remi[/color], and, for the same reason, the hope of gaining the town, abandoned the enemy.
 <sup>3</sup> 
-Therefore, after staying a short time before the town, and laying waste the country of the Remi, when all the villages and buildings which they could approach had been burned, they hastened with all their forces to the camp of Caesar, and encamped within less than two miles [of it];
+Therefore, after staying a short time before the town, and laying waste the country of [color=#3d8b3d]the Remi[/color], when all the villages and buildings which they could approach had been burned, they hastened with all their forces to the camp of [color=#3d8b3d]Caesar[/color], and encamped within less than two miles [of it];
 <sup>4</sup> 
 and their camp, as was indicated by the smoke and fires, extended more than eight miles in breadth. 
 
-#### [color=#3d8b3d]Battle of the Aisne[/color]
-8
+#### [color=#3d8b3d]Battle of the Aisne[/color] {#8chap}
+[color=#3d8b3d]Chapter 8[/color] 
 <sup>1</sup> 
-Caesar at first determined to decline a battle, as well on account of the great number of the enemy as their distinguished reputation for valor:
+[color=#3d8b3d]Caesar[/color] at first determined to decline a battle, as well on account of the great number of the enemy as their distinguished reputation for valor:
 <sup>2</sup> 
 daily, however, in cavalry actions, he strove to ascertain by frequent trials, what the enemy could effect by their prowess and what our men would dare.
 <sup>3</sup> 
@@ -135,21 +144,21 @@ on either side of that hill he drew a cross trench of about four hundred paces, 
 <sup>5</sup> 
 After doing this, and leaving in the camp the two legions which he had last raised, that, if there should be any occasion, they might be brought as a reserve, he formed the other six legions in order of battle before the camp. The enemy, likewise, had drawn up their forces which they had brought out of the camp. 
 
-9
+[color=#3d8b3d]Chapter 9[/color] 
 <sup>1</sup> 
 There was a marsh of no great extent between our army and that of the enemy. The latter were waiting to see if our men would pass this; our men, also, were ready in arms to attack them while disordered, if the first attempt to pass should be made by them.
 <sup>2</sup> 
-In the mean time battle was commenced between the two armies by a cavalry action. When neither army began to pass the marsh, Caesar, upon the skirmishes of the horse [proving] favorable to our men, led back his forces into the camp.
+In the mean time battle was commenced between the two armies by a cavalry action. When neither army began to pass the marsh, [color=#3d8b3d]Caesar[/color], upon the skirmishes of the horse [proving] favorable to our men, led back his forces into the camp.
 <sup>3</sup> 
 The enemy immediately hastened from that place to the river Aisne, which it has been stated, was behind our camp.
 <sup>4</sup> 
-Finding a ford there, they endeavored to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, Caesar's legate, commanded, and might cut off the bridge;
+Finding a ford there, they endeavored to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, [color=#3d8b3d]Caesar[/color]'s legate, commanded, and might cut off the bridge;
 <sup>5</sup> 
-but, if they could not do that, they should lay waste the lands of the Remi, which were of great use to us in carrying on the war, and might hinder our men from foraging. 
+but, if they could not do that, they should lay waste the lands of [color=#3d8b3d]the Remi[/color], which were of great use to us in carrying on the war, and might hinder our men from foraging. 
 
-10
+[color=#3d8b3d]Chapter 10[/color] 
 <sup>1</sup> 
-Caesar, being apprized of this by Titurius, leads all his cavalry and light-armed Numidians, slingers and archers, over the bridge, and hastens toward them.
+[color=#3d8b3d]Caesar[/color], being apprized of this by Titurius, leads all his cavalry and light-armed Numidians, slingers and archers, over the bridge, and hastens toward them.
 <sup>2</sup> 
 There was a severe struggle in that place. Our men, attacking in the river the disordered enemy, slew a great part of them.
 <sup>3</sup> 
@@ -159,11 +168,11 @@ The enemy, when they perceived that their hopes had deceived them both with rega
 <sup>5</sup> 
 Together with other causes, this consideration also led them to that resolution, viz: that they had learned that Diviciacus and the Aedui were approaching the territories of the Bellovaci. And it was impossible to persuade the latter to stay any longer, or to deter them from conveying succor to their own people. 
 
-11
+[color=#3d8b3d]Chapter 11[/color] 
 <sup>1</sup> 
 That matter being determined on, marching out of their camp at the second watch, with great noise and confusion, in no fixed order, nor under any command, since each sought for himself the foremost place in the journey, and hastened to reach home, they made their departure appear very like a flight.
 <sup>2</sup> 
-Caesar, immediately learning this through his scouts, [but] fearing an ambuscade, because he had not yet discovered for what reason they were departing, kept his army and cavalry within the camp.
+[color=#3d8b3d]Caesar[/color], immediately learning this through his scouts, [but] fearing an ambuscade, because he had not yet discovered for what reason they were departing, kept his army and cavalry within the camp.
 <sup>3</sup> 
 At daybreak, the intelligence having been confirmed by the scouts, he sent forward his cavalry to harass their rear; and gave the command of it to two of his legates, Quintus Pedius, and Lucius Aurunculeius Cotta. He ordered Titus Labienus, another of his legates, to follow them closely with three legions.
 <sup>4</sup> 
@@ -173,9 +182,9 @@ the van, because they appeared to be removed from danger, and were not restraine
 <sup>6</sup> 
 Thus without any risk [to themselves] our men killed as great a number of them as the length of the day allowed; and at sunset desisted from the pursuit, and betook themselves into the camp, as they had been commanded. 
 
-12
+[color=#3d8b3d]Chapter 12[/color] 
 <sup>1</sup> 
-On the day following, before the enemy could recover from their terror and flight, Caesar led his army into the territories of the Suessiones, which are next to the Remi, and having accomplished a long march, hastens to the town named Noviodunum.
+On the day following, before the enemy could recover from their terror and flight, [color=#3d8b3d]Caesar[/color] led his army into the territories of the Suessiones, which are next to [color=#3d8b3d]the Remi[/color], and having accomplished a long march, hastens to the town named Noviodunum.
 <sup>2</sup> 
 Having attempted to take it by storm on his march, because he heard that it was destitute of [sufficient] defenders, he was not able to carry it by assault, on account of the breadth of the ditch and the height of the wall, though few were defending it.
 <sup>3</sup> 
@@ -183,4 +192,10 @@ Therefore, having fortified the camp, he began to bring up the vineae, and to pr
 <sup>4</sup> 
 In the mean time the whole body of the Suessiones, after their flight, came the next night into the town.
 <sup>5</sup> 
-The vineae having been quickly brought up against the town, a mound thrown up, and towers built, the Gauls, amazed by the greatness of the works, such as they had neither seen nor heard of before, and struck also by the dispatch of the Romans, send embassadors to Caesar respecting a surrender, and succeed in consequence of the Remi requesting that they [the Suessiones] might be spared. 
+The vineae having been quickly brought up against the town, a mound thrown up, and towers built, the Gauls, amazed by the greatness of the works, such as they had neither seen nor heard of before, and struck also by the dispatch of the Romans, send embassadors to [color=#3d8b3d]Caesar[/color] respecting a surrender, and succeed in consequence of [color=#3d8b3d]the Remi[/color] requesting that they [the Suessiones] might be spared. 
+
+[1]: #1chap "Chapter 1, Turmoil in Belgium"
+[2]: #2chap "Chapter 2, Measures of Caesar"
+[3]: #3chap "Chapter 3, The Remi are declaring themselves for the Romans"
+[4]: #4chap "Chapter 4, Enumeration of enemy forces"
+[5]: #8chap "Chapter 8, Battle of the Aisne"
