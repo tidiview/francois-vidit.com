@@ -2,21 +2,21 @@
 title: les Rèmes selon César
 menu: les rèmes
 created: 21-10-2017, 17:29
-date: 05-03-2018, 00:36
-modified: 18-08-2018, 09:31
+date: 18-08-2018, 09:31
+modified: 08-09-2018, 21:31
 itempage: Article
 taxonomy:
     category: [docs, fr]
 metadata:
    description: "Présentation et extrait du livre II des Commentaires sur la guerre des Gaules écrits par Jules César (campagne contre les Belges) où la tribu des Rèmes à l'origine du nom de l'actuelle ville de Reims apporte son concours à Rome avant la Bataille de l'Aisne"
    keywords: 'Rèmes, Reims, Jules César, Guerre des Gaules livre II, campagne contre les Belges'
-   image: photo_700x883.jpg
+   image: gallia-fr-en_700x490.jpg
    image_height: 700
-   image_width: 883
-   image_title: ""
-   image_legend: ""
+   image_width: 490
+   image_title: "La Belgique romaine et des tribus gauloises"
+   image_legend: "Carte de la Belgique romaine et des tribus gauloises"
    'twitter:card': summary
-significantlinks: [""]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/01.remes/docs.fr.md"]
 specialty: ["Histoire de Reims", "Période romaine", "Région Champagne", "Guerre des Gaules, Livre II", "Tribu des Rèmes", "Jules César", "campagne contre les Belges"]
 shortcode-core:
    active: true

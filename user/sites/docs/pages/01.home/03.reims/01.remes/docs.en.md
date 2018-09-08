@@ -2,21 +2,21 @@
 title: The Remi according to Cesar
 menu: the remi
 created: 21-10-2017, 17:31
-date: 25-12-2017, 20:50
-modified: 05-03-2018, 00:36
+date: 05-03-2018, 00:36
+modified: 08-09-2018, 21:33
 itempage: Article
 taxonomy:
     category: [docs, en]
 metadata:
    description: 'Presentation and excerpt of Book II of the Commentaries on the Gallic War written by Julius Caesar (campaign against the Belgians) where appears the tribe of Remi at the origin of the present city of Reims before the Battle of the Aisne'
    keywords: 'tribe of Remi, Reims, Julius Caesar, Book II of the Commentaries on the Gallic War, campaign against the Belgians'
-   image: photo_700x883.jpg
+   image: gallia-fr-en_700x490.jpg
    image_height: 700
-   image_width: 883
-   image_title: ""
-   image_legend: ""
+   image_width: 490
+   image_title: "Roman Belgium and Gallic tribes"
+   image_legend: "Map of Roman Belgium and Gallic tribes"
    'twitter:card': summary
-significantlinks: [""]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/01.remes/docs.en.md"]
 specialty: ["History of France", "Roman period", "Champagne region", "Commentaries on the Gallic War Book II", "the Remi Tribe", "Julius Caesar", "campaign against the Belgians"]
 shortcode-core:
    active: true

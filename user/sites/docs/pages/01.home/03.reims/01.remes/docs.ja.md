@@ -3,21 +3,21 @@ title: レミ族
 menu: レミ族
 template: docs_minus_h1
 created: 21-10-2017, 17:27
-date: 05-03-2018, 00:36
-modified: 18-08-2018, 09:46
+date: 18-08-2018, 09:46
+modified: 08-09-2018, 21:37
 itempage: Article
 taxonomy:
     category: [docs, ja]
 metadata:
-   description: '現代のランス(Reims)市の名の元になっているレミ(Remi)族が表れるカエサル(Cæsar)が書いた「ガリア戦記(Commentarii de Bello Gallico)」の第2巻の前半（ベルガエ人たちの遠征）の文書の紹介と引用文書を提供しています。'
-   keywords: 'ランス(Reims), レミ(Remi)族, ガリア戦記(Commentarii de Bello Gallico)'
-   image: photo_700x883.jpg
+   description: '現代のランス(Reims)市の名の元になっているレミ（Remi）族が表れるカエサル（Cæsar）が書いた「ガリア戦記（Commentarii de Bello Gallico）」の第2巻の前半（ベルガエ人たちの遠征）の文書の紹介と引用文書を提供しています。'
+   keywords: 'ランス, Reims, レミ族, Remi, ガリア戦記, Commentarii de Bello Gallico, ベルガエ人たちの遠征, カエサル, Cæsar'
+   image: gallia_700x490.jpg
    image_height: 700
-   image_width: 883
-   image_title: ""
-   image_legend: ""
+   image_width: 490
+   image_title: "ガリア戦記によるのガリア"
+   image_legend: "ガリア戦記による諸ガリア部族の位置を示す地図"
    'twitter:card': summary
-significantlinks: [""]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/01.remes/docs.ja.md"]
 specialty: ["ランス歴史", "ローマ時代", "シャンパーニュ地方", "ガリア戦記の第2巻前半", "レミ族", "ユリウス・カエサル", "ベルガエ人たちの遠征"]
 shortcode-core:
    active: true
