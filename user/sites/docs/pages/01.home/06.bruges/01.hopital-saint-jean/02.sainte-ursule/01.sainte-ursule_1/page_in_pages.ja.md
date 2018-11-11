@@ -2,8 +2,8 @@
 title: ハンス・メムリンク筆の聖ウルスラの聖遺物箱
 slug: "page:1"
 created: 03-07-2017, 09:52
-date: 14-12-2017, 12:12
-modified: 24-03-2018, 21:39
+date: 24-03-2018, 21:39
+modified: 24-06-2018, 19:28
 visible: false
 routable: false
 taxonomy:
@@ -41,7 +41,7 @@ srcset="
 </picture><figcaption>《聖ウルスラの聖遺物箱》</figcaption></figure>
 
 !!!! [{r=ja/fr}ブルージュ(Bruges){/r}][12]{#bruges}の{r=ja/nl}聖(Sint)ヨハネ(Jans)施療院(hospitaal){/r}だった{r}メムリンク(Memling){/r}美術館に、{r=ja/nl}聖ウルスラの聖遺物箱(Het&#160;Ursulaschrijn){/r}が展示されている。  
-!!!! 初期フランドル派の巨匠のひとりである[{r=ja/en}ハンス(Hans)・()メムリンク(Memling){/r}][1]の作品で、1489年に祝福儀式を証明する史料が残っているため、ちょっと前に製作されたと断言できる。  
+!!!! 初期フランドル派の巨匠のひとりである[{r=ja/en}ハンス(Hans)・()メムリンク(MEMLING){/r}][1]の作品で、1489年に祝福儀式を証明する史料が残っているため、ちょっと前に製作されたと断言できる。  
 !!!! 昔は、一年にたった一回、聖ウルスラの祝日、10月の21日の日にのみしか公に施療院に展示されていなかったのです！  
 !!!! 1475年に完成した、聖ヨハネ施療院の前の{r=ja/nl}マリア(Maria)・()ストラアート(straat){/r}（マリア通り）の向こうにある{r=ja/nl}聖母教会(Onze-Lieve-Vrouwekerk){/r}に見える、土台を除いた {r=ja/nl}天国の門(Paradijsportaal){/r} と聖遺物箱が以上に似っているため、メムリンクがそこから形を決めたのではないかとつよく思われる。  
 !!!! 15世紀だと、聖ウルスラ伝説はキリスト教の主な著書といえる[{r=ja/la}ヤコブス(Jacobus)・()デ(de)・()ヴォラギネ(Voragine){/r}][2]が著した『[{r}黄金伝説(レゲンダ・アウレア){/r}][3]』の「11 000処女」章で知られているため、メムリンクがこの作品のため、この文書に基づいたとも断言するのは可笑しくありません。  
@@ -92,7 +92,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1920.jpg 1920w">
-</picture><figcaption>《<ruby><rb>ケルン</rb><rt>Colonia</rt></ruby>での到着》、《<ruby><rb>バーゼル</rb><rt>Basilea</rt></ruby>での到着》、《<ruby><rb>ローマ</rb><rt>Roma</rt></ruby>での到着》</figcaption></figure>
+</picture><figcaption>《<ruby lang="ja">ケルン<rt lang="la">Colonia</rt></ruby>での到着》、《<ruby lang="ja">バーゼル<rt lang="la">Basilea</rt></ruby>での到着》、《<ruby lang="ja">ローマ<rt lang="la">Roma</rt></ruby>での到着》</figcaption></figure>
 
 他方では、イングランド王の{r}兇(きょう)死(し)暴(ぼう){/r}さがおそろしかった。
 けれども、ウルスラは、天主のおさとしがあったのであろうか、イングランド王の申し出をお受けなさいと父王にすすめた。
