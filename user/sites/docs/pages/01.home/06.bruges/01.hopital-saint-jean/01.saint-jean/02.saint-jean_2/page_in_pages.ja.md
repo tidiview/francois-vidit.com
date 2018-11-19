@@ -36,7 +36,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1280.jpg 1280w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/02.saint-jean_2/saint-jean_4-1920.jpg 1920w">
-</picture><figcaption><ruby>開<rt>かい</rt>翼<rt>よく</rt>時<rt>じ</rt></ruby></figcaption></figure>
+</picture><figcaption><ruby>開<rt style="color:#555">かい</rt>翼<rt style="color:#555">よく</rt>時<rt style="color:#555">じ</rt></ruby></figcaption></figure>
 
 私たちはまず[color=#e6a64d]作品が表わそうとしているのを[/color]描写しようとしています。そのため、[color=#e6a64d]眼の追う筋[/color]に従います。それは、[color=#e6a64d]主な場面[/color]から始まります。
 
