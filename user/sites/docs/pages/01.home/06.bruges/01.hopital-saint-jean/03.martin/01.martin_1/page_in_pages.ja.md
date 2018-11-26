@@ -2,8 +2,8 @@
 title: ハンス・メムリンク筆のマールテン・ファン・ニューウェンホーフェの二連画
 slug: "page:1"
 created: 22-07-2017, 23:24
-date: 17-03-2018, 20:17
-modified: 23-03-2018, 23:47
+date: 23-03-2018, 23:47
+modified: 26-11-2018, 19:17
 visible: false
 routable: false
 taxonomy:
