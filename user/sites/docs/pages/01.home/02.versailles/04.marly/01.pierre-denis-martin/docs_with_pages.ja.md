@@ -1,6 +1,6 @@
 ---
 title: ピエル＝ドニ・マルタンによるマルリー宮殿の全体景観の２枚
-titleone: '<ruby lang="ja" style="color:#555;">マルリー宮殿の<wbr>全体景観<rp>(</rp><rt lang="fr" style="color:#999;font-size:30%;">Vue générale du Château de Marly</rt><rp>)</rp></ruby>の２枚'
+titleone: '<ruby lang="ja" style="color:#555;">マルリー宮殿の<wbr>全体景観<rp>(</rp><rt lang="fr" style="color:#999;">Vue générale du Château de Marly</rt><rp>)</rp></ruby>の２枚'
 menu: 全体景観の２枚
 created: 05-03-2018, 19:51
 date: 24-03-2018, 21:08

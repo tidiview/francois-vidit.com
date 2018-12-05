@@ -25,7 +25,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-#<ruby style="color:#555;">ヴァンドーム広場<rt style="color:#999;font-size:30%;">place&#160;Vendôme</rt></ruby>
+#<ruby style="color:#555;">ヴァンドーム広場<rt style="color:#999;font-size:0.95rem;">place&#160;Vendôme</rt></ruby>
 <figure><picture>
 <source
 media="(min-width: 959px)"

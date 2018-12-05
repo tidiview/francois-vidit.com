@@ -1,6 +1,6 @@
 ---
 title: Triptyque de Jean le Baptiste et de Jean l'Évangéliste de Hans Memling
-titleone: '<ruby lang="fr" style="color:#555;">Triptyque de Jean le Baptiste et de Jean l&#39;Évangéliste<rt lang="nl" style="color:#999;font-size:30%;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>'
+titleone: '<ruby lang="fr" style="color:#555;">Triptyque de Jean le Baptiste et de Jean l&#39;Évangéliste<rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>'
 menu: saint-jean
 created: 05-01-2017, 23:13
 date: 10-09-2018, 19:40

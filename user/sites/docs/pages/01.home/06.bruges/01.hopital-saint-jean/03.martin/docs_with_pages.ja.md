@@ -1,6 +1,6 @@
 ---
 title: ハンス・メムリンク筆のマールテン・ファン・ニューウェンホーフェの二連画
-titleone: '<ruby lang="ja" style="color:#555;">マールテン・<wbr>ファン・<wbr>ニューウェンホーフェの<wbr>二連画<rt lang="nl" style="color:#999;font-size:30%;">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
+titleone: '<ruby lang="ja" style="color:#555;">マールテン・<wbr>ファン・<wbr>ニューウェンホーフェの<wbr>二連画<rt lang="nl" style="color:#999;">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
 menu: マールテン・ファン・ニューウェンホーフェ
 created: 22-07-2017, 23:24
 date: 24-03-2018, 01:26

@@ -1,6 +1,6 @@
 ---
 title: St. Ursula Shrine by Hans Memling
-titleone: '<ruby lang="en" style="color:#555;">St. Ursula Shrine<rt lang="nl" style="color:#999;font-size:30%;">Het Ursulaschrijn</rt></ruby>'
+titleone: '<ruby lang="en" style="color:#555;">St. Ursula Shrine<rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt></ruby>'
 menu: saint-ursula
 created: 03-07-2017, 09:52
 date: 14-12-2017, 15:05

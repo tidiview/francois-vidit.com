@@ -1,6 +1,6 @@
 ---
 title: Diptych of Maarten van Nieuwenhove by Hans Memling
-titleone: '<ruby lang="en" style="color:#555;">Diptych of Maarten van Nieuwenhove<rt lang="nl" style="color:#999;font-size:30%;">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
+titleone: '<ruby lang="en" style="color:#555;">Diptych of Maarten van Nieuwenhove<rt lang="nl" style="color:#999;">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
 menu: martin van nieuwenhove
 created: 22-07-2017, 22:04
 date: 24-03-2018, 01:27

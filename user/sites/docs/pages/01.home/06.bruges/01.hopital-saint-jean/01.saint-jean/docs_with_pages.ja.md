@@ -1,6 +1,6 @@
 ---
 title: ハンス・メムリンク筆の洗礼者ヨハネと福音書記者ヨハネの三連画
-titleone: '<ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rt lang="nl" style="color:#999;font-size:30%;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>'
+titleone: '<ruby lang="ja" style="color:#555;">洗礼者<wbr>ヨハネと<wbr>福音書記者<wbr>ヨハネの<wbr>三連画<rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>'
 menu: 聖ヨハネ
 created: 05-01-2017, 23:13
 date: 10-09-2018, 19:40
