@@ -3,13 +3,13 @@ title: パエトン
 menu: パエトン
 template: docs_minus_h1
 created: 15-01-2016, 07:10
-date: 25-02-2018, 12:22
-modified: 26-11-2018, 20:53
+date: 26-11-2018, 20:53
+modified: 05-12-2018, 16:42
 itempage: Article
 taxonomy:
    category: [docs, ja]
 metadata:
-    description: "ヴェルサイユ宮殿の庭園にある、アポロの泉水の真ん中に位置されている、ジャン＝バティスト・テュビが１６６８年から１６７１年まで作った「太陽の車駕（しゃが）」諸像に表されている通り太陽神アポロ肖像のもとに使用された、オウィディウス作家が書いた「変身物語」の第2巻のパエトン章をどういう風にルイ１４世が見ていたかを考える切っ掛けの文書"
+    description: "ヴェルサイユ宮殿の庭園にある、アポロの泉水の真ん中に位置されている、ジャン＝バティスト・テュビが１６６８年から１６７１年まで作った「太陽の車駕（しゃが）」諸像に表されている通り太陽神アポロ肖像のもとに使用された、オウィディウス作家が書いた「変身物語」の第２巻のパエトン章をどういう風にルイ１４世が見ていたかを考える切っ掛けの文書"
     keywords: "ヴェルサイユ宮殿の庭園, ヴェルサイユ宮殿, ヴェルサイユ, ルイ１４世, Louis XIV, ルイ十四世, オウィディウス, 変身物語, パエトン, ジャン＝バティスト・テュビ, Jean-Baptiste TUBY, アポロン, Apollon, アポロン泉水, Bassin d'Apollon, 太陽の車駕, 太陽の車駕, Char du Soleil, 太陽の車駕の泉水, Bassin du Char du Soleil, アポロンの車駕の泉水, Bassin du Char d'Apollon, Fontaine d'Apollon, アポロンの噴水"
     image: apollon_700x556.jpg
     image_width: 700
