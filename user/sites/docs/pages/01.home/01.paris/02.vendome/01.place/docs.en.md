@@ -3,8 +3,8 @@ title: Vendôme Square
 menu: place vendôme
 template: docs_minus_h1
 created: 14-01-2017, 23:44
-date: 05-02-2018, 21:04
-modified: 04-06-2018, 17:54
+date: 04-06-2018, 17:54
+modified: 05-12-2018, 16:49
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -25,7 +25,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-#<ruby><rb>Vendôme&#160;<wbr>Square</rb><rt>place&#160;<wbr>Vendôme</rt></ruby>
+#<ruby>Vendôme&#160;<wbr>Square<rt>place&#160;<wbr>Vendôme</rt></ruby>
 <figure><picture>
 <source
 media="(min-width: 959px)"
@@ -63,7 +63,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
-</picture><figcaption><ruby><rb>Vendôme&#160;Square</rb><rt>place&#160;Vendôme</rt></ruby> in Paris according to the <ruby><rb>Turgot&#160;Plan</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby> in 1734</figcaption></figure>
+</picture><figcaption><ruby>Vendôme&#160;Square<rt>place&#160;Vendôme</rt></ruby> in Paris according to the <ruby>Turgot&#160;Plan<rt>Plan&#160;de&#160;Turgot</rt></ruby> in 1734</figcaption></figure>
 
 [color=#3d8b3d]**Vendôme Square in Paris in the 17<sup style="color:#3d8b3d;">th</sup> century**[/color]  
 
@@ -113,7 +113,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w">
-</picture><figcaption>fig. 1: Prior to the puncture of <ruby><rb>Castiglione&#160;Street</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>, access from <ruby><rb>Saint-Honoré&#160;Street</rb><rt>rue&#160;Saint-Honoré</rt></ruby>
+</picture><figcaption>fig. 1: Prior to the puncture of <ruby>Castiglione&#160;Street<rt>rue&#160;de&#160;Castiglione</rt></ruby>, access from <ruby>Saint-Honoré&#160;Street<rt>rue&#160;Saint-Honoré</rt></ruby>
  (1734)</figcaption></figure> 
 
 The access is only by:
@@ -156,7 +156,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w">
-</picture><figcaption>fig. 2: Prior to the puncture of <ruby><rb>Paix&#160;Street</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, access from <ruby><rb>Capucines&#160;Street</rb><rt>rue&#160;des&#160;Capucines</rt></ruby></figcaption></figure>
+</picture><figcaption>fig. 2: Prior to the puncture of <ruby>Paix&#160;Street<rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, access from <ruby>Capucines&#160;Street<rt>rue&#160;des&#160;Capucines</rt></ruby></figcaption></figure>
 
 It could not be passed through as since the 19<sup>th</sup> century.  
 
@@ -198,7 +198,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w">
-</picture><figcaption>fig. 3: Prior to the puncture of <ruby><rb>Paix&#160;Street</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, the second <ruby><rb>Convent&#160;of&#160;the&#160;Capucines</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby> (1705)</figcaption></figure>
+</picture><figcaption>fig. 3: Prior to the puncture of <ruby>Paix&#160;Street<rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>, the second <ruby>Convent&#160;of&#160;the&#160;Capucines<rt>couvent&#160;des&#160;Capucines</rt></ruby> (1705)</figcaption></figure>
 
 [Madame de Pompadour][9] was buried, as was her mother and sister, in the church.
 
@@ -240,9 +240,9 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w">
-</picture><figcaption>fig. 4: Prior to the puncture of <ruby><rb>Castiglione&#160;Street</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>, the portal of <ruby><rb>convent&#160;of&#160;the&#160;Capucines</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby> (1754)</figcaption></figure>
+</picture><figcaption>fig. 4: Prior to the puncture of <ruby>Castiglione&#160;Street<rt>rue&#160;de&#160;Castiglione</rt></ruby>, the portal of <ruby>convent&#160;of&#160;the&#160;Capucines<rt>couvent&#160;des&#160;Capucines</rt></ruby> (1754)</figcaption></figure>
 
-In the center of the square, was erected, since 1699, the statue of [Louis XIV][13] called « Louis le Grand » ([fig. 5](#statue)).
+In the center of the square, was erected, since 1699, the statue of [Louis XIV][13] called «Louis le Grand» ([fig. 5](#statue)).
 
 <figure id="statue"><picture>
 <source

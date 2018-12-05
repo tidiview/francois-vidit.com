@@ -3,8 +3,8 @@ title: ヴァンドーム広場
 menu: ヴァンドーム広場
 template: docs_minus_h1
 created: 11-04-2017, 23:44
-date: 04-06-2018, 18:04
-modified: 26-11-2018, 21:17
+date: 26-11-2018, 21:17
+modified: 05-12-2018, 16:47
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -25,7 +25,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-#<ruby><rb>ヴァンドーム広場</rb><rt>place&#160;Vendôme</rt></ruby>
+#<ruby>ヴァンドーム広場<rt>place&#160;Vendôme</rt></ruby>
 <figure><picture>
 <source
 media="(min-width: 959px)"
@@ -63,7 +63,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-focus_700x415.jpg 700w">
-</picture><figcaption>１７３４年での<ruby><rb>テュルゴの地図</rb><rt>Plan&#160;de&#160;Turgot</rt></ruby>によるパリにある<ruby><rb>ヴァンドーム広場</rb><rt>place&#160;Vendôme</rt></ruby></figcaption></figure>
+</picture><figcaption>１７３４年での<ruby>テュルゴの地図<rt>Plan&#160;de&#160;Turgot</rt></ruby>によるパリにある<ruby>ヴァンドーム広場<rt>place&#160;Vendôme</rt></ruby></figcaption></figure>
 
 ##[color=#3d8b3d]１７世紀でのヴァンドーム広場[/color]  
 
@@ -113,7 +113,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-castiglione-focus_669x484.jpg 669w">
-</picture><figcaption>図 １：<ruby><rb>カスティグリオーヌ通り</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby><rb>サントノーレ通り</rb><rt>rue&#160;Saint-Honoré</rt></ruby>からの出入り（１７３４年）</figcaption></figure> 
+</picture><figcaption>図 １：<ruby>カスティグリオーヌ通り<rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby>サントノーレ通り<rt>rue&#160;Saint-Honoré</rt></ruby>からの出入り（１７３４年）</figcaption></figure> 
 
 広場への出入りは：
 + [{r=ja/fr}テュイルリー(Tuileries){/r}][10]側では、[{r=ja/fr}サントノーレ通り(rue&#160;Saint-Honoré){/r}][6]（[図 １](#castiglione)、この上),
@@ -156,7 +156,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-paix-focus_700x447.jpg 700w">
-</picture><figcaption>図 ２：<ruby><rb>ペ通り</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、<ruby><rb>カプシーヌ通り</rb><rt>rue&#160;des&#160;Capucines</rt></ruby>からの出入り（１７３４年）</figcaption></figure>
+</picture><figcaption>図 ２：<ruby>ペ通り<rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、<ruby>カプシーヌ通り<rt>rue&#160;des&#160;Capucines</rt></ruby>からの出入り（１７３４年）</figcaption></figure>
 
 ですから、広場は、１９世紀とは違って、通過するものではありませんでした。    
 
@@ -198,7 +198,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-couvent-focus_700x411.jpg 700w">
-</picture><figcaption>図 ３：<ruby><rb>ペ通り</rb><rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、二番目の<ruby><rb>カプシーヌ修道院</rb><rt>couvent&#160;des&#160;Capucines</rt></ruby>（１７０５年）</figcaption></figure>
+</picture><figcaption>図 ３：<ruby>ペ通り<rt>rue&#160;de&#160;la&#160;Paix</rt></ruby>の切り開き前、二番目の<ruby>カプシーヌ修道院<rt>couvent&#160;des&#160;Capucines</rt></ruby>（１７０５年）</figcaption></figure>
 
 そこの教会に、[{r=ja/fr}ポンパドゥール夫人(Madame&#160;de&#160;Pompadour){/r}][9]と、その妹とお母さまも、葬られることになりました。
 
@@ -241,7 +241,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-feuillants-focus_700x438.jpg 700w">
-</picture><figcaption>図 ４：<ruby><rb>カスティグリオーヌ通り</rb><rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby><rb>フイヤン修道院</rb><rt>couvent&#160;des&#160;Feuillants</rt></ruby>の大門（１７５４年）</figcaption></figure>
+</picture><figcaption>図 ４：<ruby>カスティグリオーヌ通り<rt>rue&#160;de&#160;Castiglione</rt></ruby>の切り開き前、<ruby>フイヤン修道院<rt>couvent&#160;des&#160;Feuillants</rt></ruby>の大門（１７５４年）</figcaption></figure>
 
 広場の真ん中に、『{r=ja/fr}ルイ大王(Louis&#160;le&#160;Grand){/r}』といわれる [{r=ja/fr}ルイ１４世(Louis&#160;XIV){/r}][14]の銅騎馬像が、１６９９年からすでに立っています（[図 ５](#statue)）。   
 
@@ -281,7 +281,7 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-480.jpg 480w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus-640.jpg 640w,
 /user/sites/docs/pages/01.home/01.paris/02.vendome/01.place/vendome-statue-focus_700x875.jpg 700w">
-</picture><figcaption>図 ５：広場の真ん中、<ruby><rb>ルイ大王</rb><rt>Louis&#160;le&#160;Grand</rt></ruby>銅像（１６９９年）</figcaption></figure>
+</picture><figcaption>図 ５：広場の真ん中、<ruby>ルイ大王<rt>Louis&#160;le&#160;Grand</rt></ruby>銅像（１６９９年）</figcaption></figure>
 
 [{r=ja/fr}フランソワ・ジラルドン(François&#160;GIRARDON){/r}][14]作の印象的な作品です。台座を含むと高さは、１７㍍に達成していました。  
 
