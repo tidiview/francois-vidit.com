@@ -1,10 +1,10 @@
 ---
 title: la Châsse de Sainte Ursule de Hans Memling
-titleone: '<ruby><rb lang="fr">La&#160;Châsse&#160;de&#160;Sainte Ursule</rb><rt lang="nl">Het&#160;Ursulaschrijn</rt></ruby>'
+titleone: '<ruby lang="fr" style="color:#555;">La Châsse de Sainte Ursule<rt lang="nl" style="color:#999;font-size:30%;">Het Ursulaschrijn</rt></ruby>'
 menu: sainte ursule
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 15:05
+date: 14-12-2017, 15:05
+modified: 05-12-2018, 16:31
 itempage: Article
 taxonomy:
     category: [docs, fr]
