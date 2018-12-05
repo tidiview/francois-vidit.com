@@ -1,10 +1,10 @@
 ---
 title: Diptyque de Maarten van Nieuwenhove de Hans Memling
-titleone: '<ruby lang="fr">Diptyque de Maarten van Nieuwenhove<rt lang="nl">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
+titleone: '<ruby lang="fr" style="color:#555;">Diptyque de Maarten van Nieuwenhove<rt lang="nl" style="color:#999;font-size:30%;">Diptiek van Maarten van Nieuwenhove</rt></ruby>'
 menu: maarten van nieuwenhove
 created: 22-07-2017, 22:04
-date: 17-03-2018, 20:49
-modified: 24-03-2018, 01:25
+date: 24-03-2018, 01:25
+modified: 05-12-2018, 16:32
 itempage: Article
 taxonomy:
     category: [docs, fr]
