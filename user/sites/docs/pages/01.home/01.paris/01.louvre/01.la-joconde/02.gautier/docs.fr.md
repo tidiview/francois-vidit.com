@@ -3,7 +3,7 @@ title: La Joconde selon Théophile Gautier
 menu: gautier
 created: 06-01-2019, 16:28
 date: 06-01-2019, 16:28
-modified: 06-01-2019, 16:28
+modified: 10-01-2019, 15:11
 itempage: Article
 taxonomy:
    category: [docs, fr]
@@ -50,6 +50,12 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore">
 </picture><figcaption>Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dite «Monna Lisa, la Gioconda» ou «la Joconde»</figcaption></figure>
+
+!!!! La description de la Joconde que nous présentons ci-dessous a été écrite par l'écrivain romantique Théophile GAUTIER et publiée à Paris en 1867.   
+!!!! C'est une description capitale pour l'histoire du tableau car elle va à la fois mythifiée et détournée l'œuvre de Léonard de Vinci au nom du mystère qu'elle paraît incarner et influencer une bonne partie des regards biaisés portés sur l'œuvre au cours du XXème siècle.  
+!!!! Nous pensons que si cette description est misogyne, que cette misogynie ne fait partie ni de l'œuvre de Léonard de Vinci encore moins de l'émotion artistique et que la Joconde gagnerait à être débarassée des chimères de Théophile Gautier.
+
+<br>
 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 Notre admiration et notre amour pour cette divine Monna Lisa del Giocondo ne datent pas d'hier, et bien des passions pour des êtres réels ont duré moins longtemps.  

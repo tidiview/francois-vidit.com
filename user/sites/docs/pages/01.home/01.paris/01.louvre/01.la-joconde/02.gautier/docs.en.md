@@ -4,7 +4,7 @@ menu: gautier
 template: docs_minus_h1
 created: 06-01-2019, 16:28
 date: 06-01-2019, 16:28
-modified: 06-01-2019, 16:28
+modified: 10-01-2019, 15:21
 itempage: Article
 taxonomy:
    category: [docs, en]
@@ -53,6 +53,12 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
 /user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore">
 </picture><figcaption>Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»</figcaption></figure>
+
+!!!! The description of the Mona Lisa presented below was written by Theophile GAUTIER and published in Paris in 1867.  
+!!!! It is a crucial description for the history of this painting because it both mythologizes and diverts Leonardo da Vinci's work in the name of the mystery it seems to embody and influences many of the biased views of the work during the 20th century.  
+!!!! We believe that if this description is misogynistic, that this misogyny is neither part of Leonardo da Vinci's work nor part of artistic emotion and that the Mona Lisa would benefit from being rid of Theophile Gautier's chimeras.
+
+<br>
 
 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> 
 Our admiration and love for this divine Monna Lisa del Giocondo is not new, and many passions for real people have lasted less time.  
