@@ -3,7 +3,7 @@ title: La Joconde selon Giorgio Vasari
 menu: vasari
 created: 06-01-2019, 13:15
 date: 06-01-2019, 13:15
-modified: 06-01-2019, 13:15
+modified: 10-01-2019, 15:46
 itempage: Article
 taxonomy:
    category: [docs, fr]
@@ -51,11 +51,11 @@ srcset="
 /user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore">
 </picture><figcaption>Portrait de Lisa Gherardini, épouse de Francesco del Giocondo, dite «Monna Lisa, la Gioconda» ou «la Joconde»</figcaption></figure>
 
-!!!! La description de la Joconde que nous présentons ci-dessous a été écrite par Giorgio VASARI et publiée à Florence en 1550.  
+!!!! La description de [la Joconde][2] que nous présentons ci-dessous a été écrite par [Giorgio VASARI][1] et publiée à Florence en 1550.  
 !!!! Elle en est à ce jour à la fois la plus connue, la plus ancienne et la plus digne de foi.  
 !!!! À ce titre, elle a influencé la plupart des descriptions ultérieures.  
 !!!! Vasari décrit un tableau qu'il n'a pas lui-même vu car le tableau se trouve alors à Fontainebleau où Vasari ne se rendit jamais.  
-!!!! La description nous renseigne sur la réputation de l'œuvre: elle a été exécutée à Florence en 1503, Léonard y a travaillé pendant 4 ans, elle représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.  
+!!!! La description nous renseigne sur la réputation de l'œuvre: elle a été exécutée à Florence en 1503, [Léonard de Vinci][3] y a travaillé pendant 4 ans, elle représente l'épouse de Francesco Del Giocondo, désignée comme «M[ad]on[n]a Lisa», “Madame Lise”.  
 !!!! Elle nous permet surtout de saisir ce qui en constituait la valeur aux yeux de Vasari.
 
 <br>
@@ -74,4 +74,8 @@ et l'on peut dire avec vérité que ce portrait étoit peint de manière à fair
 Tandis que Léonard étoit occupé à peindre madame Lise, remarquable par sa beauté, [color=#3d8b3d]il avoit soin que l’on jouât de quelque instrument, ou que l’on chantât, et même que des bouffons l’égayassent sans cesse afin d’éloigner d’elle cette mélancolie, qui souvent se rencontre dans les portraits[/color].  
 [color=#3d8b3d]Le sourire de celui-ci séduisoit au point qu’on l’eût jugé être de la main d’un dieu on étoit enfin frappé d’étonnement l’art ayant su lui donner la vie et rivaliser avec la nature[/color]. <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#3d8b3d]Giorgio Vasari, “Vies des peintres, sculpteurs et architectes les plus célèbres”, Livre IV, Chez Boiste, 1803, p. 27-28[/color]
+[Giorgio Vasari][1]{.green}[color=#3d8b3d], “Vies des peintres, sculpteurs et architectes les plus célèbres”, Livre IV, Chez Boiste, 1803, p. 27-28[/color]
+
+[1]: https://fr.wikipedia.org/wiki/Giorgio_Vasari "https://fr.wikipedia.org/wiki/Giorgio_Vasari"
+[2]: https://fr.wikipedia.org/wiki/La_Joconde "https://fr.wikipedia.org/wiki/La_Joconde"
+[3]: https://fr.wikipedia.org/wiki/Léonard_de_Vinci "https://fr.wikipedia.org/wiki/Léonard_de_Vinci"
