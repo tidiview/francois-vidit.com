@@ -4,7 +4,7 @@ menu: ゴーティエにおいて
 template: docs_minus_h1
 created: 06-01-2019, 16:23
 date: 06-01-2019, 16:23
-modified: 10-01-2019, 15:21
+modified: 10-01-2019, 15:38
 itempage: Article
 taxonomy:
    category: [docs, ja]
@@ -85,14 +85,14 @@ srcset="
 私たちはそう思わない。   
 今では、神秘が魅力に付け加えて、絵はその新鮮さでは、もしかしてこれほど魅力的ではなかったかも。 <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M1.5 68.9991L20.9102 45.395c.88226-1.10283.88226-1.54397.88226-1.76454 0-1.10286-1.76455-3.30857-2.8674-4.632L5.90836 23.9997 16.49877 3.0455 27.5273 18.48544c2.87047 3.97028 10.80793 15.88413 10.80793 19.19267 0 1.76458-.6617 2.4263-6.6171 9.7051C17.1605 65.25246 14.95478 67.01703 7.01425 74.9545L1.5 68.99908zm38.16172 0L59.0719 45.395c.88228-1.10283.88228-1.54397.88228-1.76454 0-1.10286-1.76457-3.30857-2.86742-4.632L44.07312 23.9997 54.6605 3.0455l11.03157 15.43992C68.55947 22.45572 76.5 34.36957 76.5 37.6781c0 1.76458-.6617 2.4263-6.6171 9.7051C55.32526 65.25246 53.11957 67.01703 45.17904 74.9545l-5.51732-5.9554z"/></svg></span>
 
-[color=#3d8b3d]<ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">テオフィル<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">GAUTIER</rt><rp>)</rp></ruby>、パリ１８６７年博覧会のガイドブックより抜粋[/color]
+[<ruby lang="ja" style="letter-spacing: 2px;color:#3d8b3d;">テオフィル<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">Théophile</rt><rp>)</rp>・<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">&#160;</rt><rp>)</rp>ゴーティエ<rp>(</rp><rt lang="fr" style="font-size: 70%;color:#3d8b3d;">GAUTIER</rt><rp>)</rp></ruby>][1]{.green}[color=#3d8b3d]、パリ１８６７年博覧会のガイドブックより抜粋[/color]
 
  [デュマ][4]、[サント＝ブーヴ][5]、[ヴィオレ・ル・デュク][6]、[ジョルジュ・サンド][7]、[ナダール][8]なども参加したフランスの主な作家と芸術家によって書かれた共作して、その後（１８８２年）ゴーティエの死後、「ルーブル美術館での素人のガイドブック」題名で再板された。
 
 [1]: https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ "https://ja.wikipedia.org/wiki/テオフィル・ゴーティエ"
 [2]: https://ja.wikipedia.org/wiki/モナ・リザ "https://ja.wikipedia.org/wiki/モナ・リザ"
 [3]: https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ "https://ja.wikipedia.org/wiki/レオナルド・ダ・ヴィンチ"
-[4]: https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・ペール "https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・ペール"
+[4]: https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス "https://ja.wikipedia.org/wiki/アレクサンドル・デュマ・フィス"
 [5]: https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ "https://ja.wikipedia.org/wiki/シャルル＝オーギュスタン・サント＝ブーヴ"
 [6]: https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク "https://ja.wikipedia.org/wiki/ウジェーヌ・エマニュエル・ヴィオレ・ル・デュク"
 [7]: https://ja.wikipedia.org/wiki/ジョルジュ・サンド "https://ja.wikipedia.org/wiki/ジョルジュ・サンド"
