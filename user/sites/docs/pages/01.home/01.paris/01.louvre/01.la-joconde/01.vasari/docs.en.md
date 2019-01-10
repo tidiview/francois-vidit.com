@@ -55,7 +55,6 @@ srcset="
 </picture><figcaption>Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»</figcaption></figure>
 
 !!!! The description of the [Mona Lisa][2] presented below was written by [Giorgio VASARI][1] and published in Florence in 1550.  
-
 !!!! It is the best known, oldest and most reliable of these to date. As such, it has influenced most of the subsequent descriptions.  
 !!!! Vasari describes a painting that he himself has not seen because the painting is then in Fontainebleau where Vasari never went.  
 !!!! The description tells us about the reputation of the work: it was performed in Florence in 1503, [Leonardo da Vinci][3] worked there for 4 years, it represents Francesco Del Giocondo's wife, referred to as “M[ad]on[n]a Lisa”, “Madame Lise”.  
