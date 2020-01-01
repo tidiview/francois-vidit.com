@@ -2,8 +2,8 @@
 title: Triptyque de Jean le Baptiste et de Jean l'Évangéliste de Hans Memling
 slug: "page:3"
 created: 20-06-2018, 15:04
-date: 06-10-2018, 13:25
-modified: 04-11-2018, 22:34
+date: 04-11-2018, 22:34
+modified: 20-12-2019, 00:14
 visible: false
 routable: false
 taxonomy:
@@ -127,7 +127,7 @@ srcset="
 
 #### jean l'évangéliste {.orange #jean-l-evangeliste-3}
 
-Nous reconnaissons [Jean l'Évangéliste][20]{.orange #jean-l-evangeliste} à un épisode de la [“Légende Dorée”][9]{.orange #legende-doree-2} [color=#999](chap. 9)[/color], que nous rapportons [ici][26]{.orange #renvoi-aristodeme}.  
+Nous reconnaissons [Jean l'Évangéliste][20]{.orange #jean-l-evangeliste} à un épisode du [color=#999]chapître 9[/color] de la [“Légende Dorée”][9]{.orange #legende-doree-2}, que nous rapportons [ici][26]{.orange #renvoi-aristodeme}.  
 Jean y affronte [color=#e6a64d]Aristodème[/color], prêtre du temple de Diane en Asie [color=#999](sans doute Éphèse)[/color], qui le défie publiquement de [color=#e6a64d]boire[/color] une [color=#e6a64d]coupe empoisonnée[/color]. 
 Celui-ci fait, comme Memling le représente, le [color=#e6a64d]signe de croix[/color], boit la coupe mais le poison ne lui fait aucun mal.  
 Le [color=#e6a64d]serpent[/color] évoque aussi une parole que Jésus adresse à [Nicodème][29]{.orange #nicodeme} [color=#999](Jean 3,14)[/color] [color=#e6a64d]«Comme Moïse a élevé le serpent dans le désert, il faut que le fils de l'homme soit élevé, afin que quiconque croit ait, en lui, la vie éternelle»[/color].
@@ -250,5 +250,5 @@ Conférence de présentation du nouveau calendrier romain par l'abbé Pierre JOU
 [23]: https://fr.wikipedia.org/wiki/Rébecca_(Bible) "https://fr.wikipedia.org/wiki/Rébecca_(Bible)"
 [24]: https://fr.wikipedia.org/wiki/Isaac "https://fr.wikipedia.org/wiki/Isaac"
 [25]: https://fr.wikipedia.org/wiki/Ésaü "https://fr.wikipedia.org/wiki/Ésaü"
-[26]: /bruges/hopital-saint-jean/saint-jean/page:8#aristodeme "https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme"
+[26]: /bruges/hopital-saint-jean/saint-jean/page:18#aristodeme "https://francois-vidit.com/docs/fr/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme"
 [29]: https://fr.wikipedia.org/wiki/Nicod%C3%A8me "https://fr.wikipedia.org/wiki/Nicodème"

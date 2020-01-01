@@ -13,6 +13,33 @@ shortcode-core:
 ---
 # different texts at the origin of the scenes represented {.orange #mise-en-relation}
 
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Catherine of Alexandria, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Catherine of Alexandria, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-60-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/catherine-d-alexandrie-1920.jpg 1920w">
+</picture><figcaption>Catherine of Alexandria</figcaption></figure>
+
 ## catherine of alexandria following the golden legend {.orange #cath-selon-legende}
 
 Here followeth the Life of S. Catherine, virgin and martyr, and first of her name.
@@ -46,7 +73,7 @@ And when this holy virgin was born she was so fair of visage and so well formed 
 The king Costus her father had so great joy of the great towardness and wisdom of his daughter, that he let ordain a tower in his palace, with divers studies and chambers, in which she might be at her pleasure and also at her will, and also he ordained for to wait on her seven the best masters and wisest in conning that might be gotten in those parts.  
 And within a while they that came to teach her, they after that, learned of her and became her disciples.
 
-And when this virgin came to the age of fourteen years, her father kIng Costus died, and then she was left as queen and heir after him, and then the estates of the land came to this young lady, Catherine, and desired her to make a parliament in which she might be crowned and receive the homage of her subjects, and that such rule might be set in her beginning, that peace and prospenty might ensue in her realm.  
+And when this virgin came to the age of fourteen years, her father king Costus died, and then she was left as queen and heir after him, and then the estates of the land came to this young lady, Catherine, and desired her to make a parliament in which she might be crowned and receive the homage of her subjects, and that such rule might be set in her beginning, that peace and prospenty might ensue in her realm.  
 And this young maid granted to them their asking.  
 And when the parliament was assembled and the young queen crowned with great solemnity, and she sitting on a day in her parliament, and her mother by her, with all the lords each in his place, a lord arose by the assent of her mother, the other lords, and the commons, and kneeled down tofore her, saying these words: Right high and mighty princess, and our most sovereign lady, please if you to wit that I am commanded by the queen your mother, by all the lords and commons of this your realm, to require your highness that it may please you to grant to them that they might provide some noble knight or prince to marry you, to the end that he might rule and defend your realm and subjects, like as your father did before you, and also that of you might proceed noble lineage which after you may reign upon us, which thing we most desire, and hereof we desire your good answer.  
 This young queen Catherine, hearing this request, was abashed and troubled in her courage how she might answer to content her mother, the lords, and her subjects, and to keep herself chaste, for she had concluded to keep her virginity, and rather to suffer death than to defile it.  
@@ -130,7 +157,8 @@ And then she went home to her palace and governed her holily in converting many 
 And then in this meantime Maxentius, that was then emperor, and vicious to God's law and cruel tyrant, considered the noble and royal city of Alexandria, and came thither and assembled all the people, rich and poor, for to make sacrifice to the idols, and the christian men that would not make sacrifice he let slay.  
 And this holy virgin was at that time eighteen years of age, dwelling in her palace full of riches and of servants, alone, without parents and kin, and heard the braying and noise of beasts, and the joy that they made and sung, and marvelled what it might be, and sent one of her servants hastily to inquire what it was.  
 And when she knew it, she took some of the people of her palace and garnished her with the sign oi the cross and went thither, and found there many christian men to be led to do sacrifice for fear of death.  
-Then was she strongly troubled for sorrow, and went forth hardily to the emperor, and said in this wise: The dignity of thine order and the way of reason have moved me to salute thee, if thou know the creator and maker of heaven, and wouldst revoke thy courage from the worshipping of false gods. 
+Then was she strongly troubled for sorrow, and went forth hardily to the emperor, and said in this wise: 　
+[color=#e6a64d]The dignity of thine order and the way of reason have moved me to salute thee, if thou know the creator and maker of heaven, and wouldst revoke thy courage from the worshipping of false gods.[/color] 　
 And then she disputed of many things with Cæsar tofore the gates of the temple.  
 And then she began to say: I have set my cure to say these things to thee as to a wise man, wherefore hast thou now assembled this multitude of people thus in vain for to adore the folly of the idols.  
 Hast thou marvel of this temple that is made with man's hands? Wonderest thou on the precious ornaments which be as dust tofore the wind? Thou shouldst rather marvel thee of heaven, and of the earth, and of all the things that be therein, and of the sun, the moon, the stars, and of the planets that have been since the beginning of the world, and shall be as long as it shall please God; and marvel thee of the ornaments of heaven, that is to say, the sun, moon, stars, and planets, how they move from the orient to the occident and never be weary, and when thou shalt have knowledge of all these things, and hast apperceived it, demand after, who is most mightyof all, and when thou knowest him that is sovereign and maker of all things, to whom none is semblable ne like, then adore him and glorify, for he is God of gods, and Lord of lords.  

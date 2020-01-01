@@ -2,8 +2,8 @@
 title: ハンス・メムリンク筆の洗礼者ヨハネと福音書記者ヨハネの三連画
 slug: "page:3"
 created: 20-06-2018, 15:01
-date: 08-10-2018, 16:27
-modified: 21-03-2019, 12:06
+date: 21-03-2019, 12:06
+modified: 20-12-2019, 00:15
 visible: false
 routable: false
 taxonomy:
@@ -127,7 +127,7 @@ srcset="
 
 #### 福音書記者ヨハネ {.orange #jean-l-evangeliste-3}
 
-[福音書記者ヨハネ][20]{.orange #jean-l-evangeliste}であることが[「黄金伝説」][9]{.orange #legende-doree-2}[color=#999]（第９章）[/color]の巻から分かります。その文書を[ここ][26]{.orange #renvoi-aristodeme}に載せます。  
+[福音書記者ヨハネ][20]{.orange #jean-l-evangeliste}であることが[「黄金伝説」][9]{.orange #legende-doree-2}の[color=#999]第９章[/color]の巻から分かります。その文書を[ここ][26]{.orange #renvoi-aristodeme}に記載しています。  
 そこでヨハネが[color=#e6a64d]毒の入った盃[/color]を正式に[color=#e6a64d]飲む[/color]ことで、公に{r}挑(いど){/r}むアジア[color=#999]（おそらくエフェソス）[/color]にあるディアナ社大祭官の[color=#e6a64d]アリストデムス[/color]と対立します。  
 彼をメムリンクが表しているように、[color=#e6a64d]十字の描いて[/color]、盃を飲みますが毒が彼に何の悪をさせません。  
 この[color=#e6a64d]蛇[/color]が同時にイエスが[ニコデモ][29]{.orange #nicodeme}を思い起こすこともしている。[color=#e6a64d]「モーセが荒れ野で蛇を上げたように、人の子も上げられねばならない。それは、信じる者が皆、人の子によって永遠の命を得るためである」[/color][color=#999]（ヨハネ３・１４）[/color]。
@@ -252,5 +252,5 @@ srcset="
 [23]: https://ja.wikipedia.org/wiki/リベカ "https://ja.wikipedia.org/wiki/リベカ"
 [24]: https://ja.wikipedia.org/wiki/イサク "https://ja.wikipedia.org/wiki/イサク"
 [25]: https://ja.wikipedia.org/wiki/エサウ "https://ja.wikipedia.org/wiki/エサウ"
-[26]: /bruges/hopital-saint-jean/saint-jean/page:8#aristodeme "https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:8#aristodeme"
+[26]: /bruges/hopital-saint-jean/saint-jean/page:18#aristodeme "https://francois-vidit.com/docs/ja/bruges/hopital-saint-jean/saint-jean/page:18#aristodeme"
 [29]: https://ja.wikipedia.org/wiki/ニコデモ "https://ja.wikipedia.org/wiki/ニコデモ"

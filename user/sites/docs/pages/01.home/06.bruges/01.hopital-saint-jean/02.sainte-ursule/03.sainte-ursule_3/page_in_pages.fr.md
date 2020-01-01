@@ -2,8 +2,8 @@
 title: la Châsse de Sainte Ursule de Hans Memling
 slug: "page:3"
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 12:12
+date: 14-12-2017, 12:12
+modified: 01-01-2020, 12:17
 visible: false
 routable: false
 taxonomy:
@@ -11,7 +11,7 @@ taxonomy:
 shortcode-core:
     active: true
 ---
-Tous eurent beau protester, et surtout les cardinaux, qui pensaient qu'il était fou pour ainsi abandonner la gloire du pontificat et suivre un petit groupe de folles bonnes femmes : il n'en tint aucun compte, et ordonna un saint homme, qui fut appelé Antéros (3), pour lui succéder comme pontife ; mais parce qu il avait abandonné siège apostolique contre l'avis du clergé, ce clergé raya son nom du catalogue des pontifes, et le saint chœur des vierges perdit dès lors tous les égards que lui avait manifestés la curie romaine.
+Tous eurent beau protester, et surtout les cardinaux, qui pensaient qu'il était fou pour ainsi abandonner la gloire du pontificat et suivre un petit groupe de folles bonnes femmes: il n'en tint aucun compte, et ordonna un saint homme, qui fut appelé Antéros, pour lui succéder comme pontife; mais parce qu il avait abandonné siège apostolique contre l'avis du clergé, ce clergé raya son nom du catalogue des pontifes, et le saint chœur des vierges perdit dès lors tous les égards que lui avait manifestés la curie romaine.
 
 <figure><picture>
 <source
@@ -43,11 +43,11 @@ srcset="
 </picture><figcaption>“Retour de Bâle”, “Martyre de Onze Mille Vierges”, “Martyre de Sainte Ursule”</figcaption></figure>
 
 Or, les deux chefs iniques de l'armée romaine, Maximus et Africanus, voyant la grande foule des vierges, et considérant en outre qu'hommes et femmes les rejoignaient en masse, se mirent à craindre que, par elles, la religion chrétienne ne s'accroisse trop.
-C'est pourquoi, s'enquérant avec précision de leur itinéraire, ils envoyèrent des messagers à Jules, leur parent et prince des Huns (4), afin qu'ils marchent contre elles avec une armée et qu'à leur arrivée à Cologne, ils les massacrent en tant que chrétiennes.
+C'est pourquoi, s'enquérant avec précision de leur itinéraire, ils envoyèrent des messagers à Jules, leur parent et prince des Huns, afin qu'ils marchent contre elles avec une armée et qu'à leur arrivée à Cologne, ils les massacrent en tant que chrétiennes.
 
-Donc saint Cyriaque sortit de la ville avec cette noble foule de vierges ; le cardinal-prêtre Vincent le suivit, ainsi que Jacques qui, de sa Bretagne natale, était parti à Antioche, où il exerça pendant sept ans la dignité archiépiscopale.
-Alors qu'à cette époque il était en visite auprès du pape, et qu'il avait déjà quitté la ville, il entendit parler de l'arrivée des vierges ; se hâtant de revenir, il se fit leur compagnon de route et de martyre.
-Et Maurice aussi, évêque de Levicane, oncle de Babille et de Julienne, et Follarius, évêque de Lucques, et Sulpice, évêque de Ravenne (5), alors présents à Rome, se joignirent à ces vierges.
+Donc saint Cyriaque sortit de la ville avec cette noble foule de vierges; le cardinal-prêtre Vincent le suivit, ainsi que Jacques qui, de sa Bretagne natale, était parti à Antioche, où il exerça pendant sept ans la dignité archiépiscopale.
+Alors qu'à cette époque il était en visite auprès du pape, et qu'il avait déjà quitté la ville, il entendit parler de l'arrivée des vierges; se hâtant de revenir, il se fit leur compagnon de route et de martyre.
+Et Maurice aussi, évêque de Levicane, oncle de Babille et de Julienne, et Follarius, évêque de Lucques, et Sulpice, évêque de Ravenne, alors présents à Rome, se joignirent à ces vierges.
 
 <figure><picture>
 <source
@@ -120,11 +120,11 @@ srcset="
 En la voyant, le prince fut stupéfié de son admirable beauté, et voulant la consoler de la mort des vierges, il lui promit de s'attacher à elle par le mariage.
 Mais comme elle avait résolument repoussé cette idée, ce dernier, se voyant outragé, la transperça aussitôt d'une flèche, et c'est ainsi qu'elle accomplit son martyre.
 Une autre vierge, qui s'appelait Cordula, prise d'une peur très violente, se cacha cette nuit-là dans un navire, mais au matin elle s'offrit d'elle-même à la mort et reçut la couronne du martyre.
-Mais parce qu'on ne célébrait pas sa fête, au motif qu'elle n'avait pas souffert avec les autres, elle apparut bien plus tard à une recluse et lui ordonna que son jour de fête soit célébré le lendemain de la fête des vierges (6).
+Mais parce qu'on ne célébrait pas sa fête, au motif qu'elle n'avait pas souffert avec les autres, elle apparut bien plus tard à une recluse et lui ordonna que son jour de fête soit célébré le lendemain de la fête des vierges.
 Elles souffrirent en l'an du Seigneur 238.
 Toutefois, d'après certains, le calcul chronologique ne permet pas de soutenir que ces faits se soient déroulés à cette époque.
 En effet ni la Sicile ni Constantinople n'étaient alors des royaumes, alors qu'on dit que les « reines » de ces pays se trouvaient avec les vierges.
-Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur 452 (7).
+Il y a de meilleures raisons de croire que ce martyre se déroula après l'empereur Constantin, à ce qu'on lit dans une chronique, quand les Huns et les Goths sévissaient, c'est-à-dire à l'époque de l'empereur Marcien, qui régna en l'an du Seigneur 452.
 
 <figure><picture>
 <source
@@ -155,16 +155,16 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/03.sainte-ursule_3/sainte-ursule9-1920.jpg 1920w">
 </picture><figcaption>“Vierge à l'Enfant et donatrices”</figcaption></figure>
 
-Un abbé (8) avait demandé à l'abbesse de Cologne le corps d'une vierge, en lui promettant de le placer en son église dans une châsse en argent.
+Un abbé avait demandé à l'abbesse de Cologne le corps d'une vierge, en lui promettant de le placer en son église dans une châsse en argent.
 Mais comme il l'avait laissé une année entière sur un autel dans une châsse de bois, une nuit, tandis que l'abbé de ce monastère chantait les matines avec sa communauté, cette vierge descendit corporellement de dessus l'autel; s'inclinant avec révérence devant l'autel, elle passa au milieu du chœur, sous les regards stupéfiés des moines, et se retira.
-Alors l'abbé courut à la châsse ; la trouvant vide, il alla en toute hâte à Cologne et exposa la chose à l'abbesse.
+Alors l'abbé courut à la châsse; la trouvant vide, il alla en toute hâte à Cologne et exposa la chose à l'abbesse.
 Ils se rendirent à l'endroit où ils avaient pris le corps et virent qu'il y était revenu.
 L'abbé demanda pardon et réclama ce corps, ou bien un autre, en promettant avec beaucoup de fermeté qu'il ferait faire aussitôt une châsse précieuse, mais il n'obtint rien.
 
-Un religieux (9) avait une grande dévotion pour ces vierges.
+Un religieux avait une grande dévotion pour ces vierges.
 Un jour qu'il était gravement malade, il vt une vierge d'une grande beauté lui apparaître et lui demander s'il la connaissait.
 Comme il s'étonnait de cette vision et գu'il avouait ne pas du tout la reconnaître, elle lui dit:  
-« Je suis l’une de ces vierges à qui tu voues un si grand sentiment d'affection; pour que tu en sois recompensé, si, par amour et honneur pour nous, tu prononces onze mille fois l'oraison dominicale, à l'heure de ta mort tu nous trouveras pour ta protection et ta consolation... »  
+«Je suis l’une de ces vierges à qui tu voues un si grand sentiment d'affection; pour que tu en sois recompensé, si, par amour et honneur pour nous, tu prononces onze mille fois l'oraison dominicale, à l'heure de ta mort tu nous trouveras pour ta protection et ta consolation...»  
 Quand elle eut disparu, l'homme accomplit aussi vite que possible ce qu'on lui avait demandé et, aussitôt après, ayant fait appeler l'abbé, il demanda l'extrême-onction.
 Et alors qu'il recevait l'onction, soudain il cria aux gens qui se trouvaient là de se retirer et de laisser la place aux vierges sacrées qui arrivaient.
 Et comme l'abbé lui demandait ce qui se passait et que celui-ci racontait en détailla la promesse de la vierge à son égard, tous se retirèrent; ils revinrent peu après et constatèrent qu'il était parti vers le Seigneur.

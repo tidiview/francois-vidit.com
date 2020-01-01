@@ -2,8 +2,8 @@
 title: 自ら勝つ者は強し
 menu: 自ら勝つ者
 created: 17-12-2015
-date: 06-10-2017, 12:53
-modified: 30-10-2017, 12:22
+date: 30-10-2017, 12:22
+modified: 22-12-2019, 12:47
 itempage: BlogPosting
 base64_background: imbricatedhexagon
 base64_itembackground: threedimensionalhexagone
@@ -21,7 +21,7 @@ simplesearch:
    enabled: false
 metadata:
    description: "老子, 第33章の紹介。特に、「人に勝つ者は力有り、自ら勝つ者は強し」。"
-   keywords: "老子, ろうし, 第33章"
+   keywords: "老子, ろうし, 第３３章"
    image: Laotseu_700x865.jpg
    image_width: 700
    image_height: 865
@@ -34,7 +34,7 @@ shortcode-core:
    active: true
 ---
 
-!!!! この第33章、素晴らしいもの！  
+!!!! この第３３章、素晴らしいもの！  
 
 ===
 
@@ -52,19 +52,19 @@ shortcode-core:
 
 [color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-left,fa-border /][/color]<br>
 
-*1* 知人者智、  
+*１* 知人者智、  
 
-*2* 自知者明、  
+*２* 自知者明、  
 
-*3* 勝人者有力、  
+*３* 勝人者有力、  
 
-*4* 自勝者強、  
+*４* 自勝者強、  
 
-*5* 知足者富強行者有志、  
+*５* 知足者富強行者有志、  
 
-*6* 不失其所者久、  
+*６* 不失其所者久、  
 
-*7* 死而不亡者寿、 
+*７* 死而不亡者寿、 
 
 [color=lightgrey][fa fa-quote-left extras=fa-1x,fa-pull-right,fa-border /][/color]  
 
@@ -80,19 +80,19 @@ shortcode-core:
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
-| 1 | 人を知る者は{r}知(ち){/r}なり、 |
+| １ | 人を知る者は{r}知(ち){/r}なり、 |
 |   |   |
-| 2 | 自ら知る者は{r}明(めい){/r}なり。 |
+| ２ | 自ら知る者は{r}明(めい){/r}なり。 |
 |   |   |
-| 3 | 人に{r}勝(か){/r}つ者は力有り、自ら勝つ者は強し。 |
+| ３ | 人に{r}勝(か){/r}つ者は力有り、自ら勝つ者は強し。 |
 |   |   |
-| 4 |  {r}足(た){/r}ることを知る者は富めり。 |
+| ４ |  {r}足(た){/r}ることを知る者は富めり。 |
 |   |   |
-| 5 |  {r}強(つよ){/r}めて行なう者は{r}志(こころざし){/r}有り。 |
+| ５ |  {r}強(つよ){/r}めて行なう者は{r}志(こころざし){/r}有り。 |
 |   |   |
-| 6 | 其の所を{r}失(たが){/r}えざる者は久し。 |
+| ６ | 其の所を{r}失(たが){/r}えざる者は久し。 |
 |   |   |
-| 7 | 死して{r}而(しか){/r}も{r}失(うしな){/r}わざる者は{r}寿(いのち){/r}ながし。 |
+| ７ | 死して{r}而(しか){/r}も{r}失(うしな){/r}わざる者は{r}寿(いのち){/r}ながし。 |
 |   |   |
 
 [color=lightgrey][fa fa-quote-right extras=fa-1x,fa-pull-right,fa-border /][/color]  
@@ -131,6 +131,6 @@ shortcode-core:
 
 !!!! 引用：
 !!!! : 
-!!!! 「 [{r}老(ろう)子(し){/r}][1] 、―{r}小(お)川(がわ)環(たま)樹(き){/r}訳注―」、中公文庫485、1997年3月18日改版発行、第84ページーから。
+!!!! 「 [{r}老(ろう)子(し){/r}][1] 、―{r}小(お)川(がわ)環(たま)樹(き){/r}訳注―」、中公文庫４８５、１９９７年３月１８日改版発行、第８４ページーから。
 
 [1]: https://ja.wikipedia.org/wiki/老子 "https://ja.wikipedia.org/wiki/老子"

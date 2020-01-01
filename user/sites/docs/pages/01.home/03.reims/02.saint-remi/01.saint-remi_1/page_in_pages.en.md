@@ -3,15 +3,19 @@ title: Saint Remigius
 menu: saint remigius
 slug: "page:1"
 created: 10-11-2017, 04:23
-date: 08-03-2018, 10:40
-modified: 08-09-2018, 11:46
+date: 08-09-2018, 11:46
+modified: 17-10-2019, 23:29
 visible: false
 routable: false
 taxonomy:
     category: [remi, en]
 shortcode-core:
-   active: true
+    active: true
 ---
+!!!! The Baptism of the King of the Franks, Clovis in French, or "Clodovechus" from Latin by Saint Remi in French or sanctus Remigius in Latin in historical documents is told by Jacobus da Varagine in chapter 16 of "Legenda Aurea", which can be said to be the main Christian book in the Middle Ages.
+
+<br>
+
 ## chapter 16 St. Remigius {.green}
 
 ### first the interpretation of his name {.green}

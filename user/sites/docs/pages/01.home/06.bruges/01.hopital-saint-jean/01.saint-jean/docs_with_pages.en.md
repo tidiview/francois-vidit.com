@@ -3,8 +3,8 @@ title: Triptych of John the Baptist and John the Evangelist by Hans Memling
 titleone: '<ruby lang="en" style="color:#555;">Triptych of John The Baptist and John The Evangelist<rt lang="nl" style="color:#999;">Triptiek van Johannes de Doper en Johannes de Evangelist</rt></ruby>'
 menu: saint john
 created: 05-01-2017, 23:13
-date: 10-09-2018, 19:40
-modified: 11-11-2018, 17:21
+date: 20-12-2019, 20:09
+modified: 23-12-2019, 18:20
 taxonomy:
     category: [docs, en]
 content:

@@ -2,8 +2,8 @@
 title: saint Remi
 slug: "page:1"
 created: 10-11-2017, 04:22
-date: 08-03-2018, 10:23
-modified: 08-09-2018, 11:43
+date: 08-09-2018, 11:43
+modified: 17-10-2019, 23:29
 visible: false
 routable: false
 taxonomy:
@@ -11,6 +11,10 @@ taxonomy:
 shortcode-core:
    active: true
 ---
+!!!! Le Baptème du roi des Francs, Clovis en français, ou "Clodovechus" du latin par [saint Rémi][1] en français ou sanctus Remigius en latin dans les documents historiques est raconté par Jacques de Voragine dans le chapître 16 de "La Légende dorée", principal livre chrétien au Moyen-Âge.
+
+<br>
+
 ## chapître 16 saint Remi {.green}
 
 ### première interprétation de son nom {.green}

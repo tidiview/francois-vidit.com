@@ -2,8 +2,8 @@
 title: la Châsse de Sainte Ursule de Hans Memling
 slug: "page:1"
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 12:12
+date: 14-12-2017, 12:12
+modified: 01-01-2020, 12:14
 visible: false
 routable: false
 taxonomy:
@@ -76,7 +76,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/01.sainte-ursule_1/sainte-ursule-1280.jpg 1280w">
 </picture><figcaption>“Arrivée à Cologne”, “Arrivée à Bâle”, “Arrivée à Rome”</figcaption></figure>
 
-Mais elle, sous l'inspiration de Dieu, conseilla à son père d'accéder à la demande du roi, à cette condition toutefois : le roi et son père lui donneraient pour la consoler dix vierges très distinguées, on leur confierait mille vierges, à elle-même et à ses compagnes, et après avoir affrété onze trirèmes, on lui donnerait trois ans de délai pour faire le sacrifice de sa virginité (1) ; le jeune homme lui-même serait baptisé et instruit dans la foi pendant ces trois années.
+Mais elle, sous l'inspiration de Dieu, conseilla à son père d'accéder à la demande du roi, à cette condition toutefois : le roi et son père lui donneraient pour la consoler dix vierges très distinguées, on leur confierait mille vierges, à elle-même et à ses compagnes, et après avoir affrété onze trirèmes, on lui donnerait trois ans de délai pour faire le sacrifice de sa virginité; le jeune homme lui-même serait baptisé et instruit dans la foi pendant ces trois années.
 
 <figure><picture>
 <source
@@ -112,6 +112,6 @@ Elle usait là d'une sage décision, qui soit détournerait l'esprit du jeune ho
 Mais le jeune homme accepta volontiers ces conditions, pressa vivement son père, et s'étant fait baptiser sans délai, il ordonna de hâter l'exécution de tout ce que la jeune fille avait ordonné.  
 Le père de la jeune fille fit aussi en sorte que sa fille, qu'il aimait de tout son cœur, ait comme escorte des hommes qui lui viendraient en aide ainsi qu'à ses compagnes.
 De toutes parts, donc, des jeunes filles affluent, de toutes parts des hommes accourent à un si grand spectacle.
-Et beaucoup d'évêques les rejoignirent pour partir avec elles : parmi eux se trouvait Pantulus, évêque de Bâle, qui les conduisit jusqu'à Rome et qui, à son retour, reçut avec elles le martyre.  
+Et beaucoup d'évêques les rejoignirent pour partir avec elles: parmi eux se trouvait Pantulus, évêque de Bâle, qui les conduisit jusqu'à Rome et qui, à son retour, reçut avec elles le martyre.  
 Il y avait aussi sainte Gérasine, reine de Sicile qui, de loup qu’il était, avait, pour ainsi dire, transformé en agneau son mari, un roi très cruel; elle était la sœur de l'évêque Macirisius et de Darie, mère de sainte Ursule.
 Informée en secret par une lettre du père de sainte Ursule, suivant l'inspiration divine, elle laissa immédiatement son royaume aux mains d'un de ses fils et navigua jusqu'en Bretagne avec ses quatre filles, Babille, Julienne, Victoire et Aurée, et aussi avec son petit Adrien, qui par amour de ses soeurs s'était joint de lui-meme au pèlerinage.

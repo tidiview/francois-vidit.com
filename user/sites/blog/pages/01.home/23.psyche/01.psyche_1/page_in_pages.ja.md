@@ -2,8 +2,8 @@
 title: プシケ物語
 slug: "page:1"
 created: 11-08-2017, 13:39
-date: 08-11-2017, 22:23
-modified: 29-01-2018, 22:23
+date: 29-01-2018, 22:23
+modified: 12-12-2019, 20:47
 visible: false
 routable: false
 base64_itembackground: explosive-suns
@@ -14,7 +14,7 @@ shortcode-core:
 sitemap:
    changefreq: monthly
    priority: 0.9
----
+--- 
 !!! 以下の文書は、現在のアルジェリア北東のアラブ語では、「[{r=ja/ar}メダウルッシュ(مداوروش){/r}][9]」、古代のラテン語では、「{r=ja/la}マダウロス(Madauros){/r}」出身の{r=ja/la}アプレイウス(Apuleius){/r}が著わした、正式に『{r=ja/la}変容(Metamorphoseon){/r}の{r}十一冊の本(libri&#160;XI){/r}』、略して、『{r=ja/la}変容(Metamorphoses){/r}』が、主人公{r=ja/la}ルキウス(Lucius){/r}が{r}驢馬(ろば){/r}に変えられるため、親しんで、一般的に『{r=ja/la}黄金のろば(Asinus&#160;aureus){/r}』と呼称されてきた作品の一部であります。  
 !!! 紀元後160年から180年の間に書かれたと思われています。  
 !!! 全体的な解釈は、複数の階層が重なるため、専門家たちにさえ、とても難しく見えていましたが、今日まで、読者たちや芸術家たちなどを、神秘宗教や魔術の要素のためか、魅惑させ続けてきました。  

@@ -23,7 +23,7 @@ shortcode-core:
 
 ### 聖クレメンス {.orange #note_saint-clement}
 
-! 。
+! 神の王座と天的宮廷の幻影、王座での生きているものと子羊。
 ! 註に戻る：　[↑][10]
 
 [100]: /bruges/hopital-saint-jean/saint-jean/page:2#renvoi-aristodeme "https://francois-vidit.com/docs/ja/saint-jean/page:2#renvoi-aristodeme"

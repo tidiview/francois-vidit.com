@@ -3,8 +3,8 @@ title: ハンス・メムリンク筆の聖ウルスラの聖遺物箱
 titleone: '<ruby lang="ja" style="color:#555;">聖ウルスラの<wbr>聖遺物箱<rt lang="nl" style="color:#999;">Het Ursulaschrijn</rt></ruby>'
 menu: 聖ウルスラ
 created: 03-07-2017, 09:52
-date: 25-03-2018, 21:59
-modified: 05-12-2018, 16:30
+date: 05-12-2018, 16:30
+modified: 01-01-2020, 11:35
 itempage: Article
 taxonomy:
     category: [docs, ja]

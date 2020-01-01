@@ -2,8 +2,8 @@
 title: la Châsse de Sainte Ursule de Hans Memling
 slug: "page:2"
 created: 03-07-2017, 09:52
-date: 01-12-2017, 15:05
-modified: 14-12-2017, 12:12
+date: 14-12-2017, 12:12
+modified: 01-01-2020, 12:15
 visible: false
 routable: false
 taxonomy:
@@ -16,7 +16,7 @@ Sur le conseil de sainte Gérasine, des jeunes filles des différents royaumes s
 Suivant ce qui avait donc été convenu, des trirèmes ayant été bien approvisionnées, la reine révèle son plan aux vierges ses compagnes, et toutes prêtent serment pour constituer cette milice d'un nouveau genre.
 En effet, bientôt elles commencent les préludes de la guerre : elles courent tantôt ici, tantôt là, simulant parfois l'attaque, souvent la fuite, et elles ne dédaignent aucun des jeux qui leur viennent à l'esprit pour s'exercer, rentrant parfois à midi, parfois tard le soir.
 Les nobles et les princes affluaient à un si grand spectacle et tous étaient remplis d'admiration et de joie.
-Enfin, après qu'Ursule eut converti toutes les jeunes filles à la foi, après un jour de traversée, elles parvinrent, grâce à un vent favorable, à un port de Gaule nommé Tiel (2), et de là à Cologne, où un ange du Seigneur apparut à Ursule et lui prédit qu'elles reviendraient toutes ensemble en ce lieu et que c'est là qu'elles recevraient la couronne du martyre.
+Enfin, après qu'Ursule eut converti toutes les jeunes filles à la foi, après un jour de traversée, elles parvinrent, grâce à un vent favorable, à un port de Gaule nommé Tiel, et de là à Cologne, où un ange du Seigneur apparut à Ursule et lui prédit qu'elles reviendraient toutes ensemble en ce lieu et que c'est là qu'elles recevraient la couronne du martyre.
 
 <figure><picture>
 <source
@@ -47,7 +47,7 @@ srcset="
 /user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/02.sainte-ursule/02.sainte-ursule_2/sainte-ursule3-1920.jpg 1920w">
 </picture><figcaption>“Arrivée à Cologne”</figcaption></figure>
 
-Alors, sur l'avis de l'ange, elles se dirigèrent vers Rome ; abordant à Bâle, elles y laissèrent leur bateau et allèrent à Rome à pied.
+Alors, sur l'avis de l'ange, elles se dirigèrent vers Rome; abordant à Bâle, elles y laissèrent leur bateau et allèrent à Rome à pied.
 
 <figure><picture>
 <source
