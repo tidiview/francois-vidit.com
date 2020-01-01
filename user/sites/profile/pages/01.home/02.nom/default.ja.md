@@ -26,7 +26,7 @@ pure_u: 3-7
 
 | <span hidden>hidden</span> |
 | -------------------------- |
-| <span lang="ja" style="color:#000e5f">パリ</span><span style="color:#000e5f">在住<wbr>で、<wbr>日仏通訳士<wbr>として、15年以上、<wbr>通訳案内から、<wbr>逐次通訳各種、<wbr>翻訳まで、<wbr>様々な形でのお仕事も<wbr>させて<wbr>頂いています。</span> |
+| <span lang="ja" style="color:#000e5f">パリ</span><span style="color:#000e5f">在住<wbr>で、<wbr>日仏通訳士<wbr>として、１５年以上、<wbr>通訳案内から、<wbr>逐次通訳各種、<wbr>翻訳まで、<wbr>様々な形でのお仕事も<wbr>させて<wbr>頂いています。</span> |
 
 [1]: ./Francois.mp3 "名前である François の発音"
 [2]: ./VIDIT.mp3 "名字である VIDIT の発音"

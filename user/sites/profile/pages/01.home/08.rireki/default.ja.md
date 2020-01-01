@@ -2,8 +2,8 @@
 title: 履歴
 slug: rireki
 created: 05-08-2016, 17:44
-date: 04-11-2016, 23:18
-modified: 23-07-2017, 21:37
+date: 23-07-2017, 21:37
+modified: 01-01-2020, 11:18
 visible: false
 routable: false
 robots: 'noindex, nofollow'
@@ -17,9 +17,9 @@ style: 'margin-left: 0px'
 
 | <span hidden>hidden</span> | <span hidden>hidden</span> |  
 | -------------------------- | -- |  
-| 1999年 | ㈶日本国際<wbr>教育<wbr>協会　[日本語<wbr>能力<wbr>試験<wbr>３級][2]<wbr>合格 |
-| 2003年 | <span title="ジェトロ">日本<wbr>振興<wbr>機構</span>　第8回<wbr>ジェトロ<wbr>[ビジネス<wbr>日本語<wbr>能力<wbr>テスト合格][3] |  
-| 2011年 |[<ruby><rb lang="ja">トゥールーズ</rb><rt lang="fr" style="font-variant: small-caps;">Toulouse</rt><rb lang="ja">＝</rb><rt lang="fr">-</rt><rb lang="ja">ジャン</rb><rt lang="fr" style="font-variant: small-caps;">Jean</rt><rb lang="ja">・</rb><rt lang="fr"> </rt><rb lang="ja">ジョレス</rb><rt lang="fr" style="font-variant: small-caps;">Jaurès</rt></ruby>大学][4] で、 [フランス<wbr>通訳<wbr>案内士<wbr>資格][5]<wbr>獲得 |  
+| １９９９年 | ㈶日本国際<wbr>教育<wbr>協会　[日本語<wbr>能力<wbr>試験<wbr>３級][2]<wbr>合格 |
+| ２００３年 | <span title="ジェトロ">日本<wbr>振興<wbr>機構</span>　第８回<wbr>ジェトロ<wbr>[ビジネス<wbr>日本語<wbr>能力<wbr>テスト合格][3] |  
+| ２０１１年 |[<ruby><rb lang="ja">トゥールーズ</rb><rt lang="fr" style="font-variant: small-caps;">Toulouse</rt><rb lang="ja">＝</rb><rt lang="fr">-</rt><rb lang="ja">ジャン</rb><rt lang="fr" style="font-variant: small-caps;">Jean</rt><rb lang="ja">・</rb><rt lang="fr"> </rt><rb lang="ja">ジョレス</rb><rt lang="fr" style="font-variant: small-caps;">Jaurès</rt></ruby>大学][4] で、 [フランス<wbr>通訳<wbr>案内士<wbr>資格][5]<wbr>獲得 |  
 
 [2]: http://www.jlpt.jp/ "http://www.jlpt.jp/"
 [3]: http://www.kanken.or.jp/bjt/ "http://www.kanken.or.jp/bjt/"
