@@ -24,7 +24,7 @@ metadata:
    image_title: "聖アエギディウスの画家、《クロヴィス１世の洗礼》"
    image_legend: "クロヴィス１世がランス大司教の聖レミギウスから洗礼を受けている。"
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/02.saint-remi/docs_with_pages.ja.md"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/04.saint-remi/docs_with_pages.ja.md"]
 specialty: ["フランス歴史", "古代末期", "キリスト教", "聖職者", "ランス", "サン＝レミ", "聖レミギウス", "クロヴィス１世", "クロヴィスの洗礼", "ヤコブス・デ・ヴォラギネ", "レゲンダ・アウレア", "黄金伝説", "ランス・ノートルダム大聖堂"]
 shortcode-core:
    active: true

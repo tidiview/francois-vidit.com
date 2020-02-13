@@ -1,5 +1,5 @@
 ---
-title: Eros
+title: l'amour selon Diotime
 slug: "page:2"
 created: 28-07-2018, 17:52
 date: 12-12-2019, 20:54
@@ -8,7 +8,7 @@ visible: false
 routable: false
 base64_itembackground: explosive-suns
 taxonomy:
-    category: [eros, fr]
+    category: [diotime, fr]
 shortcode-core:
     active: true
 sitemap:
@@ -21,7 +21,7 @@ sitemap:
 | <span hidden>hidden</span> | <span hidden>hidden</span> | <span hidden>hidden</span> |
 | - | - | - |
 |  | <span hidden>hidden</span> | <span hidden>hidden</span> |
-| <sup>204a</sup> | DIOTIME |  — <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> Voici en effet ce qu'il en est. |
+| <sup>204a</sup> | DIOTIME |  <span><svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" viewBox="0 0 78 78" fill="lightgrey" opacity="1"><path d="M76.5 9.0009L57.0898 32.605c-.88226 1.10283-.88226 1.54397-.88226 1.76454 0 1.10286 1.76455 3.30857 2.8674 4.632l13.0167 14.99877L61.50123 74.9545 50.4727 59.51456c-2.87047-3.97028-10.80793-15.88413-10.80793-19.19267 0-1.76458.6617-2.4263 6.6171-9.7051C60.8395 12.74754 63.04522 10.98297 70.98575 3.0455L76.5 9.00092zm-38.16172 0L18.9281 32.605c-.88228 1.10283-.88228 1.54397-.88228 1.76454 0 1.10286 1.76457 3.30857 2.86742 4.632L33.92688 54.0003 23.3395 74.9545 12.30793 59.51456C9.44053 55.54428 1.5 43.63043 1.5 40.3219c0-1.76458.6617-2.4263 6.6171-9.7051C22.67475 12.74754 24.88043 10.98297 32.82097 3.0455l5.51732 5.9554z"/></svg></span> — Voici en effet ce qu'il en est. |
 |  |  | Aucun dieu ne tend vers le savoir ni ne désire devenir savant, car il l'est ; |
 |  |  | or, si l'on est savant, on n'a pas besoin de tendre vers le savoir. |
 |  |  | Les ignorants ne tendent pas davantage vers le savoir ni ne désirent devenir savants, |
@@ -29,7 +29,7 @@ sitemap:
 |  |  | Non, celui qui ne s’imagine pas en être dépourvu ne désire pas ce dont il ne croit pas devoir être pourvu. |
 |  | SOCRATE |  — Qui donc, Diotime, demandai-je, sont ceux qui tendent vers le savoir, si ce ne sont ni les savants ni les ignorants? |
 |  |  |  |
-|  | DIOTIME |  — D'ores et déjà, répondit-elle, il est parfaitement clair, même pour un enfant, que ce sont ceux qui se trouvent entre les deux, et qu'Eros doit être du nombre. |
+|  | DIOTIME |  — D'ores et déjà, répondit-elle, il est parfaitement clair, même pour un enfant, que ce sont ceux qui se trouvent entre les deux, et qu'Éros doit être du nombre. |
 |  |  | Il va de soi, en effet, que le savoir compte parmi les choses qui sont les plus belles ; or Éros est amour du beau. |
 |  |  | Par suite, Éros doit nécessairement tendre vers le savoir, et, puisqu'il tend vers le savoir, il doit tenir le milieu entre celui qui sait et l'ignorant. |
 |  |  | Et ce qui en lui explique ces traits, c'est son origine: |

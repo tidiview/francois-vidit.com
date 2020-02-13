@@ -2,8 +2,8 @@
 title: Triptych of John the Baptist and John the Evangelist by Hans Memling
 slug: "page:18"
 created: 02-08-2018, 12:25
-date: 06-10-2018, 12:05
-modified: 23-12-2019, 19:32
+date: 23-12-2019, 19:32
+modified: 03-01-2020, 21:41
 visible: false
 routable: false
 taxonomy:
@@ -11,6 +11,34 @@ taxonomy:
 shortcode-core:
     active: true
 ---
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Jean l'Évangéliste, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Jean l'Évangéliste, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-60-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w">
+</picture><figcaption>John the Evangelist</figcaption></figure>
+
 ## St. John the Evangelist according to the Golden Legend {.orange}
 
 Chapter 9. St. John the Evangelist
@@ -43,12 +71,66 @@ And Miletus, Bishop of Laodicea, wrote his life, the which Isidore abridged and 
 
 ### persecuted for his faith by domitian {.orange}
 
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w">
+</picture><figcaption>detail of the central panel, “Salding of John the Evangelist by order of Emperor Domitian in front of the Latin Gate in Rome and departure for exile in the island of Patmos”</figcaption></figure>
+
 [color=#994c3d]John[/color], apostle and evangelist, the beloved of the Lord the virgin elected man, departed for Asia when the apostles separated after Pentecost. There he founded many churches.  
 In this time Emperor Domitian heard of him, ordered him to be brought to him and made him to be cast into a vat or a ton full of hot oil in front of the Latin Gate, 
 of which he issued out, by the help of God, more pure and more fair, without feeling of any more heat or chauffing, than he entered in.  
 After this that emperor saw that he ceased not to preach the christian faith, he sent him into exile unto an isle called Patmos, were alone, he wrote the Apocalypse.
 
 ### the raising of drusiana {.orange}
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, column capital, “resurrection of Drusiana”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, column capital, “resurrection of Drusiana”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-70-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w">
+</picture><figcaption>detail of the central panel, column capital, “resurrection of Drusiana”</figcaption></figure>
 
 In this same year was Domitian the emperor, for his evils, put to death, and all that he had done was revoked by the senators and defeated, 
 and thus was [color=#994c3d]St. John[/color] brought again from his exile with great honour into Ephesus; 
@@ -64,27 +146,58 @@ And her friends brought her tofore [color=#994c3d]St. John[/color] all weeping a
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
 | [color=#165493]—&#160;[/color] | [color=#165493]Lo! here is Drusiana which much loved thee and did thy commandments, and is dead, and desired nothing so much as thy return, and that she might see thee tofore her death. [/color] |
+|   | [color=#165493]Now thou art come hither and she may not see thee.[/color] |
 
-Now thou art come hither and she may not see thee.  
-[color=#994c3d]St. John[/color] had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her.  
-And when they had so done he said, hearing all, with a loud voice,
+[color=#994c3d]St. John[/color] had great pity on her that was dead, and of the people that wept for her, and commanded that they should set down the bier, and unbind and take away the clothes from her. And when they had so done he said, hearing all, with a loud voice,
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
-| [color=#df8f20]—&#160;[/color] | [color=#df8f20]Drusiana, my Lord God Jesus Christ ariseth thee;　[/color] |
-|   | [color=#df8f20]Drusiana arise, and go into thy house, and make ready for me some refection.[/color] |
+| [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Drusiana, my Lord God Jesus Christ ariseth thee;　[/color] |
+|   | [color=#df8f20]Drusiana arise, and go into thy house, and make ready for me some refection.»[/color] |
 
 Anon she arose and went in to her house for to do the commandment of [color=#994c3d]St. John[/color], and the people made three hours long a great noise and cry, saying there is but one God, and that is he whom [color=#994c3d]St. John[/color] preacheth.
 
 ### the baptisma of Crato {.orange}
 
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, column capital, “baptisma of Crato”, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, column capital, “baptisma of Crato”, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/craton-1920.jpg 1920w">
+</picture><figcaption>detail of the central panel, column capital, “baptisma of Crato”</figcaption></figure>
+
 It happed on another day that Crato the philosopher made a great assembly of people in the midst of the city, for to show to them how they ought to despise the world.  
 And he had ordained two young men brethren which were much rich, and had made them to sell their patrimony and therewith to buy precious stones, the which these two young men brake in the presence of the people, 
-for to show how these precious and great riches of the world be soon destroyed.  
-The apostle was going through there; he called the philosopher near him and criticized him for this kind of contempt for the world for three reasons:  
-firstly, this refusal by the world was rented by men, but rejected by the divine judgment; 
-Secondly, this gesture, which does not serve the vice, is in vain, as is pointless any cure that does not involve a disease.  
-Finally, the contempt of the world is meritorious to the person who distributes his property to the poor, following what the Lord said to a young man: [«If you want to be perfect, go, etc.»][13]{.orange #mathieu}  
+for to show how these precious and great riches of the world be soon destroyed.
+
+The apostle was going through there; he called the philosopher near him and criticized him for this kind of contempt for the world for [color=#994c3d]three reasons[/color]:
+
+[color=#994c3d]firstly[/color], [color=#994c3d]this refusal by the world was rented by men, but rejected by the divine judgment[/color]; 
+
+[color=#994c3d]Secondly[/color], [color=#994c3d]this gesture, which does not serve the vice, is in vain, as is pointless any cure that does not involve a disease[/color].
+
+[color=#994c3d]Finally[/color], [color=#994c3d]the contempt of the world is meritorious to the person who distributes his property to the poor[/color], following what the Lord said to a young man: [«If you want to be perfect, go, etc.»][13]{.orange #mathieu}
+
 Craton replied:
 
 |   | <span hidden>hidden</span> |
@@ -94,10 +207,10 @@ Craton replied:
 So [color=#994c3d]St. John[/color] gathered in his hand the fragments of the stones and put himself in prayer; 
 the stones were returned to their first state.  
 Immediately the philosopher and the two young people began to believe, sold the stones and distributed the prize to the poor.  
-On this, in their example, two other young people from good families sold all their property, gave the product to the poor and followed [color=#994c3d]John[/color].
 
 ### st. john's sermons against material wealth {.orange}
 
+On this, in their example, two other young people from good families sold all their property, gave the product to the poor and followed [color=#994c3d]John[/color].
 But one day, they fired their replete servants of precious magnets, even though they had only one coat and they saddened themselves.  
 [color=#994c3d]St. John[/color] noticed their sad mine; From the shore of the sea, he made branches and small stones and transformed them into gold and precious stones.  
 On the order of the apostle, young people sought, for seven days, from all the experts in gold and precious stones and returned by saying that they had testified never to have seen or so pure or precious stones.  
@@ -118,8 +231,7 @@ The [color=#994c3d]third[/color] is creation, because the sun, the moon, the sta
 
 The [color=#994c3d]fourth[/color] cause is [color=#994c3d]fortune[/color], because the rich is the slave of money and devil: the slave of money, he does not possess wealth, but is possessed by wealth; slave to devil, the lover of money, according to the Gospel, serves Mammon (Matthew 6, 24; Luke 16, 13). 
 
-The [color=#994c3d]fifth[/color] is the [color=#994c3d]concern[/color], because the rich experience, both day and night, the concern and obsession to acquire and fear of losing.  
-Indeed, they have trouble to acquire and fear to keep. 
+The [color=#994c3d]fifth[/color] is the [color=#994c3d]concern[/color], because the rich experience, both day and night, the concern and obsession to acquire and fear of losing. Indeed, they have trouble to acquire and fear to keep. 
 
 The [color=#994c3d]sixth[/color] cause is the [color=#994c3d]loss[/color]:  
 it showed that wealth causes a loss that lies in the acquisition of two evils: evil in life present, vanity, and evil in future life, eternal damnation.  
@@ -146,22 +258,56 @@ The apostle tells them:
 | - | -------------------------- |
 | [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Make penance for thirty days by praying that branches and stones return to their first nature.»[/color]
 
-When it was done, he said:  
-«Go carry these branches and stones where you took them.»  
+When it was done, he said:
+
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Go carry these branches and stones where you took them.»[/color] |
+
 When they performed and the branches and stones were found in their first nature, they received all the grace of the virtues they had possessed before.
 
 ### the destruction of diana's temple {.orange}
 
 [color=#994c3d]St. John[/color] had preached to all of Asia.  
-One day, the worms of the idol fomented a popular sedition and took him to the temple of Diane to force him to offer a sacrifice.  
+One day, the worms of the idol fomented a popular sedition 
+and took him to the temple of Diane to force him to offer a sacrifice.  
 [color=#994c3d]John[/color] offered them this alternative:  
-or they would succeed in convincing the Church of Christ to invoke Diane and then he would offer himself a sacrifice to the idols:  
-or he would succeed himself in making them to invoke the Christ to the temple of Diane and then they should believe in Christ.  
+- or they would succeed in convincing the Church of Christ to invoke Diane 
+and then he would offer himself a sacrifice to the idols:  
+- or he would succeed himself in making them to invoke the Christ to the temple of Diane 
+and then they should believe in Christ.  
 The majority of the people agreed; 
 everyone came out of the temple, the apostle went into prayer and the temple collapsed; 
 Diane's statue broke into a thousand pieces. 
 
 ### the cup of poison {.orange}
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Jean l'Évangéliste, Memling Museum, Hospital St. John, Bruges (Brugge)" alt="Hans MEMLING, “Triptych of John the Baptist and John the Evangelist”, detail of the central panel, Jean l'Évangéliste, Memling Museum, Hospital St. John, Bruges (Brugge)" class="class-60-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w">
+</picture><figcaption>John the Evangelist holding a cup of poison</figcaption></figure>
 
 So Aristodeme, priest of the idols, gave rise to a strong argument among the people, so that part of this people was preparing to confront the other. The apostle says:
 
@@ -207,7 +353,7 @@ So the apostle named in the name of Christ the priest and the proconsul, who con
 
 ### name of John {.orange #note_nomdejean}
 
-! On the meaning of the name of John in Hebrew, see also the [«name “jean”, its link with the institution, its etymology»][111].  
+! On the meaning of the name of John in Hebrew, see also the [«name “john”, its link with the institution, its etymology»][111].  
 ! back to the note: [name of John↑][12]
 
 ### If you wish to be perfect {.orange #note_mathieu}

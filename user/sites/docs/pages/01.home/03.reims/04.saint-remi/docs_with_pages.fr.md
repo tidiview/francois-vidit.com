@@ -25,7 +25,7 @@ metadata:
    image_title: "Maître de saint Gilles, “Le Baptème de Clovis”"
    image_legend: ""
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/02.saint-remi/docs_with_pages.fr.md"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/04.saint-remi/docs_with_pages.fr.md"]
 specialty: ["Histoire de France", "Antiquité tardive", "Christianisme", "Saint", "Reims", "Saint Remi", "Clovis", "Baptème de Clovis", "Jacques de VORAGINE", "Légende Dorée", "Cathédrale Notre-Dame de Reims"]
 shortcode-core:
    active: true

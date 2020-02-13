@@ -1,5 +1,5 @@
 ---
-title: Eros
+title: Love according to Diotime
 menu: Eros
 created: 28-07-2018, 10:25
 date: 28-07-2018, 10:25
@@ -13,7 +13,7 @@ taxonomy:
 content:
     items:
        '@taxonomy':
-         category: [eros, en]
+         category: [diotime, en]
     order:
         by: default
         dir: asc
@@ -25,7 +25,7 @@ breadcrumbs:
 simplesearch:
     enabled: false
 metadata:
-    description: ""
+    description: "Excerpt from Plato's dialogue “The Banquet” (203b to 204a) in which Diotius, Mantinea's priestess and prophet, answers Socrates' questions about the nature of Love."
     keywords: ""
     image: eros_700x870.jpg
     image_width: 700
@@ -41,10 +41,10 @@ sitemap:
    changefreq: weekly
    priority: 0.9
 ---
-!!! ローマ時代の小説のなかで唯一に完全に現存する紀元後二世紀にアプレイウスが著した「変容」は通常「黄金のろば」と呼称されている。  
-
-以下の文書は、
+!!! In Plato's “Banquet”, a few people gathered for a social gathering exchange views on the meaning of {r=fr/grc}love(Érôs){/r}.  
+It is there that Socrates declares that as a young man, the "philosophy of Love" was taught to him by Diotime, priestess and prophet.  
+Socrates asks Diotime several questions about love.
 
 ===
 
-物語
+Go to the article

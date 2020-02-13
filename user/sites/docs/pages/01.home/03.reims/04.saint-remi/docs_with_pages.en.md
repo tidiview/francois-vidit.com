@@ -25,7 +25,7 @@ metadata:
    image_title: "Master of St. Giles, “The Baptism of Clovis”"
    image_legend: ""
    'twitter:card': summary
-significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/02.saint-remi/docs_with_pages.en.md"]
+significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/docs/pages/01.home/03.reims/04.saint-remi/docs_with_pages.en.md"]
 specialty: ["History of France", "Late Antiquity", "Christianism", "Reims", "Saint Remigius", "Clovis", "Baptism of Clovis"]
 shortcode-core:
    active: true

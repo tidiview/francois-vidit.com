@@ -2,8 +2,8 @@
 title: ハンス・メムリンク筆の洗礼者ヨハネと福音書記者ヨハネの三連画
 slug: "page:17"
 created: 24-06-2018, 21:02
-date: 22-12-2019, 22:54
-modified: 23-12-2019, 18:18
+date: 23-12-2019, 18:18
+modified: 04-01-2020, 00:43
 visible: false
 routable: false
 taxonomy:

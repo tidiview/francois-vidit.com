@@ -38,7 +38,7 @@ sitemap:
     priority: 0.6
 ---
 
-####Par Serge Raffy, journaliste
+#### Par Serge Raffy, journaliste
 
 !! <span><svg class="caracter-icon" width="25px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><g fill="none" stroke="#b52b27" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"><path d="M6.482 1h35.036v46H6.482z"/><path d="M12.098 8.561h9.265v12.35h-9.265zM27.797 8.561h8.105M27.797 14.735h8.105M27.797 20.913h8.105M12.098 27.088h23.804M12.098 33.267h23.804M12.098 39.441h23.804"/></g></svg></span> Voici un compte-rendu d'un débat qui s'est tenu entre spécialistes à l'occasion du 300ème anniversaire de la mort de Louis XIV le 1er septembre 2015.  
 !! Le règne de Louis XIV est **méconnu** et très fréquemment **victime du regard de notre époque**.  
@@ -46,9 +46,9 @@ sitemap:
 !! Puissent les nombreuses annotations en marge de ce texte contribuer à nuancer. 
 !! **Après, chacun son opinion**.
 
-##### Dans le roman national, il est le roi des rois. L'incarnation de ce Grand Siècle où la France dominait le monde. 300 ans après sa mort, pourtant, les historiens discutent encore qui fut vraiment Louis XIV. Un génie de la guerre, amoureux des arts, fondateur de l'État-nation? Ou un monarque manipulé par ses conseillers, et dont les frasques annoncent déjà la Révolution? 
+Dans le roman national, il est le roi des rois. L'incarnation de ce Grand Siècle où la France dominait le monde. 300 ans après sa mort, pourtant, les historiens discutent encore qui fut vraiment Louis XIV. Un génie de la guerre, amoureux des arts, fondateur de l'État-nation? Ou un monarque manipulé par ses conseillers, et dont les frasques annoncent déjà la Révolution? 
 
-**Il n'aurait jamais dû rencontrer Louis XIV**.  
+Il n'aurait jamais dû rencontrer Louis XIV.  
 
 L'historien Daniel Dessert s'était programmé un destin d'archéologue. Dans les années 1960, il rêvait de partir au Pérou étudier les tombeaux incas. L'histoire de France? Les Bourbons le barbaient. Pourtant, à l'université de Nanterre, en pleine révolution étudiante, il modifie radicalement ses plans. Il tombe sous le charme d'un professeur fameux, Pierre Goubert, un des inspirateurs de l'école des Annales, grand spécialiste de l'Ancien Régime.
 

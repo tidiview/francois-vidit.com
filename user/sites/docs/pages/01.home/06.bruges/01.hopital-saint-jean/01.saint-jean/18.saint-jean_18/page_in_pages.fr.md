@@ -2,8 +2,8 @@
 title: Triptyque de Jean le Baptiste et de Jean l'Évangéliste de Hans Memling
 slug: "page:18"
 created: 02-08-2018, 11:58
-date: 20-12-2019, 02:10
-modified: 23-12-2019, 19:33
+date: 23-12-2019, 19:34
+modified: 04-01-2020, 00:43
 visible: false
 routable: false
 taxonomy:
@@ -16,27 +16,27 @@ shortcode-core:
 <source
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.webp 280w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.webp 380w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.webp 480w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.webp 640w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.webp 840w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.webp 1280w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.webp 1600w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.webp 1920w"
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img"
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-280.jpg 280w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-380.jpg 380w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-480.jpg 480w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-640.jpg 640w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-840.jpg 840w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1280.jpg 1280w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1600.jpg 1600w,
-/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/03.saint-jean_3/jean-l-evangeliste-1920.jpg 1920w">
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w">
 </picture><figcaption>Jean l'Évangéliste</figcaption></figure>
 
 ### Jean l'évangéliste selon la Légende dorée {.orange #jean-selon-legende}
@@ -71,12 +71,66 @@ L'évêque Milet de Laodicée a rédigé sa Vie, qu'Isidore a abrégée dans son
 
 ### persécutés pour sa foi par Domitien {.orange}
 
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/rome-1920.jpg 1920w">
+</picture><figcaption>détails du panneau central, “Ébouillantement de Jean l'Évangéliste sur ordre de l'empereur Domitien devant la Porte Latine à Rome et départ en l'exil sur l'île de Patmos”</figcaption></figure>
+
 [color=#994c3d]Jean[/color], apôtre et évangéliste, le bien-aimé du Seigneur l'homme vierge élu, partit pour l’Asie quand les apôtres séparèrent après la Pentecôte. Il y fonda de nombreuses églises.  
 L'empereur Domitien entendit parler de lui, le convoqua et le fit jeter dans une cuve d'huile bouillante, devant la porte Latine.  
 Il en sortit aussi indemne qu'il avait été étranger à la corruption de la chair.  
 L'empereur, constatant qu'il ne renonçait pas à la prédication, l'exila dans l'île de Patmos où, dans la solitude, il écrivit l’Apocalypse. 
 
 ### la résurrection de Drusiane {.orange}
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-70-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/chapiteau-3-1920.jpg 1920w">
+</picture><figcaption>détail du panneau central, chapiteau de colonne, “résurrection de Drusiane”</figcaption></figure>
 
 La même année, l'empereur fut tué en châtiment de son extrême cruauté, et le Sénat annula tout ce qu'il avait fait; 
 et c'est ainsi qu'il arriva que [color=#994c3d]saint Jean[/color], qui avait été injustement déporté dans cette île, put revenir à Éphèse avec tous les honneurs.  
@@ -91,7 +145,8 @@ Les parents de Drusiane, les veuves et les orphelins dirent à [color=#994c3d]Je
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
-| [color=#165493]—&#160;[/color] | [color=#165493]«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant: “Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”»[/color] |
+| [color=#165493]—&#160;[/color] | [color=#165493]«Vénérable Jean, c'est Drusiane que nous portons en terre, elle qui a toujours suivi tes instructions, qui nous nourrissait et qui, aussi, désirait tant ta venue en répétant: [/color] |
+|   | [color=#165493]“Ah, si je pouvais voir l'apôtre de Dieu avant de mourir!”»[/color] |
 
 Alors [color=#994c3d]Jean[/color] fit déposer le cercueil et découvrir le corps en disant:
 
@@ -104,6 +159,33 @@ Elle se leva aussitôt et entreprit d'aller accomplir ce que l'apôtre avait ord
 
 ### le baptème de Craton {.orange}
 
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, “baptème de Craton”, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-40-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/14.saint-jean_14/craton-1920.jpg 1920w">
+</picture><figcaption>détail du panneau central, “baptème de Craton”</figcaption></figure>
+
 Le lendemain, le philosophe Craton convoqua le peuple sur la place du marché, afin de lui montrer comment il fallait mépriser le monde.  
 Il avait fait acheter des pierres très précieuses par deux frères très riches qui avaient liquidé leur patrimoine à cette fin; 
 et, à la vue de tous, il fit briser ces pierres.
@@ -115,6 +197,7 @@ L'apôtre se trouvait passer par là; il appela le philosophe près de lui et lu
 [color=#994c3d]ensuite[/color], [color=#994c3d]ce geste, qui ne soigne pas le vice, est vain, comme est vain tout remède qui ne soigne pas une maladie[/color].
 
 [color=#994c3d]Enfin[/color], [color=#994c3d]le mépris du monde est méritoire chez celui qui distribue ses biens aux pauvres[/color], en suivant ce que disait le Seigneur à un jeune homme: [«Si tu veux être parfait, va, etc.»][13]{.orange #mathieu}  
+
 Craton répondit:
 
 |   | <span hidden>hidden</span> |
@@ -148,8 +231,7 @@ La [color=#994c3d]troisième[/color] est la [color=#994c3d]création[/color], ca
 
 La [color=#994c3d]quatrième cause[/color] est la [color=#994c3d]fortune[/color], parce que le riche se fait l'esclave de l'argent et du diable: esclave de l'argent, il ne possède pas les richesses, mais il est plutôt possédé par les richesses; esclave du diable, l'amoureux de l'argent, selon l'Évangile, sert Mammon (Matthieu 6, 24; Luc 16, 13).
 
-La [color=#994c3d]cinquième[/color] est le [color=#994c3d]souci[/color], car les riches éprouvent, de jour comme de nuit, le souci et l'obsession d'acquérir et la crainte de perdre.  
-En effet, ils éprouvent de la peine à acquérir, et de la crainte à conserver.
+La [color=#994c3d]cinquième[/color] est le [color=#994c3d]souci[/color], car les riches éprouvent, de jour comme de nuit, le souci et l'obsession d'acquérir et la crainte de perdre. En effet, ils éprouvent de la peine à acquérir, et de la crainte à conserver.
 
 La [color=#994c3d]sixième cause[/color] est la [color=#994c3d]perte[/color]:  
 il montra que les richesses causent une perte qui réside dans l'acquisition de deux maux: un mal dans la vie présente, la vanité, et un mal dans la vie future, la damnation éternelle.  
@@ -169,7 +251,7 @@ Le jeune homme raconta bien des choses sur la gloire du paradis et sur les peine
 Il leur raconta qu'ils pouvaient perdre des palais éternels, construits d'étincelantes pierres précieuses, illuminés d'une clarté prodigieuse, abondants en riches banquets, pleins de délices, glorifiés par les joies et destinés à durer toujours.  
 De l'enfer, il présenta huit supplices ainsi versifiés:  
 «Vers et ténèbres, supplice, froid et brûlure Regard du démon, remords, douleur».  
-Alors, le jeune homme ressuscité et les deux disciples se jetèrent aux pieds de l'apôtre en lui demandant miséricorde. 
+Alors, le jeune homme ressuscité et les deux disciples se jetèrent aux pieds de l'apôtre en lui demandant miséricorde.  
 L'apôtre leur dit:
 
 |   | <span hidden>hidden</span> |
@@ -187,19 +269,45 @@ Quand ils se furent exécutés et que les branches et les pierres se furent retr
 ### la destruction du temple de Diane {.orange}
 
 Saint [color=#994c3d]Jean[/color] avait prêché à toute l'Asie.  
-Un jour, les adorateurs des idoles fomentèrent une sédition populaire et l'emmenèrent au temple de Diane pour l'obliger à offrir un sacrifice.  
+Un jour, les adorateurs des idoles fomentèrent une sédition populaire 
+et l'emmenèrent au temple de Diane pour l'obliger à offrir un sacrifice.  
 [color=#994c3d]Jean[/color] leur proposa cette alternative: 
+- ou bien ils réussiraient à convaincre l'Église du Christ d’invoquer Diane 
+et alors il offrirait lui-même un sacrifice aux idoles;
+- ou bien il réussirait lui-même à faire invoquer le Christ au temple de Diane 
+et alors ils devraient croire au Christ.
 
-|   | <span hidden>hidden</span> |
-| - | -------------------------- |
-| [color=#df8f20]—&#160;[/color] | [color=#df8f20]ou bien ils réussiraient à convaincre l'Église du Christ d’invoquer Diane et alors il offrirait lui-même un sacrifice aux idoles: [/color] |
-|   | [color=#df8f20]ou bien il réussirait lui-même à faire invoquer le Christ au temple de Diane et alors ils devraient croire au Christ. [/color] |
-
-La majorité du peuple en fut d'accord; 
-tout le monde sortit du temple, l'apôtre se mit en prière et le temple s'écroula; 
+La majorité du peuple en fut d'accord; tout le monde sortit du temple, l'apôtre se mit en prière et le temple s'écroula; 
 la statue de Diane se brisa en mille morceaux.
 
 ### la coupe de poison {.orange}
+
+<figure><picture>
+<source
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.webp 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.webp 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.webp 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.webp 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.webp 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.webp 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.webp 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.webp 1920w"
+type="image/webp" />
+<img
+src="/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg" title="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" alt="Hans MEMLING, “Triptyque de Jean-Baptiste et de Jean l'Évangéliste”, détail du panneau central, Jean l'Évangéliste, Musée Hans Memling, Hôpital Saint-Jean, Bruges (Brugge)" class="class-60-img"
+sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
+srcset="
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-280.jpg 280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-380.jpg 380w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-480.jpg 480w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-640.jpg 640w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-840.jpg 840w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/06.bruges/01.hopital-saint-jean/01.saint-jean/18.saint-jean_18/jean-l-evangeliste-1920.jpg 1920w">
+</picture><figcaption>Jean l'Évangéliste tenant une coupe de poison</figcaption></figure>
 
 Alors [Aristodème][1]{.orange #aristodeme}, prêtre des idoles, fit naître une forte dispute parmi le peuple, si bien qu'une partie de ce peuple se préparait à affronter l'autre. L'apôtre dit alors:
 
@@ -207,34 +315,54 @@ Alors [Aristodème][1]{.orange #aristodeme}, prêtre des idoles, fit naître une
 | - | -------------------------- |
 | [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Que veux-tu faire? Dis-le et je ferai ce qui te plaira.»[/color] |
 
-L'autre répondit:  
-«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.
+L'autre répondit:
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
-| [color=#df8f20]—&#160;[/color] | [color=#df8f20]Fais comme tu le dis»[/color], dit l'apôtre. |
+| [color=#165493]—&#160;[/color] | [color=#165493]«Si tu veux que je croie en ton Dieu, je te donnerai à boire du poison et s'il ne te fait aucun mal, ton seigneur apparaîtra comme le vrai Dieu.»[/color] |
 
-«Je veux d'abord, dit le prêtre, que tu voies des gens mourir, pour ta plus grande crainte.»  
-Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et, devant la foule, leur donna du poison.  
-Dès qu'ils l'eurent bu, ils rendirent l'âme.  
-Alors l'apôtre prit le calice et, en se protégeant par un signe de croix, but tout le poison, qui fut sans aucun effet.  
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Fais comme tu le dis»[/color], dit l'apôtre. |
+
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#165493]—&#160;[/color] | [color=#165493]«Je veux d'abord[/color], dit le prêtre, [color=#165493]que tu voies des gens mourir, pour ta plus grande crainte.»[/color] |
+
+Aristodème alla donc trouver le proconsul pour se faire confier deux hommes destinés à la décapitation et, 
+devant la foule, leur donna du poison.  
+Dès qu'ils l'eurent bu, 
+ils rendirent l'âme.  
+Alors l'apôtre prit le calice et, 
+en se protégeant par un signe de croix, 
+but tout le poison, qui fut sans aucun effet.  
 Tous se mirent alors à louer Dieu.  
-Mais Aristodème ajouta:  
-«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.»  
-L'apôtre lui donna alors sa tunique.  
-L'autre demanda: «Pourquoi m’as-tu donné ta tunique?
+Mais Aristodème ajouta:
+
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#165493]—&#160;[/color] | [color=#165493]«J'ai encore un doute; mais si tu ressuscites ces deux morts, je croirai véritablement et sans le moindre doute.»[/color] |
+
+L'apôtre lui donna alors sa tunique. L'autre demanda:
+
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#165493]—&#160;[/color] | [color=#165493]«Pourquoi m’as-tu donné ta tunique?»[/color] |
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
 | [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Pour qu'ainsi tu sois confondu et que tu abandonnes tes fausses croyances»[/color], rétorqua l'apôtre. |
 
-«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.  
+|   | <span hidden>hidden</span> |
+| - | -------------------------- |
+| [color=#165493]—&#160;[/color] | [color=#165493]«Penses-tu vraiment que ta tunique me fera croire?» dit l'autre.[/color] |
+
 L'apôtre dit:
 
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
 | [color=#df8f20]—&#160;[/color] | [color=#df8f20]«Va et jette-la sur le corps des défunts en disant:[/color] |
-|   | [color=#df8f20]“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ.”»[/color] |
+|   | [color=#df8f20]“L'apôtre du Christ m'a envoyé vers vous pour que vous ressuscitiez au nom du Christ”.»[/color] |
 
 Le prêtre s'exécuta et les morts ressuscitèrent aussitôt.  
 Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se convertirent avec toute leur famille et firent ensuite construire une église en l'honneur de [color=#994c3d]saint Jean[/color].
@@ -246,7 +374,7 @@ Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se conv
 ### nom de Jean {.orange #note_nomdejean}
 
 ! À propos du sens du nom de Jean en hébreu, voir aussi [«le nom “jean”, son lien avec l'institution, son étymologie»][111].  
-! retour à la note: [nom de Jean↑][12]
+! retour à la note: [nom de Jean ↑][12]
 
 ### Si tu veux être parfait {.orange #note_mathieu}
 
@@ -264,7 +392,7 @@ Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se conv
 ! <sup>23</sup> Et Jésus dit à ses disciples: “Amen, je vous le dis: un riche entrera difficilement dans le royaume des Cieux.  
 ! <sup>24</sup> Je vous le répète: il est plus facile à un chameau de passer par un trou d’aiguille qu’à un riche d’entrer dans le royaume des Cieux”.»  
 ! Cette histoire est également racontée par Jean, plus en détail : voir [Jean chapitre 11, verset 1-46][151]
-! retour à la note: [Si tu veux être parfait↑][14]
+! retour à la note: [Si tu veux être parfait ↑][14]
 
 ### histoire de l'hôte riche {.orange #note_hoteriche}
 
@@ -277,7 +405,7 @@ Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se conv
 ! <sup>24</sup> Alors il cria: “Père Abraham, prends pitié de moi et envoie Lazare tremper le bout de son doigt dans l’eau pour me rafraîchir la langue, car je souffre terriblement dans cette fournaise”.  
 ! <sup>25</sup> – “Mon enfant, répondit Abraham, rappelle-toi: tu as reçu le bonheur pendant ta vie, et Lazare, le malheur pendant la sienne. Maintenant, lui, il trouve ici la consolation, et toi, la souffrance”.»  
 ! Cette histoire est également racontée par Jean, plus en détail : voir [Jean chapitre 11, verset 1-46][151].
-! retour à la note: [histoire de l'hôte riche↑][14]
+! retour à la note: [histoire de l'hôte riche ↑][14]
 
 [1]: /bruges/hopital-saint-jean/saint-jean/page:3#renvoi-aristodeme "https://francois-vidit.com/docs/fr/saint-jean/page:3#renvoi-aristodeme"
 [11]: #note_nomdejean "nom de Jean"
@@ -288,4 +416,3 @@ Alors l'apôtre baptisa au nom du Christ le prêtre et le proconsul, qui se conv
 [15]: #note_hoteriche "histoire de l'hôte riche"
 [151]: https://www.aelf.org/bible/Jn/11 "https://www.aelf.org/bible/Jn/11"
 [16]: #hoteriche "histoire de l'hôte riche"
-

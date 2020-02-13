@@ -1,5 +1,5 @@
 ---
-title: La Grande École des Femmes
+title: La Grande Étude des Femmes
 menu: Onna Daïgakou
 slug: onnadaigaku
 created: 25-10-2019, 13:31
@@ -21,13 +21,13 @@ breadcrumbs:
 simplesearch:
     enabled: false
 metadata:
-    description: "Présentation et commentaire du texte «le trésor de la Grande École des Femmes» paru en 1716 représentatif du mouvement dit de «la Grande École des Femmes» et écrit par KAÏBARA Ekiken, philosophe néo-confuscianiste de l'époque d'Édo, et dans lequel il dresse avec force l'état d'esprit qui sied à la «Voie de la Femme»."
-    keywords: "néo-confuscianisme de l'époque d'Édo, La Grande École des Femmes, Onna Daïgakou, KAÏBARA Ekiken, le trésor de la Grande École des Femmes, Onna Daïgakou takarabako"
+    description: "Présentation et commentaire du texte «le trésor de la Grande Étude des Femmes» paru en 1716 représentatif du mouvement dit de «la Grande Étude des Femmes» et écrit par KAÏBARA Ekiken, philosophe néo-confuscianiste de l'époque d'Édo, et dans lequel il dresse avec force l'état d'esprit qui sied à la «Voie de la Femme»."
+    keywords: "néo-confuscianisme de l'époque d'Édo, La Grande Étude des Femmes, Onna Daïgakou, KAÏBARA Ekiken, le trésor de la Grande Étude des Femmes, Onna Daïgakou takarabako"
     image: onnadaigaku_700x550.jpg
     image_width: 700
     image_height: 550
-    image_title: Onna Daïgakou, La Grande École des Femmes
-    image_legend: Texte «la Grande École des Femmes» (Onna Daïgakou) dit aussi «Voie de la Femme».
+    image_title: Onna Daïgakou, La Grande Étude des Femmes
+    image_legend: Texte «la Grande Étude des Femmes» (Onna Daïgakou) dit aussi «Voie de la Femme».
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/貝原益軒", "https://ja.wikipedia.org/wiki/和俗童子訓", "https://ja.wikipedia.org/wiki/七去", "https://ja.wikipedia.org/wiki/女大学"]
 specialty: ["江戸儒教", "女大学", "貝原益軒", "女大学宝箱"]
@@ -37,21 +37,21 @@ sitemap:
     changefreq: weekly
     priority: 0.4
 ---
-! Ce que nous appelons aujourd'hui Onna Daïgakou (transcription française) (transcription anglaise: Onna Daigaku) soit littéralement «Grande École des Femmes» c'est le texte principal de ce manuel.  
+! Ce que nous appelons aujourd'hui Onna Daïgakou (transcription française) (transcription anglaise: Onna Daigaku) soit littéralement «Grande Étude des Femmes» c'est le texte principal de ce manuel.  
 
 ===
 
 ## Introduction
 
-### Qu'est-ce que le Grand École des Femmes ? {#renvoi_takarabako}
+### Qu'est-ce que le Grand Étude des Femmes ? {#renvoi_takarabako}
 
-Pratiquement, cela renvoit au titre d'un manuel d'éducation publié en 1716 (année inaugurale de l'ère {r=ja/fr}享(Kiō)保(ho){/r}) en collaboration par {r=ja/fr}柏(Kashi)原(wara)清(Kiyo)右(u)衛(e)門(mon){/r} d'Osaka et {r=ja/fr}小(O)川(gawa)彦(Hiko)九(ku)郎(rō){/r} d'Édo.  
+Pratiquement, cela renvoit au titre d'un manuel d'éducation publié en 1716 (année inaugurale de l'ère {r=fr/ja}Kiō(享)ho(保){/r}) en collaboration par {r=fr/ja}Kashi(柏)wara(原)Kiyo(清)u(右)e(衛)mon(門){/r} d'Osaka et {r=fr/ja}O(小)gawa(川)Hiko(彦)ku(九)rō(郎){/r} d'Édo.  
 
-La plus ancienne édition originale s'intitutle «[{r=ja/fr}女(Onna)大(daï)学(gaku)宝(Takara)箱(bako){/r}][9]» soit Trésor de la Grande École des femmes.   
+La plus ancienne édition originale s'intitutle «[{r=fr/ja}Onna(女)daï(大)gaku(学)Takara(宝)bako(箱){/r}][9]» soit Trésor de la Grande Étude des femmes.   
 
 C'est un manuel pour femmes très apprécié du milieu de l'époque d'Édo à l'éposue Meïji.  
 
-Cependant, pour en venir au contenu de la «Grande École des Femmes», il s'agit en temps que femme, du soutien à son mari et sa maison, sur la base d'une vision essentialisante qui tend à la «[Voie de la femme][7]{#note_onnanomichi}», d'aborder bien des domaines, tels la piété filiale vis-à-vis de ses parents, beau-frère, belle-sœur, les tâches ménagères, lessive, couture et autres, aux fiançailles, au mariage, aux naissances, à l'éducation des enfants, voire même aux entraînements par exemple de Shamisen ou encore de l'apparence vestimentaire.
+Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agit en temps que femme, du soutien à son mari et sa maison, sur la base d'une vision essentialisante qui tend à la «[Voie de la femme][7]{#note_onnanomichi}», d'aborder bien des domaines, tels la piété filiale vis-à-vis de ses parents, beau-frère, belle-sœur, les tâches ménagères, lessive, couture et autres, aux fiançailles, au mariage, aux naissances, à l'éducation des enfants, voire même aux entraînements par exemple de Shamisen ou encore de l'apparence vestimentaire.
 
 ### L'auteur et l'histoire
 
@@ -93,7 +93,7 @@ Cependant, pour en venir au contenu de la «Grande École des Femmes», il s'agi
 一夫一妻の枠組みのなかで、「貞操」を守らなくてはならないのは**女のみ**であり、男には適応されなかったのが江戸時代であった。  
 したがって「女の道」から外れた「不貞」は**女にだけ適応する言葉**である。   
 
-## le Takarabako ou Trésor de la Grande École des Femmes {#takarabako}
+## le Takarabako ou Trésor de la Grande Étude des Femmes {#takarabako}
 
 <a href="#renvoi_takarabako" alt="女大学とは？">女大学とは？ ↑</a>
 
@@ -147,7 +147,7 @@ Cependant, pour en venir au contenu de la «Grande École des Femmes», il s'agi
 |    |  |
 |    | Aujourd'hui, dans les maisons du vulgaire, on ignore ces règles, et on fait des sottises; on souille son nom, on attire des reproches à ses parents et à ses frères, on gâche toute sa vie. N'est-ce pas chose pitoyable? |
 |    | Une femme ne doit pas devenir intime avec quelqu'un, sauf par un intermédiaire (1. Le nakōdo, un ami sérieux qui négocie les préliminaires du mariage, organise chez lui ou dans quelque autre maison la mi-aï («entre-vue») des futurs epoux, et demeure l'arbitre des diffèrends qui, plus tard, pourraient surgir entre eux.) et suivant l'ordre de ses parents: |
-|    |  c'est ce que dit la «Petite École deshōgakou, un ouvrage chinois, par opposition à la «Grande École»desigakou, qui est le premier des «Quatre livres» confucianistes, celui auquel Ekikenn pensait lorsqu'il choisit le titre de son traité.». |
+|    |  c'est ce que dit la «Petite Étude deshōgakou, un ouvrage chinois, par opposition à la «Grande École»desigakou, qui est le premier des «Quatre livres» confucianistes, celui auquel Ekikenn pensait lorsqu'il choisit le titre de son traité.». |
 |    | Même au péril de sa vie, elle doit rendre son cœur dur comme le métal ou comme le roc, et observer la droiture. <a href="#renvoi_3">↑</a> |
 |    |  <hr>  |
 | <span id="4">4</span> | Une femme doit faire sa maison de la maison de son époux; c'est pourquoi, en Chine, on ne dit pas «aller», mais «revenir» chez son époux; ce qui signifie qu'elle rentre dans sa propre maison. |
@@ -219,7 +219,7 @@ Cependant, pour en venir au contenu de la «Grande École des Femmes», il s'agi
 | <span id="14">14</span> | Comme ornements du corps, comme couleur et dessin des vêtements, qu'elle ne choisisse pas de choses voyantes. |
 |   |Il est bien d'avoir le corps et les vêtements nets et propres. Se vêtir de choses très voyantes pour attirer les yeux d'autrui, c'est mauvais. Employez seulement ce qui convient à votre personne. <a href="#renvoi_14">↑</a> |
 |   |  <hr>  |
-| <span id="15">15 | Ne soyez point partiale pour les parents de votre maison, et ne négligez pas les parents de votre époux. Au Nouvel an, aux Fêtes (1. Les cinq fêtes populaires. Go-sekkou.-. Ce sont les vieilles fêtes populaires, que les nouvelles fêtes officielles n'ont pas encore, supplantées entièrement. Le 7ème jour du 1er mois, on allait cueillir dans les champs les «jeunes légumes» (waka-na) émergeant de la neige. - Le 3ème jour du 3ème mois, la fête des jeunes filles. Le 5ème jour du 5ème mois, fête des garçons. Le 7ème jour du 7ème mois, féte de Tanabata, «le Septième soir», inspirée par nue jolie légende d'origine chinoise, Une jeune Tisserande (l'étoile Véga) était si attentive à faire les vêtements des divinités qu'elle eu oubliait sa toilette. L'Empereur du Ciel, pris de pitié, la donna en mariage au Bouvier (une étoile de la constellation de l'Aigle) qui habitait de l'autre côté de la Rivière céleste (la Voie lactée). Mais alors elle se mit à négliger son travail. L'Empereur du Ciel, irrité, la fit revenir sur l'autre rive, et condamna son époux à ne plus la visiter qu’une fois par an, le 7ème soir du 7ème mois. On comprend donc pourquoi notre auteur veut cette nuit-là un ciel brillant, tout illuminé d'étoiles. - Le 9ème jour du 9ème mois, fète des chrysanthèmes. Il serait plus simple, mais moins exact, de dire le 7 janvier, le 3 mars, le 5 mai, le 7 juillet el, le 9 septembre. En effet les mois du calendrier grégorien, en vigueur au Japon depuis 1873 seulement, ne correspondent pas à ceux du calendrier lunaire, qui faisait commencer l'année environ un mois plus tard, D'où la nécessité de conserver l’ancienne computation du temps pour des fêtes qui doivent s'harmoniser avec les saisons.). et la suite, faites le service de votre époux d'abord, et après cela, le service de vos parents. |
+| <span id="15">15 | Ne soyez point partiale pour les parents de votre maison, et ne négligez pas les parents de votre époux. Au Nouvel an, aux Fêtes (1. Les cinq fêtes populaires. Go-sekkou.-. Ce sont les vieilles fêtes populaires, que les nouvelles fêtes officielles n'ont pas encore, supplantées entièrement. Le 7ème jour du 1er mois, on allait cueillir dans les champs les «jeunes légumes» (waka-na) émergeant de la neige. - Le 3ème jour du 3ème mois, la fête des jeunes filles. Le 5ème jour du 5ème mois, fête des garçons. Le 7ème jour du 7ème mois, fête de Tanabata, «le Septième soir», inspirée par nue jolie légende d'origine chinoise, Une jeune Tisserande (l'étoile Véga) était si attentive à faire les vêtements des divinités qu'elle eu oubliait sa toilette. L'Empereur du Ciel, pris de pitié, la donna en mariage au Bouvier (une étoile de la constellation de l'Aigle) qui habitait de l'autre côté de la Rivière céleste (la Voie lactée). Mais alors elle se mit à négliger son travail. L'Empereur du Ciel, irrité, la fit revenir sur l'autre rive, et condamna son époux à ne plus la visiter qu’une fois par an, le 7ème soir du 7ème mois. On comprend donc pourquoi notre auteur veut cette nuit-là un ciel brillant, tout illuminé d'étoiles. - Le 9ème jour du 9ème mois, fète des chrysanthèmes. Il serait plus simple, mais moins exact, de dire le 7 janvier, le 3 mars, le 5 mai, le 7 juillet el, le 9 septembre. En effet les mois du calendrier grégorien, en vigueur au Japon depuis 1873 seulement, ne correspondent pas à ceux du calendrier lunaire, qui faisait commencer l'année environ un mois plus tard, D'où la nécessité de conserver l’ancienne computation du temps pour des fêtes qui doivent s'harmoniser avec les saisons.). et la suite, faites le service de votre époux d'abord, et après cela, le service de vos parents. |
 |    | N'allez nulle part sans la permission de votre époux. Ne faites secrètement de cadeaux à personne. <a href="#renvoi_15">↑</a> |
 |   |  <hr>  |
 | <span id="16">16</span> | La femme ne continue pas la famille de ses parents, mais elle continue la famille de son beau-père et de sa belle-mère; elle doit donc regarder son beau-père et sa belle-mère comme plus précieux que ses propres parents et leur témoigner toute sa piété filiale. |
@@ -244,7 +244,7 @@ Cependant, pour en venir au contenu de la «Grande École des Femmes», il s'agi
 |    | mais d'autre part, ne soyez pas trop généreuse, parce qu'elles vous plaisent, envers des personnes inutiles. <a href="#renvoi_18">↑</a> |
 |   |  <hr>  |
 | <span id="19">19</span> | Les maladies qui proviennent de la méchanceté du cœur féminin sont: une indocilité sans modestie, la colère facile, le goût de médire, la jalousie, l'intelligence courte (1. Tchié-mijikaki. Ekikenn ne veut pas dire par là que les femmes soient completement stupides. Lui-même eut une femme intelligente qui, dit-on, l'accompagna dans tous ses voyages et l'aida dans ses travaux littéraires; à tel point que divers critiques lui attribuent justement l'Onna Daïgakou. Ce que notre moraliste reproche surtout à l'esprit féminin, c'est un certain manque de sagesse et de prévoyance.). |
-|    | Ces cinq maladies 1. It outsomu no Yamai. existent chez sept ou huit femmes sur dix; |
+|    | Ces cinq maladies 1. Itoutsomu no Yamai. existent chez sept ou huit femmes sur dix; |
 |    | et c'est pourquoi la femme est inférieure à l'homme. Faites-y donc attention et tâchez de vous en corriger. Ces cinq maladies proviennent surtout de ce que la femme n'est pas assez intelligente. |
 |    | La femme est un être d'essence négative (2. Inn ou kaghe, «ombre», le principe femelle ou négatif de la philosophie chinoise, par opposition au yō ou hinata, «lumière», le principe mâle ou positif.). Cette essence négative est de la nuit: elle est sombre. |
 |    |Par conséquent, la femme, auprès de l'homme, est sotte: elle ne comprend pas les choses faciles qui sont devant ses yeux; |
