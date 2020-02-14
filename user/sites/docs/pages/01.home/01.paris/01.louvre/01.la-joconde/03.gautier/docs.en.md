@@ -31,27 +31,27 @@ sitemap:
 <source
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.webp 280w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.webp 380w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-480.webp 480w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-640.webp 640w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.webp 840w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.webp 1280w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.webp 1600w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.webp 1920w"
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-280.webp 280w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-380.webp 380w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-480.webp 480w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-640.webp 640w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-840.webp 840w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1280.webp 1280w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1600.webp 1600w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1920.webp 1920w"
 type="image/webp" />
 <img
-src="/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg" title="Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»" alt="Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»" class="class-diane-img"
+src="/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-840.jpg" title="Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»" alt="Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»" class="class-diane-img"
 sizes="(max-width: 767px) 98vw, (min-width: 959px) 50vw, 86vw"
 srcset="
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-280.jpg 280w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-380.jpg 380w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-480.jpg 480w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-640.jpg 640w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-840.jpg 840w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1280.jpg 1280w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1600.jpg 1600w,
-/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/01.vasari/la-joconde-1920.jpg 1920w" id="zephyr_et_flore">
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-280.jpg 280w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-380.jpg 380w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-480.jpg 480w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-640.jpg 640w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-840.jpg 840w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1280.jpg 1280w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1600.jpg 1600w,
+/user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/03.gautier/la-joconde-1920.jpg 1920w" id="zephyr_et_flore">
 </picture><figcaption>Portrait of Lisa Gerardini, spouse of Francesco del Giocondo said «Mona Lisa, la Gioconda» or «the Joconde»</figcaption></figure>
 
 !!!! The description of the [Mona Lisa][2] presented below was written by romantic writer [Theophile GAUTIER][1] and published in Paris in 1867.  
