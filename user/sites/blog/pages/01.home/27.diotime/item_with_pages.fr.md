@@ -2,11 +2,11 @@
 title: l'amour selon Diotime
 menu: Érôs
 created: 28-07-2018, 10:22
-date: 28-07-2018, 10:22
-modified: 28-07-2018, 10:22
-base64_background: troisbarres
-base64_itembackground: traditionalwomanclothing
-svg_icon: goldenassdonkey
+date: 11-02-2020, 18:41
+modified: 21-02-2020, 18:58
+base64_background: moucharabieh2
+base64_itembackground: upsidesphere
+svg_icon: lips
 itempage: Blogposting
 taxonomy:
     category: [blog, fr]

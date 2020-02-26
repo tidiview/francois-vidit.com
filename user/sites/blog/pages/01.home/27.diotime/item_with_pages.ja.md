@@ -1,12 +1,12 @@
 ---
 title: ディオティマによる愛
 menu: エロス
-created: 28-07-2018, 10:18
-date: 28-07-2018, 10:18
-modified: 28-07-2018, 10:18
-base64_background: troisbarres
-base64_itembackground: traditionalwomanclothing
-svg_icon: goldenassdonkey
+created: 08-02-2020, 18:41
+date: 11-02-2020, 18:41
+modified: 21-02-2020, 18:58
+base64_background: moucharabieh2
+base64_itembackground: upsidesphere
+svg_icon: lips
 itempage: Blogposting
 taxonomy:
     category: [blog, ja]

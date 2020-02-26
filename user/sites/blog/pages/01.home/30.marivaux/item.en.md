@@ -1,16 +1,16 @@
 ---
-title: Marivaux, Slave island, Scene 2
+title: Marivaux, Slave island
 menu: Marivaux
 created: 12-02-2020, 12:43
 date: 12-02-2020, 12:43
 modified: 12-02-2020, 12:43
 itempage: BlogPosting
-base64_background: cartons-ouverts
-base64_itembackground: hexagonedefleches
-svg_icon: troisengrenages
+base64_background: points
+base64_itembackground: ile
+svg_icon: island
 taxonomy:
     category: [blog, en]
-    tag: [トゥールのグレゴリウス, メロヴィング朝歴史, ガロ・ローマ]
+    tag: []
 summary:
     enabled: true
     format: short
@@ -44,7 +44,7 @@ sitemap:
 
 ===
 
-Marivaux, Slave island, Scene 2
+## Scene 2
 
 TRIVELIN, with five or six islanders, arrives leading a lady, EUPHROSINE, and her maid, CLEANTHIS, and sees IPHICRATES about to assault HARLEQUIN. He disarms him.
 
@@ -93,3 +93,5 @@ When our ancestors, tired of the cruelty of their owners, fled from Greece and c
 human - for the rest of your lives. 
 HARLEQUIN: And all for free, and no pills, no surgery...
 where else could you get well soon that cheaply? 
+
+<br>

@@ -1,13 +1,13 @@
 ---
-title: Marivaux, L'île des esclaves, scène 2
+title: Marivaux, L'île des esclaves
 menu: Marivaux
 created: 12-02-2020, 12:42
 date: 12-02-2020, 12:42
 modified: 12-02-2020, 12:42
 itempage: BlogPosting
-base64_background: cartons-ouverts
-base64_itembackground: hexagonedefleches
-svg_icon: troisengrenages
+base64_background: points
+base64_itembackground: ile
+svg_icon: island
 taxonomy:
     category: [blog, fr]
     tag: []
@@ -37,14 +37,15 @@ sitemap:
    changefreq: daily
    priority: 1.0
 ---
-!! Dans une Antiquité de fantaisie, Iphicrate, un jeune noble athénien, se retrouve jeté sur le rivage d’une île avec son serviteur Arlequin:  
+!! Dans une Antiquité de fantaisie, Iphicrate, un jeune noble athénien, se retrouve jeté sur le rivage d’une île avec son serviteur Arlequin.
+
+===
+
 !! Le maître et le valet sont rejoints par un autre duo formé d'une maîtresse, Euphrosine, et de sa suivante, Cléanthis.  
 !! Trivelin les accueille en leur expliquant les lois de l'île: les rapports de pouvoir y sont systématiquement inversés.  
 !! Les maîtres et les esclaves nouvellement arrivés doivent échanger leurs habits, leurs conditions et jusqu'à leurs noms.
 
-===
-
-Marivaux, L'île des esclaves, scène 2
+## scène 2
 
 <div id="translation-text-rousi" markdown="1">
 
@@ -87,4 +88,5 @@ Marivaux, L'île des esclaves, scène 2
 |  | Arlequin: | — | Et le tout gratis, sans purgation ni saignée. Peut-on de la santé à meilleur compte? |
 
 </div> 
- 
+
+<br>

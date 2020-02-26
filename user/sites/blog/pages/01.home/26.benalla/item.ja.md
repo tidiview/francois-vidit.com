@@ -1,9 +1,9 @@
 ---
-title: 【マクロン＝ベナラ事件】５つの日本語での記事に添削、コメント、情報追加などの試み
+title: 【マクロン＝ベナラ事件】<wbr>５つの日本語での記事に<wbr>添削、コメント、情報追加などの試み
 menu: ベナラ事件
 created: 25-07-2018, 01:39
-date: 02-08-2018, 13:30
-modified: 05-08-2018, 00:08
+date: 05-08-2018, 00:08
+modified: 23-02-2020, 21:30
 itempage: NewsArticle
 base64_background: cartons-ouverts
 base64_itembackground: hexagonedefleches

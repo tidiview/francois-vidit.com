@@ -2,11 +2,11 @@
 title: l'amour selon Diotime
 slug: "page:1"
 created: 28-07-2018, 10:30
-date: 31-12-2019, 17:12
-modified: 12-02-2020, 11:39
+date: 12-02-2020, 11:39
+modified: 21-02-2020, 18:57
 visible: false
 routable: false
-base64_itembackground: explosive-suns
+base64_itembackground: upsidesphere
 taxonomy:
     category: [diotime, fr]
 shortcode-core:

@@ -5,9 +5,9 @@ created: 07-08-2018, 14:43
 date: 07-08-2018, 14:43
 modified: 11-02-2020, 21:44
 itempage: BlogPosting
-base64_background: cartons-ouverts
-base64_itembackground: hexagonedefleches
-svg_icon: troisengrenages
+base64_background: motifbulles
+base64_itembackground: livres
+svg_icon: juifchretien
 taxonomy:
     category: [blog, en]
     tag: [Gregory of Tours, History of the Merovingians, Gallo-Romans]
@@ -21,8 +21,8 @@ breadcrumbs:
 simplesearch:
     enabled: false
 metadata:
-    description: "This excerpt from the History of the Franks written by Gregory of Tours relates the meeting of King Chilperic I with one of his subjects of the Jewish religion named Priscus as witnessed by Gregory of Tours himself. This uncompromising spiritual battle, despite the very different conditions of the protagonists, allows us to appreciate the irreducibility of the Jewish faith in relation to Christianity, allowing us to discover a Middle Ages far removed from the images of a univocal Christianity. Fascinating and still relevant today!"
-    keywords: "Gregory of Tours, History of the Merovingians, Gallo-Romans"
+    description: "This excerpt from book 6 chapter 5 of the History of the Franks written by Gregory of Tours relates the meeting of King Chilperic I with one of his subjects of the Jewish religion named Priscus as witnessed by Gregory of Tours himself. This uncompromising spiritual battle, despite the very different conditions of the protagonists, allows us to appreciate the irreducibility of the Jewish faith in relation to Christianity, allowing us to discover a Middle Ages far removed from the images of a univocal Christianity. Fascinating and still relevant today!"
+    keywords: "Gregory of Tours, History of the Merovingians, Gallo-Romans, King Chilperic I, Priscus, Jewish–Christian relationship, book 6 chapter 5 of the History of the Franks"
     image: 650x553.jpg
     image_width: 650
     image_height: 553
@@ -30,23 +30,28 @@ metadata:
     image_legend: "Illumination extracted from the manuscript of the Great Chronicles of France by the Coronation Master of Charles VI, illuminator representing King Chilperic I and Gregory of Tours."
     'twitter:card' : summary
 significantlinks: ["https://github.com/tidiview/francois-vidit.com/blob/master/user/sites/blog/pages/01.home/28.priscus/item.en.md"]
-specialty: ["Gregory of Tours", "History of the Merovingians", "Gallo-Romans"]
+specialty: ["Gregory of Tours", "History of the Merovingians", "Gallo-Romans", "Priscus", "King Chilperic I", "Jewish–Christian relationship", "book 6 chapter 5 of the History of the Franks"]
 shortcode-core:
     active: true
 sitemap:
-   changefreq: daily
+   changefreq: yearly
    priority: 1.0
 ---
-!!!! This excerpt from the History of the Franks by Gregory of Tours relates the meeting of King Chilperic and one of his subjects of the Jewish religion named Priscus as witnessed by the author.  
+!!!! This excerpt from book 6 chapter 5 of the History of the Franks by Gregory of Tours relates the meeting of King Chilperic and one of his subjects of the Jewish religion named Priscus as witnessed by the author. 
+
+===
+
 !!!! The story is presented as a kind of spiritual warfare without concession despite the very different conditions of the protagonists.  
 !!!! Priscus does not take anything away from his faith, thus allowing us to perceive his faith, its irreducibility in relation to Christianity.  
 !!!! We find ourselves surprised, destabilized, we who, without realizing it, easily imagine the Middle Ages as univocally Christian.  
 !!!! Priscus reminds us of the liveliness, the originality, the singularity of the Jewish faith of which another witness could for example be Rachi of Troyes.  
 !!!! Fascinating!
 
-===
+<br>
 
-5 - While king Chilperic was still at the villa mentioned above he directed his baggage to be moved and made arrangements to go to Paris. 
+## Meeting of Chilperic I and Priscus
+
+5 - While king Chilperic was still at [the villa mentioned above][1]{.green #villa} he directed his baggage to be moved and made arrangements to go to Paris. 
 And when I went to see him to say good­by, a certain Jew named Priscus came in who was on friendly terms with him and helped him buy costly articles. 
 The king took him by the hair in a gentle way and said to me: 
 «Come, bishop of God, and lay your hands on him». 
@@ -121,4 +126,18 @@ Then when he was silent and the king saw that he was not conscience stricken bec
 «I will say to you, bishop, what Jacob said to the angel, for he said to him, ' I will not let you go until you bless me». 
 So saying he ordered water brought for our hands. 
 After washing them we prayed, and taking bread I thanked God and took it myself and offered it to the king, and after a draught of wine I said farewell and left. 
-And the king mounted his horse and returned to Paris with his wife and daughter and all his household.   
+And the king mounted his horse and returned to Paris with his wife and daughter and all his household.
+
+<br>
+
+### Notes {.green}
+
+#### the villa mentioned above {.green #note_villa}
+
+!!!! In the text in latin “Novigentum” probably on the site of the present town of Nogent-sur-Marne.  
+!!!! + Retour au texte [“the villa mentioned above” ↑][2]
+
+<br>
+
+[1]: ./#note_villa "villa"
+[2]: ./#villa "villa"

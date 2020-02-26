@@ -2,11 +2,11 @@
 title: ディオティマによる愛
 slug: "page:1"
 created: 28-07-2018, 10:27
-date: 10-12-2019, 18:16
-modified: 12-02-2020, 11:41
+date: 12-02-2020, 11:41
+modified: 21-02-2020, 18:57
 visible: false
 routable: false
-base64_itembackground: explosive-suns
+base64_itembackground: upsidesphere
 taxonomy:
     category: [diotime, ja]
 shortcode-core:

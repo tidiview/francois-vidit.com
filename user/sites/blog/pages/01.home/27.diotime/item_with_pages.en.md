@@ -2,11 +2,11 @@
 title: Love according to Diotime
 menu: Eros
 created: 28-07-2018, 10:25
-date: 28-07-2018, 10:25
-modified: 28-07-2018, 10:25
-base64_background: troisbarres
-base64_itembackground: traditionalwomanclothing
-svg_icon: goldenassdonkey
+date: 11-02-2020, 18:41
+modified: 21-02-2020, 18:58
+base64_background: moucharabieh2
+base64_itembackground: upsidesphere
+svg_icon: lips
 itempage: Blogposting
 taxonomy:
     category: [blog, en]

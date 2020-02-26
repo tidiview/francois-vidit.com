@@ -2,11 +2,11 @@
 title: Love according to Diotime
 slug: "page:1"
 created: 28-07-2018, 10:33
-date: 10-12-2018, 12:36
-modified: 12-02-2020, 16:40
+date: 12-02-2020, 16:40
+modified: 21-02-2020, 18:57
 visible: false
 routable: false
-base64_itembackground: explosive-suns
+base64_itembackground: upsidesphere
 taxonomy:
     category: [diotime, en]
 shortcode-core:
