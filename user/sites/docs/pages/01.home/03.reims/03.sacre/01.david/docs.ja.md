@@ -1,7 +1,6 @@
 ---
-title: レミ族
-menu: レミ族
-template: docs_minus_h1
+title: 王になるために油を注がれたダビデあるいは<br>恵みによって王となること
+menu: ダビデ
 created: 21-10-2017, 17:27
 date: 08-09-2018, 21:37
 modified: 26-11-2018, 20:14
