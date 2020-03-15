@@ -43,13 +43,13 @@ sitemap:
 
 ## Introduction
 
-### Qu'est-ce que le Grand Étude des Femmes ? {#renvoi_takarabako}
+### Qu'est-ce que la Grande Étude des Femmes ? {#renvoi_takarabako}
 
 Pratiquement, cela renvoit au titre d'un manuel d'éducation publié en 1716 (année inaugurale de l'ère {r=fr/ja}Kiō(享)ho(保){/r}) en collaboration par {r=fr/ja}Kashi(柏)wara(原)Kiyo(清)u(右)e(衛)mon(門){/r} d'Osaka et {r=fr/ja}O(小)gawa(川)Hiko(彦)ku(九)rō(郎){/r} d'Édo.  
 
 La plus ancienne édition originale s'intitutle «[{r=fr/ja}Onna(女)daï(大)gaku(学)Takara(宝)bako(箱){/r}][9]» soit Trésor de la Grande Étude des femmes.   
 
-C'est un manuel pour femmes très apprécié du milieu de l'époque d'Édo à l'éposue Meïji.  
+C'est un manuel pour femmes très apprécié du milieu de l'époque d'Édo à l'époque Meïji.  
 
 Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agit en temps que femme, du soutien à son mari et sa maison, sur la base d'une vision essentialisante qui tend à la «[Voie de la femme][7]{#note_onnanomichi}», d'aborder bien des domaines, tels la piété filiale vis-à-vis de ses parents, beau-frère, belle-sœur, les tâches ménagères, lessive, couture et autres, aux fiançailles, au mariage, aux naissances, à l'éducation des enfants, voire même aux entraînements par exemple de Shamisen ou encore de l'apparence vestimentaire.
 
