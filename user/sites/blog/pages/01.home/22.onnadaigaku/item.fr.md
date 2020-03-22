@@ -1,5 +1,5 @@
 ---
-title: La Grande Étude des Femmes
+title: la Grande Étude des Femmes
 menu: Onna Daïgakou
 slug: onnadaigaku
 created: 25-10-2019, 13:31
@@ -21,8 +21,8 @@ breadcrumbs:
 simplesearch:
     enabled: false
 metadata:
-    description: "Présentation et commentaire du texte «le trésor de la Grande Étude des Femmes» paru en 1716 représentatif du mouvement dit de «la Grande Étude des Femmes» et écrit par KAÏBARA Ekiken, philosophe néo-confuscianiste de l'époque d'Édo, et dans lequel il dresse avec force l'état d'esprit qui sied à la «Voie de la Femme»."
-    keywords: "néo-confuscianisme de l'époque d'Édo, La Grande Étude des Femmes, Onna Daïgakou, KAÏBARA Ekiken, le trésor de la Grande Étude des Femmes, Onna Daïgakou takarabako"
+    description: "Présentation et commentaire du texte “le trésor de la Grande Étude des Femmes” paru en 1716 représentatif du mouvement dit de “Grande Étude des Femmes” et écrit par Ekiken KAÏBARA, philosophe néo-confuscianiste de l'époque d'Édo, et dans lequel il dresse avec force l'état d'esprit qui sied à la «Voie de la Femme»."
+    keywords: "néo-confuscianisme de l'époque d'Édo, La Grande Étude des Femmes, Onna Daïgakou, Ékiken KAÏBARA, le trésor de la Grande Étude des Femmes, Onna Daïgakou takarabako"
     image: onnadaigaku_700x550.jpg
     image_width: 700
     image_height: 550
@@ -30,54 +30,55 @@ metadata:
     image_legend: Texte «la Grande Étude des Femmes» (Onna Daïgakou) dit aussi «Voie de la Femme».
     'twitter:card' : summary
 significantlinks: ["https://ja.wikipedia.org/wiki/貝原益軒", "https://ja.wikipedia.org/wiki/和俗童子訓", "https://ja.wikipedia.org/wiki/七去", "https://ja.wikipedia.org/wiki/女大学"]
-specialty: ["江戸儒教", "女大学", "貝原益軒", "女大学宝箱"]
+specialty: ["néo-confuscianisme de l'époque d'Édo", "Grande Étude des Femmes", "Ékiken KAÏBARA", "Trésor de la Grande Étude des Femmes"]
 shortcode-core:
     active: true
 sitemap:
     changefreq: weekly
     priority: 0.4
 ---
-! Ce que nous appelons aujourd'hui Onna Daïgakou (transcription française) (transcription anglaise: Onna Daigaku) soit littéralement «Grande Étude des Femmes» c'est le texte principal de ce manuel.  
+! Ce que nous appelons aujourd'hui “Onna Daïgakou” (translittération française de la prononciation japonaise; transcription anglaise: Onna Daïgaku) soit littéralement «Grande Étude des Femmes», est le texte principal d'un manuel d'éducation.  
 
 ===
 
 ## Introduction
 
-### Qu'est-ce que la Grande Étude des Femmes ? {#renvoi_takarabako}
+### Qu'est-ce que la “Grande Étude des Femmes” ? {#renvoi_takarabako}
 
-Pratiquement, cela renvoit au titre d'un manuel d'éducation publié en 1716 (année inaugurale de l'ère {r=fr/ja}Kiō(享)ho(保){/r}) en collaboration par {r=fr/ja}Kashi(柏)wara(原)Kiyo(清)u(右)e(衛)mon(門){/r} d'Osaka et {r=fr/ja}O(小)gawa(川)Hiko(彦)ku(九)rō(郎){/r} d'Édo.  
+Pratiquement, cela renvoit au titre d'un manuel d'éducation publié en 1716 (année inaugurale de l'ère {r=fr/ja}Kiō(享)ho(保){/r}) en collaboration par deux maisons d'édition, celle de {r=fr/ja}Kashi(柏)wara(原)Kiyo(清)u(右)e(衛)mon(門){/r} à Osaka et d'{r=fr/ja}O(小)gawa(川)Hiko(彦)ku(九)rō(郎){/r} à Édo (ancien nom de Tōkiō.  
 
-La plus ancienne édition originale s'intitutle «[{r=fr/ja}Onna(女)daï(大)gaku(学)Takara(宝)bako(箱){/r}][9]» soit Trésor de la Grande Étude des femmes.   
+La plus ancienne édition originale s'intitutle “[{r=fr/ja}Onna(女)daï(大)gaku(学)Takara(宝)bako(箱){/r}][9]” soit littéralement “Trésor de la Grande Étude des femmes”.   
 
-C'est un manuel pour femmes très apprécié du milieu de l'époque d'Édo à l'époque Meïji.  
+Présenté dans la présentation de l'édition japonaise comme un manuel pour femmes «très apprécié» du milieu de l'époque d'Édo à l'époque Meïji, le contenu assigne à la femme une fonction essentialisante subordonnée à la maison de son mari.  
 
-Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agit en temps que femme, du soutien à son mari et sa maison, sur la base d'une vision essentialisante qui tend à la «[Voie de la femme][7]{#note_onnanomichi}», d'aborder bien des domaines, tels la piété filiale vis-à-vis de ses parents, beau-frère, belle-sœur, les tâches ménagères, lessive, couture et autres, aux fiançailles, au mariage, aux naissances, à l'éducation des enfants, voire même aux entraînements par exemple de Shamisen ou encore de l'apparence vestimentaire.
+La personne femme se doit de réaliser la «[Voie de la femme][7]{#note_onnanomichi}», c'est-à-dire de s'efforcer de devenir un soutien non seulement à son mari mais aussi de sa maison, dans bien des domaines concrets de la vie quotidienne tels la piété filiale vis-à-vis de ses parents, beau-frère, belle-sœur, les tâches ménagères, lessive, couture et autres, les fiançailles, le mariage, les naissances, l'éducation des enfants, voire même aux entraînements par exemple de shamisen ou encore de l'apparence vestimentaire.
 
-### L'auteur et l'histoire
+### L'auteur, son histoire
 
-[{r}貝(カイ)原(バラ)益(エキ)軒(ケン){/r}][1]の「[{r}和(わ)俗(ぞく)童(どう)子(じ)訓(くん){/r}][2] 」のなかの第五巻「教女子法」に依拠するが、著者を[益軒][1]とする確証はありません。 
+L'extrait présenté ici provient du Vème tome, “Méthode d'éducation des petites filles”, du “Manuel d'éducation des enfants à la japonaise”, œuvre attribué à [{r=fr/ja}Eki(益)Ken(軒)KAÏ(貝)BARA(原){/r}][1]mais dont il n'y a pas de preuve que cela soit le cas. 
 
-『女大学宝箱』だけでも明治初年までに11版を重ねましたが、18世紀後半以降になると、挿絵や頭書きを改めて「女大学」を冠した多様な改定本、『女大学{r}教(おしえ)文(ぶん)庫(こ){/r}』、『女大学{r}操(みさお)鑑(かがみ){/r}』といった類が数多く刊行されました。  
+Le “Trésor de la Grande Étude des femmes” a rien que pour l'année inaugurale de l'ère Meïji été l'objet de 11 réimpressions, mais après la seconde moitié du XVIIème siècle, il a fait l'objet de diverses rééditions augmentées d'illustrations, de commentaires couronnant l' “Étude des femmes” comme par exemple “Précis de l'étude des femmes” “Reflet virginal de l'étude des femmes”.  
 
-[貝原益軒][1]著「女子を{r}教(おし){/r}ゆる法」、そのなかでも第十条（[{r}七(しち)去(きょ){/r}の法][4]）・第十六条（嫁する娘に親が説き聞かすべき十三ヵ条）を下敷きにして、婦徳を中心に十九ヵ条の教訓文にしたてている点に特徴がみられる。  
+La “Méthode d'éducation des petites filles” de Ekiken KAÏBARA la ([les Sept causes de divorce][4])()
+そのなかでも第十条（七去の法）・第十六条（嫁する娘に親が説き聞かすべき十三ヵ条）を下敷きにして、婦徳を中心に十九ヵ条の教訓文にしたてている点に特徴がみられる。  
 
-結果として、「{r}女(にょ)子(し){/r}を{r}教(おし){/r}ゆる法」、に採られていた男女の価値平等観は捨象され、斉家と婦人自身の保全を目的とし、女性の心得を家庭生活内に限定して説き、具体的な作法や躾、技能や教養におよばず、もっぱら心がまえを力説したものとなっている。  
+結果として、「女(にょ)子(し)を教(おし)ゆる法」、に採られていた男女の価値平等観は捨象され、斉家と婦人自身の保全を目的とし、女性の心得を家庭生活内に限定して説き、具体的な作法や躾、技能や教養におよばず、もっぱら心がまえを力説したものとなっている。  
 
 ### Qu'est-ce que la «Voie de la Femme» {#onnanomichi}
 
-「 [{r}女(おんな){/r}の{r}道(みち){/r}][8] 」、「夫に仕ふる道」のこと。{r}婦(ふ)人(じん){/r}の道ともいう。いわゆる、夫に従う道であり、  
+La [«Voie de la femme»][8] est la “voie pour servir son mari”. On parle aussi de voie de l'épouse. C'est-à-dire la voie de soumission au mari:  
 
-: 「一度嫁いりしては、其の家を出でざるを女の道とすること、{r}古(いにしえ){/r}聖人の{r}訓(おし){/r}えなり、{r}若(も){/r}し女の道にそむき、去らるる時は、一生の恥なり」  
+: «一度嫁いりしては、其の家を出でざるを女の道とすること、古(いにしえ)聖人の訓(おし)えなり、若(も)し女の道にそむき、去らるる時は、一生の恥なり»  
 
-（『<a href="#takarabako" alt="女大学宝箱"><ruby><rb>女大学宝箱</rb><rt>オンナダイガクタカラバコ</rt></ruby></a>』）、  
+(“<a href="#takarabako" alt="女大学宝箱">Trésor de la Grande Étude des femmes</a>”)  
 
-: 「{r}都(すべ){/r}て婦人の道は{r}和(やわ){/r}らぎ従うにあり、夫に対するに顔色、言葉づかい、{r}慇(いん)懃(ぎん){/r}に{r}謙(へりくだ){/r}り{r}遜譲(ゆずる){/r}べし、{r}不忍(しのばず){/r}して不順なるべからず、{r}奢(おご){/r}り{r}驕(たかぶ){/r}りて無礼なるべからず、是れ女子の第一なる努めなり」  
+: «都(すべ)て婦人の道は和(やわ)らぎ従うにあり、夫に対するに顔色、言葉づかい、慇(いん)懃(ぎん)に謙(へりくだ)り遜譲(ゆずる)べし、不忍(しのばず)して不順なるべからず、奢(おご)り驕(たかぶ)りて無礼なるべからず、是れ女子の第一なる努めなり»  
 
-（『<a href="http://dl.ndl.go.jp/info:ndljp/pid/754900" alt="新撰増補女子大学"><ruby><rb>新</rb><rt>シン</rt><rb>撰</rb><rt>セン</rt><rb>増</rb><rt>ゾウ</rt><rb>補</rb><rt>ホ</rt><rb>女子</rb><rt>オンナ</rt><rb>大</rb><rt>ダイ</rt><rb>学</rb><rt>ガク</rt></ruby></a>』）と記されているように、女＝婦人は、結婚した女性をさしている。  
+(«<a href="http://dl.ndl.go.jp/info:ndljp/pid/754900" alt="新撰増補女子大学">新撰増補女子大学</a>»)と記されているように、女＝婦人は、結婚した女性をさしている。  
 
 それ故に、 
 
-: 「{r}貞(てい)操(そう){/r}は女の道の第一なり」 
+: 「貞(てい)操(そう){/r}は女の道の第一なり」 
 
 として、
 「貞操」を守ることが第一とされた。  
@@ -88,39 +89,39 @@ Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agi
 
 だから、{r}貞(てい)操(そう)・()貞節(ていせつ){/r}でない女性は「夫に仕える道」すなわち「女の道」を踏み外したものであり、「{r}不(ふ)貞(てい)者(しゃ){/r}」として批判された。  
 
-いずれにしても家制度保持のためのものであり、「女の道」は一方的に女性に課せられたくびきであった。  
+いずれにしても家制度保持のためのものであり、「Voie de la femme」は一方的に女性に課せられたくびきであった。  
 
-一夫一妻の枠組みのなかで、「貞操」を守らなくてはならないのは**女のみ**であり、男には適応されなかったのが江戸時代であった。  
-したがって「女の道」から外れた「不貞」は**女にだけ適応する言葉**である。   
+一夫一妻の枠組みのなかで、「貞操」を守らなくてはならないのは**女のみ**であり、男には適応されなかったのがépoque d'Édoであった。  
+したがって「Voie de la femme」から外れた「不貞」は**女にだけ適応する言葉**である。   
 
 ## le Takarabako ou Trésor de la Grande Étude des Femmes {#takarabako}
 
-<a href="#renvoi_takarabako" alt="女大学とは？">女大学とは？ ↑</a>
+<a href="#renvoi_takarabako" alt="女大学とは？">Qu'est que la Grande Étude des Femmes? ↑</a>
 
 ### Sommaire  
 
 <div id="translation-text-rousi" markdown="1">
 |   | <span hidden>hidden</span> |
 | - | -------------------------- |
-| 1 | <a href="#1" id="renvoi_1">女児はひとえに親のおしえひとつで育つものである。&#11107;</a> |
-| 2 | <a href="#2" id="renvoi_2">女は{r}容(かたち){/r}より心の勝っているのがよろしい。&#11107;</a> |
-| 3 | <a href="#3" id="renvoi_3">男女の別を正しくして、女子は独自の徳を身につけなければいけない。&#11107;</a> |
-| 4 | <a href="#4" id="renvoi_4">女性にとって本来の家は婚家。<br>七去の法。&#11107;</a> |
-| 5 | <a href="#5" id="renvoi_5">生家の親より、しゅうと・しゅうとめに孝養をつくすべきである。&#11107;</a> |
-| 6 | <a href="#6" id="renvoi_6">婦人は夫を主君としてつかえねばならない。&#11107;</a> |
-| 7 | <a href="#7" id="renvoi_7">{r}兄公(こじゅうと){/r}・{r}女公(こじゅうとめ){/r}を敬いむつかじくすべきである。&#11107;</a> |
-| 8 | <a href="#8" id="renvoi_8">嫉妬の心をおこしてはならない。<br>夫にたいするいさめかた。&#11107;</a> |
-| 9 | <a href="#9" id="renvoi_9">{r}言語(ことば){/r}のつつしみ。&#11107;</a> |
-| 10 | <a href="#10" id="renvoi_10">日常の生活での行為のしかた。&#11107;</a> |
+| 1 | <a href="#1" id="renvoi_1">l'enfant 女児はひとえに親のおしえひとつで育つものである。 &#11107;</a> |
+| 2 | <a href="#2" id="renvoi_2">il vaut mieux que la femme se surpasse du cœur que de l'apparence. &#11107;</a> |
+| 3 | <a href="#3" id="renvoi_3">la jeune fille doit apprendre sa propre vertu. &#11107;</a> |
+| 4 | <a href="#4" id="renvoi_4">Pour la femme, son vrai foyer est son foyer marital. <br>七去の法。&#11107;</a> |
+| 5 | <a href="#5" id="renvoi_5">Plus que ces parents naturels, doit accomplir sa piété filiale vis-à-vis de son beau-père belle-mère &#11107;</a> |
+| 6 | <a href="#6" id="renvoi_6">La femme doit servir son mari comme son souverain. &#11107;</a> |
+| 7 | <a href="#7" id="renvoi_7">Beau frère belle sœur {r}兄公(こじゅうと){/r}・{r}女公(こじゅうとめ){/r}を敬いむつかじくすべきである。&#11107;</a> |
+| 8 | <a href="#8" id="renvoi_8">il ne faut pas susciter de rancœur.<br>Manière de remontrer son mari. &#11107;</a> |
+| 9 | <a href="#9" id="renvoi_9">se montrer très précautionneux de ses mots. &#11107;</a> |
+| 10 | <a href="#10" id="renvoi_10">Méthode de savoir vivre pour la vie ordinaire. &#11107;</a> |
 | 11 | <a href="#11" id="renvoi_11">{r}巫(みこ){/r}・ {r}覡(かんなぎ){/r}に迷ってはならない。&#11107;</a> |
-| 12 | <a href="#12" id="renvoi_12">妻はその家の分限に従って経営しなければならない。&#11107;</a> |
-| 13 | <a href="#13" id="renvoi_13">女は、若いとき、男性に近づいてはならない。&#11107;</a> |
-| 14 | <a href="#14" id="renvoi_14">衣裳を清潔に保つべし。&#11107;</a> |
+| 12 | <a href="#12" id="renvoi_12">la femme doit administrer selon la richesse de cette maison. &#11107;</a> |
+| 13 | <a href="#13" id="renvoi_13">La femme, étant jeune, ne doit pas s'approcher des hommes. &#11107;</a> |
+| 14 | <a href="#14" id="renvoi_14">Il faut conserver la propreté des tenues vestimentaires. &#11107;</a> |
 | 15 | <a href="#15" id="renvoi_15">夫の方の親類を大切にあつかえ。&#11107;</a> |
-| 16 | <a href="#16" id="renvoi_16">しゅうと・しゅうとめに、生家の親よりもあつくつかえよ。&#11107;</a> |
-| 17 | <a href="#17" id="renvoi_17">妻が家の中で務むべき仕事。&#11107;</a> |
-| 18 | <a href="#18" id="renvoi_18">下女のあつかいかた。&#11107;</a> |
-| 19 | <a href="#19" id="renvoi_19">女の心ざま悪しき五種の病気。<br>従順の徳をかたく身につけよ。&#11107;</a> |
+| 16 | <a href="#16" id="renvoi_16">Servons plus intensément beau père belle mère que ses propres parents. &#11107;</a> |
+| 17 | <a href="#17" id="renvoi_17">Tâches auxquelles doit s'ateler l'épouse dans la maison. &#11107;</a> |
+| 18 | <a href="#18" id="renvoi_18">Manière de diriger les servantes. &#11107;</a> |
+| 19 | <a href="#19" id="renvoi_19">Mal de cœur 女の心ざま悪しき5 sortes de maladies.<br>従順の徳をかたく身につけよ。&#11107;</a> |
 </div>
 
 <hr>
@@ -153,7 +154,7 @@ Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agi
 | <span id="4">4</span> | Une femme doit faire sa maison de la maison de son époux; c'est pourquoi, en Chine, on ne dit pas «aller», mais «revenir» chez son époux; ce qui signifie qu'elle rentre dans sa propre maison. |
 |    |Si la maison de son époux est humble et pauvre, qu'elle ne lui en veuille pas, mais qu'elle pense: |
 |    | «la pauvreté de la maison qui m'a été donnée par le Ciel vient de ce que j'ai une mauvaise fortune»; qu'une fois mariée, elle ne quitte jamais cette maison, voilà la Voie des femmes: ainsi disait le Sage de jadis (3. Confucius.). |
-|    | Si elle s'écarte de cette Voie des femmes et si elle est chassée, sa honte dure toute la vie. A cet égard, il y a pour les femmes sept mauvaises choses,<sup><a id="renvoi_4_note_ 1" href="#4_note_1">（注一）</a></sup> qu'on appelle les Sept causes de divorce (4. Nanatsou-sarou). |
+|    | Si elle s'écarte de cette Voie des femmes et si elle est chassée, sa honte dure toute la vie. À cet égard, il y a pour les femmes sept mauvaises choses,<sup><a id="renvoi_4_note_ 1" href="#4_note_1">(note 1)</a></sup> qu'on appelle les Sept causes de divorce (4. Nanatsou-sarou). |
 |    | 　1° Doit être répudiée, la femme qui désobéit à ses beaux-parents. |
 |    | 　2° Doit être répudiée, la femme qui n'a pas d'enfants. |
 |    | 　　(Car on prend une femme pour avoir des fils et des petits-fils. Toutefois, si cette femme a le cœur droit, une bonne conduite, pas de jalousie, il n'y a pas lieu de la renvoyer: on n'a qu'à adopter un enfant de la même famille; ou encore, si on a un enfant d'une concubine, on ne renverra pas la femme sans enfants.) |
@@ -207,8 +208,7 @@ Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agi
 |    |qu'elle ne voie ni n'entende de choses frivoles telles que le théâtre (Shibaï), les chants japonais (outa) et les récitations dramatiques (jōrouri). |
 |    | Qu'elle n'aille pas souvent aux endroits où il y a beaucoup de monde, comme les temples shinntoïstes et les temples bouddhiques, avant d'avoir atteint quarante ans. <a href="#renvoi_10">↑</a> |
 |   |  <hr>  |
-| <span id="11">11</span> |{r}巫(みこ){/r}・{r}覡(かんなぎ){/r}などのことに迷いて、{r}神(かみ)仏(ほとけ){/r}を{r}汚(けが){/r}し近付き、猥にいのるべからず。 |
-|    |Ne vous laissez pas séduire aux choses des devineresses, sorcières et autres, ne blasphémez pas contre les dieux et les bouddhas, ne priez pas avec irrévérence.Pourvu que vous remplissiez bien le devoir humain, dieux et bouddhas vous protégeront, même si vous ne les priez pas (2. C'est, en effet, une vieille maxime, au Japon, que «les dieux siègent dans le cœur de l'homme». On trouve cette parole fameuse dans un poème qui nous est donné comme ayant ete revêle en songe à l'empereur Séiwa (859-876); mais le savant sinologue H.-A. Giles fait remarquer qu'elle existe aussi dans les vers d'un philosophe chinois mort en 1077, et comme les «Analectes japonais» (Wa Ronngo) qui nous ont transmis cet oracle datent seulement du temps de l'empereur Go-Toba (1184-1198), on en peut conclure qu'ici l'inspiration fut plutôt d'origine continentale. Il n'en reste pas moins que cette pensée devait retentir dans toute la philosophie japonaise, qui ramena peu à peu la religion à l'unique loi de la conscience (1. On voit bien par là l'idée maîtresse de cette philosophie à la chinoise, L'homme doit vivre en harmonie avec l’univers: loin de vouloir échapper au monde, comme ferait un bouddhiste, il doit remplir fidèlement la destinée qu'il a reçue du Ciel; sa conscience suffit à le diriger dans cette Voie. C’est en la suivant qu'il trouve, tout naturellement, le bonheur qu’une loi divine unit à l'observance du devoir.)) <a href="#renvoi_11">↑</a> |
+| <span id="11">11</span> | Ne vous laissez pas séduire aux choses des devineresses, sorcières et autres, ne blasphémez pas contre les dieux et les bouddhas, ne priez pas avec irrévérence.Pourvu que vous remplissiez bien le devoir humain, dieux et bouddhas vous protégeront, même si vous ne les priez pas (2. C'est, en effet, une vieille maxime, au Japon, que «les dieux siègent dans le cœur de l'homme». On trouve cette parole fameuse dans un poème qui nous est donné comme ayant ete revêle en songe à l'empereur Séiwa (859-876); mais le savant sinologue H.-A. Giles fait remarquer qu'elle existe aussi dans les vers d'un philosophe chinois mort en 1077, et comme les «Analectes japonais» (Wa Ronngo) qui nous ont transmis cet oracle datent seulement du temps de l'empereur Go-Toba (1184-1198), on en peut conclure qu'ici l'inspiration fut plutôt d'origine continentale. Il n'en reste pas moins que cette pensée devait retentir dans toute la philosophie japonaise, qui ramena peu à peu la religion à l'unique loi de la conscience (1. On voit bien par là l'idée maîtresse de cette philosophie à la chinoise, L'homme doit vivre en harmonie avec l’univers: loin de vouloir échapper au monde, comme ferait un bouddhiste, il doit remplir fidèlement la destinée qu'il a reçue du Ciel; sa conscience suffit à le diriger dans cette Voie. C’est en la suivant qu'il trouve, tout naturellement, le bonheur qu’une loi divine unit à l'observance du devoir.)) <a href="#renvoi_11">↑</a> |
 |   |  <hr>  |
 | <span id="12">12</span> | Devenue l'épouse d'un homme, gardez bien sa maison. Si la conduite d'une femme est mauvaise et dissolue, elle brise la maison. En toutes choses, soyez économe et ne faites point de dépenses inutiles. |
 |    | Pour le vêtement, la boisson, la nourriture, faites suivant votre fortune, et ne vous laissez jamais aller au luxe. <a href="#renvoi_12">↑</a> |
@@ -265,20 +265,20 @@ Cependant, pour en venir au contenu de la «Grande Étude des Femmes», il s'agi
 |   |   |
 |   |   |
 |   |   |
-|   | **益軒貝原先生述** |
-|   | 享保元丙申八月吉日 |
+|   | **Propos de maître Ekiken KAÏBARA** |
+|   | Année inaugurale de l'ère Kiōho mois du singe de feu jour faste |
 |   |   |
 |   |  <hr>  |
-|   | 江戸日本橋南一丁目 |
-|   | **小川 彦九郎** |
+|   | Édo nihonbashi-minami 1 chō-me |
+|   | **OGAWA Hikokurō** |
 |   |   |
-|   | 書林 |
-|   | 大坂心斎橋順慶町|
-|   | **柏原清右衛門** |
+|   | Maison d'édition |
+|   | Ōsaka Shinsaïbashi Jyungueïmachi |
+|   | **KASHIWARA Kyōsaemon** |
 |   |  <hr>  |
 </div>
 
-#### 註釈
+#### Notes
 
 <div id="translation-text-rousi" markdown="1">
 |   | <span hidden>hidden</span> |

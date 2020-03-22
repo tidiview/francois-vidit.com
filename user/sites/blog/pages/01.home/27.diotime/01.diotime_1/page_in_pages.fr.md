@@ -15,7 +15,7 @@ sitemap:
    changefreq: monthly
    priority: 0.9
 ---
-!!! Dans "le Banquet" de Platon, quelques personnes assemblées à l'occasion d'une fête mondaine, échangent leurs vues sur le sens de l'{r=fr/grc}amour(Érôs){/r}.  
+!!! Dans “le Banquet” de Platon, quelques personnes assemblées à l'occasion d'une fête mondaine, échangent leurs vues sur le sens de l'{r=fr/grc}amour(Érôs){/r}.  
 !!! C'est là que [Socrate][6]{#socrate} déclare qu'étant jeune, la "philosophie de l'Amour" lui fut enseigné par [Diotime][5]{#diotime}, prétresse et prophète.  
 !!! Ci-dessous, Socrate pose plusieurs questions à Diotime à propos de l'amour.
 
