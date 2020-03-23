@@ -2,8 +2,8 @@
 title: ディオティマによる愛
 menu: エロス
 created: 08-02-2020, 18:41
-date: 11-02-2020, 18:41
-modified: 21-02-2020, 18:58
+date: 21-02-2020, 18:58
+modified: 23-03-2020, 12:22
 base64_background: moucharabieh2
 base64_itembackground: upsidesphere
 svg_icon: lips
