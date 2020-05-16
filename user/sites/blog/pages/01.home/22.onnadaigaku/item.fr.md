@@ -68,7 +68,7 @@ La “Méthode d'éducation des petites filles” de Ekiken KAÏBARA la ([les Se
 
 La [«Voie de la femme»][8] est la “voie pour servir son mari”. On parle aussi de voie de l'épouse. C'est-à-dire la voie de soumission au mari:  
 
-: «一度嫁いりしては、其の家を出でざるを女の道とすること、古(いにしえ)聖人の訓(おし)えなり、若(も)し女の道にそむき、去らるる時は、一生の恥なり»  
+: «une fois mariée, e, c'est le déshonneur d'une vie. 一度嫁いりしては、其の家を出でざるを女の道とすること、古(いにしえ)聖人の訓(おし)えなり、若(も)し女の道にそむき、去らるる時は、一生の恥なり»  
 
 (“<a href="#takarabako" alt="女大学宝箱">Trésor de la Grande Étude des femmes</a>”)  
 
