@@ -82,6 +82,12 @@ webserver-configs/*
 xampp/*
 proper-settings-ovh/*
 essai/*
+i18next-sanity/*
+i20-i18next-sanity/*
+i30-i18next-sanity/*
+izzzzz-i18next/*
+francois-vidit-2.com/*
+sanity-plus-gatsby/*
 
 user/accounts/*
 user/config/*
@@ -163,3 +169,5 @@ user/sites/docs/pages/01.home/03.reims/02.saint-remi/01.saint-remi_1/note_remi.f
 user/sites/docs/pages/01.home/03.reims/02.saint-remi/01.saint-remi_1/note_remi.fr-old.md
 user/sites/docs/pages/01.home/03.reims/02.saint-remi/01.saint-remi_1/note_remi.fr-old.md
 user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/02.prado/NOTES-PRADO.md
+*.js
+node_modules
