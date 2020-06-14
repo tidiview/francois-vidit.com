@@ -1,0 +1,14 @@
+/dist
+/node_modules
+wrangler.toml
+workers-site
+francois-vidit-2-10.com-svelte-vercel/
+francois-vidit-2-12.com-sapper-vercel-webpack/
+francois-vidit-2-4.com-svelte/svelte/
+francois-vidit-2-6-strapi-sapper/
+francois-vidit-2-8.com-sapper-sanity/
+francois-vidit-2-9.com-strapi-starter-minimal-sapper-blog/
+src/pages/about/index.svelte
+src/pages/index.svelte
+yarn-error.log
+build/index.html
