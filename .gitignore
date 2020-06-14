@@ -82,11 +82,19 @@ webserver-configs/*
 xampp/*
 proper-settings-ovh/*
 essai/*
-i18next-sanity/*
-i20-i18next-sanity/*
-i30-i18next-sanity/*
-izzzzz-i18next/*
 francois-vidit-2.com/*
+francois-vidit-2-2.com/*
+francois-vidit-2-3.com/*
+francois-vidit-2-4.com/*
+francois-vidit-2-5com-sapper/*
+francois-vidit-2-6.com-strapi-sapper/*
+francois-vidit-2-7.com-svelte-router/*
+francois-vidit-2-8.com-sapper-sanity/*
+francois-vidit-2-9.com-strapi-starter-minimal-sapper-blog/*
+francois-vidit-2-10.com-routify/*
+francois-vidit-2-11.com-svelte-routify/*
+francois-vidit-2-12.com-svatic/*
+francois-vidit-2-13.com-sapper-vercel-rollup/*
 sanity-plus-gatsby/*
 
 user/accounts/*
@@ -171,3 +179,5 @@ user/sites/docs/pages/01.home/03.reims/02.saint-remi/01.saint-remi_1/note_remi.f
 user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/02.prado/NOTES-PRADO.md
 *.js
 node_modules
+.gitignore
+yarn.lock
