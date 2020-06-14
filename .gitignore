@@ -181,3 +181,16 @@ user/sites/docs/pages/01.home/01.paris/01.louvre/01.la-joconde/02.prado/NOTES-PR
 node_modules
 .gitignore
 yarn.lock
+build/index.html
+francois-vidit-2-10.com-svelte-vercel/
+francois-vidit-2-12.com-sapper-vercel-webpack/
+francois-vidit-2-4.com-svelte/svelte/
+francois-vidit-2-6-strapi-sapper/
+francois-vidit-2-8.com-sapper-sanity/
+francois-vidit-2-9.com-strapi-starter-minimal-sapper-blog/
+src/pages/about/index.svelte
+src/pages/index.svelte
+user/sites/blog/pages/01.home/32.education-des-femmes/item.en.md
+user/sites/blog/pages/01.home/32.education-des-femmes/item.fr.md
+user/sites/blog/pages/01.home/32.education-des-femmes/item.ja.md
+yarn-error.log
